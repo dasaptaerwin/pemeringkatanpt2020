@@ -1,4 +1,15 @@
-# Data pemeringkatan Perguruan Tinggi 2020
+# DATA MAKALAH YANG ADA DALAM DAFTAR SCOPUS TAUN 2019
+
+Data yang tersedia berasal dari perguruan tinggi sbb (urut abjad):
+
+- IPB
+- ITB
+- UGM
+- UI
+- UNAIR
+- TEL-U
+
+Saya mengundang ibu dan bapak untuk mengekstrak data sejenis dari perguruan tinggi masing-masing.
 
 ## UNTUK MENJADI PERHATIAN
 
