@@ -1,5 +1,13 @@
 # Data pemeringkatan Perguruan Tinggi 2020
 
+## UNTUK MENJADI PERHATIAN
+
+Data dan visualisasi yang ibu dan bapak lihat di sini bersifat sempit, jadi pasti tidak akan menggambarkan kondisi yang sebenarnya, karena data diambil hanya dari basis data scopus artinya hanya akan menampilkan informasi yang:
+
+- dipublikasi dalam format makalah
+- terbit sebagai makalah di jurnal yang ada dalam daftar scopus
+- terbit sebagai makalah yang ditulis dalam Bahasa Inggris
+
 ## Perangkat keras dan perangkat lunak yang dibutuhkan
 
 Untuk dapat memanfaatkan repositori ini secara optimum, ibu dan bapak memerlukan:
