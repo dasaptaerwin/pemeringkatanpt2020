@@ -52,19 +52,12 @@ Saya membuat repositori ini adalah untuk:
 - menyemangati ibu dan bapak agar selalu membagikan data/informasi selengkap mungkin dengan dokumentasi selengkap mungkin agar dapat digunakan ulang oleh orang lain.
 
 
-## Struktur folder
+## Struktur folder dan data
 
 - `Root folder`: berisi `readme.md` dan `license.md`. Saat ini, anda sedang membaca dokumen `readme`. Sempatkan untuk membacanya sampai selesai untuk mendapatkan gambarkan isi repositori data ini.
 - `REKAPITULASI`: berisi file `pptx` dan `xls` yang merekapitulasi berbagai data dan visualisasi.
 - `DATASETS`: berisi file data dalam format `csv`, hasil pengunduhan metadata dari scopus.
 - `NETWORK-MAP-VOSVIEWER`: berisi file pptx dan xls yang merekapitulasi berbagai data dan visualisasi.
-
-
-## Struktur data
-
-Struktur data yang ada dalam repositori ini terdiri dari:
-- `xls` file berisi ringkasan data. Terdiri dari `sheet 1 recap` berisi rekapitulasi data jumlah makalah dan `sheet 2 top 10 fields` berisi top 10 bidang riset menurut klasifikasi Scopus.
-- `csv` file berisi daftar metadata makalah yang ada dalam Scopus untuk masing-masing perguruan tinggi.
 
 
 ## Petunjuk penggunaan data
