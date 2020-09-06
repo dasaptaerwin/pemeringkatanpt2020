@@ -1,0 +1,1001 @@
+﻿id	label	x	y	cluster	weight<Links>	weight<Total link strength>	weight<Documents>	weight<Citations>	weight<Norm. citations>	score<Avg. pub. year>	score<Avg. citations>	score<Avg. norm. citations>
+9	"academy of scientific and innovative research (acsir), csir-cgcri campus, kolkata, india"	-0.8549	0.2505	1	6	6	4	6	5.808	2019	1.5	1.452
+22	"advanced membrane technology research centre (amtec), universiti teknologi malaysia, skudai, 81310, malaysia"	-0.5598	-0.6896	22	4	4	1	2	1.936	2019	2	1.936
+23	"advanced membrane technology research centre (amtec), universiti teknologi malaysia, utm, johor bahru, johor 81310, malaysia"	-0.5596	-0.6896	22	4	4	1	2	1.936	2019	2	1.936
+36	"airlangga university, 01 dharmawangsa dalam, surabaya, east java, indonesia"	0.7417	-0.3174	17	3	3	1	5	4.84	2019	5	4.84
+45	"airlangga university, faculty of fisheries and marine, departement of fish health and manajemen aquaculture, surabaya, east java 60115, indonesia"	0.0791	-0.9188	10	2	2	1	3	2.904	2019	3	2.904
+52	"airlangga university, fisheries and marine faculty, fish health and aquaculture management department, surabaya, east java 60115, indonesia"	0.078	-0.9188	10	7	9	1	2	1.936	2019	2	1.936
+57	"airlangga university, surabaya, indonesia"	0.7415	-0.3175	17	7	7	11	9	8.7119	2019	0.8182	0.792
+69	"animal histology laboratory, faculty of science and technology universitas airlangga, kampus c universitas airlangga, surabaya, 60115, indonesia"	0.7134	0.5469	7	8	8	1	18	17.4239	2019	18	17.4239
+70	"animal histology laboratory, faculty of science and technology, universitas airlangga, kampus c universitas airlangga, surabaya, 60115, indonesia"	0.7137	0.5467	7	8	8	1	0	0	2019	0	0
+72	"animal histology laboratory, faculty of science and technology, universitas airlangga, surabaya, 60115, indonesia"	0.7138	0.5463	7	8	8	2	22	21.2958	2019	11	10.6479
+104	"aquatic and hyperbaric medicine academie nationale de medecine, paris, france"	0.2269	-0.8989	16	6	6	1	2	1.936	2019	2	1.936
+105	"aquatic and hyperbaric medicine, academie nationale de medicine, paris, france"	0.227	-0.8988	16	4	4	1	0	0	2019	0	0
+131	"biochemistry biomolecular laboratory, faculty of medicine, universitas brawijaya, malang, indonesia"	0.8849	-0.071	3	10	10	1	10	9.6799	2019	10	9.6799
+147	"biomedical engineering master program, post graduate school, universitas airlangga, surabaya, 60115, indonesia"	0.3999	-0.8307	11	6	6	1	8	7.7439	2019	8	7.7439
+148	"biomedical engineering postgraduate school, universitas airlangga, surabaya, 60115, indonesia"	0.4001	-0.8305	11	7	7	1	0	0	2019	0	0
+151	"biomedical engineering study program, department of physics, faculty of science and technology, universitas airlangga, surabaya, east java, 60115, indonesia"	0.4	-0.8305	11	7	7	1	0	0	2019	0	0
+153	"biomedical engineering study program, department of physics, faculty of sciences and technology, universitas airlangga, surabaya, 60115, indonesia"	0.4003	-0.8306	11	6	6	1	8	7.7439	2019	8	7.7439
+157	"biomedical engineering, department of physics, faculty of science and technology, universitas airlangga, surabaya, 60115, indonesia"	-0.6333	-0.6997	35	2	2	2	6	5.808	2019	3	2.904
+167	"biostatistics and population studies, universitas airlangga, banyuwangi, indonesia"	-0.5374	0.7602	20	3	3	1	4	3.872	2019	4	3.872
+177	"brawijaya cardiovascular research center, faculty of medicine, universitas brawijaya, malang, 65145, indonesia"	0.5266	0.7523	18	7	13	2	3	2.904	2019	1.5	1.452
+179	"brawijaya university, agriculture faculty, agroecotechnology department, malang, east java 65145, indonesia"	0.078	-0.9187	10	7	9	1	2	1.936	2019	2	1.936
+180	"brawijaya university, fisheries and marine science faculty, aquatic resources management department, veteran malangeast java 65145, indonesia"	0.078	-0.9188	10	7	9	1	2	1.936	2019	2	1.936
+181	"brawijaya university, fisheries and marine science faculty, fisheries and marine resources utilization department, malang, east java 65145, indonesia"	0.0779	-0.9187	10	7	9	1	2	1.936	2019	2	1.936
+202	"center for infectious diseases, kobe university graduate school of medicine, kobe, japan"	-0.1647	-0.9191	27	4	4	3	11	10.6479	2019	3.6667	3.5493
+203	"center for infectious diseases, kobe university, graduate school of medicine, kobe, japan"	-0.1646	-0.9192	27	5	5	1	3	2.904	2019	3	2.904
+204	"center for medicines information and pharmaceutical care, faculty of pharmacy, universitas surabaya, surabaya, indonesia"	0.5441	-0.7391	8	14	22	2	5	4.84	2019	2.5	2.42
+226	"centre for exercise, nutrition, and health sciences, school for policy studies, university of bristol, 8 priory road, bristol, bs8 1tz, united kingdom"	-0.4005	-0.6532	14	6	6	1	0	0	2019	0	0
+232	"centre for population health, (ceph), department of paediatrics, social and preventive medicine, faculty of medicine, university of malaya 59100, kuala lumpur, 50603, malaysia"	-0.4001	-0.6528	14	6	6	1	0	0	2019	0	0
+235	"centre for sustainable nanomaterials (csnano), ibnu sina institute for scientific and industrial research (isi-isir), universiti teknologi malaysia, skudai, 81310, malaysia"	-0.5597	-0.6896	22	4	4	1	2	1.936	2019	2	1.936
+245	"chemistry department, faculty of science and technology, universitas airlangga, surabaya, indonesia"	-0.5597	-0.6896	22	6	6	2	4	3.872	2019	2	1.936
+246	"chemistry department, faculty of sciences and technology, universitas airlangga, surabaya, indonesia"	-0.3397	0.8332	4	3	3	1	0	0	2019	0	0
+253	"civil engineering, narotama university, indonesia"	-0.3369	0.8343	4	2	2	1	1	0.968	2019	1	0.968
+269	"college of nursing, university of central florida, united states"	-0.4521	0.5557	34	2	2	1	8	7.7439	2019	8	7.7439
+272	"college of pharmacy, university of south florida, 12901 bruce blvd mdc 30, tampa, fl 33612, united states"	-0.7193	-0.5261	2	8	10	1	4	3.872	2019	4	3.872
+280	"computational optics research group, advanced institute of materials science, ton duc thang university, ho chi minh city, viet nam"	-0.8602	0.231	1	11	12	1	8	7.7439	2019	8	7.7439
+305	"departemen patologi anatomi, fakultas kedokteran universitas airlangga, surabaya, indonesia"	0.2269	-0.8989	16	6	6	1	2	1.936	2019	2	1.936
+328	"departement of chemistry, faculty of science and technology, universitas airlangga, surabaya, 60115, indonesia"	0.1121	0.8603	38	2	2	1	3	2.904	2019	3	2.904
+339	"departement of dental public health, faculty of dental medicine, universitas airlangga, surabaya, indonesia"	0.8645	-0.083	3	4	4	2	5	4.84	2019	2.5	2.42
+346	"departement of health nutrition, public health faculty, airlangga university, surabaya, east java, indonesia"	-0.7285	-0.5143	2	6	6	1	0	0	2019	0	0
+367	"departement of neurosurgery, medical faculty of airlangga university, surabaya, indonesia"	0.7527	-0.5447	19	3	3	1	0	0	2019	0	0
+368	"departement of neurosurgery, medical faculty of udayana universitybali, indonesia"	0.7529	-0.5446	19	3	3	1	0	0	2019	0	0
+371	"departement of nutrition, faculty of public health, universitas airlangga, jl. mulyorejo kampus c, indonesia"	0.1885	0.9155	23	2	2	1	1	0.968	2019	1	0.968
+380	"departement of occupational health and safety, faculty of public health, hassanuddin university indonesia, makassar, indonesia"	-0.7266	-0.5154	2	24	37	2	14	13.5519	2019	7	6.7759
+381	"departement of occupational health and safety, faculty of public health, hassanuddin university, indonesia"	-0.7184	-0.5257	2	8	10	1	4	3.872	2019	4	3.872
+413	"departement of veterinary reproduction, faculty of veterinary medicine, universitas airlangga, surabaya, 60115, indonesia"	0.7096	0.5516	7	1	1	1	2	1.936	2019	2	1.936
+417	"department anatomi, fakultas kedokteran universitas hang, surabaya, indonesia"	0.2269	-0.899	16	6	6	1	2	1.936	2019	2	1.936
+420	"department biokimia, fakultas kedokteran universitas airlangga, surabaya, indonesia"	0.227	-0.899	16	6	6	1	2	1.936	2019	2	1.936
+431	"department of accountancy, faculty of economics and business, universitas airlangga, indonesia"	-0.0165	-0.6439	36	3	6	11	0	0	2019	0	0
+434	"department of accountancy, universitas airlangga, surabaya, 60286, indonesia"	-0.0165	-0.6439	36	1	3	3	38	36.7837	2019	12.6667	12.2612
+435	"department of accountancy, universitas airlangga, surabaya, indonesia"	-0.0165	-0.6438	36	1	1	2	2	1.936	2019	1	0.968
+449	"department of administration and health policy, faculty of public health, universitas airlangga, indonesia"	0.1886	0.9156	23	2	2	1	1	0.968	2019	1	0.968
+455	"department of agroecotechnology, faculty of agriculture, universitas brawijaya, malang, east java 65145, indonesia"	0.0779	-0.9185	10	4	8	2	2	1.936	2019	1	0.968
+469	"department of anatomy, faculty of medical, universitas hang tuah, surabaya, indonesia"	0.227	-0.8991	16	4	4	1	0	0	2019	0	0
+471	"department of anatomy, faculty of veterinary, universitas airlangga, surabaya, indonesia"	0.2271	-0.899	16	4	4	1	0	0	2019	0	0
+482	"department of animal husbandry, faculty of veterinary medicine, universitas airlangga, campus c surabaya, east java, 60115, indonesia"	0.9157	0.158	30	2	2	1	3	2.904	2019	3	2.904
+492	"department of applied mechanics and design, faculty of mechanical engineering, universiti teknologi malaysia, johor bahru, 81310, malaysia"	0.3999	-0.8303	11	6	6	1	8	7.7439	2019	8	7.7439
+502	"department of aquaculture, sylhet agricultural university, sylhet, bangladesh"	0.8649	0.2973	6	5	5	1	0	0	2019	0	0
+503	"department of aquatic resources management department, faculty of fisheries and marine science, universitas brawijaya, malang, east java 65145, indonesia"	0.0777	-0.9186	10	4	4	1	0	0	2019	0	0
+504	"department of aquatic resources management, faculty of fisheries and marine science, universitas brawijaya, malang, east java 65145, indonesia"	0.0778	-0.919	10	4	4	1	2	1.936	2019	2	1.936
+515	"department of behavioural science and health promotion, faculty of public health, universitas airlangga, surabaya, indonesia"	-0.7098	0.5466	29	2	2	1	4	3.872	2019	4	3.872
+522	"department of biochemistry, faculty of medicine, universitas airlangga, surabaya, indonesia"	0.865	-0.0831	3	2	2	3	0	0	2019	0	0
+533	"department of biology, faculty mathematics and natural sciences, universitas negeri malang, malang, 65145, indonesia"	0.8195	-0.4343	15	7	7	1	12	11.6159	2019	12	11.6159
+535	"department of biology, faculty of mathematics and natural sciences, institut teknologi sepuluh nopember, surabaya, indonesia"	-0.3454	0.831	4	2	2	1	4	3.872	2019	4	3.872
+537	"department of biology, faculty of mathematics and natural sciences, universitas negeri malang, malang, 65145, indonesia"	0.8192	-0.4344	15	5	5	1	2	1.936	2019	2	1.936
+545	"department of biology, faculty of science and technology, airlangga university, surabaya, 60115, indonesia"	-0.6381	0.6657	12	3	3	6	1	0.968	2019	0.1667	0.1613
+547	"department of biology, faculty of science and technology, kampus c universitas airlangga, surabaya, 60115, indonesia"	0.7135	0.5469	7	8	8	1	18	17.4239	2019	18	17.4239
+553	"department of biology, faculty of science and technology, universitas airlangga, kampus c unair, jalan raya mulyorejo, surabaya, 60115, indonesia"	0.395	0.8272	5	7	10	1	0	0	2019	0	0
+556	"department of biology, faculty of science and technology, universitas airlangga, kampus c universitas airlangga, surabaya, 60115, indonesia"	0.7137	0.5466	7	8	8	2	7	6.7759	2019	3.5	3.388
+560	"department of biology, faculty of science and technology, universitas airlangga, surabaya, 60115, indonesia"	0.7139	0.5464	7	8	8	8	34	32.9117	2019	4.25	4.114
+561	"department of biology, faculty of science and technology, universitas airlangga, surabaya, east java 60115, indonesia"	0.0789	-0.9188	10	6	6	2	4	3.872	2019	2	1.936
+562	"department of biology, faculty of science and technology, universitas airlangga, surabaya, east java, 60115, indonesia"	0.4	-0.8304	11	7	7	2	0	0	2019	0	0
+563	"department of biology, faculty of science and technology, universitas airlangga, surabaya, indonesia"	-0.6382	0.6658	12	3	3	16	33	31.9437	2019	2.0625	1.9965
+578	"department of biology, faculty of sciences and technology, universitas airlangga, surabaya, 60115, indonesia"	-0.3496	0.8293	4	3	3	4	3	2.904	2019	0.75	0.726
+579	"department of biology, faculty of sciences and technology, universitas airlangga, surabaya, indonesia"	-0.3495	0.8294	4	5	5	8	10	9.6799	2019	1.25	1.21
+584	"department of biology, universitas airlangga, surabaya, 60115, indonesia"	0.7132	0.5472	7	6	6	2	5	4.84	2019	2.5	2.42
+591	"department of biomedical engineering, faculty of science and technology, universitas airlangga, surabaya, 61115, indonesia"	-0.6593	-0.2032	31	3	3	1	1	0.968	2019	1	0.968
+605	"department of biostatistics and population studies, faculty of public health, universitas airlangga, banyuwangi, 68425, indonesia"	-0.5372	0.7602	20	5	5	1	4	3.872	2019	4	3.872
+617	"department of botany, faculty of science, chulalongkorn university, bangkok, 10330, thailand"	0.7137	0.5464	7	10	10	2	10	9.6799	2019	5	4.84
+623	"department of cardiology and vascular medicine, faculty of medical, universitas airlangga, surabaya, indonesia"	0.2269	-0.8988	16	4	4	1	0	0	2019	0	0
+626	"department of cardiology and vascular medicine, faculty of medicine, universitas airlangga, surabaya, 60115, indonesia"	0.5269	0.7523	18	7	13	3	6	5.808	2019	2	1.936
+629	"department of cardiology and vascular medicine, school of medicine, universitas syiah kuala, banda aceh, 23111, indonesia"	0.5265	0.7521	18	7	13	3	6	5.808	2019	2	1.936
+642	"department of chemical and process engineering, faculty of engineering and built environment, universiti kebangsaan malaysia, ukm bangi, selangor, 43600, malaysia"	0.3934	0.8267	5	9	13	1	4	3.872	2019	4	3.872
+643	"department of chemical and process engineering, faculty of engineering and built environment, universiti kebangsaan malaysia, ukm bangiselangor 43600, malaysia"	0.394	0.8266	5	9	17	1	15	14.5199	2019	15	14.5199
+659	"department of chemistry, airlangga university, surabaya, east java, 60115, indonesia"	0.8263	0.4284	28	4	4	1	4	3.872	2019	4	3.872
+660	"department of chemistry, faculty mathematics and natural sciences, universitas syiah kuala, banda aceh, 23111, indonesia"	0.8195	-0.4344	15	7	7	2	13	12.5839	2019	6.5	6.2919
+664	"department of chemistry, faculty of mathematics and natural sciences, universitas gadjah mada, sekip utara, yogyakarta, 55281, indonesia"	0.1121	0.8603	38	2	2	2	4	3.872	2019	2	1.936
+666	"department of chemistry, faculty of mathematics and natural sciences, universitas syiah kuala, banda aceh, 23111, indonesia"	0.8196	-0.4342	15	5	5	1	2	1.936	2019	2	1.936
+677	"department of chemistry, faculty of science and technology, airlangga university, surabaya, 60115, indonesia"	-0.6381	0.6658	12	3	3	9	11	10.6479	2019	1.2222	1.1831
+681	"department of chemistry, faculty of science and technology, universitas airlangga, indonesia"	-0.3403	0.833	4	3	3	3	3	2.904	2019	1	0.968
+690	"department of chemistry, faculty of science and technology, universitas airlangga, surabaya, 60115, indonesia"	0.1121	0.8603	38	2	2	8	26	25.1678	2019	3.25	3.146
+691	"department of chemistry, faculty of science and technology, universitas airlangga, surabaya, 61115, indonesia"	-0.6592	-0.2032	31	4	4	2	5	4.84	2019	2.5	2.42
+692	"department of chemistry, faculty of science and technology, universitas airlangga, surabaya, indonesia"	-0.6372	0.6659	12	6	6	4	2	1.936	2019	0.5	0.484
+704	"department of chemistry, faculty of sciences and technology, universitas airlangga, surabaya, 60115, indonesia"	0.4001	-0.8307	11	6	6	1	8	7.7439	2019	8	7.7439
+707	"department of chemistry, king fahd university of petroleum and minerals, dhahran, 31261, saudi arabia"	0.8264	0.4284	28	3	3	1	3	2.904	2019	3	2.904
+712	"department of chemistry, northwestern university, evanston, il 60208, united states"	0.8264	0.4284	28	3	3	1	3	2.904	2019	3	2.904
+713	"department of chemistry, sogang university, seoul, 04107, south korea"	0.8264	0.4284	28	4	4	1	4	3.872	2019	4	3.872
+714	"department of chemistry, state university of surabaya, surabaya, indonesia"	-0.7255	-0.5168	2	25	47	3	18	17.4239	2019	6	5.808
+725	"department of chemistry, university of airlangga, surabaya, east java 60115, indonesia"	0.8263	0.4284	28	3	3	1	3	2.904	2019	3	2.904
+726	"department of chemistry, university of malaya, kuala lumpur, 50603, malaysia"	0.8263	0.4284	28	5	5	2	7	6.7759	2019	3.5	3.388
+747	"department of child health, faculty of medicine, universitas airlangga, intermediate care and infectious disease centre, dr. soetomo hospital, surabaya, indonesia"	0.8744	-0.0883	3	7	9	2	6	5.808	2019	3	2.904
+754	"department of child health, soetomo hospital, airlangga university, surabaya, indonesia"	-0.1645	-0.9192	27	4	4	1	5	4.84	2019	5	4.84
+762	"department of clinical and community pharmacy, faculty of pharmacy, universitas surabaya, surabaya, indonesia"	0.5441	-0.74	8	14	22	2	5	4.84	2019	2.5	2.42
+784	"department of clinical pharmacy, faculty of pharmacy, universitas airlangga, surabaya, 60286, indonesia"	-0.6334	-0.6997	35	2	2	3	8	7.7439	2019	2.6667	2.5813
+789	"department of clinical sciences, faculty of veterinary medicine, universitas airlangga, surabaya, 60115, indonesia"	-0.6357	0.6661	12	5	5	1	0	0	2019	0	0
+791	"department of communication, faculty of social and political science, universitas airlangga, surabaya, indonesia"	0.6608	-0.6583	24	2	2	1	1	0.968	2019	1	0.968
+802	"department of computer techniques engineering, al-esraa university college, baghdad, iraq"	-0.8548	0.2506	1	6	6	5	4	3.872	2019	0.8	0.7744
+814	"department of conservative dentistry, faculty of dentistry, airlangga university, surabaya, 60115, indonesia"	0.6811	0.5855	9	11	16	2	2	1.936	2019	1	0.968
+815	"department of conservative dentistry, faculty of dentistry, airlangga university, surabaya, indonesia"	0.682	0.5842	9	6	10	3	7	6.7759	2019	2.3333	2.2586
+816	"department of craniofacial development and stem cell biology, dental institute, king's college london, guy's hospital, london bridge, london, united kingdom"	0.5973	0.7165	32	3	3	1	4	3.872	2019	4	3.872
+824	"department of dental material, surabaya, indonesia"	0.879	-0.1155	21	3	3	1	1	0.968	2019	1	0.968
+875	"department of development of islamic society, state islamic university sunan ampel, surabaya, east java, indonesia"	-0.7295	-0.5165	2	6	12	2	1	0.968	2019	0.5	0.484
+876	"department of development of islamic society, state islamic university sunan ampel, surabaya, indonesia"	-0.724	-0.5187	2	33	87	19	19	18.3919	2019	1	0.968
+880	"department of ecological engineering, pukyong national university, busan, south korea"	0.8655	0.2966	6	5	5	1	0	0	2019	0	0
+884	"department of economics, econometrics and finance, faculty of economics and business, university of groningen, groningen, netherlands"	0.5444	-0.7395	8	14	22	2	5	4.84	2019	2.5	2.42
+891	"department of economics, faculty of economics and business, universitas indonesia, depok, indonesia"	-0.5373	0.7603	20	5	5	1	4	3.872	2019	4	3.872
+901	"department of electrical and electronics engineering, faculty of engineering, al-madinah international university, shah alam, selangor 40100, malaysia"	-0.8603	0.2304	1	5	5	1	10	9.6799	2019	10	9.6799
+905	"department of electrical engineering, faculty of engineering, university of malaya, kuala lumpur, 50603, malaysia"	-0.8617	0.2339	1	9	9	9	30	29.0398	2019	3.3333	3.2266
+906	"department of electrical engineering, faculty of engineering, university of malaya, kuala lumpur, 50630, malaysia"	-0.8601	0.2311	1	14	15	3	22	21.2958	2019	7.3333	7.0986
+907	"department of electrical engineering, faculty of engineering, university of malaya, kuala lumpur, malaysia"	-0.8547	0.2508	1	6	6	1	3	2.904	2019	3	2.904
+924	"department of emergency, wava husada hospital, malang, 65163, indonesia"	0.5268	0.7525	18	7	13	3	6	5.808	2019	2	1.936
+938	"department of environmental and occupational health, faculty of medicine and health sciences, putra malaysia university, malaysia"	-0.7272	-0.5121	2	6	6	1	0	0	2019	0	0
+947	"department of environmental engineering, faculty of civil, environment, and geo engineering, institut teknologi sepuluh nopember, jalan raya its, keputihsukolilo, surabaya, 60111, indonesia"	0.3945	0.827	5	8	8	1	12	11.6159	2019	12	11.6159
+948	"department of environmental engineering, faculty of civil, environmental and geo engineering, institut teknologi sepuluh nopember, kampus its sukolilo, jalan raya its, surabaya, 60111, indonesia"	0.3918	0.8257	5	11	14	1	4	3.872	2019	4	3.872
+949	"department of environmental engineering, faculty of civil, environmental and geo engineering, institut teknologi sepuluh nopember, kampus its sukolilo, surabaya, 60111, indonesia"	0.3961	0.8246	5	14	32	3	34	32.9117	2019	11.3333	10.9706
+951	"department of environmental engineering, faculty of civil, environmental and geo engineering, institut teknologi sepuluh nopember, surabaya, 60117, indonesia"	0.391	0.8254	5	3	3	1	1	0.968	2019	1	0.968
+956	"department of environmental health, faculty of public health, diponegoro university, semarang, indonesia"	-0.7196	-0.5238	2	13	16	2	0	0	2019	0	0
+962	"department of environmental health, health, health polytechnic, ministry of health maluku, negeri lama, ambon 97233, indonesia"	-0.7243	-0.513	2	6	12	2	1	0.968	2019	0.5	0.484
+980	"department of epidemiology, university medical center groningen, university of groningen, groningen, netherlands"	0.544	-0.7395	8	14	22	2	5	4.84	2019	2.5	2.42
+1007	"department of fish health management and aquaculture, faculty of fisheries and marine, universitas airlangga, surabaya, east java 60115, indonesia"	0.0787	-0.9188	10	6	10	3	4	3.872	2019	1.3333	1.2907
+1020	"department of fisheries and marine resources utilization department, faculty of fisheries and marine science, universitas brawijaya, malang, east java 65145, indonesia"	0.0776	-0.9188	10	4	4	1	0	0	2019	0	0
+1021	"department of fisheries and marine resources utilization, faculty of fisheries and marine science, universitas brawijaya, malang, east java 65145, indonesia"	0.0777	-0.9189	10	4	4	1	2	1.936	2019	2	1.936
+1025	"department of fisheries biology & genetics, bangladesh agricultural university, mymensingh, bangladesh"	0.8657	0.2969	6	5	5	1	0	0	2019	0	0
+1028	"department of fisheries, ministry of fisheries and livestock, dhaka, bangladesh"	0.8652	0.297	6	10	12	4	2	1.936	2019	0.5	0.484
+1032	"department of food, nutrition, dietetics & health, kansas state university, manhattan, ks 66506, united states"	0.1887	0.9155	23	5	5	1	1	0.968	2019	1	0.968
+1067	"department of health policy and administration, faculty of public health, universitas airlangga, banyuwangi, indonesia"	-0.5373	0.7602	20	5	5	1	4	3.872	2019	4	3.872
+1070	"department of health policy and administration, faculty of public health, universitas airlangga, surabaya, indonesia"	-0.7099	0.5466	29	2	2	6	8	7.7439	2019	1.3333	1.2907
+1084	"department of health promotion and behavioral sciences, faculty of public health, universitas airlangga, indonesia"	0.1887	0.9156	23	2	2	2	1	0.968	2019	0.5	0.484
+1095	"department of health science, faculty of vocational studies, universitas airlangga, campus b surabaya, east java, 60286, indonesia"	0.9156	0.1579	30	2	2	1	3	2.904	2019	3	2.904
+1097	"department of health science, faculty of vocational studies, universitas airlangga, surabaya, indonesia"	0.9156	0.1579	30	3	3	3	7	6.7759	2019	2.3333	2.2586
+1101	"department of health sciences, university of groningen, groningen, netherlands"	0.5434	-0.7398	8	14	22	2	5	4.84	2019	2.5	2.42
+1114	"department of histology, faculty of veterinary medicine, airlangga university, surabaya, 60115, indonesia"	0.6806	0.5865	9	4	4	1	2	1.936	2019	2	1.936
+1115	"department of histology, faculty of veterinary medicine, airlangga university, surabaya, indonesia"	0.6827	0.5836	9	6	6	1	3	2.904	2019	3	2.904
+1119	"department of home economics, faculty of technic, university of negeri surabaya, surabaya, indonesia"	-0.7185	-0.5255	2	8	10	1	4	3.872	2019	4	3.872
+1131	"department of infection control and immunology, graduate school of infection control sciences, kitasato university, tokyo, japan"	-0.1646	-0.9192	27	5	5	1	3	2.904	2019	3	2.904
+1139	"department of informatics, faculty of mathematics and natural sciences, universitas syiah kuala, banda aceh, 23111, indonesia"	0.8193	-0.4342	15	5	5	1	2	1.936	2019	2	1.936
+1166	"department of internal medicine, faculty of medicine, airlangga university, surabaya, 60131, indonesia"	-0.6592	-0.2032	31	3	3	1	4	3.872	2019	4	3.872
+1178	"department of internal medicine, faculty of medicine, universitas airlangga, intermediate care and infectious disease centre, dr. soetomo hospital, surabaya, indonesia"	0.8743	-0.0884	3	7	9	2	6	5.808	2019	3	2.904
+1181	"department of internal medicine, faculty of medicine, universitas brawijaya, malang, 65145, indonesia"	0.5266	0.7524	18	7	13	2	3	2.904	2019	1.5	1.452
+1215	"department of management, airlangga university, surabaya, indonesia"	-0.7535	0.438	39	2	2	1	1	0.968	2019	1	0.968
+1226	"department of management, universitas airlangga, surabaya, indonesia"	-0.7535	0.4381	39	1	1	2	10	9.6799	2019	5	4.84
+1229	"department of marine biology, pukyong national university, busan, south korea"	0.8656	0.2957	6	16	23	18	8	7.7439	2019	0.4444	0.4302
+1231	"department of marine engineering, politeknik perkapalan negeri surabaya, jalan teknik kimia, kampus its keputih, sukolilo, surabaya, 60111, indonesia"	0.3952	0.8269	5	7	10	1	0	0	2019	0	0
+1234	"department of marine fisheries and marine faculty, universitas airlangga, surabaya, east java, indonesia"	0.866	0.2939	6	4	4	1	1	0.968	2019	1	0.968
+1271	"department of marine, fisheries and marine faculty, universitas airlangga, c campus jl, mulyorejo surabaya east java, indonesia"	0.8661	0.2941	6	3	3	1	0	0	2019	0	0
+1281	"department of mathematics, airlangga university, jalan mulyorejo kampus c-unair, surabaya, 60115, indonesia"	0.3987	0.8227	5	3	3	2	0	0	2019	0	0
+1284	"department of mathematics, airlangga university, surabaya, indonesia"	-0.3632	0.824	4	2	2	6	10	9.6799	2019	1.6667	1.6133
+1289	"department of mathematics, faculty of mathematics and natural science, university of jember, jalan kalimantan 37, kampus tegal boto, jember, 68111, indonesia"	-0.3573	0.8263	4	5	5	1	3	2.904	2019	3	2.904
+1293	"department of mathematics, faculty of science and technology, airlangga university, jalan mulyorejo kampus c unair, surabaya, 60115, indonesia"	-0.3581	0.826	4	5	7	2	5	4.84	2019	2.5	2.42
+1294	"department of mathematics, faculty of science and technology, airlangga university, surabaya, indonesia"	-0.3632	0.8242	4	2	2	1	1	0.968	2019	1	0.968
+1301	"department of mathematics, faculty of sciences and technology, airlangga university, indonesia"	-0.3626	0.8242	4	9	10	4	15	14.5199	2019	3.75	3.63
+1302	"department of mathematics, faculty of sciences and technology, airlangga university, surabaya, indonesia"	-0.3634	0.8241	4	2	2	8	20	19.3598	2019	2.5	2.42
+1303	"department of mathematics, faculty of sciences and technology, universitas airlangga, surabaya, indonesia"	-0.3578	0.8262	4	2	2	1	2	1.936	2019	2	1.936
+1304	"department of mathematics, fmipa, the university of jember, kampus tegal boto, indonesia"	-0.3626	0.8243	4	9	10	1	9	8.7119	2019	9	8.7119
+1310	"department of mathematics, university of jember, indonesia"	0.3986	0.8226	5	3	3	2	0	0	2019	0	0
+1321	"department of medical biochemistry, faculty of medical, universitas airlangga, surabaya, indonesia"	0.2268	-0.8991	16	4	4	1	0	0	2019	0	0
+1354	"department of medicine, section on integrative physiology and metabolism, joslin diabetes center, harvard medical school, boston, ma, united states"	-0.0915	0.9181	13	6	6	1	4	3.872	2019	4	3.872
+1372	"department of microbiology, faculty of veterinary medicine, universitas airlangga, surabaya, indonesia"	0.8803	-0.0784	3	9	9	1	9	8.7119	2019	9	8.7119
+1373	"department of microbiology, faculty of veterinary medicine, wijaya kusuma university, surabaya, indonesia"	0.2456	0.7273	25	1	1	1	5	4.84	2019	5	4.84
+1378	"department of microbiology, study program of environmental health, polytechnic of health, surabaya, indonesia"	0.6821	0.5844	9	6	10	2	5	4.84	2019	2.5	2.42
+1379	"department of microbiology, surabaya, 60115, indonesia"	0.6803	0.5863	9	4	4	1	2	1.936	2019	2	1.936
+1382	"department of microbiology, virology laboratory, faculty of veterinary medicine, airlangga university, surabaya, indonesia"	0.8842	-0.0727	3	10	13	1	7	6.7759	2019	7	6.7759
+1405	"department of neurosurgery medical faculty of mataram university, west nusa tenggara provience general hospital, mataram, indonesia"	0.7528	-0.5447	19	3	3	1	0	0	2019	0	0
+1422	"department of neurosurgery, medical faculty airlangga university, dr sutomo general hospital, surabaya, indonesia"	0.7528	-0.5446	19	5	5	1	1	0.968	2019	1	0.968
+1423	"department of neurosurgery, medical faculty mataram university, west nusa tenggara province general hospital, mataram, indonesia, post graduate program, medical faculty hasanudin university, makasar, indonesia"	0.7528	-0.5446	19	5	5	1	1	0.968	2019	1	0.968
+1424	"department of neurosurgery, medical faculty padjadjaran university, dr hasan sadikin hospital, bandung, indonesia"	0.7528	-0.5446	19	5	5	1	1	0.968	2019	1	0.968
+1446	"department of nursing, health polytechnics of ministry health, surabaya, indonesia"	-0.7254	-0.5168	2	25	47	4	18	17.4239	2019	4.5	4.356
+1456	"department of nutrition, faculty of public health, universitas airlangga, jl. mulyorejo kampus c, surabaya, 60115, indonesia"	0.1886	0.9156	23	5	5	1	1	0.968	2019	1	0.968
+1458	"department of nutrition, faculty of public health, universitas airlangga, surabaya, 60112, indonesia"	0.1887	0.9155	23	2	2	1	2	1.936	2019	2	1.936
+1461	"department of nutrition, faculty of public health, universitas airlangga, surabaya, indonesia"	0.1887	0.9154	23	2	2	2	2	1.936	2019	1	0.968
+1463	"department of nutrition, faculty of public health, university of airlangga, surabaya, 60115, indonesia"	-0.4	-0.653	14	6	6	1	0	0	2019	0	0
+1465	"department of nutrition, harvard chan school of public health, boston, ma 02115, united states"	-0.4005	-0.6529	14	6	6	1	0	0	2019	0	0
+1466	"department of nutrition, harvard t.h. chan school of public health, harvard university, boston, ma 02115, united states"	-0.4004	-0.653	14	7	7	2	11	10.6479	2019	5.5	5.324
+1487	"department of occupational health and safety faculty of public health, airlangga university, surabaya, east java 60115, indonesia"	-0.719	-0.5262	2	8	10	1	4	3.872	2019	4	3.872
+1493	"department of occupational health and safety, faculty of public health, airlangga university, surabaya, east java 60115, indonesia"	-0.7285	-0.5169	2	6	18	7	1	0.968	2019	0.1429	0.1383
+1494	"department of occupational health and safety, faculty of public health, airlangga university, surabaya, east java 60155, indonesia"	-0.7245	-0.5139	2	6	6	2	0	0	2019	0	0
+1496	"department of occupational health and safety, faculty of public health, airlangga university, surabaya, indonesia"	-0.7266	-0.5152	2	24	37	6	15	14.5199	2019	2.5	2.42
+1497	"department of occupational health and safety, faculty of public health, hasanuddin university, makassar, east java, indonesia"	-0.7257	-0.5133	2	6	12	2	1	0.968	2019	0.5	0.484
+1498	"department of occupational health and safety, faculty of public health, hasanuddin university, makassar, indonesia"	-0.7208	-0.5231	2	13	16	5	5	4.84	2019	1	0.968
+1501	"department of occupational health and safety, faculty of public health, hassanuddin university, makassar, indonesia"	-0.7298	-0.5154	2	6	12	2	0	0	2019	0	0
+1502	"department of occupational health and safety, faculty of public health, hassanudin university, makassar, indonesia"	-0.7261	-0.512	2	6	6	2	0	0	2019	0	0
+1503	"department of occupational health and safety, faculty of public health, sriwiijaya universitysouth sumatra, indonesia"	-0.7283	-0.5125	2	6	6	1	1	0.968	2019	1	0.968
+1506	"department of occupational health and safety, faculty of public health, universitas airlangga, surabaya, east java 60115, indonesia"	-0.7291	-0.5133	2	6	6	1	0	0	2019	0	0
+1509	"department of occupational health and safety, public health faculty, airlangga university, east java, surabaya 60115, indonesia"	-0.7251	-0.5122	2	6	6	1	0	0	2019	0	0
+1510	"department of occupational health and safety, public health faculty, airlangga university, surabaya, east java 60115, indonesia"	-0.7201	-0.5242	2	13	16	4	1	0.968	2019	0.25	0.242
+1513	"department of occupational health and safety, public health faculty, hassanudin university, makassar, indonesia"	-0.7197	-0.5241	2	13	16	5	1	0.968	2019	0.2	0.1936
+1517	"department of occupational safety and health, faculty of public health, airlangga university, surabaya, east java 60155, indonesia"	-0.7205	-0.5245	2	13	16	2	0	0	2019	0	0
+1523	"department of occupational safety and health, faculty of public health, universitas hassanudin, makassar, indonesia"	-0.7202	-0.5245	2	13	16	2	0	0	2019	0	0
+1527	"department of operations, faculty of economics and business, university of groningen groningen, netherlands"	0.5431	-0.7396	8	12	12	1	5	4.84	2019	5	4.84
+1528	"department of operations, faculty of economics and business, university of groningen, groningen, netherlands"	0.5445	-0.7391	8	12	12	1	0	0	2019	0	0
+1550	"department of oral and maxillofacial surgery, faculty of dentistry, airlangga university, campus a unair, jl. mayjen professor doktor moestopo no. 47, pacar kembang, tambaksari, kota sby, surabaya, jawa timur 60132, indonesia"	-0.0916	0.918	13	7	7	1	0	0	2019	0	0
+1552	"department of oral and maxillofacial surgery, faculty of dentistry, airlangga university, surabaya, indonesia"	-0.0918	0.9177	13	6	6	1	4	3.872	2019	4	3.872
+1554	"department of oral and maxillofacial surgery, field of oral and maxillofacial rehabilitation, kagoshima university graduate school of medical and dental sciences, 8-35-1 sakuragaoka, kagoshima, 890-8544, japan"	-0.0917	0.9181	13	7	7	2	0	0	2019	0	0
+1555	"department of oral and maxillofacial surgery, kagoshima university graduate school of medical and dental sciences, kagoshima, japan"	-0.0919	0.9178	13	6	6	1	4	3.872	2019	4	3.872
+1557	"department of oral biochemistry, field of developmental medicine, kagoshima university graduate school of medical and dental sciences, 8-35-1 sakuragaoka, kagoshima, 890-8544, japan"	-0.0916	0.9178	13	7	7	2	0	0	2019	0	0
+1558	"department of oral biochemistry, field of developmental medicine, kagoshima university graduate school of medical and dental sciences, kagoshima, japan"	-0.0915	0.9177	13	6	6	1	4	3.872	2019	4	3.872
+1560	"department of oral biology and tissue engineering, meikai university school of dentistry, saitama, japan"	-0.0918	0.9182	13	6	6	1	4	3.872	2019	4	3.872
+1563	"department of oral biology, faculty of dental medicine, universitas airlangga, indonesia"	0.8611	-0.0828	3	1	1	1	0	0	2019	0	0
+1564	"department of oral biology, faculty of dental medicine, universitas airlangga, jalan prof. dr. moestopo no 47, surabaya, 60132, indonesia"	0.8789	-0.1148	21	6	6	1	4	3.872	2019	4	3.872
+1565	"department of oral biology, faculty of dental medicine, universitas airlangga, jl. mayjen. prof. dr. moestopo no. 47, surabaya, 60132, indonesia"	0.8614	-0.0828	3	2	2	2	1	0.968	2019	0.5	0.484
+1569	"department of oral biology, faculty of dental medicine, universitas airlangga, surabaya, indonesia"	0.865	-0.083	3	2	2	7	1	0.968	2019	0.1429	0.1383
+1575	"department of oral medicine, faculty of dental medicine universitas airlangga, surabaya, indonesia"	0.8744	-0.0881	3	6	6	1	2	1.936	2019	2	1.936
+1577	"department of oral medicine, faculty of dental medicine, airlangga university, surabaya, indonesia"	0.8827	-0.0751	3	12	22	3	16	15.4879	2019	5.3333	5.1626
+1579	"department of oral medicine, faculty of dental medicine, universitas airlangga, jalan prof. dr. moestopo no 47, surabaya, 60132, indonesia"	0.8789	-0.1148	21	6	6	1	4	3.872	2019	4	3.872
+1582	"department of oral medicine, faculty of dental medicine, universitas airlangga, surabaya, indonesia"	0.8778	-0.0938	3	14	14	8	12	11.6159	2019	1.5	1.452
+1584	"department of oral medicine, universitas airlangga, jalan prof dr moestopo no. 47, surabaya, indonesia"	0.8791	-0.1154	21	3	3	1	1	0.968	2019	1	0.968
+1586	"department of oral pathology and maxillofacial, faculty of dental medicine, universitas airlangga, jalan prof. dr. moestopo no 47, surabaya, 60132, indonesia"	0.8789	-0.1148	21	6	6	1	4	3.872	2019	4	3.872
+1587	"department of oral pathology and maxillofacial, faculty of dental medicine, universitas airlangga, surabaya, indonesia"	0.879	-0.1154	21	3	3	2	4	3.872	2019	2	1.936
+1589	"department of oral pathology, field of oncology, kagoshima university graduate school of medical and dental sciences, 8-35-1 sakuragaoka, kagoshima, 890-8544, japan"	-0.0918	0.9179	13	7	7	2	0	0	2019	0	0
+1590	"department of oral pathology, field of oncology, kagoshima university graduate school of medical and dental sciences, kagoshima, japan"	-0.0914	0.9179	13	6	6	1	4	3.872	2019	4	3.872
+1594	"department of orthodontic, faculty of dental medicine, airlangga university, surabaya, indonesia"	0.884	-0.0726	3	10	13	1	7	6.7759	2019	7	6.7759
+1601	"department of orthodontics, faculty of dental medicine, airlangga universty, surabaya, indonesia"	0.8806	-0.0783	3	9	9	1	9	8.7119	2019	9	8.7119
+1627	"department of otolaryngology-head and neck, faculty of medicine, universitas airlangga, jl. mayjen prof. dr. moestopo 47, surabaya, 60131, indonesia"	0.2679	0.9053	42	1	1	1	0	0	2019	0	0
+1636	"department of paediatrics, faculty of medicine, university malaya, kuala lumpur, 59100, malaysia"	-0.4003	-0.6533	14	6	6	1	0	0	2019	0	0
+1637	"department of paediatrics, faculty of medicine, university of malaya, kuala lumpur, 50603, malaysia"	-0.4003	-0.6529	14	7	7	3	16	15.4879	2019	5.3333	5.1626
+1659	"department of pathology anatomy, faculty of medical, universitas airlangga, surabaya, indonesia"	0.2268	-0.8989	16	4	4	1	0	0	2019	0	0
+1683	"department of periodontics, faculty of dental medicine, universitas airlangga, surabaya, indonesia"	0.8803	-0.0782	3	9	9	2	19	18.3919	2019	9.5	9.1959
+1685	"department of periodontics, faculty of dentistry, universitas airlangga, surabaya, 60115, indonesia"	0.4002	-0.8305	11	7	7	1	0	0	2019	0	0
+1691	"department of periodontology, field of oral and maxillofacial rehabilitation, kagoshima university graduate school of medical and dental sciences, 8-35-1 sakuragaoka, kagoshima, 890-8544, japan"	-0.0917	0.9178	13	7	7	1	0	0	2019	0	0
+1692	"department of periodontology, field of oral and maxillofacial rehabilitation, kagoshima university graduate school of medical and dental sciences, kagoshima, japan"	-0.0919	0.918	13	6	6	1	4	3.872	2019	4	3.872
+1723	"department of pharmacoepidemiology and clinical pharmacology, utrecht university, utrecht, netherlands"	0.5438	-0.7399	8	14	22	2	5	4.84	2019	2.5	2.42
+1746	"department of pharmacology and therapy, faculty of medicine, universitas airlangga, surabaya, indonesia"	0.5436	-0.7395	8	14	22	3	9	8.7119	2019	3	2.904
+1753	"department of pharmacology, faculty of veterinary medicine, airlangga university, surabaya, 60115, indonesia"	0.6811	0.5856	9	11	16	4	2	1.936	2019	0.5	0.484
+1754	"department of pharmacology, faculty of veterinary medicine, airlangga university, surabaya, indonesia"	0.682	0.5843	9	6	10	4	9	8.7119	2019	2.25	2.178
+1762	"department of pharmacy biology, faculty of pharmacy, hang tuah university, surabaya, indonesia"	0.6823	0.5844	9	6	10	3	7	6.7759	2019	2.3333	2.2586
+1763	"department of pharmacy faculty mathematics and natural sciences, universitas syiah kuala, banda aceh, 23111, indonesia"	0.8194	-0.4344	15	7	7	1	12	11.6159	2019	12	11.6159
+1767	"department of pharmacy, faculty of mathematics and natural sciences, universitas syiah kuala, banda aceh, 23111, indonesia"	0.8196	-0.4346	15	5	5	1	2	1.936	2019	2	1.936
+1778	"department of pharmacy-biology, faculty of pharmacy, hang tuah university, surabaya, 60115, indonesia"	0.6804	0.5864	9	4	4	1	2	1.936	2019	2	1.936
+1801	"department of physics, faculty of science and technology, airlangga university, surabaya, 60115, indonesia"	-0.8564	0.2335	1	17	20	38	74	71.6314	2019	1.9474	1.885
+1802	"department of physics, faculty of science and technology, airlangga university, surabaya, indonesia"	-0.8582	0.2415	1	23	30	31	81	78.4074	2019	2.6129	2.5293
+1803	"department of physics, faculty of science and technology, universitas airlangga, indonesia"	-0.3403	0.833	4	3	3	3	3	2.904	2019	1	0.968
+1805	"department of physics, faculty of science and technology, universitas airlangga, surabaya, 60115, indonesia"	0.4001	-0.8304	11	7	7	7	4	3.872	2019	0.5714	0.5531
+1807	"department of physics, faculty of science and technology, universitas airlangga, surabaya, east java, 60115, indonesia"	0.4	-0.8306	11	7	7	2	0	0	2019	0	0
+1808	"department of physics, faculty of science and technology, universitas airlangga, surabaya, indonesia"	-0.6334	-0.6997	35	2	2	6	4	3.872	2019	0.6667	0.6453
+1812	"department of physics, faculty of science, universiti teknologi malaysia, skudai, johor 81310, malaysia"	-0.8625	0.2353	1	6	6	3	10	9.6799	2019	3.3333	3.2266
+1816	"department of physics, faculty science and technology, universitas airlangga, surabaya, 60115, indonesia"	0.4001	-0.8303	11	6	6	1	8	7.7439	2019	8	7.7439
+1817	"department of physics, institut teknologi sepuluh nopember, surabaya, 60111, indonesia"	-0.8533	0.2312	1	2	2	1	2	1.936	2019	2	1.936
+1846	"department of prosthodontics, faculty of dental medicine, universitas airlangga, mayjen, surabaya, indonesia"	0.2679	0.9052	42	1	1	1	2	1.936	2019	2	1.936
+1847	"department of prosthodontics, faculty of dental medicine, universitas airlangga, surabaya, indonesia"	0.8626	-0.0829	3	3	3	5	4	3.872	2019	0.8	0.7744
+1873	"department of public administration, faculty of social and political sciences, universitas airlangga, surabaya, indonesia"	0.6608	-0.6582	24	5	5	1	0	0	2019	0	0
+1879	"department of public health and preventive medicine, udayana university, faculty of medicine, denpasar, 80232, indonesia"	-0.5372	0.7603	20	3	3	1	4	3.872	2019	4	3.872
+1935	"department of social and preventive medicine, centre for population health, faculty of medicine, university of malaya, kuala lumpur, 50603, malaysia"	-0.4004	-0.6529	14	7	7	1	7	6.7759	2019	7	6.7759
+1942	"department of sociology, faculty of social and political science, universitas airlangga, surabaya, indonesia"	0.6607	-0.6582	24	2	2	1	1	0.968	2019	1	0.968
+1947	"department of sociology, faculty of social and political sciences, universitas airlangga, surabaya, indonesia"	0.6608	-0.6582	24	5	5	2	1	0.968	2019	0.5	0.484
+1949	"department of sociology, government college university, faisalabad, pakistan"	0.6607	-0.6583	24	2	2	1	1	0.968	2019	1	0.968
+1950	"department of sociology, international islamic university, islamabad, pakistan"	0.6608	-0.6582	24	2	2	1	1	0.968	2019	1	0.968
+1954	"department of sociology, university of sargodha, sargodha, pakistan"	0.6608	-0.6583	24	2	2	1	1	0.968	2019	1	0.968
+1959	"department of sports medicine, faculty of medicine, university of malaya, kuala lumpur, 50603, malaysia"	-0.4002	-0.653	14	7	7	2	11	10.6479	2019	5.5	5.324
+1961	"department of statistical study program, department of mathematics, faculty of science and technology, airlangga university, jalan mulyorejo kampus c unair, surabaya, 60115, indonesia"	-0.3633	0.8238	4	2	2	1	2	1.936	2019	2	1.936
+2023	"department of veterinary anatomy, faculty of veterinary medicine, universitas airlangga, mulyorejo campus c surabaya, east java, 60115, indonesia"	-0.1863	0.6491	40	1	1	1	3	2.904	2019	3	2.904
+2043	"department of veterinary microbiology, faculty of veterinary medicine, airlangga university, surabaya, indonesia"	0.245	0.7274	25	1	1	1	4	3.872	2019	4	3.872
+2044	"department of veterinary microbiology, faculty of veterinary medicine, universitas airlangga, surabaya, indonesia"	-0.6355	0.6662	12	3	3	1	1	0.968	2019	1	0.968
+2046	"department of veterinary parasitology, faculty of veterinary medicine, airlangga university, surabaya, indonesia"	0.245	0.7274	25	1	1	1	4	3.872	2019	4	3.872
+2047	"department of veterinary parasitology, faculty of veterinary medicine, universitas airlangga, surabaya, indonesia"	-0.6356	0.6663	12	3	3	1	1	0.968	2019	1	0.968
+2054	"department of veterinary pathology, faculty of veterinary medicine, universitas airlangga, mulyorejo campus c surabaya, east java, 60115, indonesia"	-0.1863	0.6491	40	1	1	1	3	2.904	2019	3	2.904
+2057	"department of veterinary pharmacology, faculty of veterinary medicine, universitas airlangga, surabaya, 60115, indonesia"	-0.1863	0.6491	40	2	2	1	1	0.968	2019	1	0.968
+2059	"department of veterinary public health, faculty of veterinary medicine, airlangga university, surabaya, indonesia"	0.2453	0.7274	25	2	2	2	9	8.7119	2019	4.5	4.356
+2060	"department of veterinary public health, faculty of veterinary medicine, airlangga university60115, indonesia"	0.2451	0.7274	25	3	3	1	1	0.968	2019	1	0.968
+2062	"department of veterinary public health, faculty of veterinary medicine, universitas airlangga, campus c surabaya, east java, 60115, indonesia"	0.9156	0.1579	30	2	2	1	3	2.904	2019	3	2.904
+2065	"department of veterinary public health, faculty of veterinary medicine, universitas airlangga, surabaya, indonesia"	0.9156	0.1579	30	3	3	1	1	0.968	2019	1	0.968
+2066	"department of veterinary public health, faculty of veterinary medicine, wijaya kusuma university, surabaya, indonesia"	0.2457	0.7274	25	1	1	1	5	4.84	2019	5	4.84
+2071	"department of veterinary reproduction, faculty of veterinary medicine, universitas airlangga, surabaya, 60115, indonesia"	0.7094	0.5515	7	1	1	1	2	1.936	2019	2	1.936
+2074	"department of virology ii, national institute of infectious diseases, tokyo, japan"	-0.1646	-0.9192	27	6	7	2	8	7.7439	2019	4	3.872
+2188	"division of nephrology and hypertension, department of internal medicine, faculty of medicine, universitas brawijaya, malang, 65145, indonesia"	0.5267	0.7521	18	7	13	2	3	2.904	2019	1.5	1.452
+2189	"division of nephrology and hypertension, dr soetomo hospital, faculty of medicine, universitas airlangga, surabaya, indonesia"	-0.5597	-0.6895	22	4	4	1	2	1.936	2019	2	1.936
+2197	"division of oral anatomy, department of oral biological science, niigata university graduate school of medical and dental sciences, niigata, japan"	0.5973	0.7165	32	4	6	4	7	6.7759	2019	1.75	1.694
+2199	"division of oral and maxillofacial surgery, department of health science, course for oral science, niigata university graduate school of medical and dental sciences, niigata, japan"	0.5972	0.7164	32	3	3	1	4	3.872	2019	4	3.872
+2201	"division of oral medicine, dental and oral health unit dr. soetomo hospital, surabaya, indonesia"	0.8744	-0.0884	3	7	9	2	6	5.808	2019	3	2.904
+2236	"doctoral program, faculty of public health, universitas airlangga, surabaya, indonesia"	-0.7099	0.5465	29	2	2	1	4	3.872	2019	4	3.872
+2237	"doctoral stud. of medical science, faculty of medicine, universitas airlangga, surabaya, indonesia"	0.8852	-0.0706	3	6	6	1	8	7.7439	2019	8	7.7439
+2247	"dr soetomo university, surabaya, indonesia"	0.7415	-0.3175	17	6	6	1	3	2.904	2019	3	2.904
+2258	"dr. soetomo university, 84 semolowaru, surabaya, east java, indonesia"	0.7415	-0.3176	17	3	3	1	5	4.84	2019	5	4.84
+2261	"dutch national institute for public health and the environment (rivm), bilthoven, netherlands"	0.5434	-0.7388	8	12	12	1	0	0	2019	0	0
+2262	"dutch national institute for public health and the environment, bilthoven, netherlands"	0.544	-0.7387	8	12	12	1	5	4.84	2019	5	4.84
+2277	"english department, universitas airlangga, indonesia"	0.8768	-0.3202	26	3	3	1	4	3.872	2019	4	3.872
+2281	"environmental engineering department, institut teknologi sepuluh nopember, surabaya, indonesia"	-0.3369	0.8343	4	2	2	1	1	0.968	2019	1	0.968
+2284	"environmental engineering, faculty of science and technology, universitas airlangga, surabaya, indonesia"	-0.6382	0.6658	12	3	3	2	1	0.968	2019	0.5	0.484
+2285	"environmental engineering, faculty of sciences and technology, universitas airlangga, surabaya, indonesia"	-0.3397	0.8333	4	3	3	1	0	0	2019	0	0
+2307	"faculty of animal husbandry and fishery, tadulako university, palu, indonesia"	-0.3495	0.8293	4	1	1	1	1	0.968	2019	1	0.968
+2310	"faculty of applied sciences, ton duc thang university, ho chi minh city, viet nam"	-0.8602	0.231	1	11	12	2	9	8.7119	2019	4.5	4.356
+2318	"faculty of business and economics, dr. soetomo university, indonesia"	0.7415	-0.3173	17	3	3	1	1	0.968	2019	1	0.968
+2320	"faculty of civil, environment and geo-engineering, institut teknologi sepuluh nopember, indonesia"	-0.3367	0.8344	4	3	3	1	1	0.968	2019	1	0.968
+2322	"faculty of communication science, dr. soetomo university, indonesia"	0.7416	-0.3176	17	3	3	1	1	0.968	2019	1	0.968
+2333	"faculty of dental medicine, airlangga university, surabaya, indonesia"	0.8826	-0.075	3	12	22	6	19	18.3919	2019	3.1667	3.0653
+2334	"faculty of dental medicine, univeristas airlangga, surabaya, indonesia"	0.8745	-0.0882	3	6	6	1	2	1.936	2019	2	1.936
+2336	"faculty of dental medicine, universitas airlangga, jalan prof dr moestopo no. 47, surabaya, indonesia"	0.8789	-0.1154	21	3	3	1	1	0.968	2019	1	0.968
+2341	"faculty of dental medicine, universitas airlangga, surabaya, indonesia"	0.8694	-0.0833	3	15	15	18	28	27.1038	2019	1.5556	1.5058
+2342	"faculty of dental medicine, university of airlangga, surabaya, indonesia"	0.5973	0.7165	32	4	6	5	8	7.7439	2019	1.6	1.5488
+2346	"faculty of dentistry, universitas airlangga, surabaya, indonesia"	0.8821	-0.0757	3	8	11	1	13	12.5839	2019	13	12.5839
+2349	"faculty of economic and busines, universitas airlangga, indonesia"	-0.0164	-0.6439	36	1	2	1	15	14.5199	2019	15	14.5199
+2350	"faculty of economic and business universitas airlangga, jl. airlangga 4-6, surabaya, indonesia"	-0.8931	-0.2882	33	3	3	1	5	4.84	2019	5	4.84
+2368	"faculty of economics and business, universitas airlangga, airlangga, indonesia"	-0.8931	-0.2881	33	2	2	1	6	5.808	2019	6	5.808
+2369	"faculty of economics and business, universitas airlangga, indonesia"	-0.3908	-0.862	43	1	1	8	9	8.7119	2019	1.125	1.089
+2387	"faculty of electrical engineering, universiti teknikal malaysia melaka, 76100 hang tuah jaya, melaka, malaysia"	-0.8627	0.2359	1	4	4	1	11	10.6479	2019	11	10.6479
+2389	"faculty of electrical engineering, universiti teknikal malaysia melaka, hang tuah jaya, melaka, 76100, malaysia"	-0.8597	0.2307	1	5	5	1	9	8.7119	2019	9	8.7119
+2403	"faculty of electronics and computer engineering, universiti teknikal malaysia melaka, 76100 hang tuah jaya, melaka, malaysia"	-0.8627	0.2359	1	4	4	1	11	10.6479	2019	11	10.6479
+2404	"faculty of electronics and computer engineering, universiti teknikal malaysia melaka, hang tuah jaya, melaka, 76100, malaysia"	-0.86	0.2305	1	5	5	1	9	8.7119	2019	9	8.7119
+2408	"faculty of engineering technology, universiti teknikal malaysia melaka, melaka, malaysia"	-0.8547	0.2507	1	6	6	2	6	5.808	2019	3	2.904
+2411	"faculty of fisheries and marine science, brawijaya university, malang, 65113, indonesia"	-0.3496	0.8293	4	1	1	1	1	0.968	2019	1	0.968
+2432	"faculty of fisheries and marine, universitas airlangga, surabaya, indonesia"	-0.9089	0.0419	44	1	1	1	1	0.968	2019	1	0.968
+2445	"faculty of health, muhammadiyah university, gresik, indonesia"	0.6811	0.5854	9	10	14	1	0	0	2019	0	0
+2450	"faculty of humanities, universitas airlangga, indonesia"	0.8767	-0.3204	26	1	1	2	6	5.808	2019	3	2.904
+2458	"faculty of information technology, imam ja'far al-sadiq university, baghdad, iraq"	-0.8595	0.2304	1	5	5	2	14	13.5519	2019	7	6.7759
+2473	"faculty of mathematics and natural sciences, university of jember, campus of tegal boto, 37 kalimantan street, jember, 68121, indonesia"	-0.3632	0.8238	4	2	2	2	5	4.84	2019	2.5	2.42
+2502	"faculty of medicine, universitas airlangga - dr soetomo general academic hospital, surabaya, 60132, indonesia"	0.8195	-0.4345	15	7	7	1	12	11.6159	2019	12	11.6159
+2503	"faculty of medicine, universitas airlangga - dr soetomo, general academic hospital, surabaya, 60132, indonesia"	0.8197	-0.4344	15	5	5	1	2	1.936	2019	2	1.936
+2512	"faculty of medicine, universitas airlangga, surabaya, indonesia"	0.8806	-0.0786	3	18	26	34	52	50.3356	2019	1.5294	1.4805
+2515	"faculty of medicine, universitas brawijaya, malang, 65145, indonesia"	0.5269	0.7521	18	7	7	1	0	0	2019	0	0
+2538	"faculty of nurse, brawijaya university, malang, indonesia"	-0.7273	-0.5132	2	6	6	2	0	0	2019	0	0
+2539	"faculty of nurse, university of brawijaya, malang, indonesia"	-0.7204	-0.5237	2	18	44	12	5	4.84	2019	0.4167	0.4033
+2567	"faculty of nursing, universitas airlangga, surabaya, indonesia"	-0.4522	0.5556	34	2	2	69	77	74.5354	2019	1.1159	1.0802
+2575	"faculty of nursing, university of brawijaya, malang, indonesia"	-0.7264	-0.5153	2	27	41	4	15	14.5199	2019	3.75	3.63
+2583	"faculty of pharmacy, airlangga university, surabaya, indonesia"	-0.5061	-0.7682	45	1	1	3	6	5.808	2019	2	1.936
+2584	"faculty of pharmacy, hang tuah university, surabaya, 60115, indonesia"	0.6812	0.5854	9	10	14	1	0	0	2019	0	0
+2589	"faculty of pharmacy, universitas airlangga, surabaya, indonesia"	-0.5061	-0.7683	45	1	1	7	4	3.872	2019	0.5714	0.5531
+2596	"faculty of philosophy, universitas gadjah mada faculty of humanities, universitas airlangga, indonesia"	0.8768	-0.3202	26	2	2	1	8	7.7439	2019	8	7.7439
+2597	"faculty of philosophy, universitas gadjah mada, indonesia"	0.8768	-0.3202	26	2	2	1	8	7.7439	2019	8	7.7439
+2599	"faculty of political science and social science, airlangga university, indonesia"	0.7414	-0.3175	17	3	3	1	1	0.968	2019	1	0.968
+2609	"faculty of psychology, universitas airlangga, surabaya, 60115, indonesia"	0.7141	0.546	7	4	4	1	10	9.6799	2019	10	9.6799
+2612	"faculty of psychology, university of 17 agustus 1945 surabaya, indonesia"	0.8767	-0.3205	26	1	1	1	6	5.808	2019	6	5.808
+2653	"faculty of public health, universitas airlangga, surabaya, indonesia"	-0.7099	0.5466	29	4	4	32	26	25.1678	2019	0.8125	0.7865
+2654	"faculty of public health, universitas airlanggajawa timur 60115, indonesia"	-0.4002	-0.6531	14	7	7	1	7	6.7759	2019	7	6.7759
+2659	"faculty of public health, university of indonesia, depok, indonesia"	-0.7297	-0.5144	2	6	6	2	1	0.968	2019	0.5	0.484
+2669	"faculty of science and technology, universitas airlangga, c campus, jalan dr. ir. soekarno, surabaya, jawa timur 60115, indonesia"	0.0734	0.7576	37	2	2	1	2	1.936	2019	2	1.936
+2672	"faculty of science and technology, universitas airlangga, indonesia"	-0.3381	0.8339	4	6	6	3	2	1.936	2019	0.6667	0.6453
+2675	"faculty of science and technology, universitas airlangga, surabaya, indonesia"	0.0734	0.7576	37	2	2	6	2	1.936	2019	0.3333	0.3227
+2686	"faculty of sciences and technology, universitas airlangga, surabaya, indonesia"	-0.3465	0.8306	4	2	2	1	0	0	2019	0	0
+2687	"faculty of sharia and law, universitas islam negeri surabaya, east java, indonesia"	-0.4522	0.5557	34	3	3	1	0	0	2019	0	0
+2694	"faculty of social and political sciences, universitas airlangga, surabaya, east java, indonesia"	-0.4521	0.5557	34	3	3	2	0	0	2019	0	0
+2706	"faculty of veterinary medicine, airlangga university, surabaya, 60115, indonesia"	0.6858	0.5799	9	6	6	5	1	0.968	2019	0.2	0.1936
+2710	"faculty of veterinary medicine, kampus c universitas airlangga, surabaya, 60115, indonesia"	0.7133	0.5468	7	8	8	1	18	17.4239	2019	18	17.4239
+2718	"faculty of veterinary medicine, universitas airlangga, kampus c universitas airlangga, surabaya, 60115, indonesia"	0.7135	0.5465	7	8	8	2	0	0	2019	0	0
+2722	"faculty of veterinary medicine, universitas airlangga, surabaya, 60115, indonesia"	0.7095	0.5515	7	12	12	13	34	32.9117	2019	2.6154	2.5317
+2723	"faculty of veterinary medicine, universitas airlangga, surabaya, indonesia"	-0.6356	0.6661	12	3	3	6	12	11.6159	2019	2	1.936
+2733	"faculty of vocational studies, airlangga university, surabaya, indonesia"	-0.8625	0.2353	1	6	6	4	11	10.6479	2019	2.75	2.662
+2734	"faculty of vocational studies, universitas airlangga, airlangga, indonesia"	-0.8932	-0.2883	33	2	2	1	6	5.808	2019	6	5.808
+2735	"faculty of vocational studies, universitas airlangga, b campus, jalan dharmawangsa dalam, surabaya, jawa timur 60268, indonesia"	0.0734	0.7576	37	2	2	1	2	1.936	2019	2	1.936
+2739	"faculty of vocational studies, universitas airlangga, surabaya, indonesia"	0.0733	0.7576	37	2	2	4	2	1.936	2019	0.5	0.484
+2742	"fakultas psikologi universitas 17 agustus 1945 surabaya, faculty of humanities, universitas airlangga surabaya, indonesia"	0.8767	-0.3204	26	5	5	1	3	2.904	2019	3	2.904
+2743	"fakulti teknologi kejuruteraan elektrik & elektronik, universiti teknikal malaysia melaka, 76100 hang tuah jaya, melaka, malaysia"	-0.8608	0.2321	1	14	16	3	20	19.3598	2019	6.6667	6.4533
+2744	"fakulti teknologi kejuruteraan elektrik & elektronik, universiti teknikal malaysia melaka, hang tuah jaya, melaka, 76100, malaysia"	-0.86	0.2302	1	5	5	1	9	8.7119	2019	9	8.7119
+2748	"fiber optics and photonics division, csir-central glass and ceramic research institute, 196, raja s. c. mullick road, kolkata, 700032, india"	-0.8547	0.2504	1	6	6	1	0	0	2019	0	0
+2750	"fiber optics and photonics division, csir-central glass and ceramic research institute, kolkata, india"	-0.8548	0.2508	1	6	6	4	7	6.7759	2019	1.75	1.694
+2761	"fisheries and marine faculty, c campus jl. mulyorejo surabaya, universitas airlangga, surabaya, east java, indonesia"	0.8652	0.297	6	10	12	1	2	1.936	2019	2	1.936
+2767	"fisheries and marine faculty, universitas airlangga, surabaya, indonesia"	0.8647	0.297	6	5	10	8	0	0	2019	0	0
+2773	"fisheries resources research division, national institute of fisheries science (nifs), busan, south korea"	0.866	0.2941	6	3	3	1	0	0	2019	0	0
+2788	"generasi biologi indonesia, zoology division, gresik, east java 61171, indonesia"	0.0791	-0.9189	10	2	2	1	3	2.904	2019	3	2.904
+2813	"graduate school of mathematics and applied sciences, universitas syiah kuala, banda aceh, 23111, indonesia"	0.8194	-0.4343	15	10	10	3	15	14.5199	2019	5	4.84
+2820	"groningen research institute of pharmacy, faculty of science and engineering, university of groningen, groningen, netherlands"	0.5437	-0.7402	8	12	12	1	0	0	2019	0	0
+2821	"groningen research institute of pharmacy, pharmacotherapy, -epidemiology and -economics, university of groningen, groningen, netherlands"	0.5445	-0.7398	8	12	12	1	5	4.84	2019	5	4.84
+2824	"gyeongsangnam-do freshwater fish research center, miryang, south korea"	0.8654	0.2974	6	5	5	2	0	0	2019	0	0
+2826	"halal research center, airlangga university, surabaya, 60115, indonesia"	0.2456	0.7274	25	3	3	1	1	0.968	2019	1	0.968
+2846	"health polytechnics of ministry of health, banjarmasin, south kalimantan, indonesia"	-0.7189	-0.5258	2	8	10	1	4	3.872	2019	4	3.872
+2867	"indonesia-japan collaborative research center for emerging and re-emerging infectious diseases, institute of tropical disease, airlangga university, surabaya, indonesia"	-0.1646	-0.9192	27	6	7	2	8	7.7439	2019	4	3.872
+2899	"institut seni indonesia, yogyakarta, indonesia"	0.8767	-0.3202	26	2	2	1	8	7.7439	2019	8	7.7439
+2940	"institute of tropical disease, airlangga university, surabaya, 61115, indonesia"	-0.6593	-0.2032	31	3	3	1	1	0.968	2019	1	0.968
+2955	"institutional ethical, board of health polytechnic of ministry health, kupang, indonesia"	-0.7186	-0.5261	2	10	10	1	0	0	2019	0	0
+2958	"interdisciplinary program of biomedical engineering, pukyong national university, busan, south korea"	0.8659	0.294	6	3	3	1	0	0	2019	0	0
+2959	"interdisciplinary program of biomedical, department mechanical and electrical engineering, pukyong national university, busan, south korea"	0.865	0.2966	6	5	5	1	0	0	2019	0	0
+2961	"interdisciplinary program of biomedical, mechanical and electrical engineering, pukyong national university, busan, south korea"	0.8655	0.2958	6	15	19	16	10	9.6799	2019	0.625	0.605
+2984	"key laboratory of in-fiber integrated optics of ministry of education, college of science, harbin engineering university, harbin, 150001, china"	-0.8598	0.2302	1	5	5	2	11	10.6479	2019	5.5	5.324
+2986	"key laboratory of in-fibre integrated optics of ministry of education, college of science, harbin engineering university, harbin, 150001, china"	-0.8616	0.2339	1	9	9	3	25	24.1998	2019	8.3333	8.0666
+2992	"koica-pknu international graduate program of fisheries science, graduate school of global fisheries, pukyong national university, busan, south korea"	0.8648	0.2967	6	5	5	1	0	0	2019	0	0
+3034	"laboratory of viral infection i, department of infection control and immunology, kitasato institute for life sciences and graduate school of infection control sciences, kitasato university, tokyo, japan"	-0.1646	-0.9193	27	4	4	1	5	4.84	2019	5	4.84
+3052	"low dimensional material research centre, department of physics, faculty of science, university of malaya, kuala lumpur, 50603, malaysia"	-0.8595	0.2307	1	5	5	1	10	9.6799	2019	10	9.6799
+3058	"magister of physics engineering, institute of technology sepuluh nopember, surabaya, 60111, indonesia"	0.4002	-0.8304	11	6	6	1	8	7.7439	2019	8	7.7439
+3068	"management department, faculty of economics and business, universitas airlangga, indonesia"	-0.4673	-0.8206	41	2	2	1	0	0	2019	0	0
+3077	"marine department, faculty of fisheries and marine, universitas airlangga601151, indonesia"	-0.9089	0.0419	44	1	1	1	0	0	2019	0	0
+3085	"mater degree program, reproductive health science, faculty of medicine, airlangga university, surabaya, 60115, indonesia"	0.6822	0.5842	9	5	5	1	1	0.968	2019	1	0.968
+3101	"medical and health science faculty, state islamic university syarif hidayatullah, jakarta, indonesia"	-0.7286	-0.5158	2	6	6	1	0	0	2019	0	0
+3112	"medical faculty, mataram university, mataram, indonesia"	0.7528	-0.5445	19	3	3	1	0	0	2019	0	0
+3113	"medical faculty, universitas airlangga, surabaya, indonesia"	-0.5598	-0.6895	22	4	4	2	4	3.872	2019	2	1.936
+3116	"medical research unit, school of medicine, universitas syiah kuala, banda aceh, 23111, indonesia"	0.5268	0.7523	18	7	13	3	6	5.808	2019	2	1.936
+3137	"mrc integrative epidemiology unit, population health sciences, bristol medical school, university of bristol, oakfield grove, bristol, bs8 2bn, united kingdom"	-0.4003	-0.6528	14	6	6	1	0	0	2019	0	0
+3148	"national health care institute, diemen, netherlands"	0.5433	-0.7392	8	14	22	2	5	4.84	2019	2.5	2.42
+3154	"national institute of health research and development, indonesian ministry of health, jl. percetakan negara 29, jakarta, indonesia"	-0.7098	0.5466	29	4	4	1	9	8.7119	2019	9	8.7119
+3156	"national institute of health research and development, the ministry of health, the republic of indonesia, jl. percetakan negara 29, jakarta, indonesia"	-0.7098	0.5465	29	2	2	1	4	3.872	2019	4	3.872
+3157	"national institute of infectious diseases, department of mycobacteriology, leprosy research center, tokyo, japan"	0.2147	-0.0225	47	0	0	1	1	0.968	2019	1	0.968
+3158	"natural product chemistry group, organic chemistry division, department of chemistry, faculty of science and technology, airlangga university, surabaya, east-java, 60115, indonesia"	0.502	0.5899	48	0	0	1	0	0	2019	0	0
+3159	"natural product medicine research and development, institute of tropical diseases, universitas airlangga, surabaya, 60115, indonesia"	-0.0442	-0.4591	49	0	0	1	1	0.968	2019	1	0.968
+3160	"natural products chemistry research group, organic chemistry division, bandung institute of technology, bandung, indonesia"	-0.105	0.0049	50	0	0	1	2	1.936	2019	2	1.936
+3161	"natural products chemistry research group, organic chemistry division, department of chemistry, faculty of science and technology, universitas airlangga, surabaya, indonesia"	-0.7957	-0.2096	51	0	0	2	3	2.904	2019	1.5	1.452
+3162	"nephrology division, departments of medicine, obstetrics and gynecology, beth israel deaconess medical center, boston, ma, united states"	0.1335	0.408	52	0	0	1	1	0.968	2019	1	0.968
+3163	"nestle nutrition institute, indonesia"	-0.0016	-0.7457	53	0	0	1	6	5.808	2019	6	5.808
+3164	"nestle nutrition institute, jakarta, indonesia"	0.0952	-0.7908	54	0	0	1	1	0.968	2019	1	0.968
+3165	"nestlé research center, lausanne, 1000, switzerland"	0.2029	-0.1602	55	0	0	1	1	0.968	2019	1	0.968
+3166	"neurology, internal medicine, cheng ching hospital, taichung city, 407, taiwan"	-0.4016	0.0495	56	0	0	1	4	3.872	2019	4	3.872
+3167	"neurosurgery department, faculty of medicine, airlangga university, indonesia"	-0.507	0.1577	57	0	0	1	0	0	2019	0	0
+3168	"neurovascular division, department of neurosurgery, faculty of medicine universitas airlangga/dr. soetomo academic medical center hospital, surabaya, indonesia"	0.6138	0.21	58	0	0	1	0	0	2019	0	0
+3169	"new delhi, india"	0.3767	0.5083	59	0	0	1	7	6.7759	2019	7	6.7759
+3170	"niigata university, school of medicine, department of bacteriology, niigata, japan"	-0.8832	-0.3468	60	0	0	1	1	0.968	2019	1	0.968
+3171	"nova southeastern university, college of pharmacy, palm beach gardens, fl, united states"	-0.5553	-0.3636	61	0	0	1	3	2.904	2019	3	2.904
+3172	"ntt hi-tech institute, nguyen tat thanh university (nttu), ho chi minh city, 700000, viet nam"	-0.0111	0.7195	62	0	0	1	1	0.968	2019	1	0.968
+3173	"nuffield department of women's & reproductive health, university of oxford, women's centre, john radcliffe hospital, oxford, united kingdom"	0.7083	0.3757	63	0	0	1	1	0.968	2019	1	0.968
+3174	"nursing and midwifery faculty, universitas nahdlatul ulama, surabaya, indonesia"	0.6463	0.0305	64	0	0	1	2	1.936	2019	2	1.936
+3175	"nursing department health polytechnic of surakarta, jl. letjend sutoyo, surakarta, indonesia"	-0.0485	0.4606	65	0	0	1	0	0	2019	0	0
+3176	"nursing department, health polytechnic of surakarta, ministry of health, indonesia"	-0.4522	0.5557	34	2	2	1	8	7.7439	2019	8	7.7439
+3177	"nursing doctoral study program, faculty of nursing, universitas airlangga, surabaya, east java, indonesia"	-0.5488	0.5057	66	0	0	1	1	0.968	2019	1	0.968
+3178	"nursing faculty, universitas airlangga, surabaya, indonesia"	0.0039	-0.8132	67	0	0	2	1	0.968	2019	0.5	0.484
+3179	"nursing staff of army hospital kedirieast java, indonesia"	-0.324	-0.8067	68	0	0	1	1	0.968	2019	1	0.968
+3180	"nursing studies, medical faculty, universitas brawijaya malang, indonesia"	-0.3767	-0.368	69	0	0	1	0	0	2019	0	0
+3181	"nusantara institute of health science, kupang, east-nusa tenggara, indonesia"	0.5156	0.484	70	0	0	1	0	0	2019	0	0
+3182	"nutrition research center, taipei medical university hospital, taipei, 11031, taiwan"	0.625	-0.5138	71	0	0	1	1	0.968	2019	1	0.968
+3183	"nutrition, harvard university t.h. chan school of public health, boston, ma, united states"	-0.4145	-0.823	72	0	0	1	1	0.968	2019	1	0.968
+3184	"obstetrics and gynecologic department, rumah sakit dokter soetomo general hospital, surabaya, jawa timur, indonesia"	-0.2416	-0.6858	73	0	0	1	2	1.936	2019	2	1.936
+3185	"obstetrics division staff of the social gynecology department/obstetrics and gynecology dr, soetomo surabaya hospital, indonesia"	-0.7452	0.5965	74	0	0	1	0	0	2019	0	0
+3186	"occupational health and safety, department of health, faculty of vocational studies, universitas airlangga, dharmawangsa dalam selatan no. 68, airlangga, gubeng, surabaya, east java, 60286, indonesia"	-0.9329	-0.161	75	0	0	1	1	0.968	2019	1	0.968
+3187	"occupational health and safety, faculty of public health, airlangga university, campus c mulyorejo, indonesia"	0.6132	0.09	76	0	0	1	0	0	2019	0	0
+3188	"occupational health and safety, faculty of public health, airlangga university, campus c mulyorejo, surabaya, 60115, indonesia"	-0.5604	-0.7667	77	0	0	1	0	0	2019	0	0
+3189	"oncology hospital surabaya, indonesia"	0.0619	0.9453	78	0	0	1	1	0.968	2019	1	0.968
+3190	"oral and maxillofacial surgery, faculty of dental medicine, universitas airlangga, surabaya, indonesia"	-0.5264	-0.5852	79	0	0	1	0	0	2019	0	0
+3191	"oral biology department, faculty of dental medicine, universitas airlangga, jl. prof. dr. moestopo, no. 47, surabaya, indonesia"	0.329	0.6268	80	0	0	1	1	0.968	2019	1	0.968
+3192	"oral biology department, faculty of dental medicine, universitas airlangga, oral biology, surabaya, indonesia"	0.7131	0.2948	81	0	0	1	1	0.968	2019	1	0.968
+3193	"oral cancer research & coordinating centre (ocrcc), faculty of dentistry, university of malaya, kuala lumpur, malaysia"	0.5042	-0.0316	82	0	0	1	1	0.968	2019	1	0.968
+3194	"oral cancer research and coordinating centre (ocrcc), faculty of dentistry, university of malaya, kuala lumpur, malaysia"	0.5179	0.6414	83	0	0	1	2	1.936	2019	2	1.936
+3195	"oral life science, research center for advanced oral science, niigata university graduate school of medical and dental sciences, niigata, japan"	0.2401	-0.2308	84	0	0	1	1	0.968	2019	1	0.968
+3196	"oral maxillofacial surgery program, faculty of dental medicine, universitas airlangga, surabaya, indonesia"	0.2695	0.0454	85	0	0	1	0	0	2019	0	0
+3197	"oral medicine department, faculty of dental medicine, universitas airlangga, surabaya, indonesia"	0.8838	-0.0729	3	16	25	3	31	30.0078	2019	10.3333	10.0026
+3198	"orthodontic department, faculty of dental medicine, universitas airlangga, surabaya, indonesia"	0.8849	-0.0713	3	10	11	4	21	20.3278	2019	5.25	5.082
+3199	"orthodontic department. faculty of dental medicine. campus a universitas airlangga jl., prof. dr. moestopo no. 47, surabaya, east java 60132, indonesia"	-0.4555	0.4357	86	0	0	1	1	0.968	2019	1	0.968
+3200	"orthodontic resident, faculty of dental medicine, universitas airlangga, surabaya, indonesia"	-0.2692	-0.185	87	0	0	1	0	0	2019	0	0
+3201	"orthodontics department, faculty of dental medicine, universitas airlangga, ortodontics, surabaya, indonesia"	0.5465	0.2229	88	0	0	1	1	0.968	2019	1	0.968
+3202	"orthodontics department, faculty of dental medicine, universitas airlangga, surabaya, indonesia"	0.8834	-0.0737	3	14	18	3	32	30.9758	2019	10.6667	10.3253
+3203	"orthopedic and traumatology department, faculty of medicine, universitas airlangga/dr. soetomo general hospital, surabaya, indonesia"	0.2542	-0.7222	89	0	0	1	2	1.936	2019	2	1.936
+3204	"orthopedics& traumatology department, faculty of medicine, universitas airlangga/dr. soetomo general hospital, surabaya, indonesia"	-0.7829	-0.0998	90	0	0	1	0	0	2019	0	0
+3205	"osaka city university graduate school of medicine, department of bacteriology, osaka, japan"	0.5893	0.2757	91	0	0	1	1	0.968	2019	1	0.968
+3206	"osaka institute of public health, osaka, japan"	0.0609	0.9106	92	0	0	1	1	0.968	2019	1	0.968
+3207	"pacific university, office of global pharmacy education and research, hillsboro, or, united states"	0.4062	0.6277	93	0	0	1	3	2.904	2019	3	2.904
+3208	"pacific university, school of pharmacy, hillsboro, or, united states"	-0.1278	-0.6207	94	0	0	1	3	2.904	2019	3	2.904
+3209	"padjadjaran university, dipatiukur road no. 35, bandung, west java, indonesia"	0.4666	0.1022	95	0	0	1	0	0	2019	0	0
+3210	"padjadjaran university, faculty of economics and business, dipatiukur road no. 35, bandung, west java, indonesia"	-0.2846	-0.9054	96	0	0	1	0	0	2019	0	0
+3211	"pathology department, faculty of medicine, universitas airlangga, indonesia"	0.1344	-0.6454	97	0	0	1	0	0	2019	0	0
+3212	"pediatric dentistry department, faculty of dental medicine, universitas airlangga, surabaya, indonesia"	0.6474	0.3746	98	0	0	1	0	0	2019	0	0
+3213	"pediatric dentistry specialistic program, faculty of dental medicine, universitas airlangga, surabaya, indonesia"	-0.4421	-0.1758	99	0	0	1	0	0	2019	0	0
+3214	"pediatric division medical faculty, universitas airlangga, surabaya, indonesia"	-0.7947	0.517	100	0	0	1	0	0	2019	0	0
+3215	"pediatric surgery division, surgery department, airlangga university/dr soetomo general hospital indonesia, indonesia"	-0.9183	-0.0077	101	0	0	1	0	0	2019	0	0
+3216	"pediatric ward, soetomo general hospital, surabaya, east java, indonesia"	0.3239	-0.596	102	0	0	1	1	0.968	2019	1	0.968
+3217	"pejabat pergigian kota belud, kota belud, sabah, malaysia"	-0.1852	0.8701	103	0	0	1	1	0.968	2019	1	0.968
+3218	"peking university institute of mental health (the sixth hospital) & national clinical research center for mental disorders & the key laboratory of mental health, ministry of health (peking university), beijing, china"	-0.07	0.6845	104	0	0	1	1	0.968	2019	1	0.968
+3219	"peking university institute of mental health (the sixth hospital), national clinical research center for mental disorders, key laboratory of mental health, ministry of health, peking university, beijing, china"	0.0544	0.1961	105	0	0	1	2	1.936	2019	2	1.936
+3220	"periodontics department, faculty of dental medicine, universitas airlangga, surabaya, indonesia"	0.8823	-0.0757	3	8	11	1	13	12.5839	2019	13	12.5839
+3221	"petra christian university, surabaya, indonesia"	-0.824	-0.2994	106	0	0	1	0	0	2019	0	0
+3222	"ph.d student in department of mathematics, gadjah mada university, yogyakarta, indonesia"	0.5099	-0.4516	107	0	0	1	0	0	2019	0	0
+3223	"pharmaceutical biology department, faculty of pharmacy, university of surabaya, surabaya, east java, 60293, indonesia"	-0.2387	-0.0548	108	0	0	1	1	0.968	2019	1	0.968
+3224	"pharmaceutical chemistry department, faculty of pharmacy, airlangga university, surabaya, east java, 60286, indonesia"	-0.6771	0.3699	109	0	0	1	1	0.968	2019	1	0.968
+3225	"pharmaceutical chemistry department, faculty of pharmacy, airlangga university, surabaya, indonesia"	0.5681	-0.156	110	0	0	1	3	2.904	2019	3	2.904
+3226	"pharmaceutical chemistry department, faculty of pharmacy, universitas airlangga, indonesia"	-0.0704	-0.2744	111	0	0	1	0	0	2019	0	0
+3227	"pharmaceutical vocation program, widya mandala university, madiun, indonesia"	-0.8726	-0.3701	112	0	0	2	2	1.936	2019	1	0.968
+3228	"pharmaceutics department, faculty pharmacy, airlangga university, surabaya, indonesia"	-0.0586	-0.3886	113	0	0	1	0	0	2019	0	0
+3229	"pharmacognosy and phytochemistry department, faculty of pharmacy, airlangga university, surabaya, east java, indonesia"	-0.2909	-0.5291	114	0	0	1	0	0	2019	0	0
+3230	"pharmacognosy group, department of medicinal chemistry, biomedical centre, uppsala university, box 574, uppsala, se-751 23, sweden"	-0.3738	-0.8231	115	0	0	1	1	0.968	2019	1	0.968
+3231	"pharmacognosy research group, department of pharmaceutical chemistry, kulliyyah of pharmacy, international islamic university malaysia, kuantan, pahang darul makmur, malaysia"	-0.9303	-0.1868	116	0	0	1	1	0.968	2019	1	0.968
+3232	"pharmacological evaluation section, eisai, co. ltd, tokyo, japan"	0.5475	-0.4042	117	0	0	1	1	0.968	2019	1	0.968
+3233	"pharmacy and theraphy committee dr. soetomo hospital, surabaya, hospital pharmacy installation, dr. soetomo hospital, surabaya, indonesia"	0.6373	-0.4645	118	0	0	1	0	0	2019	0	0
+3234	"pharmacy clinic programs stud., airlangga university, surabaya, indonesia"	-0.371	0.6248	119	0	0	1	0	0	2019	0	0
+3235	"pharmacy department, faculty of pharmacy, airlangga university, jl. airlangga no 4-6, airlangga, gubeng, surabaya city, jawa timur, indonesia"	-0.0163	0.6463	120	0	0	2	0	0	2019	0	0
+3236	"pharmacy department, faculty of pharmacy, universitas airlangga, jawa timur, indonesia"	0.4094	0.6739	121	0	0	1	0	0	2019	0	0
+3237	"pharmacy faculty, airlangga university, surabaya, indonesia"	-0.182	0.0121	122	0	0	1	0	0	2019	0	0
+3238	"pharmacy program, faculty of health science, universitas muhammadiyah malang, malang, indonesia"	0.4073	0.2418	123	0	0	1	0	0	2019	0	0
+3239	"pharmacy program, faculty of health sciences, universitas muhammadiyah malang, malang, indonesia"	0.4862	0.424	124	0	0	1	0	0	2019	0	0
+3240	"photonics engineering laboratory, department of electrical engineering, faculty of engineering, university of malaya, kuala lumpur, 50603, malaysia"	-0.8625	0.2353	1	6	6	7	18	17.4239	2019	2.5714	2.4891
+3241	"photonics engineering laboratory, department of electrical engineering, faculty of engineering, university of malaya, kuala lumpur, malaysia"	0.2599	0.2555	125	0	0	3	6	5.808	2019	2	1.936
+3242	"photonics engineering laboratory, department of electrical engineering, university of malaya, kuala lumpur, 50603, malaysia"	-0.8548	0.2504	1	6	6	11	12	11.6159	2019	1.0909	1.056
+3243	"photonics engineering laboratory, department of electrical engineering, university of malaya, kuala lumpur, malaysia"	-0.0277	0.2063	126	0	0	1	1	0.968	2019	1	0.968
+3244	"photonics research center university of malaya, kuala lumpur, 50603, malaysia"	0.1466	-0.573	127	0	0	1	0	0	2019	0	0
+3245	"photonics research center, university of malaya, kuala lumpur, 50603, malaysia"	-0.8546	0.2505	1	6	6	10	14	13.5519	2019	1.4	1.3552
+3246	"photonics research center, university of malaya, kuala lumpur, malaysia"	-0.7622	-0.1717	128	0	0	1	1	0.968	2019	1	0.968
+3247	"photonics research centre (prc), university of malaya, kuala lumpur, 50603, malaysia"	-0.8532	0.2311	1	3	3	1	8	7.7439	2019	8	7.7439
+3248	"photonics research centre, faculty of science, university of malaya, kuala lumpur, 50603, malaysia"	0.7563	0.3851	129	0	0	4	4	3.872	2019	1	0.968
+3249	"photonics research centre, university of malaya, kuala lumpur, 50603, malaysia"	-0.855	0.2398	1	4	5	18	34	32.9117	2019	1.8889	1.8284
+3250	"photonics research centre, university of malaya, kuala lumpur, malaysia"	-0.8548	0.2479	1	8	8	7	13	12.5839	2019	1.8571	1.7977
+3251	"photonics research centre, university of malaya, kuala, lumpur, 50603, malaysia"	-0.8533	0.2312	1	2	2	1	2	1.936	2019	2	1.936
+3252	"physical medicine and rehabilitation department school of medicine, universitas airlangga-dr. soetomo general academic hospital, surabaya, jawa timur, indonesia"	-0.4533	0.1011	130	0	0	1	4	3.872	2019	4	3.872
+3253	"physical medicine and rehabilitation, dr. soetomo hospital, surabaya, jl. may.jend. prof. dr. moestopo no. 6-8, surabaya, indonesia"	-0.4622	-0.77	131	0	0	1	0	0	2019	0	0
+3254	"physics department, airlangga university, kampus c mulyorejo, surabaya, 60115, indonesia"	-0.622	0.2333	132	0	0	1	4	3.872	2019	4	3.872
+3255	"physics department, faculty of applied science and technology, university tun hussein onn pagoh campus, panchor, johore 86400, malaysia"	-0.4201	-0.7862	133	0	0	1	3	2.904	2019	3	2.904
+3256	"physics department, faculty of science and technology, airlangga university, kampus c unair, jl. mulyorejo, surabaya, indonesia"	0.0349	0.466	134	0	0	1	0	0	2019	0	0
+3257	"physics department, faculty of science and technology, universitas airlangga, surabaya, 60115, indonesia"	-0.0279	-0.9413	46	1	1	1	0	0	2019	0	0
+3258	"physics department, faculty of science and technology, universitas airlangga, surabaya, indonesia"	-0.0279	-0.9413	46	1	1	1	1	0.968	2019	1	0.968
+3259	"physics department, faculty of science, beni suef university, beni suef, egypt"	-0.3414	0.2626	135	0	0	1	1	0.968	2019	1	0.968
+3260	"physics department, faculty of science, sana’a university, sana’a, yemen"	0.3147	-0.4664	136	0	0	1	1	0.968	2019	1	0.968
+3261	"physics department, faculty of science, university of malaya, kuala lumpur, 50603, malaysia"	-0.2663	0.2351	137	0	0	1	0	0	2019	0	0
+3262	"physics department, faculty of sciences and technology, universitas airlangga, surabaya, indonesia"	-0.3428	0.832	4	5	5	2	0	0	2019	0	0
+3263	"physics department, institut teknologi sepuluh nopember, kampus its sukolilo, surabaya, east java, 60111, indonesia"	0.8499	0.1372	138	0	0	1	1	0.968	2019	1	0.968
+3264	"physics department, universitas airlangga, indonesia"	0.4889	0.3603	139	0	0	1	0	0	2019	0	0
+3265	"physics department, university of airlangga, kampus c mulyorejo, surabaya, indonesia"	-0.3403	0.563	140	0	0	1	1	0.968	2019	1	0.968
+3266	"physics department, university of airlangga, surabaya, indonesia"	0.7082	-0.4481	141	0	0	1	5	4.84	2019	5	4.84
+3267	"physics dept., faculty of science, university of malaya, kuala lumpur, 50603, malaysia"	-0.8549	0.2387	1	2	2	1	2	1.936	2019	2	1.936
+3268	"physiology department, faculty of medicine, airlangga university, indonesia"	-0.3314	-0.8884	142	0	0	1	1	0.968	2019	1	0.968
+3269	"physiology department, universitas airlangga, surabaya, indonesia"	0.0286	-0.5441	143	0	0	2	0	0	2019	0	0
+3270	"pilar research and education, cambridge, united kingdom"	0.5098	-0.6083	144	0	0	1	0	0	2019	0	0
+3271	"plant biomass utilization research unit, botany department, chulalongkorn university, bangkok, 10330, thailand"	-0.8355	0.4487	145	0	0	1	2	1.936	2019	2	1.936
+3272	"plant biomass utilization research unit, department of botany, faculty of science, chulalongkorn university, bangkok, 10330, thailand"	-0.8086	0.4242	146	0	0	5	15	14.5199	2019	3	2.904
+3273	"plant biomass utilization research unit, department of botany, faculty of science, chulalongkorn university, bangkok, thailand"	-0.9232	-0.2117	147	0	0	1	0	0	2019	0	0
+3274	"plastic and esthetic reconstruction surgery department, dr soetomo general hospital, faculty of medicine, airlangga university, surabaya, indonesia"	0.5085	0.1639	148	0	0	1	0	0	2019	0	0
+3275	"politeknik kelautan dan perikanan sidoarjo, department of aquaculture techniques, sidoarjo, east java 61253, indonesia"	0.1124	0.478	149	0	0	1	1	0.968	2019	1	0.968
+3276	"politeknik kesehatan kemenkes, surabaya, 60282, indonesia"	0.055	-0.0137	150	0	0	1	1	0.968	2019	1	0.968
+3277	"politeknik kesehatan mataram, department of medical laboratory technology, mataram, indonesia"	0.1265	0.6797	151	0	0	1	1	0.968	2019	1	0.968
+3278	"politeknik pelayaran, surabaya, indonesia"	-0.5636	0.2005	152	0	0	1	1	0.968	2019	1	0.968
+3279	"politeknik perkapalan negeri surabaya, kampus its sukolilo, jalan teknik kimia, surabaya, 60111, indonesia"	0.3987	0.8226	5	4	4	1	15	14.5199	2019	15	14.5199
+3280	"politeknik statistika stis, bps, jakarta, indonesia"	0.4183	-0.5408	153	0	0	1	4	3.872	2019	4	3.872
+3281	"politeknik statistika stis, bps-statistics of indonesia, jakarta, indonesia"	0.2875	0.1835	154	0	0	1	1	0.968	2019	1	0.968
+3282	"politics of health, ministry of health of the republic of indonesia, surabaya, indonesia"	-0.1046	-0.2095	155	0	0	1	0	0	2019	0	0
+3283	"poltekes kemenkes, malang, indonesia"	0.4799	0.2366	156	0	0	1	1	0.968	2019	1	0.968
+3284	"polytechnic of health denpasar, ministry of health, denpasar, indonesia"	0.2477	-0.0951	157	0	0	1	2	1.936	2019	2	1.936
+3285	"polytechnic of health denpasar, ministry of health, indonesia"	-0.4524	0.3622	158	0	0	1	0	0	2019	0	0
+3286	"polytechnic of health surabaya, ministry of health the republic of indonesia, indonesia"	0.6534	-0.545	159	0	0	1	1	0.968	2019	1	0.968
+3287	"polytechnic of health, jl. r.w. monginsidi malalayang manado, manado, indonesia"	-0.0523	0.069	160	0	0	1	1	0.968	2019	1	0.968
+3288	"polytechnic of health, manado, indonesia"	-0.2647	0.6516	161	0	0	3	1	0.968	2019	0.3333	0.3227
+3289	"polytechnic of health, ministry of health maluku province, indonesia"	0.5807	-0.6144	162	0	0	1	0	0	2019	0	0
+3290	"polytechnic of health, ministry of health, indonesia"	0.0016	0.1328	163	0	0	1	2	1.936	2019	2	1.936
+3291	"polytechnic of health, ministry of health, surabaya, indonesia"	-0.4963	0.2282	164	0	0	1	4	3.872	2019	4	3.872
+3292	"polytechnic of health, ministry of healthmaluku province, indonesia"	0.2339	0.3269	165	0	0	1	1	0.968	2019	1	0.968
+3293	"polytechnic of healthmaluku, indonesia"	0.1942	-0.7399	166	0	0	1	1	0.968	2019	1	0.968
+3294	"post doctoral fellow, lembaga penyakit tropis, university of airlangga, kampus c, mulyorejo, surabaya, indonesia"	-0.8115	-0.147	167	0	0	1	0	0	2019	0	0
+3295	"post graduate program for biotechnology, university of jember, jalan kalimantan no. 37, jember, 68121, indonesia"	-0.584	0.5492	168	0	0	1	0	0	2019	0	0
+3296	"post graduate school, airlangga university, surabaya, indonesia"	0.3591	-0.4145	169	0	0	2	0	0	2019	0	0
+3297	"post graduate school, universitas airlangga, indonesia"	0.1856	-0.8	170	0	0	1	0	0	2019	0	0
+3298	"post graduate school, universitas airlangga, surabaya, indonesia"	-0.1914	0.9274	171	0	0	2	1	0.968	2019	0.5	0.484
+3299	"post graduate school, university of airlangga, surabaya, 60286, indonesia"	-0.1643	-0.7907	172	0	0	1	1	0.968	2019	1	0.968
+3300	"post graduate, medical faculty, hasanuddin university, makassar, indonesia"	0.7527	-0.5446	19	3	3	1	0	0	2019	0	0
+3301	"post graduate, school of universitas airlangga surabaya, indonesia"	0.3093	-0.875	173	0	0	1	0	0	2019	0	0
+3302	"post graduates school of immunology airlangga university, department of microbiology dr. soetomo general hospital, department of parasitology medical faculty, airlangga university, indonesia"	0.6829	-0.4851	174	0	0	1	1	0.968	2019	1	0.968
+3303	"post-doctoral researcher, department of chemical and process engineering, faculty of engineering and built environment, universiti kebangsaan malaysia, ukm bangiselangor 43600, malaysia"	0.394	0.8261	5	9	17	1	15	14.5199	2019	15	14.5199
+3304	"post-graduate program, study program of fisheries and marine biotechnology, universitas airlangga, surabaya, 60115, indonesia"	-0.3289	0.425	175	0	0	1	0	0	2019	0	0
+3305	"postgraduate education management departement, surabaya state university, lidah wetan street, surabaya, 60213, indonesia"	0.4618	-0.4935	176	0	0	2	0	0	2019	0	0
+3306	"postgraduate program, medical faculty, airlangga university, surabaya, indonesia"	0.3571	-0.1739	177	0	0	1	0	0	2019	0	0
+3307	"postgraduate school and department of basic medical science, faculty of veterinary medicine, universitas airlangga, surabaya, 60115, indonesia"	-0.6358	0.6662	12	5	5	1	0	0	2019	0	0
+3308	"postgraduate school and department of parasitology, faculty of veterinary medicine, universitas airlangga, surabaya, 60115, indonesia"	-0.6357	0.6662	12	5	5	1	0	0	2019	0	0
+3309	"postgraduate school universitas airlangga surabaya, indonesia"	0.2311	-0.7826	178	0	0	1	1	0.968	2019	1	0.968
+3310	"postgraduate school universitas airlangga, airlangga university, surabaya, indonesia"	-0.8843	-0.2196	179	0	0	1	0	0	2019	0	0
+3311	"postgraduate school universitas airlangga, jl. airlangga 4-6, surabaya, indonesia"	-0.8932	-0.2882	33	3	3	1	5	4.84	2019	5	4.84
+3312	"postgraduate school universitas airlangga, surabaya, 60286, indonesia"	-0.6168	0.5249	180	0	0	1	1	0.968	2019	1	0.968
+3313	"postgraduate school universitas airlangga, surabaya, indonesia"	0.2937	0.8958	181	0	0	1	0	0	2019	0	0
+3314	"postgraduate school, faculty of vocational studies, universitas airlangga surabaya, surabaya, 60286, indonesia"	-0.2126	0.9211	182	0	0	1	2	1.936	2019	2	1.936
+3315	"postgraduate school, universitas airlangga, jl. dharmawangsa dalam 28-30, surabaya, 60286, indonesia"	0.5537	-0.3454	183	0	0	1	1	0.968	2019	1	0.968
+3316	"postgraduate school, universitas airlangga, surabaya, 60286, indonesia"	-0.7673	0.4942	184	0	0	1	1	0.968	2019	1	0.968
+3317	"postgraduate school, university college london, gower st, bloomsbury, london, wc1e 6bt, united kingdom"	-0.9126	-0.0507	185	0	0	1	0	0	2019	0	0
+3318	"postgraduate universitas airlangga, jl. airlangga no. 4-6, surabaya, indonesia"	0.1507	-0.3514	186	0	0	1	0	0	2019	0	0
+3319	"ppds cardiology and vascular medicine, airlangga university, surabaya, east java, indonesia"	-0.6488	0.0367	187	0	0	1	4	3.872	2019	4	3.872
+3320	"praya district general hospital, lombok tengah, indonesia"	-0.515	0.6746	188	0	0	1	0	0	2019	0	0
+3321	"prevention research collaboration (prc), charles perkins centre, university of sydney, sydney, australia"	0.6303	-0.3739	189	0	0	1	3	2.904	2019	3	2.904
+3322	"prevention research collaboration (prc), charles perkins centre, university of sydney, sydney, nsw, australia"	-0.5372	0.7601	20	3	3	1	4	3.872	2019	4	3.872
+3323	"primary education and preschool universitas negeri malang, malang, indonesia"	0.4592	0.4803	190	0	0	1	0	0	2019	0	0
+3324	"prof. dr. w.z. johannes kupang general hospitaleast nusa tenggara, indonesia"	0.2582	-0.422	191	0	0	1	1	0.968	2019	1	0.968
+3325	"professor nidom foundation, surabaya, 60115, indonesia"	0.2571	-0.6643	192	0	0	1	0	0	2019	0	0
+3326	"professor of medical faculty, airlangga university, surabaya, east java, indonesia"	-0.8459	-0.1919	193	0	0	1	0	0	2019	0	0
+3327	"program in biotechnology, faculty of science, chulalongkorn university, bangkok, 10330, thailand"	0.2062	0.5935	194	0	0	2	2	1.936	2019	1	0.968
+3328	"program in biotechnology, faculty of science, chulalongkorn university, bangkok, thailand"	-0.2101	0.3073	195	0	0	1	0	0	2019	0	0
+3329	"program studi budidaya perairan, fakultas perikanan dan kelautan universitas airlangga, surabaya, 60115, indonesia"	0.9275	0.2	196	0	0	1	0	0	2019	0	0
+3330	"program study of aquaculture, faculty of fisheries and marine, airlangga university, surabaya, 60115, indonesia"	0.1955	-0.2901	197	0	0	3	1	0.968	2019	0.3333	0.3227
+3331	"program study of aquaculture, faculty of fisheries and marine, universitas airlangga, surabaya, indonesia"	-0.2214	-0.5152	198	0	0	2	1	0.968	2019	0.5	0.484
+3332	"program study of biomedical engineering, department of physics, faculty of science and technology, universitas airlangga, surbaya, east java, 60115, indonesia"	-0.7294	-0.0582	199	0	0	1	0	0	2019	0	0
+3333	"program study of doctoral degree in medical science, faculty of medicine, airlangga university, surabaya, indonesia"	-0.8646	-0.1462	200	0	0	1	0	0	2019	0	0
+3334	"programme study faculty of fisheries and marine, universitas airlangga, jl. mulyorejo, surabaya, east-java, 60113, indonesia"	-0.4355	0.1674	201	0	0	1	0	0	2019	0	0
+3335	"proteomic laboratory, institute of tropical disease, universitas airlangga, kampus c unair, mulyorejo surabaya, east java, 60115, indonesia"	0.6712	0.3297	202	0	0	1	0	0	2019	0	0
+3336	"psdku banyuwangi, airlangga university, surabaya, 60115, indonesia"	0.6222	-0.1252	203	0	0	1	0	0	2019	0	0
+3337	"psdku banyuwangi, department of parasitology, faculty of veterinary medicine, airlangga university, wijaya kusuma street 113, banyuwangi, east java, indonesia"	-0.0828	0.5177	204	0	0	1	0	0	2019	0	0
+3338	"psychiatric department, faculty of medicine, airlangga university, indonesia"	0.5241	-0.2236	205	0	0	1	0	0	2019	0	0
+3339	"psychiatry unit, dr soetomo general hospital, surabaya, indonesia"	0.4545	-0.6166	206	0	0	1	0	0	2019	0	0
+3340	"psychology faculty, airlangga university, indonesia"	0.4312	-0.656	207	0	0	1	0	0	2019	0	0
+3341	"psychology faculty, university of airlangga, surabaya, east java province, indonesia"	-0.2284	0.1639	208	0	0	2	0	0	2019	0	0
+3342	"pt schneider electric indonesia, jakarta, indonesia"	-0.8432	-0.3677	209	0	0	1	1	0.968	2019	1	0.968
+3343	"pt. angler biochemlab, surabaya, indonesia"	-0.2728	-0.8047	210	0	0	2	2	1.936	2019	1	0.968
+3344	"pt. wonokoyo jaya corporindo, surabaya, 60241, indonesia"	-0.0955	-0.5642	211	0	0	1	0	0	2019	0	0
+3345	"public health department, faculty of medicine, wijaya kusuma university, indonesia"	0.526	0.2957	212	0	0	1	0	0	2019	0	0
+3346	"public health department, stikes mandala waluya, kendari, sulawesi tenggara, indonesia"	0.1932	-0.6832	213	0	0	1	0	0	2019	0	0
+3347	"public health faculty, airlangga university, departement of public health nutriton, public health faculty, jember university, indonesia"	0.4795	0.6362	214	0	0	1	0	0	2019	0	0
+3348	"public health faculty, airlangga university, indonesia"	-0.5963	-0.0103	215	0	0	2	0	0	2019	0	0
+3349	"public health faculty, airlangga university, surabaya, east java, indonesia"	-0.0319	-0.892	216	0	0	1	0	0	2019	0	0
+3350	"public health faculty, airlangga university, surabaya, indonesia"	-0.2237	-0.7813	217	0	0	3	0	0	2019	0	0
+3351	"public health faculty, department of environmental health, airlangga university, mulyorejo kampus c, surabaya, jawa timur, 60115, indonesia"	0.5695	-0.0286	218	0	0	1	0	0	2019	0	0
+3352	"public health faculty, universitas airlangga, indonesia"	-0.5685	-0.2838	219	0	0	1	0	0	2019	0	0
+3353	"public health faculty, universitas airlangga, surabaya, indonesia"	-0.2303	-0.8787	220	0	0	1	0	0	2019	0	0
+3354	"public health faculty, university of airlangga, surabaya, east java province, indonesia"	-0.2683	-0.8727	221	0	0	1	0	0	2019	0	0
+3355	"public health faculty, university of airlanggaeast java province, indonesia"	-0.2309	-0.2483	222	0	0	1	0	0	2019	0	0
+3356	"public health program, faculty of public health, ubon ratchathani rajabhat university, ubon ratchathani province, thailand"	-0.1971	0.9014	223	0	0	1	1	0.968	2019	1	0.968
+3357	"pulmonology and respiratory medicine, faculty of medicine, airlangga university, dr. soetomo hospital surabaya, surabaya, indonesia"	0.5403	0.0968	224	0	0	1	0	0	2019	0	0
+3358	"pulmonology and respiratory medicine, faculty of medicine, tadulako university, tadulako hospital palu, palu, indonesia"	0.2603	-0.5983	225	0	0	1	0	0	2019	0	0
+3359	"pusat permatapintar® negara, universiti kebangsaan malaysia, bangi, selangor 43600, malaysia"	-0.6416	0.1311	226	0	0	2	0	0	2019	0	0
+3360	"puskesmas loksado, department of health of south kalimantan, indonesia"	-0.7124	0.0606	227	0	0	1	0	0	2019	0	0
+3361	"puzi hospital, ministry of health and welfare, chia-yi, taiwan"	-0.6213	0.3767	228	0	0	1	0	0	2019	0	0
+3362	"qopna, department of chemistry, universidade de aveiro, aveiro, 3810-193, portugal"	0.3231	-0.7145	229	0	0	1	1	0.968	2019	1	0.968
+3363	"radiologic technology program, faculty of vocational studies, airlangga university, jalan dharmawangsa dalam 25-30, surabaya, 60286, indonesia"	-0.407	-0.436	230	0	0	1	0	0	2019	0	0
+3364	"radiotherapy department, dr. soetomo hospital, surabaya, east java, 60285, indonesia"	0.8334	0.1663	231	0	0	1	1	0.968	2019	1	0.968
+3365	"rajshahi university, bangladesh"	-0.5199	-0.4247	232	0	0	1	1	0.968	2019	1	0.968
+3366	"reckitt benckiser research and development, slough, berkshire sl1 3uh, united kingdom"	0.7054	0.1587	233	0	0	1	1	0.968	2019	1	0.968
+3367	"remote sensing and geographical information sciences, faculty of earth science and technology, bandung institute of technology, indonesia"	-0.1966	-0.7329	234	0	0	1	1	0.968	2019	1	0.968
+3368	"renewable energy research centre, department of teacher training in electrical engineering, faculty of technical education, king mongkuts university of technology north bangkok, 1518, wongsawang, bangsue, bangkok, 10800, thailand"	0.074	-0.2152	235	0	0	1	12	11.6159	2019	12	11.6159
+3369	"research and development board of central java, semarang, indonesia"	0.265	0.6037	236	0	0	1	2	1.936	2019	2	1.936
+3370	"research center for advanced oral science, department of oral life science, niigata university graduate school of medical and dental sciences, niigata, japan"	0.5972	0.7165	32	4	6	3	6	5.808	2019	2	1.936
+3371	"research center for austronesian medicine and agriculture, national pingtung university of science and technology, pingtung, 91201, taiwan"	0.732	0.3436	237	0	0	1	7	6.7759	2019	7	6.7759
+3372	"research center for bio-molecule engineering, airlangga university, surabaya, 60115, indonesia"	-0.6725	0.0938	238	0	0	1	1	0.968	2019	1	0.968
+3373	"research center for bio-molecule engineering, universitas airlangga, kampus c-unair, mulyorejo, surabaya, 60115, indonesia"	0.6176	-0.0739	239	0	0	1	0	0	2019	0	0
+3374	"research center for bio-molecule engineering, universitas airlangga, surabaya, indonesia"	-0.9409	-0.1095	240	0	0	2	4	3.872	2019	2	1.936
+3375	"research center for biology, indonesian institute of sciences, jl. raya jakarta-bogor km 46, cibinong, 16911, indonesia"	0.6532	0.2714	241	0	0	1	0	0	2019	0	0
+3376	"research center for biotechnology, indonesian institute of sciences (lipi), cibinong, west java, indonesia"	-0.0248	-0.0053	242	0	0	1	0	0	2019	0	0
+3377	"research center for chemistry, indonesian institute of sciences (lipi), kawasan puspiptek, serpong, 15314, indonesia"	0.386	-0.5903	243	0	0	1	0	0	2019	0	0
+3378	"research center for chemistry, indonesian institute of sciences, kawasan puspiptek-serpong, tangerang selatan, banten, indonesia"	-0.5029	-0.3682	244	0	0	1	3	2.904	2019	3	2.904
+3379	"research center for computational quantum engineering, faculty of science and technology, universitas airlangga, surabaya, indonesia"	-0.6233	0.2825	245	0	0	1	1	0.968	2019	1	0.968
+3380	"research center for electronics and telecommunication, indonesian institute of sciences, jl. cisitu sangkuriang, campus lipi, bandung, 40135, indonesia"	-0.0836	-0.9475	246	0	0	1	0	0	2019	0	0
+3381	"research center for humanities and health management, ministry of health, indonesia"	-0.066	-0.9051	247	0	0	2	0	0	2019	0	0
+3382	"research center for nanoscience and nanotechnology, institut teknologi bandung, bandung, 40132, indonesia"	-0.188	-0.8343	248	0	0	2	0	0	2019	0	0
+3383	"research center for nanoscience and nanotechnology, institut teknologi bandung, bandung, indonesia"	0.0071	0.9478	249	0	0	1	1	0.968	2019	1	0.968
+3384	"research center for nanosciences and nanotechnology (rcnn), institut teknologi bandung, bandung, indonesia"	0.3168	0.111	250	0	0	2	2	1.936	2019	1	0.968
+3385	"research center for nanosciences and nanotechnology, institut teknologi bandung jl. ganesha 10, bandung, 40132, indonesia"	0.1617	0.1212	251	0	0	1	1	0.968	2019	1	0.968
+3386	"research center for quantum engineering design, airlangga university, surabaya, 60115, indonesia"	-0.2712	0.4496	252	0	0	1	1	0.968	2019	1	0.968
+3387	"research center for quantum engineering design, faculty of science and technology, universitas airlangga, jl. mulyorejo, surabaya, 60115, indonesia"	-0.438	-0.3093	253	0	0	2	3	2.904	2019	1.5	1.452
+3388	"research center for quantum engineering design, universitas airlangga, surabaya, 60115, indonesia"	0.5181	-0.5224	254	0	0	1	0	0	2019	0	0
+3389	"research center for quantum engineering design, universitas airlangga, surabaya, indonesia"	-0.1164	0.576	255	0	0	1	0	0	2019	0	0
+3390	"research center for traditional medicine, widya mandala catholic university surabaya, jl. dinoyo 42-44, surabaya, 60265, indonesia"	-0.2529	0.377	256	0	0	1	7	6.7759	2019	7	6.7759
+3391	"research center for tropic agriculture, national pingtung university of science and technology, pingtung, 91201, taiwan"	0.3624	0.1778	257	0	0	1	0	0	2019	0	0
+3392	"research center of food science and technology, rumah inovasi natura, surabaya, east java 60112, indonesia"	-0.7702	-0.0188	258	0	0	1	1	0.968	2019	1	0.968
+3393	"research center of geriatric nutrition, college of nutrition, taipei medical university, taipei, 11031, taiwan"	-0.4223	0.2386	259	0	0	1	1	0.968	2019	1	0.968
+3394	"research centre spiritual care, department of psychosomatic medicine and psychotherapy, university hospital klinikum rechts der isar, langerstr, germany"	-0.5977	-0.3277	260	0	0	1	2	1.936	2019	2	1.936
+3395	"research group for health and wellbeing of women and children, faculty of public health, universitas airlangga, banyuwangi campus, indonesia"	-0.0388	-0.5284	261	0	0	1	5	4.84	2019	5	4.84
+3396	"research school of population health, australian national university, canberra, act, australia"	-0.3026	0.1692	262	0	0	1	4	3.872	2019	4	3.872
+3397	"research unit for clean technology, indonesian institute of sciences, jl. cisitu-sangkuriang, campus lipi, bandung, 40135, indonesia"	-0.1796	-0.1971	263	0	0	1	0	0	2019	0	0
+3398	"research unit of general practice, institute of public health, university of southern denmark, j.b. winsløws vej 9, odense c, 5000, denmark"	0.1337	0.1938	264	0	0	1	2	1.936	2019	2	1.936
+3399	"residence of conservative dentistry, faculty of dental medicine, universitas airlangga, surabaya, indonesia"	-0.8591	-0.3947	265	0	0	1	0	0	2019	0	0
+3400	"residency program of oral and maxillofacial surgery, faculty of dental medicine, airlangga university, surabaya, indonesia"	0.4073	-0.3696	266	0	0	2	0	0	2019	0	0
+3401	"residency program of oral and maxillofacial surgery, faculty of dental medicine, universitas airlangga, surabaya, indonesia"	0.0359	0.949	267	0	0	1	0	0	2019	0	0
+3402	"residency program of oral and maxillofacial surgery, faculty of dental medicine,universitas airlangga, surabaya, indonesia"	0.1191	0.9419	268	0	0	1	0	0	2019	0	0
+3403	"resident in department of conservative dentistry, faculty of dental medicine, universitas airlangga, surabaya, indonesia"	-0.5077	-0.3037	269	0	0	1	0	0	2019	0	0
+3404	"resident of conservative dentistry specialist program, faculty of dental medicine, universitas airlangga, surabaya, indonesia"	0.3877	-0.2452	270	0	0	1	0	0	2019	0	0
+3405	"resident of conservative dentistry, faculty of dental medicine, universitas airlangga, surabaya, indonesia"	0.6121	-0.581	271	0	0	1	0	0	2019	0	0
+3406	"rheumatology division, internal medicine department airlangga university, dr. soetomo general hospital surabaya, indonesia"	0.1297	-0.7124	272	0	0	1	1	0.968	2019	1	0.968
+3407	"robinson research institute and adelaide medical school, university of adelaide, adelaide, sa, australia"	0.0618	0.4037	273	0	0	1	1	0.968	2019	1	0.968
+3408	"robinson research institute and school of medicine, university of adelaide, adelaide, sa, australia"	0.0899	0.6285	274	0	0	1	1	0.968	2019	1	0.968
+3409	"robotic surgical system training programme, jockey club minimally invasive surgical skills center, chinese university of hong kong, hong kong, hong kong"	-0.7322	-0.1195	275	0	0	1	1	0.968	2019	1	0.968
+3410	"royal taruma hospital, jakarta, indonesia"	-0.4698	0.0259	276	0	0	1	0	0	2019	0	0
+3411	"sabah al-ahmad urology center and adan hospital, kuwait"	0.2993	-0.7545	277	0	0	1	10	9.6799	2019	10	9.6799
+3412	"safety and health department, faculty of public health, universitas airlangga, surabaya, indonesia"	0.4159	-0.7036	278	0	0	1	0	0	2019	0	0
+3413	"saiful anwar general hospital, department of pediatrics, malang, east java, indonesia"	-0.0795	-0.0686	279	0	0	1	0	0	2019	0	0
+3414	"sains veteriner, faculty of veterinary medicine, universitas airlangga, surabaya, indonesia"	-0.9394	-0.1356	280	0	0	1	2	1.936	2019	2	1.936
+3415	"salmonella research centre, animal biosafety level 3, airlangga university, surabaya, 60115, indonesia"	0.3166	-0.8955	281	0	0	1	1	0.968	2019	1	0.968
+3416	"sanglah hospital, bali, denpasar, indonesia"	-0.0115	0.802	282	0	0	1	3	2.904	2019	3	2.904
+3417	"sardjito hospital, yogyakarta, indonesia"	-0.8069	0.029	283	0	0	1	3	2.904	2019	3	2.904
+3418	"school of accounting, faculty of business and law, curtin university, bentley, wa 6102, australia"	0.3646	-0.032	284	0	0	1	0	0	2019	0	0
+3419	"school of advance technology and multidiscipline, universitas airlangga, surabaya, indonesia"	-0.7087	0.0017	285	0	0	1	2	1.936	2019	2	1.936
+3420	"school of arts and humanities, edith cowan university, perth, australia"	-0.5024	-0.5426	286	0	0	1	1	0.968	2019	1	0.968
+3421	"school of chemical & biomolecular engineering, pusan national university, busan, 46241, south korea"	-0.9481	0.0448	287	0	0	1	0	0	2019	0	0
+3422	"school of chemistry, the university of manchester, manchester, united kingdom"	0.4726	-0.0984	288	0	0	1	1	0.968	2019	1	0.968
+3423	"school of dental medicine, hokkaido university, sapporo, japan"	0.3711	-0.7061	289	0	0	1	1	0.968	2019	1	0.968
+3424	"school of economics, bahauddin zakariya university, multan, pakistan"	-0.1328	0.2918	290	0	0	1	0	0	2019	0	0
+3425	"school of education, faculty of social science and humanities, universiti teknologi malaysia, malaysia"	0.72	0.2462	291	0	0	1	0	0	2019	0	0
+3426	"school of electrical, electronic and computer engineering, faculty of engineering and mathematical sciences, university of western australia, perth, australia"	-0.3969	-0.0249	292	0	0	1	3	2.904	2019	3	2.904
+3427	"school of engineering, kdu university college, shah alam, selangor darul ehsan, malaysia"	-0.8549	0.2508	1	6	6	1	3	2.904	2019	3	2.904
+3428	"school of engineering, kdu university college40150 selangor, malaysia"	0.4468	0.5884	293	0	0	1	0	0	2019	0	0
+3429	"school of gerontology health management & master program in long-term care, college of nursing, taipei medical university, taipei, taiwan"	0.1865	0.4662	294	0	0	1	3	2.904	2019	3	2.904
+3430	"school of health and social care, edinburgh napier university, edinburgh, united kingdom"	0.335	0.4466	295	0	0	1	0	0	2019	0	0
+3431	"school of health sciences, nutrition and dietetics department, international medical university, kuala lumpur, malaysia"	-0.2354	-0.917	296	0	0	1	1	0.968	2019	1	0.968
+3432	"school of information science, jaist (japan advanced institute of science and technology), asahidai 1-1, nomi, ishikawa, 923-1292, japan"	-0.3944	0.4569	297	0	0	1	0	0	2019	0	0
+3433	"school of information technology & electrical engineering, the university of queensland, brisbane, australia"	-0.5032	-0.4943	298	0	0	1	0	0	2019	0	0
+3434	"school of kinesiology, faculty of health and behavioural science, lakehead university, thunderbay, on, canada"	-0.6938	-0.3017	299	0	0	1	3	2.904	2019	3	2.904
+3435	"school of life sciences and engineering, southwest university of science and technology, mianyang, sichuan 621010, china"	-0.254	-0.5754	300	0	0	1	2	1.936	2019	2	1.936
+3436	"school of management, healthcare entrepreneurship division, university college london, gower st, bloomsbury, london wc1e 6bt, united kingdom"	-0.5471	0.5808	301	0	0	1	0	0	2019	0	0
+3437	"school of management, healthcare entrepreneurship division, university college london, gower st, bloomsbury, london, wc1e 6bt, united kingdom"	-0.5174	-0.1772	302	0	0	1	1	0.968	2019	1	0.968
+3438	"school of marketing and international business, victoria university of wellington, wellington, new zealand"	-0.7535	0.4381	39	1	1	1	6	5.808	2019	6	5.808
+3439	"school of medicine, griffith university, brisbane, australia"	-0.0267	-0.8499	303	0	0	1	1	0.968	2019	1	0.968
+3440	"school of medicine, universitas syiah kuala, banda aceh, 23111, indonesia"	0.8194	-0.4346	15	5	5	1	2	1.936	2019	2	1.936
+3441	"school of natural system, institute of natural science and technology, kanazawa university, kanazawa, japan"	0.6735	0.2105	304	0	0	1	1	0.968	2019	1	0.968
+3442	"school of nursing and midwifery, la trobe university, melbourne, australia"	-0.0173	0.4014	305	0	0	1	2	1.936	2019	2	1.936
+3443	"school of nursing and midwifery, la trobe university, melbourne, vic, australia"	-0.3911	0.3121	306	0	0	2	1	0.968	2019	0.5	0.484
+3444	"school of nursing and midwifery, la trobe university, melbourne, victoria, australia"	0.6704	-0.58	307	0	0	1	1	0.968	2019	1	0.968
+3445	"school of nursing science, faculty of medicine, universiti sultan zainal abidin, terengganu, malaysia"	0.0785	-0.6819	308	0	0	1	1	0.968	2019	1	0.968
+3446	"school of nursing, airlangga university, surabaya, indonesia"	-0.122	0.7156	309	0	0	2	0	0	2019	0	0
+3447	"school of nursing, college of nursing, taipei medical university, taipei, taiwan"	-0.3897	-0.4909	310	0	0	1	1	0.968	2019	1	0.968
+3448	"school of nursing, faculty of health sciences, university of jenderal soedirman, purwokerto, indonesia"	0.1373	-0.7657	311	0	0	1	3	2.904	2019	3	2.904
+3449	"school of nursing, faculty of medicine, universiti sultan zainal abidin, terengganu, malaysia"	-0.5246	0.0856	312	0	0	1	0	0	2019	0	0
+3450	"school of nursing, patria husada blitar, east java, indonesia"	0.6065	0.3326	313	0	0	1	1	0.968	2019	1	0.968
+3451	"school of nursing, stikes faletehan serangbanten, indonesia"	0.0446	0.8651	314	0	0	1	3	2.904	2019	3	2.904
+3452	"school of nursing, universitas lambung mangkurat, indonesia"	-0.2561	0.0233	315	0	0	1	2	1.936	2019	2	1.936
+3453	"school of nutrition and health sciences, college of nutrition, taipei medical university, taipei, 11031, taiwan"	-0.0534	0.2782	316	0	0	1	1	0.968	2019	1	0.968
+3454	"school of nutrition, faculty of health sciences, university of jenderal soedirman, purwokerto, indonesia"	-0.5174	0.6308	317	0	0	1	3	2.904	2019	3	2.904
+3455	"school of pharmacy and medical sciences, university of south australia, adelaide, sa, australia"	-0.1409	0.473	318	0	0	1	0	0	2019	0	0
+3456	"school of pharmacy, faculty of medicine and health science, universitas muhammadiyah yogyakarta, yogyakarta, 55183, indonesia"	0.1101	0.0526	319	0	0	1	1	0.968	2019	1	0.968
+3457	"school of pharmacy, institut teknologi bandung, bandung, 40132, indonesia"	-0.5127	0.3901	320	0	0	1	0	0	2019	0	0
+3458	"school of pharmacy, institut teknologi bandung, bandung, indonesia"	-0.3292	-0.2245	321	0	0	2	1	0.968	2019	0.5	0.484
+3459	"school of pharmacy, university of mississippi, 1018 tcrc university, oxford, ms 38677, united states"	-0.3691	0.117	322	0	0	1	2	1.936	2019	2	1.936
+3460	"school of post graduate, universitas airlangga, surabaya, 60115, indonesia"	0.1572	-0.2226	323	0	0	1	0	0	2019	0	0
+3461	"school of postgraduate studies, airlangga university, surabaya, east java, indonesia"	-0.8584	0.0313	324	0	0	1	9	8.7119	2019	9	8.7119
+3462	"school of psychology and public health, la trobe university, melbourne, vic, australia"	-0.1158	-0.6836	325	0	0	1	2	1.936	2019	2	1.936
+3463	"school of public health, airlangga university, indonesia"	-0.2981	-0.8493	326	0	0	1	0	0	2019	0	0
+3464	"school of public health, airlangga university, surabaya, indonesia"	-0.4721	-0.4469	327	0	0	2	0	0	2019	0	0
+3465	"school of public health, faculty of medicine, universitas udayana, indonesia"	0.9414	0.1181	328	0	0	1	0	0	2019	0	0
+3466	"school of public health, faculty of medicine, universitas udayana, jl, pb sudirman, denpasar, bali, indonesia"	-0.4638	0.6586	329	0	0	1	2	1.936	2019	2	1.936
+3467	"school of public health, university of sydney, sydney medical school, sydney, nsw, australia"	-0.5373	0.7603	20	3	3	1	4	3.872	2019	4	3.872
+3468	"school of social and economic development, universiti malaysia terenganu, kuala nerus, terengganu, 21030, malaysia"	0.2258	-0.3607	330	0	0	1	0	0	2019	0	0
+3469	"school of technology, assam don bosco university, guwahati, assam 781017, india"	-0.1879	0.7239	331	0	0	2	1	0.968	2019	0.5	0.484
+3470	"school universitas airlangga in surabaya, indonesia"	-0.1964	0.4219	332	0	0	1	0	0	2019	0	0
+3471	"science and technology faculty, airlangga university, airlangga street 4-6, mulyorejo, indonesia"	-0.9496	-0.0066	333	0	0	1	3	2.904	2019	3	2.904
+3472	"section of dentistry, japan ground self-defense forces camp asaka, tokyo, japan"	-0.5798	0.332	334	0	0	1	1	0.968	2019	1	0.968
+3473	"section of microbiology, school of pharmacy, hyogo university of health sciences, 1-3-6 minatojima, chuo-ku, kobe, hyogo 650-8530, japan"	-0.8394	0.4277	335	0	0	1	0	0	2019	0	0
+3474	"section of parasitology, division of microbiology, kobe university graduate school of medicine, kobe, hyogo 650-0017, japan"	0.4298	-0.3081	336	0	0	1	0	0	2019	0	0
+3475	"section on integrative physiology and metabolism, joslin diabetes center, department of medicine, harvard medical school, one joslin place, boston, ma 02215, united states"	-0.0917	0.918	13	7	7	2	0	0	2019	0	0
+3476	"sekolah pascasarjan universitas airlangga, indonesia"	-0.9176	-0.2356	337	0	0	1	1	0.968	2019	1	0.968
+3477	"sekolah tinggi ilmu farmasi makassar, makassar, indonesia"	0.5437	-0.739	8	14	22	2	5	4.84	2019	2.5	2.42
+3478	"sekolah tinggi ilmu keperawatan ppni jawa barat, bandung, indonesia"	-0.778	-0.317	338	0	0	2	5	4.84	2019	2.5	2.42
+3479	"sekolah tinggi ilmu kesehatan, rumah sakit anwar medika, sidoarjo, indonesia"	-0.5598	-0.6896	22	4	4	1	2	1.936	2019	2	1.936
+3480	"sekolah tinggi ilmu manajemen sukma, medan, indonesia"	0.721	-0.6203	339	0	0	1	1	0.968	2019	1	0.968
+3481	"senior port officer, pt. pelindo iii, indonesia"	-0.1327	0.08	340	0	0	1	1	0.968	2019	1	0.968
+3482	"seoul national university hospital, seoul, south korea"	-0.0694	-0.7326	341	0	0	1	10	9.6799	2019	10	9.6799
+3483	"sepuluh nopember institute of technology, surabaya, indonesia"	-0.5677	-0.1323	342	0	0	1	2	1.936	2019	2	1.936
+3484	"service de réanimation néonatale, centre d'etudes périnatales océan indien, centre hospitalier universitaire sud-réunion, saint-pierre, france"	-0.9016	-0.0922	343	0	0	1	1	0.968	2019	1	0.968
+3485	"sh ho urology center, department of surgery, the chinese university of hong kong, hong kong"	-0.0439	-0.7867	344	0	0	1	10	9.6799	2019	10	9.6799
+3486	"sh ho urology centre, chinese university of hong kong, hong kong, hong kong"	-0.9047	-0.1322	345	0	0	1	1	0.968	2019	1	0.968
+3487	"sharia economic departement, faculty of economics and business, universitas airlangga, surabaya, indonesia"	0.0234	-0.2687	346	0	0	1	1	0.968	2019	1	0.968
+3488	"sharia economics departement, universitas airlangga, indonesia"	-0.5134	0.4563	347	0	0	1	0	0	2019	0	0
+3489	"sharia economy department, economics and business faculty, universitas airlangga, indonesia"	0.2155	0.8356	348	0	0	1	1	0.968	2019	1	0.968
+3490	"shibaura institute of technology, department of mathematical sciences, saitama, japan"	-0.1088	0.2191	349	0	0	1	0	0	2019	0	0
+3491	"shipbuilding institute of polytechnic, surabaya, indonesia"	0.5445	0.4301	350	0	0	1	1	0.968	2019	1	0.968
+3492	"smart ivf clinic, anna hospital, bekasi, indonesia"	-0.8238	0.4757	351	0	0	1	0	0	2019	0	0
+3493	"social polotical sciences universitas airlangga in surabaya, indonesia"	-0.57	0.4058	352	0	0	1	0	0	2019	0	0
+3494	"social security study center, universitas airlangga, indonesia"	0.6632	-0.2214	353	0	0	1	0	0	2019	0	0
+3495	"sociology department, faculty of social and political sciences, airlangga university, surabaya, indonesia"	-0.7076	0.3979	354	0	0	1	1	0.968	2019	1	0.968
+3496	"soeradji tirtonegoro sport center and research unit, dr. soeradji tirtonegoro general hospital, klaten, indonesia"	0.4366	0.5333	355	0	0	2	2	1.936	2019	1	0.968
+3497	"soetomo general academic hospital, surabaya, indonesia"	-0.8534	-0.3375	356	0	0	1	0	0	2019	0	0
+3498	"soetomo general hospital, universitas airlangga, surabaya, indonesia"	0.4524	0.3031	357	0	0	1	0	0	2019	0	0
+3499	"soetomo hospital, faculty of medicine university airlangga, surabaya, indonesia"	-0.5196	0.3229	358	0	0	1	6	5.808	2019	6	5.808
+3500	"south east asia community observatory (seaco), jeffrey cheah school of medicine and health sciences, monash university malaysia, bandar sunway, 47500, malaysia"	-0.4003	-0.6531	14	11	11	3	11	10.6479	2019	3.6667	3.5493
+3501	"south east asia community observatory (seaco), monash university malaysia, bandar sunway, malaysia"	-0.0914	0.6316	359	0	0	1	2	1.936	2019	2	1.936
+3502	"southeast asian ministers of education organization regional centre for food and nutrition (seameo recfon)-pusat kajian gizi regional (pkgr), universitas indonesiajakarta, indonesia"	-0.1698	0.8295	360	0	0	1	1	0.968	2019	1	0.968
+3503	"specialist program of andrology, faculty of medicine, universitas airlangga, surabaya, indonesia"	0.2826	-0.1675	361	0	0	1	0	0	2019	0	0
+3504	"sport and adult reconstruction division, department of orthopaedics and traumatology, dr. chasbullah abdulmadjid general hospital, bekasi, indonesia"	-0.4504	-0.5058	362	0	0	1	0	0	2019	0	0
+3505	"sport and adult reconstruction division, department of orthopaedics and traumatology, dr. soetomo general hospital, surabaya, indonesia"	-0.2226	-0.3218	363	0	0	1	0	0	2019	0	0
+3506	"sport and adult reconstruction division, department of orthopaedics and traumatology, santosa hospital, bandung, indonesia"	-0.5955	0.0692	364	0	0	1	0	0	2019	0	0
+3507	"sport and adult reconstructive division, department of orthopaedics and traumatology, dr. soeradji tirtonegoro general hospital, klaten, indonesia"	-0.3336	0.0375	365	0	0	1	0	0	2019	0	0
+3508	"sport clinic, faculty of medicine, universitas airlangga and dr. soetomo hospital, indonesia"	0.4992	-0.1602	366	0	0	1	1	0.968	2019	1	0.968
+3509	"sport clinic, faculty of medicine, universitas airlangga-dr soetomo hospital, indonesia"	0.0188	-0.4032	367	0	0	1	0	0	2019	0	0
+3510	"sport health science study program, universitas airlangga, surabaya, indonesia"	0.6736	-0.4168	368	0	0	2	0	0	2019	0	0
+3511	"sport science faculty, universitas negeri surabaya, indonesia"	-0.2936	-0.2878	369	0	0	1	0	0	2019	0	0
+3512	"sports innovation and technology centre (sitc), institute of human centred and engineering (ihce), universiti teknologi malaysia, johor bahru, 81310, malaysia"	0.3998	-0.8305	11	6	6	1	8	7.7439	2019	8	7.7439
+3513	"statistics department, sepuluh nopember institute of technology, campus of sukolilo, surabaya, 60111, indonesia"	-0.2606	-0.7333	370	0	0	1	3	2.904	2019	3	2.904
+3514	"statistics study program, department of mathematics, airlangga university, mulyorejo street, surabaya, 60115, indonesia"	0.1672	-0.0897	371	0	0	1	0	0	2019	0	0
+3515	"stem cell divison, prodia laboratory, kramat 7 no. 11 street, jakarta, 10430, indonesia"	0.0149	0.8886	372	0	0	1	1	0.968	2019	1	0.968
+3516	"stem cell laboratory, institute of tropical disease, universitas airlangga, surabaya, indonesia"	0.4987	0.5408	373	0	0	1	4	3.872	2019	4	3.872
+3517	"stem cell reasearch and development center, universitas airlangga, surabaya, indonesia"	-0.107	0.4136	374	0	0	1	0	0	2019	0	0
+3518	"stem cell research and development center, airlangga university, surabaya, indonesia"	0.8824	-0.0749	3	12	22	4	16	15.4879	2019	4	3.872
+3519	"stem cell research and development center, universitas airlanga, surabaya, indonesia"	-0.8309	-0.0106	375	0	0	1	0	0	2019	0	0
+3520	"stem cell research and development center, universitas airlangga, indonesia"	0.2355	-0.4842	376	0	0	1	0	0	2019	0	0
+3521	"stem cell research and development center, universitas airlangga, surabaya, 61115, indonesia"	-0.6593	-0.2032	31	3	3	1	4	3.872	2019	4	3.872
+3522	"stem cell research and development center, universitas airlangga, surabaya, indonesia"	0.884	-0.073	3	16	25	20	36	34.8477	2019	1.8	1.7424
+3523	"stem cell research and development center, universitasairlangga, kampus c unair, jl. mulyorejo, surabaya, 60115, indonesia"	0.5615	-0.278	377	0	0	1	0	0	2019	0	0
+3524	"stem cell research and development center, universitasairlangga, surabaya, indonesia"	-0.674	-0.0918	378	0	0	1	0	0	2019	0	0
+3525	"stem cells research and development center, campus c, universitas airlangga surabaya, jl. ir h. soekarno, mulyosari, surabaya, indonesia"	0.4564	0.67	379	0	0	1	10	9.6799	2019	10	9.6799
+3526	"stem cells research and development center, laboratory of virology and immunology, microbiology department, faculty of veterinary medicine airlangga university, indonesia"	0.099	-0.4631	380	0	0	1	0	0	2019	0	0
+3527	"stem cells research division, institute tropical disease, universitas airlangga, surabaya, 60115, indonesia"	0.7094	0.5516	7	1	1	1	2	1.936	2019	2	1.936
+3528	"stie perbanas, surabaya, indonesia"	0.0285	0.2663	381	0	0	1	0	0	2019	0	0
+3529	"stie pgri dewantara, jombang, india"	-0.0515	-0.1424	382	0	0	1	1	0.968	2019	1	0.968
+3530	"stie swadaya, jakarta, india"	0.4059	0.4447	383	0	0	1	1	0.968	2019	1	0.968
+3531	"stikes bhakti husada mulia madiuneast java, indonesia"	0.2562	0.46	384	0	0	1	0	0	2019	0	0
+3532	"stikes cirebon, jalan brigjen dharsono no. 12b bypass, cirebon, jawa barat, indonesia"	-0.2658	-0.4587	385	0	0	1	0	0	2019	0	0
+3533	"stikes kepanjen, malang, indonesia"	-0.4746	-0.2432	386	0	0	1	2	1.936	2019	2	1.936
+3534	"stikes surya mitra husada, kediri, indonesia"	-0.5559	0.2657	387	0	0	1	1	0.968	2019	1	0.968
+3535	"stikes wira medika bali, indonesia"	-0.8058	0.4953	388	0	0	1	3	2.904	2019	3	2.904
+3536	"stikes wiyata husada samarinda, indonesia"	-0.1378	-0.7363	389	0	0	1	1	0.968	2019	1	0.968
+3537	"stikes yayasan rs dr. soetomo, surabaya, indonesia"	-0.2173	0.4916	390	0	0	1	0	0	2019	0	0
+3538	"stkip pgri tulungagung, tulungagung, indonesia"	-0.1549	0.1564	391	0	0	1	1	0.968	2019	1	0.968
+3539	"stmik nusa mandiri jakarta, jakarta, indonesia"	0.4244	0.0384	392	0	0	1	1	0.968	2019	1	0.968
+3540	"stud. of faculty of veterinary medicine universitas airlangga, faculty of veterinary medicine universitas airlangga, indonesia"	-0.3658	0.194	393	0	0	1	0	0	2019	0	0
+3541	"stud. of study program of statistics, department of mathematics, airlangga university, surabaya, indonesia"	-0.3634	0.824	4	2	2	1	5	4.84	2019	5	4.84
+3542	"stud. of study program of statistics, department of mathematics, faculty of sciences and technology, airlangga university, surabaya, indonesia"	-0.5869	-0.7529	394	0	0	1	1	0.968	2019	1	0.968
+3543	"student in department of mathematics, airlangga university, surabaya, indonesia"	-0.5456	-0.2291	395	0	0	1	0	0	2019	0	0
+3544	"student master of public health at airlangga university, surabaya, indonesia"	-0.2347	-0.8353	396	0	0	1	0	0	2019	0	0
+3545	"student of environmental engineering, faculty of science and technology, airlangga university, surabaya, indonesia"	-0.1453	0.8004	397	0	0	1	0	0	2019	0	0
+3546	"student of health policy and administration, faculty of public health, airlangga universitysurabaya, indonesia"	-0.2101	0.0893	398	0	0	1	0	0	2019	0	0
+3547	"student of magister program of sport education, universitas pgri adi buana, surabaya, indonesia"	0.2107	0.1903	399	0	0	1	0	0	2019	0	0
+3548	"study group of human genetics, institute of tropical disease, airlangga university, indonesia"	0.1484	0.7796	400	0	0	1	0	0	2019	0	0
+3549	"study of human resource development, school of universitas airlangga, campus b. jl. airlangga no. 4-6, surabaya, indonesia"	-0.0395	0.5817	401	0	0	1	1	0.968	2019	1	0.968
+3550	"study program of animal health, faculty of vocational, universitas airlangga, surabaya, indonesia"	-0.6356	0.6663	12	3	3	1	1	0.968	2019	1	0.968
+3551	"study program of aquaculture, banyuwangi campus, department of fish health and aquaculture, faculty of fisheries and marine, universitas airlangga, indonesia"	-0.9425	-0.0849	402	0	0	1	4	3.872	2019	4	3.872
+3552	"study program of aquaculture, department of fish health management, faculty of fisheries and marine, universitas airlangga, kampus c unair, jl mulyorejo, surabaya, indonesia"	-0.4173	0.6514	403	0	0	1	0	0	2019	0	0
+3553	"study program of aquaculture, faculty of fisheries and marine, airlangga university, surabaya, 60115, indonesia"	-0.7386	-0.2992	404	0	0	1	0	0	2019	0	0
+3554	"study program of aquaculture, faculty of fisheries and marine, airlangga university, surabaya, indonesia"	-0.4707	-0.0423	405	0	0	1	0	0	2019	0	0
+3555	"study program of aquaculture, faculty of fisheries and marine, psdku universitas airlangga di banyuwangi, indonesia"	0.7433	0.2015	406	0	0	1	0	0	2019	0	0
+3556	"study program of aquaculture, faculty of fisheries and marine, universitas airlangga, kampus c unair, jl. mulyorejo, surabaya, 60115, indonesia"	-0.1022	0.7838	407	0	0	1	2	1.936	2019	2	1.936
+3557	"study program of aquaculture, psdku banyuwangi, department of fish health management and aquaculture, faculty of fisheries and marine, airlangga university, indonesia"	0.5804	0.1538	408	0	0	1	0	0	2019	0	0
+3558	"study program of aquaculture, psdku banyuwangi, department of fish health management and aquaculture, faculty of fisheries and marine, universitas airlangga, indonesia"	-0.062	0.7431	409	0	0	1	1	0.968	2019	1	0.968
+3559	"study program of aquaculture, psdku banyuwangi, faculty of fisheries and marine, universitas airlangga, indonesia"	-0.0739	-0.8344	410	0	0	1	1	0.968	2019	1	0.968
+3560	"study program of aquaculture, universitas airlangga campus, banyuwangi, 68423, indonesia"	0.0324	-0.1514	411	0	0	1	0	0	2019	0	0
+3561	"study program of doctoral islamic economic science, faculty of economics and business, universitas airlangga, airlangga, indonesia"	-0.8932	-0.2882	33	2	2	1	6	5.808	2019	6	5.808
+3562	"study program of environmental engineering, department of biology, faculty of science and technology, universitas airlangga, kampus c unair, jalan mulyorejo, surabaya, 60115, indonesia"	0.3947	0.8252	5	17	69	9	84	81.3113	2019	9.3333	9.0346
+3563	"study program of environmental engineering, department of biology, faculty of science and technology, universitas airlangga, kampus c unair, jalan, mulyorejo, surabaya, 60115, indonesia"	0.3935	0.8262	5	9	13	1	4	3.872	2019	4	3.872
+3564	"study program of environmental engineering, department of biology, faculty of science and technology, universitas airlangga, surabaya, 60115, indonesia"	0.0016	-0.0797	412	0	0	1	7	6.7759	2019	7	6.7759
+3565	"study program of environmental engineering, department of biology, faculty of science and technology, universitas airlangga, surabaya, indonesia"	0.4727	-0.5656	413	0	0	1	1	0.968	2019	1	0.968
+3566	"study program of environmental engineering, department of biology, faculty of sciences and technology, universitas airlangga, surabaya, indonesia"	-0.3578	0.8262	4	2	2	1	2	1.936	2019	2	1.936
+3567	"study program of environmental engineering, department of biology, universitas airlangga, indonesia"	-0.3369	0.8343	4	2	2	1	1	0.968	2019	1	0.968
+3568	"study program of environmental engineering, faculty of science and technology, airlangga university, surabaya, 60115, indonesia"	-0.638	0.6658	12	3	3	1	0	0	2019	0	0
+3569	"study program of environmental engineering, faculty of science and technology, universitas airlangga, surabaya, indonesia"	-0.1037	-0.7848	414	0	0	1	0	0	2019	0	0
+3570	"study program of environmental health, polytechnic of health, surabaya, indonesia"	-0.4035	-0.2373	415	0	0	1	2	1.936	2019	2	1.936
+3571	"study program of environmental science and technology, department of biology, faculty of science and technology, airlangga university, surabaya, indonesia"	-0.8405	-0.2405	416	0	0	1	0	0	2019	0	0
+3572	"study program of environmental science and technology, university of airlangga, surabaya, indonesia"	0.6055	-0.42	417	0	0	1	0	0	2019	0	0
+3573	"study program of mathematics, departement of mathematics, airlangga university, surabaya, indonesia"	-0.8959	-0.1794	418	0	0	1	0	0	2019	0	0
+3574	"study program of nursing science, faculty of nursing, university of brawijaya, ketawanggede, malang, indonesia"	0.4463	-0.4255	419	0	0	1	2	1.936	2019	2	1.936
+3575	"study program of statistics, department of mathematics, airlangga university, surabaya, indonesia"	0.5918	0.3957	420	0	0	5	8	7.7439	2019	1.6	1.5488
+3576	"study program of statistics, department of mathematics, gadjah mada university, yogyakarta, indonesia"	0.6744	0.0729	421	0	0	1	3	2.904	2019	3	2.904
+3577	"study program of waste treatment engineering, department of marine engineering, politeknik perkapalan negeri surabaya, jalan teknik kimia, kampus its keputih, sukolilo, surabaya, 60111, indonesia"	0.3952	0.8258	5	13	47	5	49	47.4316	2019	9.8	9.4863
+3578	"study program of waste treatment engineering, department of marine engineering, politeknik perkapalan negeri surabaya, jalan teknik kimia, kampus its sukolilo, surabaya, 60111, indonesia"	0.3923	0.8259	5	12	25	2	8	7.7439	2019	4	3.872
+3579	"study program of waste treatment engineering, department of marine engineering, politeknik perkapalan negeri surabaya, jalan teknik kimia, kampus its sukolilo, surabaya, 60117, indonesia"	0.391	0.8257	5	3	3	1	1	0.968	2019	1	0.968
+3580	"study program of waste treatment engineering, politeknik perkapalan negeri surabaya, jalan teknik kimia, kampus its sukolilo, surabaya, 60111, indonesia"	0.3938	0.8271	5	9	17	1	15	14.5199	2019	15	14.5199
+3581	"sulianti saroso infectious disease hospital, jakarta, indonesia"	-0.1303	-0.1338	422	0	0	1	3	2.904	2019	3	2.904
+3582	"sumatera institute of technology, bandar lampung, indonesia"	-0.2891	0.0975	423	0	0	1	2	1.936	2019	2	1.936
+3583	"surabaya city health office, indonesia"	-0.6439	0.4268	424	0	0	1	0	0	2019	0	0
+3584	"surabaya health polytechnic, ministry of health, jl. pucang jajar tengah, surabaya, indonesia"	-0.5165	-0.8012	425	0	0	1	1	0.968	2019	1	0.968
+3585	"surabaya skin centre clinic, dr. soetomo hospital, jl. prof. dr. moestopo 175, surabaya, indonesia"	0.0289	0.0597	426	0	0	1	0	0	2019	0	0
+3586	"surabaya skin centre clinic, jl. prof. dr. moestopo 175, surabaya, indonesia"	-0.1602	-0.5374	427	0	0	1	1	0.968	2019	1	0.968
+3587	"surgery department, faculty of medicine, universitas airlangga, indonesia"	0.3924	0.1073	428	0	0	1	0	0	2019	0	0
+3588	"syarif hidayatullah state islamic university jakarta, jl. ir. h. djuanda no.95, banten, indonesia"	-0.583	0.462	429	0	0	1	1	0.968	2019	1	0.968
+3589	"sydney university, australia"	-0.1624	0.3621	430	0	0	1	1	0.968	2019	1	0.968
+3590	"synthetic biology and bioengineering research center, korea research institute of bioscience and biotechnology, daejeon, 34141, south korea"	-0.1873	-0.5971	431	0	0	1	0	0	2019	0	0
+3591	"technical center of environmental health and disease control, surabaya, indonesia"	0.3155	0.5693	432	0	0	1	0	0	2019	0	0
+3592	"technology and higher education, indonesia"	-0.078	0.3491	433	0	0	1	2	1.936	2019	2	1.936
+3593	"technology of medical laboratory, faculty of vocational, universitas airlangga, jl. dharmawangsa dalam 28-30, surabaya, 60286, indonesia"	-0.7584	0.0367	434	0	0	2	0	0	2019	0	0
+3594	"telethon kids institute, nedlands, wa, australia"	0.2111	-0.5488	435	0	0	1	4	3.872	2019	4	3.872
+3595	"teri-deakin nanobiotechnology centre, the energy and resources institute (teri), gual pahari, teri gram, gurugram, india"	-0.2277	0.5653	436	0	0	1	5	4.84	2019	5	4.84
+3596	the doctoral program of public health	-0.9403	0.0659	437	0	0	1	0	0	2019	0	0
+3597	"the faculty of math and science, institute 10 nopember, surabaya, indonesia"	0.3084	-0.37	438	0	0	1	1	0.968	2019	1	0.968
+3598	"the faculty of politic and social science, airlangga university, surabaya, indonesia"	0.64	-0.1758	439	0	0	2	0	0	2019	0	0
+3599	"the faculty of public health, airlangga university, surabaya, indonesia"	0.0404	0.6654	440	0	0	3	1	0.968	2019	0.3333	0.3227
+3600	"the indonesian association of occupational health and safety, jakarta pusat, indonesia"	0.0705	0.5328	441	0	0	1	0	0	2019	0	0
+3601	"the institute of urology, university college of london hospital, london, united kingdom"	0.1026	0.9201	442	0	0	1	9	8.7119	2019	9	8.7119
+3602	"the james buchanan brady urological institute, department of urology, johns hopkins medical institutions, baltimore, md, united states"	-0.7817	0.537	443	0	0	1	9	8.7119	2019	9	8.7119
+3603	"the laboratory of biophysical chemistry, university of groningen, groningen, 9747 ag, netherlands"	-0.3625	-0.785	444	0	0	1	2	1.936	2019	2	1.936
+3604	"the laboratory of proteomics, institute of tropical disease, universitas airlangga, surabaya, 60115, indonesia"	0.2909	-0.8314	445	0	0	1	2	1.936	2019	2	1.936
+3605	"the national clinical research center for mental disorders, china & center of depression, beijing institute for brain disorders & mood disorders center, beijing anding hospital, capital medical university, beijing, china"	0.4846	-0.3714	446	0	0	1	1	0.968	2019	1	0.968
+3606	"theoretical high energy physics and instrumentations research group, institut teknologi bandung jl. ganesha 10, bandung, 40132, indonesia"	-0.9471	-0.0336	447	0	0	1	1	0.968	2019	1	0.968
+3607	"theoretical physics research group, dep. of physics, fac. of science and technology, airlangga university, jl. mulyorejo, surabaya, 60115, indonesia"	0.1196	-0.153	448	0	0	1	0	0	2019	0	0
+3608	"theoretical physics research group, department of physics, faculty of science and technology, surabaya, 60115, indonesia"	0.4971	-0.3028	449	0	0	1	1	0.968	2019	1	0.968
+3609	"theoretical physics research group, department of physics, universitas airlangga, surabaya, indonesia"	0.7105	-0.6031	450	0	0	2	1	0.968	2019	0.5	0.484
+3610	"tissue engineering and regenerative medicine laboratory, department of biomedical engineering, international university, vietnam national university, ho chi minh city, 700000, viet nam"	0.7843	0.1761	451	0	0	1	4	3.872	2019	4	3.872
+3611	"tourism faculty, udayana university, bali, indonesia"	0.3787	0.5755	452	0	0	1	0	0	2019	0	0
+3612	"tropical epidemiology group, london school of hygiene and tropical medicine, london, united kingdom"	0.2562	0.8731	453	0	0	1	1	0.968	2019	1	0.968
+3613	"tropical medicine, faculty of medicine, airlangga university, indonesia"	-0.0582	-0.9445	454	0	0	1	0	0	2019	0	0
+3614	"udayana center for ncds tobacco control and lung health, udayana university sudirman campus, denpasar, indonesia"	-0.5373	0.7601	20	3	3	1	4	3.872	2019	4	3.872
+3615	"udayana center for ncds, tobacco control and lung health (central), universitas udayana, denpasar, indonesia"	-0.3232	0.6286	455	0	0	1	3	2.904	2019	3	2.904
+3616	"udayana university bali, indonesia"	-0.6381	0.4807	456	0	0	1	0	0	2019	0	0
+3617	"udayana university, denpasar, indonesia"	0.098	-0.3983	457	0	0	1	2	1.936	2019	2	1.936
+3618	"undergraduate program of aquaculture, banyuwangi campus, universitas airlangga, banyuwangi, east java, indonesia"	0.569	-0.4743	458	0	0	1	2	1.936	2019	2	1.936
+3619	"undergraduate program of aquaculture, faculty of fisheries and marine, banyuwangi campus, universitas airlangga, banyuwangi, east java, indonesia"	-0.1113	-0.4913	459	0	0	1	0	0	2019	0	0
+3620	"undergraduate program of aquaculture, faculty of fisheries and marine, universitas airlangga, surabaya, 60115, indonesia"	0.0271	-0.4739	460	0	0	6	1	0.968	2019	0.1667	0.1613
+3621	"undergraduate program, faculty of public health, universitas airlangga, surabaya, indonesia"	0.1073	0.2649	461	0	0	1	3	2.904	2019	3	2.904
+3622	"undergraduate student, faculty of dental medicine, airlangga university, surabaya, indonesia"	0.6302	-0.0187	462	0	0	1	0	0	2019	0	0
+3623	"undergraduate student, faculty of dental medicine, universitas airlangga, surabaya, indonesia"	0.0935	-0.5324	463	0	0	1	0	0	2019	0	0
+3624	"undergraduate study program of biomedical engineering, department of physics, faculty of science & technology, airlangga university, surabaya, 60115, indonesia"	0.5756	-0.5348	464	0	0	1	4	3.872	2019	4	3.872
+3625	"unit of global health, department of health sciences, university of groningen university medical center groningen, groningen, netherlands"	0.1569	0.3356	465	0	0	1	1	0.968	2019	1	0.968
+3626	"unit of global health, department of health sciences, university of groningen, university medical center groningen (umcg), groningen, netherlands"	0.0823	-0.6047	466	0	0	1	1	0.968	2019	1	0.968
+3627	"unit of global health, department of health sciences, university of groningen, university medical center groningen, groningen, netherlands"	0.0883	0.9456	467	0	0	1	0	0	2019	0	0
+3628	"unit of pharmaco therapy, epidemiology and -economics (pte2), department of pharmacy faculty of science and engineering university of groningen, groningen, netherlands"	0.2083	0.3963	468	0	0	1	1	0.968	2019	1	0.968
+3629	"unit of pharmacoepidemiology and pharmacoeconomics, department of pharmacy, university of groningen, groningen, netherlands"	-0.8125	-0.0589	469	0	0	1	1	0.968	2019	1	0.968
+3630	"unit of pharmacotherapy, epidemiology & economics (pte2), department of pharmacy, faculty of science and engineering (fse), university of groningen, groningen, netherlands"	0.0587	-0.7357	470	0	0	1	4	3.872	2019	4	3.872
+3631	"unit of pharmacotherapy, epidemiology & economics (pte2), department of pharmacy, university of groningengroningen, netherlands"	-0.6091	-0.0859	471	0	0	1	0	0	2019	0	0
+3632	"unit of psychiatry, faculty of health sciences, university of macau, avenida da universidade, 3/f, building e12, taipa, macau"	0.3995	-0.1044	472	0	0	1	2	1.936	2019	2	1.936
+3633	"unit of psychiatry, faculty of health sciences, university of macau, macao sar, china"	0.0829	-0.0861	473	0	0	1	1	0.968	2019	1	0.968
+3634	"universitas 17 agustus 1945, surabaya, indonesia"	-0.4673	-0.8206	41	1	1	1	3	2.904	2019	3	2.904
+3635	"universitas air langga, indonesia"	0.1981	-0.6207	474	0	0	1	5	4.84	2019	5	4.84
+3636	"universitas airlangga hospital, mulyorejo campus c, surabaya, indonesia"	-0.3926	0.3881	475	0	0	1	1	0.968	2019	1	0.968
+3637	"universitas airlangga surabaya, indonesia"	0.3561	0.3809	476	0	0	1	1	0.968	2019	1	0.968
+3638	"universitas airlangga, airlangga no. 4-6, surabaya, 60286, indonesia"	-0.9471	0.0194	477	0	0	1	9	8.7119	2019	9	8.7119
+3639	"universitas airlangga, biomedical engineering, faculty of science and technology, surabaya, indonesia"	-0.6334	-0.6997	35	2	2	1	0	0	2019	0	0
+3640	"universitas airlangga, department of biomedical engineering, faculty of science and technology, surabaya, indonesia"	-0.333	-0.4908	478	0	0	1	0	0	2019	0	0
+3641	"universitas airlangga, department of clinical pharmacy, faculty of pharmacy, surabaya, 60286, indonesia"	0.307	0.5083	479	0	0	1	0	0	2019	0	0
+3642	"universitas airlangga, department of dermatology and venereology, surabaya, indonesia"	0.1716	0.5307	480	0	0	1	0	0	2019	0	0
+3643	"universitas airlangga, department of engineering, surabaya, indonesia"	-0.7701	0.5636	481	0	0	1	1	0.968	2019	1	0.968
+3644	"universitas airlangga, department of mathematics, surabaya, indonesia"	-0.3589	-0.0908	482	0	0	1	0	0	2019	0	0
+3645	"universitas airlangga, department of physics, faculty of science and technology, surabaya, indonesia"	0.3347	0.2504	483	0	0	1	0	0	2019	0	0
+3646	"universitas airlangga, doctoral program of pharmaceutical science, faculty of pharmacy, surabaya, indonesia"	-0.1885	0.2336	484	0	0	1	0	0	2019	0	0
+3647	"universitas airlangga, faculty of dental medicine, department of oral biology, surabaya, indonesia"	-0.2803	0.5959	485	0	0	1	2	1.936	2019	2	1.936
+3648	"universitas airlangga, faculty of dental medicine, jl. prof. dr. moestopo 47, surabaya, indonesia"	0.3155	-0.6595	486	0	0	1	0	0	2019	0	0
+3649	"universitas airlangga, faculty of dental medicine, surabaya, indonesia"	0.4293	-0.1728	487	0	0	1	2	1.936	2019	2	1.936
+3650	"universitas airlangga, faculty of fisheries and marine, department of fish health management and aquaculture, surabaya, east java 60115, indonesia"	0.5754	0.0356	488	0	0	1	1	0.968	2019	1	0.968
+3651	"universitas airlangga, faculty of medicine, department of medical microbiology, surabaya, indonesia"	0.1236	0.5721	489	0	0	1	1	0.968	2019	1	0.968
+3652	"universitas airlangga, faculty of medicine, department of pulmonology and respiratory medicine, surabaya, indonesia"	-0.1137	-0.3358	490	0	0	1	1	0.968	2019	1	0.968
+3653	"universitas airlangga, faculty of medicine, doctoral program of medical science, surabaya, indonesia"	0.7123	0.1011	491	0	0	1	1	0.968	2019	1	0.968
+3654	"universitas airlangga, faculty of medicine, surabaya, indonesia"	0.2913	-0.0269	492	0	0	1	0	0	2019	0	0
+3655	"universitas airlangga, faculty of pharmacy, department of pharmacy practice, surabaya, indonesia"	-0.4284	-0.8483	493	0	0	1	3	2.904	2019	3	2.904
+3656	"universitas airlangga, faculty of psychology, campus b, jl. airlangga 4-6, surabaya, 60586, indonesia"	-0.0963	-0.9295	494	0	0	1	0	0	2019	0	0
+3657	"universitas airlangga, faculty of vocational studies, department of business, jalan dharmawangsa dalam 28-30, surabaya, 60286, indonesia"	0.2417	0.5332	495	0	0	1	0	0	2019	0	0
+3658	"universitas airlangga, india"	0.799	0.1343	496	0	0	1	1	0.968	2019	1	0.968
+3659	"universitas airlangga, indonesia"	-0.1876	-0.4546	497	0	0	15	30	29.0398	2019	2	1.936
+3660	"universitas airlangga, indonesia, indonesia"	0.5936	-0.2147	498	0	0	1	0	0	2019	0	0
+3661	"universitas airlangga, institute of tropical disease, laboratory of tuberculosis, surabaya, indonesia"	-0.6569	-0.0326	499	0	0	1	1	0.968	2019	1	0.968
+3662	"universitas airlangga, jalan airlangga no. 4 - 6, airlangga, surabaya, east java, indonesia"	-0.3908	-0.862	43	1	1	1	17	16.4559	2019	17	16.4559
+3663	"universitas airlangga, jalan dharmawangsa dalam 28-30, surabaya, 60286, indonesia"	-0.7231	0.6141	500	0	0	1	1	0.968	2019	1	0.968
+3664	"universitas airlangga, jalan prof dr moestopo no. 47, surabaya, indonesia"	0.8789	-0.1155	21	3	3	1	1	0.968	2019	1	0.968
+3665	"universitas airlangga, jl dharmawangsa dalam no. 28-30, surabaya, 60286, indonesia"	-0.5409	-0.7804	501	0	0	1	0	0	2019	0	0
+3666	"universitas airlangga, jl. airlangga 4-6, surabaya, east java, indonesia"	-0.4761	0.6965	502	0	0	1	0	0	2019	0	0
+3667	"universitas airlangga, jl. airlangga no.4, surabaya, 60286, indonesia"	-0.9469	-0.06	503	0	0	1	4	3.872	2019	4	3.872
+3668	"universitas airlangga, kampus c mulyorejo, surabaya, 60115, indonesia"	-0.1755	-0.3741	504	0	0	1	9	8.7119	2019	9	8.7119
+3669	"universitas airlangga, surabaya, east-java, indonesia"	0.459	-0.2387	505	0	0	2	0	0	2019	0	0
+3670	"universitas airlangga, surabaya, indonesia"	-0.4673	-0.8206	41	1	1	17	6	5.808	2019	0.3529	0.3416
+3671	universitas airlangga.	-0.0924	-0.8744	506	0	0	1	0	0	2019	0	0
+3672	"universitas bengkulu, bengkulu, indonesia"	-0.3131	-0.034	507	0	0	1	1	0.968	2019	1	0.968
+3673	"universitas brawijaya malang, indonesia"	-0.2121	-0.1276	508	0	0	1	5	4.84	2019	5	4.84
+3674	"universitas brawijaya, indonesia"	-0.2808	0.3058	509	0	0	1	0	0	2019	0	0
+3675	"universitas brawijaya, jl. veteran malang65145, indonesia"	0.0211	0.924	510	0	0	1	9	8.7119	2019	9	8.7119
+3676	"universitas brawijaya, malang, indonesia"	-0.1227	-0.423	511	0	0	2	1	0.968	2019	0.5	0.484
+3677	"universitas dian nuswantoro, department of biomedical engineering, faculty of engineering, semarang, indonesia"	-0.078	0.1436	512	0	0	1	0	0	2019	0	0
+3678	"universitas diponegoro, semarang, indonesia"	0.3941	-0.4723	513	0	0	1	1	0.968	2019	1	0.968
+3679	"universitas gadjah mada, doctoral program, research center of biotechnology, yogyakarta, indonesia"	-0.8795	-0.0077	514	0	0	1	1	0.968	2019	1	0.968
+3680	"universitas gadjah mada, faculty of veterinary medicine, department of biochemistry, yogyakarta, indonesia"	-0.2913	-0.1176	515	0	0	1	1	0.968	2019	1	0.968
+3681	"universitas gadjah mada, one health/eco-health resource centeryogyakarta, indonesia"	0.5483	-0.5809	516	0	0	1	1	0.968	2019	1	0.968
+3682	"universitas gresik, indonesia"	-0.4268	-0.105	517	0	0	1	3	2.904	2019	3	2.904
+3683	"universitas hasanuddin, department of informatics, makassar, indonesia"	0.3165	-0.2422	518	0	0	1	0	0	2019	0	0
+3684	"universitas indonesia, department of computer engineering, jakarta, indonesia"	0.9067	0.1151	519	0	0	1	0	0	2019	0	0
+3685	"universitas indonesia, department of orthopaedics, jakarta, indonesia"	0.354	-0.3147	520	0	0	1	0	0	2019	0	0
+3686	"universitas indonesia, indonesia"	0.4371	0.1726	521	0	0	1	1	0.968	2019	1	0.968
+3687	"universitas islam negeri sunan gunung djati bandung, indonesia"	-0.3317	-0.4239	522	0	0	1	2	1.936	2019	2	1.936
+3688	"universitas katolik widya mandira, dept. of computer science, kupang, indonesia"	-0.3073	-0.8938	523	0	0	1	0	0	2019	0	0
+3689	"universitas lambung mangkurat, banjarmasin, indonesia"	0.3764	-0.6477	524	0	0	1	0	0	2019	0	0
+3690	"universitas lancang kuning, indonesia"	-0.5767	0.1334	525	0	0	1	1	0.968	2019	1	0.968
+3691	"universitas muhammadiyah buton, baubau, southeast-sulawesi, indonesia"	0.356	0.6683	526	0	0	1	0	0	2019	0	0
+3692	"universitas muhammadiyah gorontalo, surabaya, indonesia"	-0.3667	-0.2992	527	0	0	1	1	0.968	2019	1	0.968
+3693	"universitas muhammadiyah ponorogo, india"	-0.6295	0.1814	528	0	0	1	1	0.968	2019	1	0.968
+3694	"universitas muhammadiyah yogyakarta, yogyakarta, indonesia"	-0.1617	0.7608	529	0	0	1	6	5.808	2019	6	5.808
+3695	"universitas nahdlatul ulama surabaya, surabaya, indonesia"	0.5485	-0.0945	530	0	0	1	1	0.968	2019	1	0.968
+3696	"universitas padjajaran, jl. raya bandung sumedang jatinangor, bandung, 45363, indonesia"	-0.3003	-0.7608	531	0	0	1	9	8.7119	2019	9	8.7119
+3697	"universitas palangka raya, faculty of social and political sciences, departement of public administration, jalan hendrik timang, palangka, jekan raya, kota palangka raya, kalimantan tengah 73112, indonesia"	-0.1604	-0.0622	532	0	0	1	0	0	2019	0	0
+3698	"universitas pembangunan nasional veteran jawa timur, radityo dharmaputra, indonesia"	0.0454	-0.7894	533	0	0	1	1	0.968	2019	1	0.968
+3699	"universitas qamarul huda badaruddin, bagu, indonesia"	0.2737	-0.7932	534	0	0	1	1	0.968	2019	1	0.968
+3700	"universitas sarjanawiyata tamansiswa, indonesia"	-0.4973	-0.1123	535	0	0	1	0	0	2019	0	0
+3701	"universitas sebelas maret, indonesia"	0.2543	0.8421	536	0	0	1	0	0	2019	0	0
+3702	"universitas teknologi sumbawa, faculty of technobiology, department of bioctechnology, sumbawa, west nusa tenggara 84371, indonesia"	-0.3572	-0.879	537	0	0	1	1	0.968	2019	1	0.968
+3703	"universitas wijaya kusuma surabaya, indonesia"	0.0327	0.5909	538	0	0	1	3	2.904	2019	3	2.904
+3704	"universitas wijaya kusuma surabaya, surabaya, indonesia"	-0.543	-0.0578	539	0	0	1	1	0.968	2019	1	0.968
+3705	"universitas yos sudarso surabaya, indonesia"	0.1352	-0.0196	540	0	0	1	3	2.904	2019	3	2.904
+3706	"universiti sains malaysia school of medical sciences, kubang kerian, kelantan, malaysia"	-0.0043	0.5239	541	0	0	1	4	3.872	2019	4	3.872
+3707	"universiti teknologi malaysia, johor bahru, malaysia"	-0.2399	-0.632	542	0	0	1	2	1.936	2019	2	1.936
+3708	"university malaysia terengganu, malaysia"	0.1901	0.0492	543	0	0	1	1	0.968	2019	1	0.968
+3709	"university of airlangga, department of mathematics, surabaya, indonesia"	-0.3035	-0.3574	544	0	0	1	0	0	2019	0	0
+3710	"university of airlangga, surabaya, indonesia"	0.3082	0.3209	545	0	0	4	7	6.7759	2019	1.75	1.694
+3711	"university of brawijaya, malang, indonesia"	-0.3647	-0.1644	546	0	0	1	9	8.7119	2019	9	8.7119
+3712	"university of dr. soetomo, surabaya, indonesia"	0.3831	0.3137	547	0	0	1	0	0	2019	0	0
+3713	"university of indonesia, department orthopedic and traumatology, jakarta, indonesia"	0.325	-0.1011	548	0	0	1	0	0	2019	0	0
+3714	"university of indonesia, jakarta, indonesia"	0.7416	-0.3175	17	6	6	1	3	2.904	2019	3	2.904
+3715	"university of jember, jember, indonesia"	-0.1788	-0.6699	549	0	0	4	7	6.7759	2019	1.75	1.694
+3716	"university of malaya, photonics research centre, kuala lumpur, malaysia"	0.0042	0.3352	550	0	0	1	2	1.936	2019	2	1.936
+3717	"university of muhammadiyah surabaya60113, indonesia"	-0.2847	0.5223	551	0	0	1	4	3.872	2019	4	3.872
+3718	"university of notre dame australia, fremantle, australia"	0.4253	0.38	552	0	0	1	1	0.968	2019	1	0.968
+3719	"university of notre dame australia/marian centre, perth, australia"	-0.6491	0.3252	553	0	0	1	2	1.936	2019	2	1.936
+3720	"university of south florida, morsani college of medicine, department of molecular pharmacology & physiology, tampa, fl, united states"	-0.0204	-0.3296	554	0	0	1	0	0	2019	0	0
+3721	"university of surabaya, indonesia"	0.1119	-0.2846	555	0	0	2	5	4.84	2019	2.5	2.42
+3722	"university of sydney school of public health, sydney, australia"	0.2823	0.3919	556	0	0	1	3	2.904	2019	3	2.904
+3723	"university of the philippines, college of pharmacy, manila, philippines"	-0.5382	0.0166	557	0	0	1	3	2.904	2019	3	2.904
+3724	"university of western australia, perth, australia"	0.4348	-0.0314	558	0	0	1	1	0.968	2019	1	0.968
+3725	"università della svizzera italiana, lugano, 6900, switzerland"	0.629	-0.2643	559	0	0	1	1	0.968	2019	1	0.968
+3726	"université de nantes, 1 quai de tourville, nantes, 44035, france"	-0.8489	-0.1014	560	0	0	1	9	8.7119	2019	9	8.7119
+3727	"uptd pembibitan dan inseminasi buatan, dinas peternakan dan kesehatan hewan provinsi kalimantan timur, indonesia"	0.0828	0.1247	561	0	0	1	0	0	2019	0	0
+3728	"urohealth medical clinic, mt elizabeth hospital, singapore"	0.6485	0.1422	562	0	0	1	10	9.6799	2019	10	9.6799
+3729	"usf morsani college of medicine, university of south florida, tampa, fl 33647, united states"	-0.8685	-0.0559	563	0	0	1	2	1.936	2019	2	1.936
+3730	"utrecht centre for water, oceans and sustainability law, utrecht university, utrecht, netherlands"	0.0821	0.3349	564	0	0	1	1	0.968	2019	1	0.968
+3731	"vaccinology and immunotherapeutics, veterinary medicine faculty, universitas airlangga, surabaya, indonesia"	0.0114	0.8363	565	0	0	1	0	0	2019	0	0
+3732	"veterinary anatomy department, faculty of veterinary medicine universitas airlangga, indonesia"	-0.8045	0.4584	566	0	0	1	0	0	2019	0	0
+3733	"veterinary anatomy department, faculty of veterinary medicine, universitas airlangga jl., mulyorejo, surabaya, east java, 60115, indonesia"	-0.3384	-0.852	567	0	0	2	0	0	2019	0	0
+3734	"veterinary anatomy laboratory, faculty of veterinary medicine, brawijaya university, malang, east java, 65151, indonesia"	-0.2455	-0.3961	568	0	0	1	0	0	2019	0	0
+3735	"veterinary biology reproduction, faculty of veterinary medicine, universitas airlangga, jl. mulyorejo, kampus c unair, indonesia"	0.2394	0.1172	569	0	0	1	0	0	2019	0	0
+3736	"veterinary clinic departement, faculty of veterinary medicine, universitas airlangga, surabaya, east java, 60286, indonesia"	-0.814	-0.3408	570	0	0	1	0	0	2019	0	0
+3737	"veterinary clinical department, faculty of veterinary medicine, universitas airlangga, campus “c” unair, surabaya, east java 60115, indonesia"	0.1611	0.6307	571	0	0	1	1	0.968	2019	1	0.968
+3738	"veterinary medicine faculty, airlangga university, surabaya, 60115, indonesia"	0.5005	0.0362	572	0	0	1	0	0	2019	0	0
+3739	"veterinary medicine, universitas brawijaya, malang, indonesia"	0.059	-0.3368	573	0	0	1	0	0	2019	0	0
+3740	"veterinary paramedic division - health department, faculty of voccation, faculty of veterinary medicine airlangga university, campus b jl. dharmawangsa no.28-30, surabaya, east java, 60286, indonesia"	-0.6874	0.454	574	0	0	1	0	0	2019	0	0
+3741	"veterinary paramedic division, departement of health, faculty of voccational studies, airlangga university, surabaya, 60286, indonesia"	0.1778	-0.4241	575	0	0	1	0	0	2019	0	0
+3742	"veterinary paramedic division, health science departement, faculty of vocattional study, airlangga university, campus c unair, jl. mulyorejo surabaya, east java, 60115, indonesia"	0.5492	0.3613	576	0	0	1	0	0	2019	0	0
+3743	"veterinary paramedic program, department of health, faculty of vocational studies, departement of husbandry, faculty of veterinary medicine, airlangga university, jalan mulyorejo surabaya, 60115, indonesia"	0.7532	0.1279	577	0	0	1	0	0	2019	0	0
+3744	"veterinary pharmaceutical laboratory, faculty of veterinary medicine, airlangga university, surabaya, east java 60115, indonesia"	-0.4438	-0.3797	578	0	0	1	0	0	2019	0	0
+3745	"veterinary public health laboratory, faculty of veterinary medicine, airlangga university, surabaya, 60115, indonesia"	-0.1668	0.54	579	0	0	1	1	0.968	2019	1	0.968
+3746	"veterinary science, faculty of veterinary medicine, airlangga university, surabaya, indonesia"	0.352	-0.5273	580	0	0	1	2	1.936	2019	2	1.936
+3747	"virology and immunology laboratory, department of microbiology, faculty of veterinary medicine, universitas airlangga, airlangga university, jl. mulyosari campus c airlangga university, surabaya, 60132, indonesia"	0.8854	-0.0707	3	6	6	1	8	7.7439	2019	8	7.7439
+3748	"virology and immunology laboratory, department of microbiology, faculty of veterinary medicine, universitas airlangga, surabaya, indonesia"	-0.4633	0.2918	581	0	0	2	2	1.936	2019	1	0.968
+3749	"virology and immunology laboratory, faculty of veterinary medicine, department of microbiology, universitas airlangga, surabaya, indonesia"	0.1463	-0.8213	582	0	0	1	4	3.872	2019	4	3.872
+3750	"virology and immunology laboratory, microbiology department, faculty of veterinary medicine, universitas airlangga, indonesia"	0.8851	-0.0711	3	10	10	1	10	9.6799	2019	10	9.6799
+3751	"virology and immunology laboratory, microbiology department, faculty of veterinary medicine, universitas airlangga, surabaya, indonesia"	0.882	-0.0756	3	8	11	1	13	12.5839	2019	13	12.5839
+3752	"virology and immunology laboratory, universitas airlangga, indonesia"	-0.3445	0.4974	583	0	0	1	0	0	2019	0	0
+3753	"virology and immunology, veterinary medicine faculty, universitas airlangga, surabaya, indonesia"	-0.796	-0.2653	584	0	0	2	0	0	2019	0	0
+3754	"visiting fellow, school of nursing and midwifery, la trobe university, melbourne, vic, australia"	0.1628	-0.4942	585	0	0	1	1	0.968	2019	1	0.968
+3755	"visiting prof. at the department of physics, faculty of science and technology, airlangga university, surabaya, 60115, indonesia"	0.3479	0.0403	586	0	0	1	0	0	2019	0	0
+3756	"visiting professor at the department of physics, faculty of science and technology, airlangga university, surabaya, 60115, indonesia"	-0.1559	-0.2763	587	0	0	3	11	10.6479	2019	3.6667	3.5493
+3757	"visiting researcher at precision sciences & technology and applied physics, graduate school of engineering, osaka university, suita, 565-0871, japan"	-0.6427	-0.3078	588	0	0	1	1	0.968	2019	1	0.968
+3758	"vocational faculty, airlangga university, surabaya, indonesia"	0.1835	0.2635	589	0	0	1	0	0	2019	0	0
+3759	"wahidin sudirohusodo hospital, makassar, indonesia"	-0.0214	-0.211	590	0	0	1	3	2.904	2019	3	2.904
+3760	"walisongo state islamic university, semarang city, central java 50185, indonesia"	0.1711	0.8228	591	0	0	1	0	0	2019	0	0
+3761	"wireless and photonics networks research centre, faculty of engineering, university putra malaysia, 43400 serdang, selangor, malaysia"	0.2862	-0.5334	592	0	0	1	1	0.968	2019	1	0.968
+3762	"wjp consultant, surabaya, indonesia"	-0.0531	0.796	593	0	0	1	1	0.968	2019	1	0.968
+3763	"women & childrens division, department of obstetrics and gynecology, lyell mcewin hospital, university of adelaide, adelaide, australia"	-0.2589	-0.9114	594	0	0	1	1	0.968	2019	1	0.968
+3764	"world fish, bangladesh and south asia office, dhaka, bangladesh"	-0.13	-0.8347	595	0	0	1	0	0	2019	0	0
+3765	"worldfish, bangladesh and south asia office, dhaka, bangladesh"	0.8651	0.2969	6	10	12	1	2	1.936	2019	2	1.936
+3766	"worldfish, bangladesh and south asia office, h#22b, road#7, block-f, banani, dhaka, 1213, bangladesh"	-0.3288	0.3539	596	0	0	1	0	0	2019	0	0
+3767	"worldfish, dhaka, bangladesh"	0.8657	0.2971	6	5	5	1	0	0	2019	0	0
+3768	"wpi-nano life science institute, kanazawa university, kakuma-machi, kanazawa, japan"	0.2758	-0.3034	597	0	0	1	1	0.968	2019	1	0.968
+3769	"wwf indonesia, indonesia"	-0.7509	-0.2472	598	0	0	1	1	0.968	2019	1	0.968
+3770	"yayasan biosfer manusia (bioma), jl. a wahab syaranie, sempaja, samarinda, east kalimantan 75119, indonesia"	0.6125	-0.3219	599	0	0	1	3	2.904	2019	3	2.904

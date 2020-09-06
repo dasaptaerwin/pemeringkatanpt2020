@@ -1,0 +1,704 @@
+﻿id	label	x	y	cluster	weight<Links>	weight<Total link strength>	weight<Documents>	weight<Citations>	weight<Norm. citations>	score<Avg. pub. year>	score<Avg. citations>	score<Avg. norm. citations>
+1	"adam smith business school, university of glasgow, glasgow, united kingdom"	0.3784	0.768	10	0	0	1	0	0	2019	0	0
+2	"agency for the assessment and application of technology (bppt), centre for machinery industry technology, jakarta, indonesia"	0.9326	0.1355	11	0	0	1	0	0	2019	0	0
+3	"algebra research group, faculty of mathematics and natural sciences, institut teknologi bandung, bandung, indonesia"	0.4213	0.8472	12	0	0	1	0	0	2019	0	0
+4	"alice - a large ion colider experiment, european organization for nuclear research (cern), geneva, switzerland"	0.0124	-0.9469	13	0	0	1	0	0	2019	0	0
+5	"amik lamappapoleonro, lalabata rilau, lalabata, soppeng, 90812, indonesia"	0.6978	-0.3656	14	0	0	1	0	0	2019	0	0
+6	"and school of electrical engineering and informatics, telkom university, bandung institute of technology (itb), bandung, indonesia"	-0.5265	0.7871	15	0	0	1	0	0	2019	0	0
+7	"applied science school, telkom university, sekolah tinggi pariwisata bandung, bandung, indonesia"	-0.6951	0.5714	16	0	0	1	1	2.1093	2019	1	2.1093
+8	"bandung institute of technology, bandung, indonesia"	0.2549	-0.7397	17	0	0	1	1	2.1093	2019	1	2.1093
+9	"bandung institute of technology, department of industrial engineering, bandung, indonesia"	-0.9197	-0.2065	18	0	0	3	0	0	2019	0	0
+10	"bandung institute of technology, dept. of geodesy engineering, bandung, indonesia"	0.2988	-0.797	19	0	0	1	0	0	2019	0	0
+11	"bandung institute of technology, school of electrical engineering and informatics, bandung, indonesia"	0.8993	0.033	20	0	0	1	0	0	2019	0	0
+12	"bandung institute of technology, school of electrical engineering and informatics, indonesia"	0.8411	-0.4312	21	0	0	1	0	0	2019	0	0
+13	"bcn labs, telkom corporate, indonesia, sukarasa, sukasari, bandung, indonesia"	0.4922	-0.6282	22	0	0	1	0	0	2019	0	0
+14	"big data science and technology, faculty of advanced science and technology, kumamoto university, japan"	0.0809	-0.9437	23	0	0	1	0	0	2019	0	0
+15	"bina nusantara university, jakarta, indonesia"	-0.866	0.3776	24	0	0	1	0	0	2019	0	0
+16	"bina nusantara university, west jakarta, indonesia"	0.9302	-0.1653	25	0	0	1	1	2.1093	2019	1	2.1093
+17	"biomedical signal processing and instrumentation (biospin) research group, school of electrical engineering, telkom university, indonesia"	0.1037	0.8919	26	0	0	1	0	0	2019	0	0
+18	"bp2d provinsi jawa barat, bandung, indonesia"	-0.1409	0.8362	27	0	0	1	2	4.2186	2019	2	4.2186
+19	"business administration program, telkom university, bandung, indonesia"	-0.76	0.0899	28	0	0	1	0	0	2019	0	0
+20	"business administration, telkom university, bandung, indonesia"	0.0747	-0.5987	29	0	0	2	0	0	2019	0	0
+21	"business development development directorate, jakarta, indonesia"	0.4651	-0.4414	30	0	0	1	0	0	2019	0	0
+22	"business management, widyatama university, bandung, indonesia"	-0.1171	0.5188	31	0	0	1	0	0	2019	0	0
+23	"business school, bina nusantara university, jakarta, indonesia"	-0.4766	-0.7041	32	0	0	1	0	0	2019	0	0
+24	"center for advanced wireless technologies (adwitech), school of electrical engineering, telkom university, jl. telekomunikasi no. 1, terusan buah batu, bandung, 40257, indonesia"	-0.7491	-0.5783	33	0	0	1	1	2.1093	2019	1	2.1093
+25	"center for advanced wireless technologies (adwitech), telkom university, bandung, indonesia"	0.693	-0.1116	34	0	0	1	2	4.2186	2019	2	4.2186
+26	"center for advanced wireless technologies (adwitech), telkom university, jl. telekomunikasi no. 1, terusan buah batu, bandung, 40257, indonesia"	0.103	0.045	35	0	0	2	0	0	2019	0	0
+27	"center for regional environmental research, national institute for environmental studies, tsukuba, ibaraki 305-8506, japan"	0.3919	0.5749	36	0	0	1	2	4.2186	2019	2	4.2186
+28	"center for regulation and management of telecommunication (crmt), school of electrical engineering, telkom university, bandung, indonesia"	-0.137	-0.8319	37	0	0	1	0	0	2019	0	0
+29	"center for regulation management of telecommunication (crmt), school of electrical engineering, telkom university, bandung, indonesia"	0.6093	-0.3735	38	0	0	1	0	0	2019	0	0
+30	"center of e-learning development, university of padjajaran, sumedang, indonesia"	0.0036	0.6274	39	0	0	1	0	0	2019	0	0
+31	"centre for advanced computing technology (cact), faculty of information and communication technology, hang tuah jaya durian tunggal, 76100, malaysia"	0.9236	-0.0684	40	0	0	1	0	0	2019	0	0
+32	"colips, indonesia"	0.4367	-0.7886	41	0	0	1	0	0	2019	0	0
+33	"college of communication engineering, chengdu university, china"	-0.2713	0.0257	42	0	0	1	0	0	2019	0	0
+34	"college of computing and informatics, seu, dammam, saudi arabia"	0.6105	0.2326	43	0	0	1	0	0	2019	0	0
+35	"college of engineering mathematics and physical sciences, university of exeter, exeter, ex4 4qf, united kingdom"	0.7261	-0.6051	44	0	0	1	0	0	2019	0	0
+36	"college of engineering, nawroz university, duhok, iraq"	-0.2064	0.7483	45	0	0	1	0	0	2019	0	0
+37	"college of materials science and engineering, nanjing forestry university, nanjing, 210037, china"	0.4459	-0.0499	1	3	3	1	1	2.1093	2019	1	2.1093
+38	"computational science, school of computing, telkom university, bandung, indonesia"	0.1408	-0.4725	46	0	0	1	2	4.2186	2019	2	4.2186
+39	"computer engineering departement school of applied science telkom university, bandung, indonesia"	0.7296	-0.3004	47	0	0	1	0	0	2019	0	0
+40	"computer engineering department, faculty of applied science, telkom university, indonesia"	-0.2712	0.5182	48	0	0	1	0	0	2019	0	0
+41	"computer engineering department, faculty of applied science, telkom university, jalan telekomunikasi terusan buah batu, bandung, west java, 40257, indonesia"	-0.1524	-0.1173	9	1	1	1	2	4.2186	2019	2	4.2186
+42	"computer engineering department, faculty of applied science, telkom university, telekomunikasi st., terusan buah batu, bandung, indonesia"	-0.8047	0.3979	49	0	0	1	1	2.1093	2019	1	2.1093
+43	"computer engineering department, faculty of electric engineering, telkom university j1.telekomunikasi terusan buah batu, bandung, indonesia"	-0.5029	0.754	50	0	0	1	1	2.1093	2019	1	2.1093
+44	"computer engineering department, telkom university, bandung, indonesia"	-0.01	0.9454	51	0	0	1	0	0	2019	0	0
+45	"computer engineering division, politeknik elektronika negeri surabaya (pens), indonesia"	-0.8399	-0.0546	52	0	0	1	1	2.1093	2019	1	2.1093
+46	"computer engineering division, politeknik elektronika negeri surabaya, indonesia"	0.2263	0.6141	53	0	0	1	0	0	2019	0	0
+47	"computer engineering study, school of electrical engineering, telkom university, indonesia"	0.6717	-0.0375	54	0	0	1	1	2.1093	2019	1	2.1093
+48	"computer engineering, faculty of applied science telkom university, bandung, indonesia"	0.4063	0.7099	55	0	0	1	0	0	2019	0	0
+49	"computer engineering, faculty of electrical engineering, telkom university, bandung, indonesia"	0.8819	0.34	56	0	0	1	0	0	2019	0	0
+50	"computer science and electrical engineering, graduate school of science and technology, kumamoto university, japan"	0.6146	0.0014	57	0	0	1	0	0	2019	0	0
+51	"computer science and electrical engineering, kumamoto university, kumamoto, japan"	-0.4398	-0.3444	58	0	0	1	1	2.1093	2019	1	2.1093
+52	"computing laboratory, school of computing telkom university, bandung, 40257, indonesia"	0.3505	0.4257	59	0	0	2	0	0	2019	0	0
+53	"computing laboratory, school of computing, telkom university, bandung, 40257, indonesia"	0.0093	-0.8767	6	1	1	3	2	4.2186	2019	0.6667	1.4062
+54	"computing laboratory, school of computing, telkom university, indonesia"	0.0095	-0.8778	6	1	1	1	1	2.1093	2019	1	2.1093
+55	"curriculum and instruction, indiana university, bloomington, in, united states"	-0.8775	0.3461	60	0	0	1	0	0	2019	0	0
+56	"darul iman institute, universiti sultan zainal abidin, kuala nerus, terengganu, malaysia"	0.5107	0.7973	61	0	0	1	1	2.1093	2019	1	2.1093
+57	"darul iman institute, universiti sultan zainal abidin, kuala terengganu, terengganu, malaysia"	-0.8957	-0.007	62	0	0	1	0	0	2019	0	0
+58	"data mining center laboratory, school of computing, telkom university, jl. telekomunikasi no.1, bandung, 40257, indonesia"	0.5178	0.3628	63	0	0	1	1	2.1093	2019	1	2.1093
+59	"ddepartment of accounting, faculty of economics and business, university as pakuan, bogor, indonesia"	0.2205	-0.5238	64	0	0	1	2	4.2186	2019	2	4.2186
+60	"dep. of computer engineering, arab academy for science and technology, cairo, egypt"	-0.4681	0.8194	65	0	0	1	0	0	2019	0	0
+61	"departement of computer engineering, telkom university, bandung west java, indonesia"	0.3679	-0.5384	66	0	0	1	0	0	2019	0	0
+62	"departement of electrical engineering, faculty of electrical engineering, telkom university, jl. telekomunikasi no.1 dayeuh kolot, kab. bandung, jawa barat, 40257, indonesia"	0.5736	-0.1787	67	0	0	1	1	2.1093	2019	1	2.1093
+63	"departement of electrical engineering, telkom university, bandung, indonesia"	-0.3158	0.5894	68	0	0	1	0	0	2019	0	0
+64	"departement of telecommunication engineering, faculty of electrical engineering, telkom university, jl. telekomunikasi no.1 dayeuh kolot, kab. bandung, jawa barat, 40257, indonesia"	0.1968	-0.8857	69	0	0	1	1	2.1093	2019	1	2.1093
+65	"department of accounting, faculty of economics and business, university as padjadjaran and lecturer at telkom university, bandung, indonesia"	-0.2115	0.6725	70	0	0	1	2	4.2186	2019	2	4.2186
+66	"department of biology, institut teknologi sepuluh nopember, surabaya, indonesia"	0.6839	-0.5931	71	0	0	1	9	18.9836	2019	9	18.9836
+67	"department of business administration, telkom university, bandung, indonesia"	0.624	-0.4862	72	0	0	1	0	0	2019	0	0
+68	"department of business management, institut teknologi sepuluh nopember, surabaya, indonesia"	0.1839	0.4727	73	0	0	1	0	0	2019	0	0
+69	"department of business management, texas health and science universitytx, united states"	0.2273	0.9184	74	0	0	1	0	0	2019	0	0
+70	"department of computational science, school of computing, telkom university, bandung, 40257, indonesia"	-0.4073	-0.2712	75	0	0	1	1	2.1093	2019	1	2.1093
+71	"department of computational science, school of computing, telkom university, bandung, indonesia"	0.4564	0.5423	76	0	0	1	0	0	2019	0	0
+72	"department of computational science, telkom school of engineering, telkom university, address jl telekomunikasi no.1, jl terusan buah batu, bojongsoang, bandung, indonesia"	-0.2062	0.8766	77	0	0	1	2	4.2186	2019	2	4.2186
+73	"department of computer and informatics engineering, politeknik negeri jakarta, jakarta, indonesia"	-0.5744	-0.7527	78	0	0	4	1	2.1093	2019	0.25	0.5273
+74	"department of computer engineering and informatics, politeknik negeri medan, indonesia"	-0.269	-0.4474	79	0	0	4	10	21.0929	2019	2.5	5.2732
+75	"department of computer engineering, faculty of electrical engineering, telkom university, bandung, indonesia"	0.5791	0.3091	80	0	0	7	1	2.1093	2019	0.1429	0.3013
+76	"department of computer science and communication engineering, waseda universtiy, tokyo, japan"	-0.8524	0.2962	81	0	0	1	0	0	2019	0	0
+77	"department of computer science, ahmadu bello university, zaria, nigeria"	-0.5943	-0.6727	82	0	0	1	1	2.1093	2019	1	2.1093
+78	"department of computer science, faculty of computer science and information technology, universiti putra malaysia, upm, serdang, selangor 43400, malaysia"	-0.4873	0.1288	83	0	0	1	0	0	2019	0	0
+79	"department of creative multimedia, politeknik elektronika negeri surabaya (pens), indonesia"	-0.7242	0.5294	84	0	0	1	0	0	2019	0	0
+80	"department of creative multimedia, politeknik elektronika negeri surabaya, indonesia"	0.1371	0.8427	85	0	0	2	0	0	2019	0	0
+81	"department of doctor of computer science, bina nusantara university, indonesia"	-0.1595	-0.6214	86	0	0	1	0	0	2019	0	0
+82	"department of electrical and electronic engineering, faculty of engineering, universiti putra malaysia, upm serdang, selangor, 43400, malaysia"	-0.2153	0.9206	87	0	0	1	0	0	2019	0	0
+83	"department of electrical engineering & information technology, universitas gadjah mada, indonesia"	-0.66	-0.2329	7	2	2	1	1	2.1093	2019	1	2.1093
+84	"department of electrical engineering and computer science, kanazawa university, kanazawa, japan"	-0.2763	-0.864	88	0	0	1	0	0	2019	0	0
+85	"department of electrical engineering and information technology, universitas gadjah mada, yogyakarta, indonesia"	-0.6601	-0.2319	7	2	2	3	3	6.3279	2019	1	2.1093
+86	"department of electrical engineering, faculty of engineering, universitas indonesia, depok, 16424, indonesia"	0.2063	0.2937	89	0	0	1	0	0	2019	0	0
+87	"department of electrical engineering, faculty of engineering, universitas indonesia, kampus ui depok, depok, 16424, indonesia"	-0.8991	-0.0583	90	0	0	1	1	2.1093	2019	1	2.1093
+88	"department of electrical engineering, faculty of engineering, universitas sultan ageng tirtayasa, serang, indonesia"	0.8492	0.309	91	0	0	1	0	0	2019	0	0
+89	"department of electrical engineering, faculty telkom university, indonesia"	0.3621	0.8275	92	0	0	1	0	0	2019	0	0
+90	"department of electrical engineering, telkom university, bandung, indonesia"	-0.257	-0.062	93	0	0	1	0	0	2019	0	0
+91	"department of electrical engineering, telkom university, indonesia"	-0.5858	0.5216	94	0	0	1	0	0	2019	0	0
+92	"department of electrical engineering, telkom university, jl. telekomunikasi no. 1 terusan buah batu, bandung, 40257, indonesia"	-0.6658	-0.2442	5	1	1	1	1	2.1093	2019	1	2.1093
+93	"department of electronics engineering, state polytechnic of cilacap, indonesia"	0.2239	-0.2529	95	0	0	1	0	0	2019	0	0
+94	"department of engineering and applied sciences, faculty of science and technology, sophia university, 7-1 kioi-cho, chiyoda-ku, tokyo, 102-8554, japan"	-0.7407	-0.5214	96	0	0	1	0	0	2019	0	0
+95	"department of engineering physics, school of electrical engineering, telkom university, bandung, indonesia"	-0.7741	-0.0485	97	0	0	1	1	2.1093	2019	1	2.1093
+96	"department of engineering physics, school of electrical engineering, telkom university, indonesia"	-0.5278	-0.4858	98	0	0	1	0	0	2019	0	0
+97	"department of engineering physics, school of electrical engineering, telkom university, jl. telekomunikasi no 1, bandung, 40257, indonesia"	0.1289	-0.7938	99	0	0	2	0	0	2019	0	0
+98	"department of engineering physics, telkom university, bandung, 40257, indonesia"	0.5265	-0.4897	100	0	0	1	0	0	2019	0	0
+99	"department of human intelligence systems, graduate school of life science and systems engineering, kyushu institute of technology, 2-4 hibikino, wakamatsu, kitakyushu, 808-0196, japan"	-0.4397	0.839	101	0	0	1	0	0	2019	0	0
+100	"department of industria engineering, telkom university, bandung, indonesia"	-0.562	-0.6161	102	0	0	1	3	6.3279	2019	3	6.3279
+101	"department of industrial engineering and management, institut teknologi bandung, bandung, indonesia"	-0.5496	0.4544	103	0	0	1	2	4.2186	2019	2	4.2186
+102	"department of industrial engineering and management, institut teknologi, bandung, indonesia"	0.819	-0.2557	104	0	0	1	0	0	2019	0	0
+103	"department of industrial engineering, bandung institute of technology, bandung, indonesia"	0.5764	0.6922	105	0	0	2	0	0	2019	0	0
+104	"department of industrial engineering, bandung institute of technology, indonesia"	-0.674	-0.6037	106	0	0	2	3	6.3279	2019	1.5	3.1639
+105	"department of industrial engineering, faculty of engineering, universitas sebelas maret, indonesia"	0.8123	0.4091	107	0	0	1	0	0	2019	0	0
+106	"department of industrial engineering, institut teknologi nasional, bandung, 40124, indonesia"	-0.8276	0.1866	108	0	0	1	0	0	2019	0	0
+107	"department of industrial engineering, institut teknologi nasional, bandung, indonesia"	0.7467	-0.5081	109	0	0	2	4	8.4372	2019	2	4.2186
+108	"department of industrial engineering, institut teknologi telkom, surabaya, indonesia"	-0.94	0.092	110	0	0	1	0	0	2019	0	0
+109	"department of industrial engineering, mercu buana university, jakarta, indonesia"	0.836	0.4437	111	0	0	1	0	0	2019	0	0
+110	"department of industrial engineering, school of industrial and system engineering, telkom university, bandung, indonesia"	0.7967	-0.4199	112	0	0	1	0	0	2019	0	0
+111	"department of industrial engineering, school of industrial engineering, telkom university, bandung, 40257, indonesia"	-0.8877	-0.2974	3	2	2	1	1	2.1093	2019	1	2.1093
+112	"department of industrial engineering, school of industrial engineering, telkom university, bandung, indonesia"	-0.8881	-0.2979	3	2	2	1	2	4.2186	2019	2	4.2186
+113	"department of industrial engineering, telkom university bandung, indonesia"	-0.822	-0.3877	113	0	0	1	0	0	2019	0	0
+114	"department of industrial engineering, telkom university, bandung, indonesia"	0.2867	-0.173	114	0	0	9	4	8.4372	2019	0.4444	0.9375
+115	"department of industrial engineering, telkom university, indonesia"	0.4687	0.7047	115	0	0	1	0	0	2019	0	0
+116	"department of industrial management, national taiwan university of science and technology, taipei city, 10607, taiwan"	-0.8873	-0.2987	3	2	2	1	1	2.1093	2019	1	2.1093
+117	"department of industrial management, school of management, national taiwan university of science and technology, taipei city, taiwan"	-0.8871	-0.2979	3	2	2	1	2	4.2186	2019	2	4.2186
+118	"department of informatics, graduate school of computing, telkom university, indonesia"	0.1231	0.9357	116	0	0	1	0	0	2019	0	0
+119	"department of informatics, institut teknologi sepuluh nopember, jalan raya its, sukolilo, surabaya, 60111, indonesia"	-0.0556	-0.945	117	0	0	1	3	6.3279	2019	3	6.3279
+120	"department of informatics, institut teknologi sepuluh nopember, surabaya, 60111, indonesia"	-0.9005	0.2832	118	0	0	1	0	0	2019	0	0
+121	"department of informatics, institut teknologi sepuluh nopember, surabaya, indonesia"	0.0988	0.5073	119	0	0	1	9	18.9836	2019	9	18.9836
+122	"department of informatics, siliwangi university, tasikmalaya, indonesia"	-0.0014	0.2269	4	2	2	2	2	4.2186	2019	1	2.1093
+123	"department of informatics, uin sunan gunung djati bandung, jalan a h nasution 105, bandung, 40614, indonesia"	-0.2584	0.8024	120	0	0	1	0	0	2019	0	0
+124	"department of information system, school of industrial and system engineering, telkom university, bandung, indonesia"	-0.792	-0.4285	121	0	0	1	0	0	2019	0	0
+125	"department of information system, telkom university, bandung, indonesia"	-0.0019	0.2268	4	2	2	3	2	4.2186	2019	0.6667	1.4062
+126	"department of information system, telkom university, indonesia"	-0.7913	-0.5189	122	0	0	2	0	0	2019	0	0
+127	"department of information systems and cyber security, the university of texas at san antonio, san antonio, tx 78249-0631, united states"	-0.6071	0.7258	123	0	0	1	3	6.3279	2019	3	6.3279
+128	"department of information systems, school of industrial engineering, telkom university, bandung, 40257, indonesia"	0.6844	-0.2422	124	0	0	1	0	0	2019	0	0
+129	"department of information systems, sekolah tinggi teknologi nasional, sleman, yogyakarta, 55281, indonesia"	-0.4256	-0.8434	125	0	0	1	3	6.3279	2019	3	6.3279
+130	"department of information systems, telkom university, bandung, west java, 40257, indonesia"	0.7728	-0.4653	126	0	0	1	3	6.3279	2019	3	6.3279
+131	"department of information systems, telkom university, indonesia"	-0.2992	0.1089	127	0	0	2	1	2.1093	2019	0.5	1.0546
+132	"department of information systems, universitas ahmad dahlan, yogyakarta, 55161, indonesia"	-0.2578	0.8621	128	0	0	2	3	6.3279	2019	1.5	3.1639
+133	"department of information technology education, stkip pgri banjarmasin, jalan adam sultan complex h. iyus no. 18 rt 23, banjarmasin, sungai jingah, kec. banjarmasin utara, kota banjarmasin, kalimantan selatan 70121, indonesia"	-0.3042	-0.5485	129	0	0	1	0	0	2019	0	0
+134	"department of information technology, telkom university, bandung, indonesia"	-0.444	-0.5766	130	0	0	1	0	0	2019	0	0
+135	"department of linguistics, university of indonesia, depok, indonesia"	-0.3663	0.0406	131	0	0	1	0	0	2019	0	0
+136	"department of mathematics, faculty of mathematics and natural sciences, institut teknologi bandung, jl. ganesha no. 10, bandung, 40132, indonesia"	-0.6299	0.3283	132	0	0	1	0	0	2019	0	0
+137	"department of mathematics, institut teknologi, bandung, indonesia"	-0.8005	-0.2002	133	0	0	1	2	4.2186	2019	2	4.2186
+138	"department of mechanical engineering, center for diploma studies, universiti tun hussein onn malaysia, parit raja, batu pahat, johor, 86400, malaysia"	0.6592	-0.538	134	0	0	1	0	0	2019	0	0
+139	"department of mechanical engineering, politeknik negeri medan, indonesia"	-0.4957	-0.4076	135	0	0	1	0	0	2019	0	0
+140	"department of mechanical engineering, politeknik negeri medan, jalan almamater no. 1,, medan, north sumatera 20155, indonesia"	-0.1424	0.2628	136	0	0	1	0	0	2019	0	0
+141	"department of medical engineering, tokyo city university, tokyo, japan"	0.5801	-0.5393	137	0	0	1	1	2.1093	2019	1	2.1093
+142	"department of oceanography, faculty of earth science and technology, institut teknologi bandung, bandung, indonesia"	-0.6874	0.0553	138	0	0	1	1	2.1093	2019	1	2.1093
+143	"department of physics engineering, faculty of electrical engineering school, telkom university, bandung, 40257, indonesia"	0.7181	0.3457	139	0	0	1	0	0	2019	0	0
+144	"department of physics engineering, telkom university, bandung, indonesia"	0.6521	-0.6838	140	0	0	1	0	0	2019	0	0
+145	"department of physics engineering, telkom university, jl. telekomunikasi no. 1, terusan buah batu, sukapura, dayeuh kolot, bandung, 40257, indonesia"	-0.12	-0.8978	141	0	0	1	0	0	2019	0	0
+146	"department of physics, faculty of mathematics and natural science, universitas negeri semarang, indonesia"	0.8704	-0.3686	142	0	0	1	0	0	2019	0	0
+147	"department of physics, faculty of mathematics and natural sciences, institut teknologi bandung, bandung, indonesia"	-0.3417	0.1931	143	0	0	1	1	2.1093	2019	1	2.1093
+148	"department of physics, faculty of mathematics and natural sciences, universitas indonesia, depok, 16424, indonesia"	-0.8521	0.4072	144	0	0	1	0	0	2019	0	0
+149	"department of physics, faculty of mathematics and natural sciences, universitas negeri jember, east java, indonesia"	-0.7742	-0.1335	145	0	0	1	0	0	2019	0	0
+150	"department of physics, faculty of mathematics and natural sciences, universitas negeri semarang (unnes), gunungpati, semarang, indonesia"	-0.7477	0.5758	146	0	0	1	0	0	2019	0	0
+151	"department of physics, faculty of science and technology, sophia university, 7-1 kioi-cho, chiyoda-ku, tokyo, 102-8554, japan"	0.6024	-0.6605	147	0	0	1	0	0	2019	0	0
+152	"department of physics, faculty of sciences, universiti teknologi malaysia (utm), skudai, johor bahru, malaysia"	-0.2289	-0.9177	148	0	0	1	0	0	2019	0	0
+153	"department of physics, institut teknologi sumatera, lampung, 35365, indonesia"	-0.0893	-0.7723	149	0	0	1	1	2.1093	2019	1	2.1093
+154	"department of public relations, telkom university, bandung, indonesia"	-0.7098	-0.3762	150	0	0	1	0	0	2019	0	0
+155	"department of statistics, faculty mathematics and natural science, islamic university of indonesia, indonesia"	-0.926	0.1878	151	0	0	4	1	2.1093	2019	0.25	0.5273
+156	"department of statistics, school of physical sciences, shahjalal university of science and technology, sylhet, bangladesh"	0.6688	0.6666	152	0	0	1	1	2.1093	2019	1	2.1093
+157	"department of statistics, shahjalal university of science and technology, sylhet, 3114, bangladesh"	-0.6967	0.4723	153	0	0	1	0	0	2019	0	0
+158	"department of telecommunication engineering, school of applied science, telkom university, jl. telekomunikasi terusan buah, batu, bandung, 40257, indonesia"	0.3362	0.5132	154	0	0	1	0	0	2019	0	0
+159	"department of telecommunication, faculty of electrical engineering, telkom university, jl. telekomunikasi no.1, bandung, 40257, indonesia"	0.8117	0.2645	155	0	0	1	0	0	2019	0	0
+160	"dept. computer science and communication engineering, waseda university, tokyo, japan"	0.1929	0.9255	156	0	0	1	1	2.1093	2019	1	2.1093
+161	"dept. of creative industries, telkom university, bandung, indonesia"	-0.9414	0.0601	157	0	0	1	0	0	2019	0	0
+162	"dept. of electrical engineering and information technology, universitas gadjah mada, yogyakarta, indonesia"	-0.1286	-0.9377	158	0	0	1	2	4.2186	2019	2	4.2186
+163	"dept. of informatics, telkom university, bandung, indonesia"	0.2224	-0.9199	159	0	0	1	2	4.2186	2019	2	4.2186
+164	"digital public relations department, communication and business faculty, telkom university, bandung, indonesia"	0.9149	0.2393	160	0	0	1	0	0	2019	0	0
+165	"diploma of telecommunication engineering, school of applied science, telkom university, bandung, indonesia"	-0.1511	-0.2855	161	0	0	1	0	0	2019	0	0
+166	"diploma of telecommunication technology, telkom university, bandung, indonesia"	-0.7008	0.3462	162	0	0	1	0	0	2019	0	0
+167	"division of electrical engineering and computer science, graduate school of natural science and technology, kanazawa university, kanazawa, japan"	0.5084	-0.561	163	0	0	1	0	0	2019	0	0
+168	"east coast environmental research institute, universiti sultan zainal abidin, gong badak campus, kuala nerus, terengganu, 21300, malaysia"	0.0039	0.0772	164	0	0	1	0	0	2019	0	0
+169	"educational technology universitas negeri malang, malang, indonesia"	-0.4578	0.0483	165	0	0	1	0	0	2019	0	0
+170	"electrical engineering department, telkom university, bandung, indonesia"	0.2514	-0.1033	166	0	0	1	0	0	2019	0	0
+171	"electrical engineering faculty, telkom university, indonesia"	-0.4205	-0.4299	167	0	0	2	1	2.1093	2019	0.5	1.0546
+172	"electrical engineering telkom university, bandung, indonesia"	-0.0974	0.3413	168	0	0	1	0	0	2019	0	0
+173	"electrical engineering, faculty of electrical engineering, telkom university telekomunikasi, street no.1, sukapura, dayeuhkolot, bandung, west java, 40257, indonesia"	-0.545	-0.774	169	0	0	1	1	2.1093	2019	1	2.1093
+174	"electrical engineering, hanbat university, daejeon, south korea"	-0.861	-0.3948	170	0	0	1	0	0	2019	0	0
+175	"electrical engineering, school of electrical engineering, telkom university, bandung, indonesia"	0.1456	-0.3694	171	0	0	2	0	0	2019	0	0
+176	"electrical engineering, telkom university, bandung, indonesia"	-0.3183	0.7869	172	0	0	3	3	6.3279	2019	1	2.1093
+177	"electrical enginering faculty, telkom university, bandung, indonesia"	0.1495	-0.5617	173	0	0	1	0	0	2019	0	0
+178	"electronic system research group, school of electrical engineering, telkom university, indonesia"	-0.5401	0.7141	174	0	0	1	0	0	2019	0	0
+179	"electronics engineering division, politeknik elektronika negeri surabaya (pens), indonesia"	-0.3731	-0.8199	175	0	0	1	0	0	2019	0	0
+180	"electronics engineering division, politeknik elektronika negeri surabaya, indonesia"	-0.3727	-0.6056	176	0	0	1	0	0	2019	0	0
+181	"electronics engineering division, politeknik elektronika, politeknik elektronika negeri surabaya, indonesia"	0.4542	-0.8294	177	0	0	1	0	0	2019	0	0
+182	"elementary education department, zhengzhou normal university, zhengzhou, 450044, china"	0.8826	-0.1715	178	0	0	1	0	0	2019	0	0
+183	"energy academy indonesia (ecadin), indonesia"	0.3684	0.3345	179	0	0	1	0	0	2019	0	0
+184	"energy conversion engineering dept, state polytechnic of bandung (polban), bandung, indonesia"	-0.6935	0.131	180	0	0	1	3	6.3279	2019	3	6.3279
+185	"engineering and technology, asia pacific university of technology and innovation, technology park malaysia, kuala lumpur, 57000, malaysia"	0.1313	-0.7207	181	0	0	1	0	0	2019	0	0
+186	"engineering physics department, telkom university, bandung, indonesia"	0.481	-0.7622	182	0	0	1	0	0	2019	0	0
+187	"engineering physics department, telkom university, jalan telekomunikasi, bandung, indonesia"	0.9428	-0.0948	183	0	0	1	0	0	2019	0	0
+188	"engineering physics department, telkom university, jl. telekomunikasi, jl. terusan buah batu no.01, sukapura, dayeuhkolot, jawa barat, bandung, 40257, indonesia"	-0.0562	0.9072	184	0	0	1	0	0	2019	0	0
+189	"engineering physics, school of electrical engineering, telkom university terusan telekomunikasi, dayeuh kolot bandung40257, indonesia"	-0.5548	0.3093	185	0	0	1	0	0	2019	0	0
+190	"engineering physics, school of electrical engineering, telkom university, bandung, indonesia"	0.9159	-0.2314	186	0	0	1	0	0	2019	0	0
+191	"engineering physics, school of electrical engineering, telkom university, bandung, jawa barat 40257, indonesia"	-0.3959	-0.8586	187	0	0	1	2	4.2186	2019	2	4.2186
+192	"engineering physics, school of electrical engineering, telkom university, jalan telekomunikasi no.1, terusan buah batu, bandung, indonesia"	-0.7353	0.2854	188	0	0	2	0	0	2019	0	0
+193	"engineering physics, school of electrical engineering, telkom university, jl. telekomunikasi, terusan buah batu, bandung, 40257, indonesia"	0.2303	-0.3445	189	0	0	1	0	0	2019	0	0
+194	"faculty informatics, telkom university, indonesia"	-0.4669	0.444	190	0	0	1	0	0	2019	0	0
+195	"faculty of administrative sciences, thamar university, dhamar, yemen"	0.5138	-0.7935	191	0	0	1	1	2.1093	2019	1	2.1093
+196	"faculty of applied science, telkom university, indonesia"	0.5672	0.7564	192	0	0	1	4	8.4372	2019	4	8.4372
+197	"faculty of applied social sciences, universiti sultan zainal abidin, kuala terengganu, terengganu, malaysia"	-0.0827	-0.5289	193	0	0	2	1	2.1093	2019	0.5	1.0546
+198	"faculty of art and design, bandung institute of technology, bandung, west java, indonesia"	-0.0383	-0.6953	194	0	0	1	0	0	2019	0	0
+199	"faculty of art, computing and creative industry, universiti pendidikan sultan idris, tanjung malim, malaysia"	0.0466	-0.9432	195	0	0	1	1	2.1093	2019	1	2.1093
+200	"faculty of art, computing, and creative industry, universiti pendidikan sultan idris, tanjung malim, malaysia"	-0.6275	-0.7053	196	0	0	1	7	14.765	2019	7	14.765
+201	"faculty of arts and design, bandung institute of technology, bandung, indonesia"	0.8981	-0.1199	197	0	0	1	0	0	2019	0	0
+202	"faculty of bioengineering and technology, universiti malaysia kelantan, jeli campus, lock bagkelantan, malaysia"	0.1935	0.7609	198	0	0	1	1	2.1093	2019	1	2.1093
+203	"faculty of communication and business, telkom university, bandung, 40257, indonesia"	-0.2718	0.732	199	0	0	1	0	0	2019	0	0
+204	"faculty of communication and business, telkom university, indonesia"	0.5675	0.0843	200	0	0	1	0	0	2019	0	0
+205	"faculty of communication science, post graduate department, padjadjaran university, bandung, indonesia"	-0.5373	-0.1218	201	0	0	1	0	0	2019	0	0
+206	"faculty of computer and information technology, universiti tun hussein onn malaysia, johor darul takzim, batu pahat, 86400, malaysia"	0.5422	-0.775	202	0	0	1	1	2.1093	2019	1	2.1093
+207	"faculty of computer science and information technology, alzaiem alazhari university, khartoum north, 13311, sudan"	0.1722	-0.0095	203	0	0	1	0	0	2019	0	0
+208	"faculty of computer science and information technology, universiti tun hussein onn malaysia, batu pahat, johor 86400, malaysia"	-0.2475	0.9107	204	0	0	2	0	0	2019	0	0
+209	"faculty of computer science and information technology, universiti tun hussein onn malaysia, batu pahat, johor darul takzim, 86400, malaysia"	-0.3574	-0.3768	205	0	0	1	0	0	2019	0	0
+210	"faculty of computer science and information technology, universiti tun hussein onn malaysia, batu pahat, parit raja, johor 86400, malaysia"	-0.2118	0.4443	206	0	0	2	0	0	2019	0	0
+211	"faculty of computer science and information technology, universiti tun hussein onn malaysia, johor, 86400, malaysia"	0.8697	0.3742	207	0	0	2	1	2.1093	2019	0.5	1.0546
+212	"faculty of computer science and information technology, universiti tun hussein onn malaysia, johor, batu pahat 86400, malaysia"	0.6902	0.5826	208	0	0	1	3	6.3279	2019	3	6.3279
+213	"faculty of computer science and information technology, universiti tun hussein onn malaysia, malaysia"	-0.5148	-0.7438	209	0	0	4	7	14.765	2019	1.75	3.6913
+214	"faculty of computer science and information technology, universiti tun hussein onn malaysia, parit raja, johor 86400, malaysia"	0.1347	0.2233	210	0	0	1	3	6.3279	2019	3	6.3279
+215	"faculty of computer science and information technology, universiti tun hussein onn malaysiajohor, malaysia"	-0.6561	-0.541	211	0	0	1	1	2.1093	2019	1	2.1093
+216	"faculty of computer science, esa unggul university, jakarta, indonesia"	0.4098	0.4831	212	0	0	1	0	0	2019	0	0
+217	"faculty of computer science, universitas esa unggul, indonesia"	-0.6562	-0.0766	213	0	0	1	0	0	2019	0	0
+218	"faculty of computer science, universitas esa unggul, jakarta, indonesia"	-0.4951	0.8028	214	0	0	1	0	0	2019	0	0
+219	"faculty of computer science, universitas indonesia, depok, indonesia"	0.9443	0.0291	215	0	0	1	0	0	2019	0	0
+220	"faculty of computer sciences and information technology, universiti tun hussein onn malaysia, batu pahat, malaysia"	-0.3086	0.2732	216	0	0	1	0	0	2019	0	0
+221	"faculty of computer systems and software engineering, universiti malaysia pahang, kuantan, 26300, malaysia"	-0.4441	-0.1114	217	0	0	1	7	14.765	2019	7	14.765
+222	"faculty of computer systems and software engineering, universiti malaysia pahang, malaysia"	-0.8348	0.0052	218	0	0	1	1	2.1093	2019	1	2.1093
+223	"faculty of computer systems and software engineering, universiti malaysia pahang, pahang, malaysia"	0.054	0.7598	219	0	0	3	8	16.8743	2019	2.6667	5.6248
+224	"faculty of computer systems and software engineering, universiti malaysia pahangpahang, malaysia"	0.8812	0.2064	220	0	0	1	1	2.1093	2019	1	2.1093
+225	"faculty of computing, universiti teknologi malaysia, johor, malaysia"	0.3392	-0.3669	221	0	0	1	0	0	2019	0	0
+226	"faculty of computing, universiti teknologi malaysia, skudai, johor darul takzim, 81310, malaysia"	-0.6982	-0.015	222	0	0	1	0	0	2019	0	0
+227	"faculty of computing, universiti teknologi malaysia, skudaijohor, malaysia"	-0.7035	-0.6324	223	0	0	1	1	2.1093	2019	1	2.1093
+228	"faculty of economic and business, telkom university, bandung, indonesia"	-0.6537	-0.6833	224	0	0	3	0	0	2019	0	0
+229	"faculty of economic business, telkom university, bandung, indonesia"	-0.5166	0.6532	225	0	0	1	0	0	2019	0	0
+230	"faculty of economics and business (feb), telkom university, bandung, 40257, indonesia"	0.8944	0.3067	226	0	0	1	0	0	2019	0	0
+231	"faculty of economics and business, telkom university, bandung, indonesia"	0.4822	0.4412	227	0	0	2	2	4.2186	2019	1	2.1093
+232	"faculty of economics and business, university of padjajaran, bandung, indonesia"	-0.5332	-0.6714	228	0	0	1	0	0	2019	0	0
+233	"faculty of education, universiti teknologi malaysia, skudai, malaysia"	-0.9196	0.2229	229	0	0	2	8	16.8743	2019	4	8.4372
+234	"faculty of electrical engineering, institut teknologi telkom surabaya, surabaya, indonesia"	0.0529	-0.1283	230	0	0	1	3	6.3279	2019	3	6.3279
+235	"faculty of electrical engineering, telkom university bandung, indonesia"	-0.3432	0.8794	231	0	0	1	0	0	2019	0	0
+236	"faculty of electrical engineering, telkom university, bandung, bandung, indonesia"	-0.8318	-0.1124	232	0	0	2	1	2.1093	2019	0.5	1.0546
+237	"faculty of electrical engineering, telkom university, bandung, indonesia"	0.7804	0.5337	233	0	0	12	7	14.765	2019	0.5833	1.2304
+238	"faculty of electrical engineering, telkom university, department of telecommunication engineering, indonesia"	0.6926	0.4903	234	0	0	1	0	0	2019	0	0
+239	"faculty of electrical enginering, multimedia-big data and cybersecurity laboratory, telkom university, bandung, indonesia"	-0.1999	0.8201	235	0	0	1	0	0	2019	0	0
+240	"faculty of electrical, information and communication engineering, institute of science and engineering, kanazawa university, kanazawa, 920-1192, japan"	0.3245	-0.8886	236	0	0	1	0	0	2019	0	0
+241	"faculty of engineering, department of informatics, universitas negeri manado, tondano, 95618, indonesia"	-0.5906	-0.0826	237	0	0	1	7	14.765	2019	7	14.765
+242	"faculty of engineering, department of information and communication technology education, universitas negeri manado, tondano, 95618, indonesia"	0.2895	-0.4231	238	0	0	1	7	14.765	2019	7	14.765
+243	"faculty of engineering, university of pakuan, department of electrical engineering, bogor, indonesia"	-0.2987	-0.898	239	0	0	1	0	0	2019	0	0
+244	"faculty of industrial engineering and information system, telkom university, bandung, indonesia"	-0.7642	0.1608	240	0	0	1	0	0	2019	0	0
+245	"faculty of industrial engineering, bandung institute of technology, indonesia"	-0.8826	0.2005	241	0	0	1	0	0	2019	0	0
+246	"faculty of industrial engineering, institut teknologi sepuluh november (its), indonesia"	-0.032	0.3871	242	0	0	1	1	2.1093	2019	1	2.1093
+247	"faculty of industrial engineering, telkom university, bandung, indonesia"	0.9056	0.2739	243	0	0	2	0	0	2019	0	0
+248	"faculty of industrial engineering, telkom university, indonesia"	0.2935	0.8976	244	0	0	1	0	0	2019	0	0
+249	"faculty of informatics, telkom university, bandung, indonesia"	-0.0822	0.8099	245	0	0	1	0	0	2019	0	0
+250	"faculty of information technology, monash university, melbourne, australia"	0.0187	0.8453	246	0	0	1	0	0	2019	0	0
+251	"faculty of information technology, university of jyväskylä, jyväskylä, finland"	-0.4558	-0.8275	247	0	0	2	0	0	2019	0	0
+252	"faculty of mathematics and natural sciences, bandung institute of technology, jalan ganesha no. 10, bandung, 40132, indonesia"	-0.085	-0.0342	248	0	0	1	0	0	2019	0	0
+253	"faculty of mechanical and manufacturing engineering, universiti tun hussein onn malaysia, parit raja, batu pahat, johor, 86400, malaysia"	0.0428	-0.2592	249	0	0	1	0	0	2019	0	0
+254	"faculty of science and engineering, university of groningen, groningen, netherlands"	-0.6036	-0.7281	250	0	0	1	0	0	2019	0	0
+255	"faculty of science and technology, state islamic university (uin) sunan gunung jati, bandung, indonesia"	0.2902	-0.8994	251	0	0	1	0	0	2019	0	0
+256	"faculty of science and technology, state islamic university (uin), bandung, indonesia"	0.8124	-0.0654	252	0	0	1	0	0	2019	0	0
+257	"faculty of science and technology, uin sunan gunung djati, bandung, indonesia"	0.8971	-0.3022	253	0	0	1	0	0	2019	0	0
+258	"faculty of science and technology, uin sunan gunung jati, bandung, 40614, indonesia"	-0.3117	0.8923	254	0	0	4	1	2.1093	2019	0.25	0.5273
+259	"faculty of science and technology, uin sunan gunung jati, bandung, indonesia"	0.2552	0.806	255	0	0	1	0	0	2019	0	0
+260	"faculty of science, fukuoka university, jonan-ku, fukuoka, 814-0180, japan"	-0.6576	0.5273	256	0	0	1	2	4.2186	2019	2	4.2186
+261	"faculty of sharia and law, universitas islam negeri sunan gunung djati, bandung, west java, indonesia"	-0.033	-0.8151	257	0	0	1	2	4.2186	2019	2	4.2186
+262	"faculty of social and political science, garut university, indonesia"	-0.109	-0.6973	258	0	0	3	0	0	2019	0	0
+263	"faculty of social science and political science, garut university, garut, indonesia"	0.8185	0.4744	259	0	0	1	1	2.1093	2019	1	2.1093
+264	"faculty of teacher training and education, university of hkbp nommensen, indonesia"	-0.5244	-0.0294	260	0	0	1	0	0	2019	0	0
+265	"faculty of technology and computer science, universitas prima indonesia, indonesia"	-0.709	-0.5617	261	0	0	1	0	0	2019	0	0
+266	"faculty of technology management and business, universiti tun hussein onn malaysia, johor, 86400, malaysia"	0.9309	0.1693	262	0	0	1	0	0	2019	0	0
+267	"fakultas rekayasa industri telkom university, bandung, indonesia"	0.8847	-0.3356	263	0	0	1	0	0	2019	0	0
+268	"fakultas rekayasa industri, telkom university, bandung, indonesia"	-0.7707	-0.5494	264	0	0	3	3	6.3279	2019	1	2.1093
+269	"federal urdu university of arts, science and technology islamabad, pakistan"	-0.8433	-0.4278	265	0	0	1	1	2.1093	2019	1	2.1093
+270	"forest product research and development center, bogor, indonesia"	0.4464	-0.0529	1	5	5	1	3	6.3279	2019	3	6.3279
+271	"forest products research and development center, bogor, indonesia"	0.4438	-0.0534	1	3	3	2	3	6.3279	2019	1.5	3.1639
+272	"graduate program in regulation and management of telecommunication, school of electrical engineering, telkom university, bandung, indonesia"	-0.618	0.5801	266	0	0	1	0	0	2019	0	0
+273	"graduate program of regulation and telecommunication management, school of electrical engineering, telkom university, bandung, indonesia"	-0.1421	0.7673	267	0	0	1	0	0	2019	0	0
+274	"graduate school of business, universiti sains malaysia usmpulau pinang 11800, malaysia"	0.4451	0.7664	268	0	0	1	0	0	2019	0	0
+275	"graduate school of business, universiti sains malaysia, penang, malaysia"	-0.8707	-0.3626	269	0	0	1	1	2.1093	2019	1	2.1093
+276	"graduate school of engineering, hiroshima university, 1-4-1 kagamiyama, higashi-hiroshima, 739-8527, japan"	-0.0112	-0.7561	270	0	0	2	6	12.6557	2019	3	6.3279
+277	"graduate school of informatics, school of computing, telkom university, kawasan pendidikan telkom, sukapura, kec. dayeuhkolot, bandung, 40257, indonesia"	-0.2989	-0.7253	271	0	0	1	0	0	2019	0	0
+278	"graduate school of natural science and technology, kanazawa university, kakuma-machi, kanazawa, 920-1192, japan"	-0.0013	0.9028	272	0	0	1	0	0	2019	0	0
+279	"graduate school of natural science and technology, kanazawa university, kanazawa, 920-1192, japan"	-0.8915	-0.1094	273	0	0	1	1	2.1093	2019	1	2.1093
+280	"graduate school of natural science and technology, kanazawa university, kanazawa, ishikawa 920-1192, japan"	-0.8245	-0.3388	274	0	0	1	2	4.2186	2019	2	4.2186
+281	"graduate school of natural science and technology, kanazawa university, kanazawa, japan"	-0.558	-0.3568	275	0	0	3	1	2.1093	2019	0.3333	0.7031
+282	"graduate school of technology management, ritsumeikan university, ibaraki, osaka, japan"	0.0574	-0.6789	276	0	0	1	1	2.1093	2019	1	2.1093
+283	"hasanuddin university, jalan perintis kemerdekaan km 10, makassar, 90245, indonesia"	0.1535	-0.0972	277	0	0	1	0	0	2019	0	0
+284	"hiroshima university, graduate school of engineering, hiroshima, japan"	-0.182	0.927	278	0	0	1	0	0	2019	0	0
+285	"human computer interaction department, surya university, tangerang, indonesia"	-0.0322	-0.1097	279	0	0	1	1	2.1093	2019	1	2.1093
+286	"ibm center of excellence and earth resources and sustainability center, universiti malaysia pahang, kuantan, 26300, malaysia"	0.7598	0.2177	280	0	0	1	7	14.765	2019	7	14.765
+287	"indonesia school of computing, telkom university, department of electrical engineering and information technology, universitas gadjah mada, yogyakarta, bandung, indonesia"	0.82	0.1407	281	0	0	1	1	2.1093	2019	1	2.1093
+288	"indonesian education university, indonesia"	0.4234	-0.8469	282	0	0	1	0	0	2019	0	0
+289	"indonesian institute of science, technical implementation unit for instrumentation development, bandung, indonesia"	-0.3286	-0.2979	283	0	0	1	0	0	2019	0	0
+290	"indonesian institute of sciences (lipi), bandung, indonesia"	0.7641	-0.369	284	0	0	1	0	0	2019	0	0
+291	"indonesian institute of sciences (lipi), research center for elect. telecom, bandung, indonesia"	-0.9066	0.2526	285	0	0	1	0	0	2019	0	0
+292	"indonesian institute of sciences chemical research center, indonesia"	-0.7683	-0.4788	286	0	0	1	0	0	2019	0	0
+293	"indonesian institute of sciences, research center for electronics and telecommunication, indonesia"	-0.3316	-0.8859	287	0	0	1	0	0	2019	0	0
+294	"indonesian institute of sciences, technical implementation unit for instrumentation development, bandung, indonesia"	-0.837	0.4365	288	0	0	1	0	0	2019	0	0
+295	"industrial & financial mathematics research group, faculty of mathematics & natural sciences, institut teknologi bandung, bandung, 40132, indonesia"	0.8878	0.1566	289	0	0	1	2	4.2186	2019	2	4.2186
+296	"industrial and financial mathematics research group, faculty of mathematics and natural sciences, institut teknologi bandung, jalan ganesha no. 10, bandung, 40132, indonesia"	0.6766	0.3981	290	0	0	1	0	0	2019	0	0
+297	"industrial and financial mathematics research group, faculty of mathematics and natural sciences, institut teknologi bandung, jl. ganesha 10, bandung, 40132, indonesia"	-0.6278	0.4646	291	0	0	1	1	2.1093	2019	1	2.1093
+298	"industrial and informatics faculty, telkom institute of technology purwokerto, purwokerto, central java, indonesia"	0.2739	0.1359	2	2	3	1	2	4.2186	2019	2	4.2186
+299	"industrial engineering department, telkom university, bandung, indonesia"	0.6512	-0.3129	292	0	0	5	2	4.2186	2019	0.4	0.8437
+300	"industrial engineering department, telkom university, jl. telekomunikasi terusan buah batu no.1, bandung, jawa barat, 40257, indonesia"	-0.5534	0.7648	293	0	0	1	0	0	2019	0	0
+301	"industrial engineering faculty, telkom university, bandung, indonesia"	-0.4334	0.3642	294	0	0	2	1	2.1093	2019	0.5	1.0546
+302	"industrial engineering program, mercu buana university, jakarta, indonesia"	0.6075	0.3782	295	0	0	1	0	0	2019	0	0
+303	"industrial engineering program, telkom university, bandung, indonesia"	0.7166	0.0232	296	0	0	3	2	4.2186	2019	0.6667	1.4062
+304	"industrial engineering study program, industrial engineering faculty, telkom university, jl. telekomunikasi, terusan buah batu bandung, 40257, indonesia"	-0.7233	-0.0943	297	0	0	1	0	0	2019	0	0
+305	"industrial engineering telkom university, bandung, indonesia"	-0.6355	-0.6436	298	0	0	1	1	2.1093	2019	1	2.1093
+306	"industrial engineering, atma jaya catholic, university of indonesia, jakarta, indonesia"	-0.6176	0.0862	299	0	0	1	0	0	2019	0	0
+307	"industrial engineering, department telkom university, bandung, indonesia"	0.7153	-0.5496	300	0	0	1	0	0	2019	0	0
+308	"industrial engineering, industrial and system engineering faculty, telkom university, bandung, 40257, indonesia"	-0.6961	-0.4913	301	0	0	1	0	0	2019	0	0
+309	"industrial engineering, school of industrial and system engineering, telkom university, bandung, 40257, indonesia"	-0.4058	0.8528	302	0	0	1	0	0	2019	0	0
+310	"industrial engineering, school of industrial engineering, telkom university, jl. telekomunikasi no. 01, bandung, indonesia"	0.761	0.5625	303	0	0	1	1	2.1093	2019	1	2.1093
+311	"industrial engineering, telkom university jl. telekomunikasi, terusan buah batu, bandung, 40257, indonesia"	-0.5838	0.6889	304	0	0	1	0	0	2019	0	0
+312	"industrial engineering, telkom university, bandung, west java, indonesia"	-0.1774	-0.4386	305	0	0	1	4	8.4372	2019	4	8.4372
+313	"industrial engineering, telkom university, jl telekomunikasi 1, bandung, indonesia"	0.2186	-0.6126	306	0	0	1	1	2.1093	2019	1	2.1093
+314	"informatics department, institut teknologi sepuluh nopember, indonesia"	-0.2586	-0.8114	307	0	0	1	1	2.1093	2019	1	2.1093
+315	"informatics department, institut teknologi sepuluh nopember, raya its st., sukolilo, surabaya, 60111, indonesia"	0.0783	0.5919	308	0	0	1	5	10.5464	2019	5	10.5464
+316	"informatics department, telkom university, bandung, indonesia"	0.0109	0.54	309	0	0	1	0	0	2019	0	0
+317	"informatics engineering, school of computing, telkom university, bandung, indonesia"	0.2986	-0.5027	310	0	0	1	2	4.2186	2019	2	4.2186
+318	"informatics engineering, school of computing, telkom university, indonesia"	-0.914	-0.2383	311	0	0	1	0	0	2019	0	0
+319	"informatics engineering, telkom university, bandung, 40257, indonesia"	0.7163	0.617	312	0	0	1	1	2.1093	2019	1	2.1093
+320	"informatics engineering, telkom university, bandung, indonesia"	0.4956	0.7576	313	0	0	1	0	0	2019	0	0
+321	"informatics, telkom university, bandung, indonesia"	0.8716	-0.0703	314	0	0	1	2	4.2186	2019	2	4.2186
+322	"information security and networking research group(inforsnet), faculty of information communication technology, universiti teknikal malaysia melaka, melaka, malaysia"	-0.3641	-0.8719	315	0	0	1	0	0	2019	0	0
+323	"information security and networking research group(inforsnet), faculty of information communication technology, universiti teknikal malaysia melaka, widyatma university, melaka, malaysia"	-0.0652	-0.9072	316	0	0	1	0	0	2019	0	0
+324	"information security and networking research, faculty of information communication technology, universiti teknikal malaysia melaka, melaka, malaysia"	0.782	0.4534	317	0	0	1	0	0	2019	0	0
+325	"information system department, school of industrial engineering and information system, telkom university, bandung, indonesia"	-0.1822	0.0013	318	0	0	2	0	0	2019	0	0
+326	"information system department, telkom university, jln telekomunikasi no. 1, bandung, indonesia"	0.2673	0.4566	319	0	0	2	2	4.2186	2019	1	2.1093
+327	"information system management department, binus graduate program - master of information system management, bina nusantara university, jakarta, 11480, indonesia"	-0.7368	-0.4333	320	0	0	1	1	2.1093	2019	1	2.1093
+328	"information system, information technology, institut teknologi sepuluh nopember, indonesia"	-0.4748	0.5906	321	0	0	1	0	0	2019	0	0
+329	"information systems department, school of industrial engineering, telkom university, bandung, 40257, indonesia"	0.748	-0.5786	322	0	0	1	1	2.1093	2019	1	2.1093
+330	"institut teknologi bandung, department of industrial engineering and management, bandung, indonesia"	-0.7677	0.5499	323	0	0	1	0	0	2019	0	0
+331	"institut teknologi bandung, school of electrical engineering and informatics, jl. ganesha no. 10, bandung, indonesia"	-0.9437	0.0279	324	0	0	1	0	0	2019	0	0
+332	"institut teknologi nasional, department of industrial engineering, bandung, indonesia"	-0.375	0.8685	325	0	0	1	0	0	2019	0	0
+333	"institut teknologi, radio telecommunication and microwave laboratory, bandung, indonesia"	-0.3254	-0.8433	326	0	0	1	0	0	2019	0	0
+334	"institut teknologi, radio telecommunication and microwave laboratory, school of electrical engineering and informatics, bandung, indonesia"	0.344	-0.8315	327	0	0	2	0	0	2019	0	0
+335	"institute for artificial intelligence and big data, universiti malaysia kelantan, city campus, kota bharu, kelantan, 16100, malaysia"	-0.4143	0.7156	328	0	0	1	0	0	2019	0	0
+336	"institute of management sciences, peshawar, pakistan"	-0.1471	0.609	329	0	0	1	1	2.1093	2019	1	2.1093
+337	"institute of nature and environmental technology, kanazawa university, kanazawa, ishikawa 920-1192, japan"	0.4299	-0.5888	330	0	0	1	2	4.2186	2019	2	4.2186
+338	"institute of positive computing hochschule ruhr west, bottrop, germany"	-0.8046	0.4945	331	0	0	1	0	0	2019	0	0
+339	"institute of positive computing, hochschule ruhr west university of applied sciences, bottrop, germany"	0.7925	-0.312	332	0	0	2	0	0	2019	0	0
+340	"institute of positive computing, ruhr west university of applied sciences, mülheim, germany"	0.3208	-0.7362	333	0	0	1	0	0	2019	0	0
+341	"institute of science and engineering, kanazawa university, kanazawa, 920-1192, japan"	-0.1716	-0.8831	334	0	0	1	1	2.1093	2019	1	2.1093
+342	"institute of science and engineering, kanazawa university, kanazawa, japan"	0.5634	-0.611	335	0	0	4	1	2.1093	2019	0.25	0.5273
+343	"institute of space and astronautical science, japan aerospace exploration agency (jaxa), sagamihara, kanagawa, 252-5210, japan"	-0.3821	-0.5266	336	0	0	1	0	0	2019	0	0
+344	"institute of technology bandung, bandung, 40132, indonesia"	-0.5797	0.7447	337	0	0	1	3	6.3279	2019	3	6.3279
+345	"institute of tropical biodiversity and sustainable development, universiti malaysia terengganu, kuala nerus, terengganu, malaysia"	0.7457	0.2849	338	0	0	2	1	2.1093	2019	0.5	1.0546
+346	"institute teknologi bandung, school of electrical engineering informatics, bandung, indonesia"	-0.6412	0.1798	339	0	0	1	0	0	2019	0	0
+347	"instrumentation and control research group, faculty of industrial technology, institute of technology bandung, bandung, indonesia"	-0.1411	0.6914	340	0	0	1	0	0	2019	0	0
+348	"instrumentation and control research group, faculty of industrial technology, institute technology of bandung, ganesha 10, bandung, 40132, indonesia"	-0.5145	-0.7923	341	0	0	1	1	2.1093	2019	1	2.1093
+349	"intemational islamic university malaysia, gombak, 53100, malaysia"	0.62	0.7131	342	0	0	1	0	0	2019	0	0
+350	"international islamic university malaysia, gombak, 53100, malaysia"	0.1191	0.4144	343	0	0	1	0	0	2019	0	0
+351	"international islamic university malaysia, jalan gombak, kuala lumpur, 50728, malaysia"	-0.2247	-0.8747	344	0	0	1	1	2.1093	2019	1	2.1093
+352	"kantor jasa surveyor kadaster berlisensi ketut tomy suhari, bali, indonesia"	0.7259	0.4404	345	0	0	1	0	0	2019	0	0
+353	"king abdul azizuniversity, al ehtifalat st, jeddah, 21589, saudi arabia"	-0.8531	0.2454	346	0	0	1	0	0	2019	0	0
+354	"king fahd university of petroleum minerals, kfupm, dhahran, saudi arabia"	0.372	-0.7704	347	0	0	1	0	0	2019	0	0
+355	"kumamoto university, computer science and electrical engineering, kumamoto, japan"	0.2108	-0.4336	348	0	0	1	0	0	2019	0	0
+356	"kumoh national institute of technology, department of it convergence engineering, gumi, south korea"	-0.3861	0.4396	349	0	0	1	0	0	2019	0	0
+357	"leeds teaching hospitals trust, leeds, ls9 7tf, united kingdom"	-0.7864	0.5231	350	0	0	1	0	0	2019	0	0
+358	"machinery technology centre, sirim berhad, hulu selangor, malaysia"	0.8679	-0.2747	351	0	0	1	2	4.2186	2019	2	4.2186
+359	"majors of physics engineering, faculty of electrical engineering, telkom university, bandung, indonesia"	-0.8847	0.1463	352	0	0	1	0	0	2019	0	0
+360	"malaysia japan international institute of technology, universiti teknologi malaysia, kuala lumpur, malaysia"	0.0033	-0.0085	353	0	0	1	1	2.1093	2019	1	2.1093
+361	"malaysian japanese international institute, universiti teknologi malaysia, kuala lumpur, malaysia"	-0.9443	-0.0044	354	0	0	1	0	0	2019	0	0
+362	"manager iot platform development, division digital service pt. telkom indonesia, setrasari indah street no. 47, sukarasa, sukasari, bandung, west java, 40152, indonesia"	0.6609	-0.4253	355	0	0	1	1	2.1093	2019	1	2.1093
+363	"marketing management program, telkom university, bandung, indonesia"	0.2052	0.6894	356	0	0	1	0	0	2019	0	0
+364	"mathematic dep uin sunan gunung djati, bandung, indonesia"	-0.1051	-0.214	357	0	0	1	0	0	2019	0	0
+365	"mechatronics engineering division, politeknik elektronika negeri surabaya (pens), indonesia"	0.8707	-0.2206	358	0	0	2	1	2.1093	2019	0.5	1.0546
+366	"mechatronics engineering division, politeknik elektronika negeri surabaya, indonesia"	-0.0849	-0.8539	359	0	0	1	0	0	2019	0	0
+367	"mechatronics engineering division, politeknik elektronika, politeknik elektronika negeri surabaya, indonesia"	0.6933	0.6421	360	0	0	1	0	0	2019	0	0
+368	"meson science laboratory, riken nishina center, riken, 2-1 hirosawa, wako, 351-0198, japan"	-0.574	-0.4316	361	0	0	1	0	0	2019	0	0
+369	"microwave laboratory, school of electrical engineering, telkom university, bandung, indonesia"	0.683	0.1753	362	0	0	2	0	0	2019	0	0
+370	"mjiit, department of ese, kuala lumpur, malaysia"	0.0676	-0.513	363	0	0	1	0	0	2019	0	0
+371	"moovita ptl. ltd., malaysia"	-0.8305	0.0654	364	0	0	1	0	0	2019	0	0
+372	"national institute of aeronautics and space, satellite technology center, bogor, indonesia"	-0.8902	0.0939	365	0	0	1	0	0	2019	0	0
+373	"national polytechnic institute of cambodia, indonesia"	0.5709	-0.7535	366	0	0	1	0	0	2019	0	0
+374	"national space agency (angkasa), lot 2233, jalan turi, kg. sg. lang, banting, selangor, 42700, malaysia"	0.5944	0.5086	367	0	0	1	0	0	2019	0	0
+375	"next waves-id, bandung, indonesia"	-0.7164	0.212	368	0	0	1	1	2.1093	2019	1	2.1093
+376	"next waves-id, jl. karapitan 1, bandung, 40261, indonesia"	0.4542	0.8296	369	0	0	1	1	2.1093	2019	1	2.1093
+377	"nottingham university business school china, university of nottingham ningbo china, 199 taikang east road, ningbo, 315100, china"	0.8417	0.0546	370	0	0	1	0	0	2019	0	0
+378	"nurtanio university, electrical engineering department, bandung, indonesia"	-0.3133	-0.788	371	0	0	1	0	0	2019	0	0
+379	"optical communication laboratory, school of electrical engineering, telkom university, telekomunikasi street no. 1, bandung, 40257, indonesia"	0.1222	0.7812	372	0	0	2	0	0	2019	0	0
+380	"p. t. solusi 247, segitiga emas business park, j1. prof. dr. satrio no. kav 6, kuningan, jakarta, 12940, indonesia"	0.8248	-0.4613	373	0	0	1	0	0	2019	0	0
+381	"physics department, institut teknologi bandung, indonesia rock fluid imaging lab, bandung, indonesia"	-0.3405	0.7188	374	0	0	1	0	0	2019	0	0
+382	"physics department, institut teknologi bandung, jalan ganesha 10, bandung, 40132, indonesia"	0.1052	-0.1965	375	0	0	1	0	0	2019	0	0
+383	"physics department, universitas negeri semarang, semarang, 50229, indonesia"	0.1956	0.8248	376	0	0	1	0	0	2019	0	0
+384	"physics engineering department, electrical engineering faculty, telkom university, terusan telekomunikasi, dayeuh kolot bandung, 40257, indonesia"	0.2124	0.878	377	0	0	1	6	12.6557	2019	6	12.6557
+385	"physics engineering, school of electrical engineering, telkom university, bandung, indonesia"	-0.3969	0.1226	378	0	0	1	0	0	2019	0	0
+386	"pln research institute, indonesia"	0.1427	-0.8935	379	0	0	1	0	0	2019	0	0
+387	"politeknik negeri medan, dep. of com. eng. and informatics, medan, indonesia"	0.35	-0.2144	380	0	0	1	0	0	2019	0	0
+388	"politeknik negeri medan, department of computer engineering and informatics, medan, indonesia"	-0.9346	-0.1376	381	0	0	1	2	4.2186	2019	2	4.2186
+389	"politeknik negeri medan, jalan almamater no. 1, medan, 20155, indonesia"	0.6033	-0.2511	382	0	0	4	0	0	2019	0	0
+390	"politeknik negeri medan, kampus usu, jalan almamater no. 1, padang bulan, medan, 20155, indonesia"	-0.1912	0.5282	383	0	0	1	0	0	2019	0	0
+391	"pontificia universidad catolica de chile, chile"	0.5351	0.723	384	0	0	1	4	8.4372	2019	4	8.4372
+392	"pontificia universidad católica de chile, santiago, chile"	-0.8948	-0.1631	385	0	0	1	8	16.8743	2019	8	16.8743
+393	"precision machining research center, faculty of mechanical and manufacturing engineering, universiti tun hussein onn malaysia, johor, malaysia"	0.5191	-0.3849	386	0	0	2	1	2.1093	2019	0.5	1.0546
+394	"precision machining research center, universiti tun hussein onn malaysia, batu pahat, johor, malaysia"	0.7685	-0.5501	387	0	0	1	2	4.2186	2019	2	4.2186
+395	"precision machining research centre (premach), faculty of mechanical engineering and manufacturing, universiti tun hussein onn malaysia, johor, malaysia"	0.3559	-0.619	388	0	0	1	0	0	2019	0	0
+396	"president university, cikarang baru, indonesia"	0.0729	0.8309	389	0	0	1	1	2.1093	2019	1	2.1093
+397	"primary teacher education departmeny, bina nusantara university, jakarta, indonesia"	-0.299	0.4379	390	0	0	3	2	4.2186	2019	0.6667	1.4062
+398	"prince songkla university, 15 karnjanavanit soi 7 rd, songkhla, 90110, thailand"	-0.4686	-0.7703	391	0	0	1	0	0	2019	0	0
+399	"prodi d3 teknik telekomunikasi, telkom university, bandung, indonesia"	-0.8263	-0.4581	392	0	0	1	0	0	2019	0	0
+400	"psychology, informatics and business university40286, indonesia"	0.196	0.3808	393	0	0	1	1	2.1093	2019	1	2.1093
+401	"pukyong national university, busan, south korea"	0.1253	0.3149	394	0	0	1	2	4.2186	2019	2	4.2186
+402	"pus. lit elektronika telekomunikasi, lipi, bandung, indonesia"	-0.6673	0.4061	395	0	0	1	0	0	2019	0	0
+403	"pusat penelitian elektronika telekomunikasi, lembaga ilmu pengetahuan indonesia, bandung, indonesia"	-0.4214	-0.7317	396	0	0	1	0	0	2019	0	0
+404	"puslit elektronika telekomunikasi, lembaga ilmu pengetahuan indonesia, bandung, indonesia"	-0.0836	-0.6149	397	0	0	1	0	0	2019	0	0
+405	"radio telecomm. and microwave lab., school of electrical eng. and informatics, institut teknologi bandung, bandung, indonesia"	-0.5153	0.2152	398	0	0	1	0	0	2019	0	0
+406	"radio telecommunication and microwave laboratory, school of electrical engineering and infomatics, institut teknologi bandung, indonesia"	0.4785	-0.3109	399	0	0	1	1	2.1093	2019	1	2.1093
+407	"radio telecommunication and microwave laboratory, school of electrical engineering and informatics, institut teknologi bandung, bandung, indonesia"	-0.5069	0.5167	400	0	0	1	0	0	2019	0	0
+408	"radio telecommunication and microwave laboratory, school of electrical engineering and informatics, institut teknologi, bandung, indonesia"	0.7855	0.0074	401	0	0	2	2	4.2186	2019	1	2.1093
+409	"research center for disasters mitigation, institute for research and community services, institut teknologi bandung, bandung, indonesia"	0.9441	0.0637	402	0	0	1	1	2.1093	2019	1	2.1093
+410	"research center for electronics and telecommunication indonesia institute of sciences, bandung, indonesia"	0.6854	0.2472	403	0	0	3	0	0	2019	0	0
+411	"research center for electronics and telecommunication, indonesian institute of sciences (lipi), indonesia"	-0.4215	-0.7962	404	0	0	1	1	2.1093	2019	1	2.1093
+412	"research center for electronics and telecommunication, indonesian institute of sciences (lipi), jl. sangkuriang, bandung, 40135, indonesia"	0.2857	-0.665	405	0	0	1	0	0	2019	0	0
+413	"research center for electronics and telecommunication, indonesian institute of sciences, bandung, indonesia"	0.7084	0.0982	406	0	0	2	0	0	2019	0	0
+414	"research center for electronics and telecommunication, indonesian institute of sciences, indonesia"	0.7813	0.0794	407	0	0	1	0	0	2019	0	0
+415	"research center for electronics and telecommunication, indonesian institution of sciences, bandung, indonesia"	-0.126	0.4302	408	0	0	1	0	0	2019	0	0
+416	"research center for electronics and telecommunications, indonesian institute of sciences (ppet - lipi), kampus lipi, jl. sangkuriang, bandung, 40135, indonesia"	0.2618	0.8626	409	0	0	1	0	0	2019	0	0
+417	"research center for informatics, indonesian institute of science (lipi), bandung, indonesia"	-0.0223	-0.9444	410	0	0	1	0	0	2019	0	0
+418	"research center for informatics, indonesian institute of sciences (lipi), bandung, indonesia"	0.4478	-0.0524	1	5	5	1	3	6.3279	2019	3	6.3279
+419	"research center for informatics, indonesian institute of sciences lab., hpc, gedung pusinov, jl. raya jakarta bogor km 47, cibinong, indonesia"	-0.8462	-0.1721	411	0	0	1	0	0	2019	0	0
+420	"research center for informatics, indonesian institute of sciences, bandung, indonesia"	0.4499	-0.0507	1	3	3	2	3	6.3279	2019	1.5	3.1639
+421	"research center for physics, lembaga ilmu pengetahuan indonesia (lipi), serpong, 15314, indonesia"	-0.6709	-0.4341	412	0	0	1	0	0	2019	0	0
+422	"research centre for electrical power and mechatronics, indonesian institute of sciences kampus lipi gedung 60 jalan sangkuriang, bandung, indonesia"	-0.393	-0.1946	413	0	0	1	1	2.1093	2019	1	2.1093
+423	"research centrer for open science and data platform, national institute of informatics, chiyoda ward, tokyo, japan"	-0.421	-0.6611	414	0	0	1	0	0	2019	0	0
+424	"research innovation and management centre (rimc), universiti utara malaysia, sintok, malaysia"	-0.6218	-0.4836	415	0	0	1	0	0	2019	0	0
+425	"research institute for sustainable humanosphere, kyoto university, kyoto, 6110011, japan"	0.4503	-0.0549	1	3	3	1	1	2.1093	2019	1	2.1093
+426	"research institute for tea and cinchona, ciwidey, indonesia"	-0.299	-0.2222	416	0	0	1	0	0	2019	0	0
+427	"rock fluid imaging lab, jl. sukasenang raya no.5a, cikutra, cibeunying kidul, bandung, 40124, indonesia"	0.5747	-0.4377	417	0	0	1	0	0	2019	0	0
+428	"satellite technology center, national institute of aeronautics and space, bogor, indonesia"	0.2833	0.6661	418	0	0	1	0	0	2019	0	0
+429	"school of apllied science, telkom university, bandung, indonesia"	-0.6317	0.7013	419	0	0	2	0	0	2019	0	0
+430	"school of application science, telkom university, bandung, indonesia"	0.6436	0.0674	420	0	0	1	0	0	2019	0	0
+431	school of applied science	-0.1807	-0.6971	421	0	0	1	0	0	2019	0	0
+432	"school of applied science telkom university, bandung, indonesia"	-0.7281	0.6035	422	0	0	1	0	0	2019	0	0
+433	"school of applied science, telkom university bandung, indonesia"	0.48	-0.7011	423	0	0	2	0	0	2019	0	0
+434	"school of applied science, telkom university, bandung, 40257, indonesia"	0.6113	0.5819	424	0	0	2	0	0	2019	0	0
+435	"school of applied science, telkom university, bandung, indonesia"	-0.6724	-0.2455	5	2	6	19	25	52.7322	2019	1.3158	2.7754
+436	"school of applied science, telkom university, indonesia"	-0.7656	0.0216	425	0	0	5	4	8.4372	2019	0.8	1.6874
+437	"school of applied science, telkom university, jl. telekomunikasi no 1, terusan buah batu bandung, west java, 40257, indonesia"	-0.9424	-0.071	426	0	0	1	0	0	2019	0	0
+438	"school of applied science, telkom university, jl. telekomunikasi, no. 1, terusan buah batu, bandung, 40257, indonesia"	0.7894	-0.5208	427	0	0	1	3	6.3279	2019	3	6.3279
+439	"school of applied science, telkom university, telekomunikasi st., bandung, jawa barat, 40257, indonesia"	-0.4847	-0.6324	428	0	0	1	6	12.6557	2019	6	12.6557
+440	"school of applied science, telkom university, telekomunikasi, st. terusan buah batu, bandung, 40257, indonesia"	0.7293	-0.1775	429	0	0	1	5	10.5464	2019	5	10.5464
+441	"school of applied science, telkom university, terusan buah batu, bandung, indonesia"	0.6268	-0.7057	430	0	0	1	1	2.1093	2019	1	2.1093
+442	"school of applied sciences, telkom university, bandung, indonesia"	-0.3078	-0.6337	431	0	0	2	0	0	2019	0	0
+443	"school of architecture, tianjin university, tianjin, 300072, china"	0.0905	0.94	432	0	0	1	0	0	2019	0	0
+444	"school of architectureand art, hebei university of engineering, handan, 056038, china"	-0.4415	0.6508	433	0	0	1	0	0	2019	0	0
+445	"school of business and management, bandung institute of technology, bandung, indonesia"	0.3118	0.8448	434	0	0	1	0	0	2019	0	0
+446	"school of business and management, institut teknologi bandung, bandung, indonesia"	0.4843	-0.8114	435	0	0	1	0	0	2019	0	0
+447	"school of business, bina nusantara university, jakarta, indonesia"	-0.9315	-0.1746	436	0	0	3	2	4.2186	2019	0.6667	1.4062
+448	"school of business, president university, indonesia"	-0.4319	0.2048	437	0	0	3	0	0	2019	0	0
+449	"school of communication and business, telkom university, bandung, indonesia"	-0.932	0.1554	438	0	0	3	1	2.1093	2019	0.3333	0.7031
+450	"school of computing (soc), telkom university, bandung, indonesia"	0.2382	-0.8144	439	0	0	5	0	0	2019	0	0
+451	"school of computing - telkom university, bandung, indonesia"	0.6535	0.6188	440	0	0	1	0	0	2019	0	0
+452	"school of computing telkom university, computing laboratory, bandung, 40257, indonesia"	0.0094	-0.8775	6	2	2	1	0	0	2019	0	0
+453	"school of computing, electronics and mathematics, coventry university, coventry, cv1 5fb, united kingdom"	0.3894	0.8616	441	0	0	1	7	14.765	2019	7	14.765
+454	"school of computing, faculty of engineering, universiti teknologi malaysia, malaysia"	-0.3516	0.5138	442	0	0	2	1	2.1093	2019	0.5	1.0546
+455	"school of computing, faculty of engineering, universiti teknologi malaysia, skudai, johor 81310, malaysia"	-0.0491	-0.2927	443	0	0	3	0	0	2019	0	0
+456	"school of computing, telkom university bandung, indonesia"	0.8502	-0.0077	444	0	0	1	0	0	2019	0	0
+457	"school of computing, telkom university jl, bandung, 40257, indonesia"	0.6171	0.6564	445	0	0	1	0	0	2019	0	0
+458	"school of computing, telkom university telekomunikasi street, bandung, 40257, indonesia"	0.8225	-0.3718	446	0	0	1	1	2.1093	2019	1	2.1093
+459	"school of computing, telkom university, 01 telekomunikasi street, terusan buah batu, bandung, indonesia"	0.9064	-0.0191	447	0	0	1	0	0	2019	0	0
+460	"school of computing, telkom university, bandung, 40257, indonesia"	0.4548	0.3081	448	0	0	22	13	27.4208	2019	0.5909	1.2464
+461	"school of computing, telkom university, bandung, 40275, indonesia"	0.7226	0.5421	449	0	0	2	2	4.2186	2019	1	2.1093
+462	"school of computing, telkom university, bandung, indonesia"	0.4463	-0.0561	1	3	3	68	23	48.5137	2019	0.3382	0.7134
+463	"school of computing, telkom university, bandung, indonesia, bandung, 40257, indonesia"	0.2895	-0.5844	450	0	0	1	0	0	2019	0	0
+464	"school of computing, telkom university, bandung, west java 40257, indonesia"	0.2601	0.13	2	2	6	6	12	25.3115	2019	2	4.2186
+465	"school of computing, telkom university, bandung, west java, 40257, indonesia"	-0.0985	0.1226	451	0	0	1	1	2.1093	2019	1	2.1093
+466	"school of computing, telkom university, bandung, west java, indonesia"	0.2728	0.1371	2	2	3	2	2	4.2186	2019	1	2.1093
+467	"school of computing, telkom university, indonesia"	0.3346	0.7174	452	0	0	12	11	23.2022	2019	0.9167	1.9335
+468	"school of computing, telkom university, indonesia, bandung, indonesia"	-0.2339	-0.5979	453	0	0	1	0	0	2019	0	0
+469	"school of computing, telkom university, jalan telekomunikasi no. 1 terusan buah batu, bandung, 40257, indonesia"	0.4477	-0.0537	1	5	5	5	3	6.3279	2019	0.6	1.2656
+470	"school of computing, telkom university, jl telekomunikasi 01, dayeuhkolot, bandung-west-java, 40257, indonesia"	0.3568	0.8745	454	0	0	1	1	2.1093	2019	1	2.1093
+471	"school of computing, telkom university, jl telekomunikasi no 1 terusan buah batu, bandung, 40275, indonesia"	-0.6791	-0.6579	455	0	0	1	0	0	2019	0	0
+472	"school of computing, telkom university, jl. ganesha 10, bandung, 40132, indonesia"	-0.0423	0.8543	456	0	0	1	0	0	2019	0	0
+473	"school of computing, telkom university, jl. telekomunikasi 1, bandung, 40257, indonesia"	-0.4777	0.2908	457	0	0	3	2	4.2186	2019	0.6667	1.4062
+474	"school of computing, telkom university, jl. telekomunikasi no 1 terusan buah batu, bandung, 40257, indonesia"	0.444	-0.5141	458	0	0	1	1	2.1093	2019	1	2.1093
+475	"school of computing, telkom university, jl. telekomunikasi no 1, terusan buah batu, bandung, 40275, indonesia"	0.9087	-0.2643	459	0	0	1	0	0	2019	0	0
+476	"school of computing, telkom university, jl. telekomunikasi no. 01 terusan buah batu, bandung, west java, 40257, indonesia"	0.2571	0.1286	2	1	2	3	1	2.1093	2019	0.3333	0.7031
+477	"school of computing, telkom university, jl. telekomunikasi no. 01, terusan buah batu, bandung, 40257, indonesia"	0.9236	-0.199	460	0	0	1	0	0	2019	0	0
+478	"school of computing, telkom university, jl. telekomunikasi no. 01, terusan buah batu, bandung, west java, 40257, indonesia"	-0.5807	-0.538	461	0	0	1	1	2.1093	2019	1	2.1093
+479	"school of computing, telkom university, jl. telekomunikasi terusan buah batu, bandung, 40257, indonesia"	-0.28	0.9023	462	0	0	1	3	6.3279	2019	3	6.3279
+480	"school of computing, telkom university, jl. terusan buah batu no.01, sukapura, dayeuhkolot, bandung, 40257, indonesia"	-0.0474	0.4759	463	0	0	1	0	0	2019	0	0
+481	"school of computing, telkom university, tel-u, bandung, indonesia"	-0.9351	0.1234	464	0	0	1	0	0	2019	0	0
+482	"school of computing, telkom university, telekomunikasi street 01, terusan buah batu, bandung, 40257, indonesia"	0.0498	0.3605	465	0	0	2	0	0	2019	0	0
+483	"school of computing, telkom university, terusan buah batu, bandung, 40257, indonesia"	0.2965	0.2954	466	0	0	1	1	2.1093	2019	1	2.1093
+484	"school of computing, universiti teknologi malaysiajohor, malaysia"	0.0243	0.9438	467	0	0	1	1	2.1093	2019	1	2.1093
+485	"school of computing, university of leeds, leeds, ls2 9jt, united kingdom"	0.2564	-0.0309	468	0	0	1	0	0	2019	0	0
+486	"school of distance education, universiti sains malaysia, 11800 usm, penang, malaysia"	-0.9388	-0.1044	469	0	0	1	1	2.1093	2019	1	2.1093
+487	"school of distance education, universiti sains malaysia, penang, malaysia"	-0.0301	-0.3744	470	0	0	2	1	2.1093	2019	0.5	1.0546
+488	"school of economic and business, telkom university, bandung, indonesia"	0.7629	0.3899	471	0	0	4	2	4.2186	2019	0.5	1.0546
+489	"school of economic and business, telkom university, jl. telekomunikasi no. 1 ters. buah batu, bandung, 40257, indonesia"	-0.1981	0.0908	472	0	0	1	0	0	2019	0	0
+490	"school of economic, business telkom university, bandung, indonesia"	0.6222	-0.5893	473	0	0	2	2	4.2186	2019	1	2.1093
+491	"school of economics & business, telkom university, indonesia"	-0.1818	0.3565	474	0	0	1	0	0	2019	0	0
+492	"school of economics and business, telkom university, bandung, indonesia"	0.7998	0.504	475	0	0	12	5	10.5464	2019	0.4167	0.8789
+493	"school of economics and business, telkom university, indonesia"	-0.2456	-0.3476	8	1	1	3	1	2.1093	2019	0.3333	0.7031
+494	"school of economics and bussiness, telkom university, bandung, indonesia"	0.0688	-0.4222	476	0	0	1	0	0	2019	0	0
+495	"school of economics business telkom university, bandung, indonesia"	-0.544	0.5792	477	0	0	1	0	0	2019	0	0
+496	"school of electical engineering, telkom university, terusan buah batu, bandung, indonesia"	0.2567	-0.9103	478	0	0	1	0	0	2019	0	0
+497	"school of electrical engineering and informatics, bandung institute of technology (itb), bandung, indonesia"	-0.3932	0.2816	479	0	0	2	0	0	2019	0	0
+498	"school of electrical engineering and informatics, bandung institute of technology, bandung, indonesia"	0.8406	-0.1308	480	0	0	2	0	0	2019	0	0
+499	"school of electrical engineering and informatics, bandung institute of technology, jl. ganesha no. 10, bandung, 40132, indonesia"	0.5274	-0.7347	481	0	0	1	1	2.1093	2019	1	2.1093
+500	"school of electrical engineering and informatics, institut teknologi bandung, 10 ganesha, bandung, 40132, indonesia"	0.1398	-0.6458	482	0	0	1	0	0	2019	0	0
+501	"school of electrical engineering and informatics, institut teknologi bandung, bandung, 40132, indonesia"	-0.2306	0.5983	483	0	0	1	2	4.2186	2019	2	4.2186
+502	"school of electrical engineering and informatics, institut teknologi bandung, bandung, indonesia"	-0.094	0.047	484	0	0	1	2	4.2186	2019	2	4.2186
+503	"school of electrical engineering and informatics, institut teknologi bandung, indonesia"	0.129	0.7133	485	0	0	1	0	0	2019	0	0
+504	"school of electrical engineering and informatics, institut teknologi bandung, jl. ganesha 10, bandung, 40132, indonesia"	-0.4853	-0.8114	486	0	0	1	0	0	2019	0	0
+505	"school of electrical engineering and informatics, institut teknologi bandung, jl. ganesha no. 10, bandung, indonesia"	-0.5122	-0.3045	487	0	0	1	0	0	2019	0	0
+506	"school of electrical engineering and informatics, telkom university, bandung, indonesia"	-0.4515	0.7678	488	0	0	1	0	0	2019	0	0
+507	"school of electrical engineering telkom university, bandung, indonesia"	-0.6294	-0.3842	489	0	0	1	0	0	2019	0	0
+508	"school of electrical engineering, adaptive network laboratory, telkom university, bandung, indonesia"	-0.3807	0.7689	490	0	0	1	0	0	2019	0	0
+509	"school of electrical engineering, bandung institute of technology, bandung, indonesia"	-0.3688	-0.7601	491	0	0	1	1	2.1093	2019	1	2.1093
+510	"school of electrical engineering, computer engineering of telkom university, bandung, indonesia"	0.1515	-0.9338	492	0	0	1	0	0	2019	0	0
+511	"school of electrical engineering, hanbat national university, daejeon, south korea"	-0.7669	-0.3658	493	0	0	1	0	0	2019	0	0
+512	"school of electrical engineering, telecommunication engineering, telkom university, bandung, indonesia"	0.6179	-0.0982	494	0	0	1	0	0	2019	0	0
+513	"school of electrical engineering, telkom university, bandung, 40257, indonesia"	-0.4961	-0.1759	495	0	0	5	0	0	2019	0	0
+514	"school of electrical engineering, telkom university, bandung, indonesia"	-0.667	-0.2413	5	5	9	74	40	84.3716	2019	0.5405	1.1402
+515	"school of electrical engineering, telkom university, bandung, west java, indonesia"	-0.3663	0.6548	496	0	0	1	0	0	2019	0	0
+516	"school of electrical engineering, telkom university, graduate program in regulation and management of telecommunication, bandung, indonesia"	0.3647	-0.6893	497	0	0	1	0	0	2019	0	0
+517	"school of electrical engineering, telkom university, indonesia"	-0.6612	-0.2325	7	2	2	18	5	10.5464	2019	0.2778	0.5859
+518	"school of electrical engineering, telkom university, jawa barat, indonesia"	-0.2635	0.358	498	0	0	1	1	2.1093	2019	1	2.1093
+519	"school of electrical engineering, telkom university, jl telekomunikasi 01, dayeuhkolot, bandung-west-java, 40257, indonesia"	0.1761	-0.8365	499	0	0	1	0	0	2019	0	0
+520	"school of electrical engineering, telkom university, jl. telekomunikasi no. 1 terusan buah batu, bandung, 40257, indonesia"	-0.5749	0.6332	500	0	0	1	2	4.2186	2019	2	4.2186
+521	"school of electrical engineering, telkom university, jl. telekomunikasi no. 1 terusan buah batu, bandung, indonesia"	-0.2248	0.2687	501	0	0	1	0	0	2019	0	0
+522	"school of electrical engineering, telkom university, jl. telekomunikasi no. 1, bandung, 40257, indonesia"	-0.3551	-0.1242	502	0	0	1	1	2.1093	2019	1	2.1093
+523	"school of electrical engineering, telkom university, jl. telekomunikasi no. 1, terusan buah batu, bandung, 40257, indonesia"	0.6795	-0.66	503	0	0	1	0	0	2019	0	0
+524	"school of electrical engineering, telkom university, jl. telekomunikasi no.1 dayeuhkolot, kab. bandung, 40257, indonesia"	0.5461	0.5678	504	0	0	1	0	0	2019	0	0
+525	"school of electrical engineering, telkom university, jl. telekomunikasi no.1, terusan buah batu, bandung, 40257, indonesia"	-0.2879	0.6599	505	0	0	1	0	0	2019	0	0
+526	"school of electrical engineering, telkom university, jl. telekomunikasi terusan buah batu, bandung, 40257, indonesia"	0.4223	-0.7317	506	0	0	2	1	2.1093	2019	0.5	1.0546
+527	"school of electrical engineering, telkom university, telekomunikasi street no. 1, bandung, 40257, indonesia"	0.3563	-0.8753	507	0	0	1	0	0	2019	0	0
+528	"school of electrical engineering, telkom university, telekomunikasi street, indonesia"	-0.6647	0.2647	508	0	0	2	4	8.4372	2019	2	4.2186
+529	"school of electrical engineering, telkom university, telekomunikasi street, terusan buah batu, bandung, indonesia"	0.946	-0.006	509	0	0	1	3	6.3279	2019	3	6.3279
+530	"school of electrical engineering, telkom university, terusan buah batu, bandung, indonesia"	-0.1244	-0.3626	510	0	0	1	1	2.1093	2019	1	2.1093
+531	"school of fundamental science, universiti malaysia terengganu, terengganu, kuala terengganu, 21030, malaysia"	0.6471	-0.175	511	0	0	1	0	0	2019	0	0
+532	"school of industrial and system engineering, telkom university, bandung, 40257, indonesia"	0.1909	-0.1756	512	0	0	1	0	0	2019	0	0
+533	"school of industrial and system engineering, telkom university, bandung, indonesia"	-0.5906	0.2393	513	0	0	7	1	2.1093	2019	0.1429	0.3013
+534	"school of industrial and system engineering, telkom university, information system department, bandung, indonesia"	-0.8288	0.3499	514	0	0	1	0	0	2019	0	0
+535	"school of industrial and system engineering, telkom university, jl. telekomunikasi terusan buah batu, bandung, 40257, indonesia"	0.0548	-0.3399	515	0	0	1	0	0	2019	0	0
+536	"school of industrial and system engineering, telkom university, west java, bandung, 40257, indonesia"	0.1863	-0.927	516	0	0	2	0	0	2019	0	0
+537	"school of industrial and systems engineering, telkom university bandung, west java, indonesia"	0.8268	0.2014	517	0	0	1	1	2.1093	2019	1	2.1093
+538	"school of industrial engineering and information system, telkom university, information system departement, bandung, indonesia"	-0.1146	0.9353	518	0	0	1	0	0	2019	0	0
+539	"school of industrial engineering, telkom university (tel-u), indonesia"	0.808	-0.4917	519	0	0	1	1	2.1093	2019	1	2.1093
+540	"school of industrial engineering, telkom university bandung, indonesia"	0.4327	0.6419	520	0	0	1	0	0	2019	0	0
+541	"school of industrial engineering, telkom university, 40257 bandung, west java, indonesia"	-0.7979	0.2993	521	0	0	1	0	0	2019	0	0
+542	"school of industrial engineering, telkom university, bandung, 40257, indonesia"	-0.4317	0.5185	522	0	0	2	0	0	2019	0	0
+543	"school of industrial engineering, telkom university, bandung, bandung, indonesia"	-0.944	-0.0369	523	0	0	1	1	2.1093	2019	1	2.1093
+544	"school of industrial engineering, telkom university, bandung, indonesia"	-0.8225	0.4662	524	0	0	16	12	25.3115	2019	0.75	1.582
+545	"school of industrial engineering, telkom university, bandung, jawa barat, 40257, indonesia"	0.0625	-0.8095	525	0	0	1	0	0	2019	0	0
+546	"school of industrial engineering, telkom university, bandung, west java 40257, indonesia"	-0.3615	0.8275	526	0	0	4	5	10.5464	2019	1.25	2.6366
+547	"school of industrial engineering, telkom university, bandung, west java, 40257, indonesia"	0.3164	0.7859	527	0	0	7	8	16.8743	2019	1.1429	2.4106
+548	"school of industrial engineering, telkom university, bandung, west java, indonesia"	0.2988	-0.2875	528	0	0	1	1	2.1093	2019	1	2.1093
+549	"school of industrial engineering, telkom university, bandung,west java, 40257, indonesia"	0.3608	0.6489	529	0	0	1	0	0	2019	0	0
+550	"school of industrial engineering, telkom university, dayeuh kolot, bandung, indonesia"	-0.4164	0.8067	530	0	0	1	0	0	2019	0	0
+551	"school of industrial engineering, telkom university, indonesia"	-0.0039	-0.6303	531	0	0	9	4	8.4372	2019	0.4444	0.9375
+552	"school of industrial engineering, telkom university, jalan telekomunikasi, no. 1, bandung, 40257, indonesia"	-0.1636	0.1777	532	0	0	1	0	0	2019	0	0
+553	"school of industrial engineering, telkom university, jawa barat, bandung, 40257, indonesia"	-0.2315	-0.7545	533	0	0	1	0	0	2019	0	0
+554	"school of informatics and applied mathematics, universiti malaysia terengganu, kuala nerus, terengganu, malaysia"	0.1408	-0.2824	534	0	0	2	1	2.1093	2019	0.5	1.0546
+555	"school of informatics, telkom university, bandung, indonesia"	0.0801	-0.043	535	0	0	1	0	0	2019	0	0
+556	"school of information engineering, north china university of water resources and electric power, zhengzhou450045, china"	0.7386	0.5895	536	0	0	1	0	0	2019	0	0
+557	"school of information technology & mathematical sciences, university of south australia, adelaide, sa 5095, australia"	-0.8176	-0.256	537	0	0	1	3	6.3279	2019	3	6.3279
+558	"school of information technology, deakin university, geelong, australia"	-0.5936	0.3924	538	0	0	1	0	0	2019	0	0
+559	"school of life sciences & technology, institut teknologi bandung, indonesia"	-0.2475	-0.6762	539	0	0	1	0	0	2019	0	0
+560	"school of life sciences and technology, institut teknologi bandung, bandung, indonesia"	0.6968	-0.4831	540	0	0	1	0	0	2019	0	0
+561	"school of marine and environmental sciences, universiti malaysia terengganu, kuala nerus, terengganu, malaysia"	0.9476	-0.0435	541	0	0	2	1	2.1093	2019	0.5	1.0546
+562	"school of mathematical sciences, universiti sains malaysia, 11800 usm, penang, malaysia"	0.264	0.7389	542	0	0	1	1	2.1093	2019	1	2.1093
+563	"school of mathematical sciences, universiti sains malaysia, usm, pulau pinang, 11800, malaysia"	0.5937	0.7352	543	0	0	1	0	0	2019	0	0
+564	"school of mechanical aerospace and automotive engineering, coventry university, coventry, cv1 5fb, united kingdom"	0.0576	0.9428	544	0	0	1	3	6.3279	2019	3	6.3279
+565	"school of medicine, university of leeds, leeds, ls9 7tf, united kingdom"	-0.5158	-0.5639	545	0	0	1	0	0	2019	0	0
+566	"school of planning, universitisains malaysia, penang, malaysia"	-0.198	-0.8231	546	0	0	1	0	0	2019	0	0
+567	"school of science, telkom university, bandung, indonesia"	-0.7652	0.3569	547	0	0	1	0	0	2019	0	0
+568	"siliwangi university, department of informatics, tasikmalaya, indonesia"	-0.0014	0.226	4	2	2	3	0	0	2019	0	0
+569	"sirim berhad, rasa industrial estate, hulu selangor, selangor, malaysia"	0.2959	-0.8551	548	0	0	2	1	2.1093	2019	0.5	1.0546
+570	"soft computing and data mining centre, faculty of computer science and information technology, universiti tun hussein onn, johor, malaysia"	0.2454	-0.8693	549	0	0	2	8	16.8743	2019	4	8.4372
+571	"soft computing and data mining centre, faculty of computer science and information technology, universiti tun hussein onn, malaysia"	-0.0829	0.9418	550	0	0	1	0	0	2019	0	0
+572	"soft computing and data mining centre, faculty of computer sciences and information technology, malaysia"	0.7536	0.4986	551	0	0	1	1	2.1093	2019	1	2.1093
+573	"solvina international ab, sweden"	0.6554	0.3131	552	0	0	1	0	0	2019	0	0
+574	"sourcing division, target sourcing services, jakarta, indonesia"	0.6024	-0.7318	553	0	0	1	0	0	2019	0	0
+575	"south east european university, tetovo, north macedonia"	-0.0931	-0.9415	554	0	0	1	2	4.2186	2019	2	4.2186
+576	"st james’s university hospital, leeds, united kingdom"	0.4238	-0.376	555	0	0	1	4	8.4372	2019	4	8.4372
+577	"state polytechnic of madiun, department of railway engineering, madiun, indonesia"	-0.726	-0.6053	556	0	0	1	0	0	2019	0	0
+578	"stie muhammadiyah mamuju, indonesia"	0.6454	0.6908	557	0	0	2	0	0	2019	0	0
+579	"stkip sebelas april sumedang, indonesia"	0.7024	-0.6329	558	0	0	1	2	4.2186	2019	2	4.2186
+580	"stt terpadu nurul fikri, kota depok, 16951, indonesia"	0.7617	-0.2363	559	0	0	1	0	0	2019	0	0
+581	"study program of information system, school of industrial engineering, telkom university, jl. telekomunikasi no 01, terusan buah batu, bandung, west java, 40257, indonesia"	0.2066	-0.6883	560	0	0	1	1	2.1093	2019	1	2.1093
+582	"system information major, telkom university, bandung, indonesia"	0.4884	0.6064	561	0	0	1	1	2.1093	2019	1	2.1093
+583	"system information major, widyatama university, bandung, indonesia"	0.9086	0.0848	562	0	0	1	1	2.1093	2019	1	2.1093
+584	"taylor university, subang jaya, 47500, malaysia"	0.5181	-0.2338	563	0	0	2	0	0	2019	0	0
+585	"technical implementation unit for instrumentation development, indonesian institute of science, bandung, indonesia"	0.8339	0.3621	564	0	0	1	0	0	2019	0	0
+586	"technical implementation unit for instrumentation development, indonesian institute of sciences, bandung, indonesia"	-0.6268	0.6495	565	0	0	1	0	0	2019	0	0
+587	"technical implementation unit for instrumentation development, indonesian institute of sciences, bandung, west java, indonesia"	-0.0964	-0.4458	566	0	0	1	0	0	2019	0	0
+588	"technical implementation unit for instrumentation development, indonesian institute of sciences, indonesia"	0.5756	-0.7066	567	0	0	1	0	0	2019	0	0
+589	"telco solution chaosmatic co. ltd., bandung, indonesia"	0.1572	0.9325	568	0	0	1	1	2.1093	2019	1	2.1093
+590	"telecommunication engineering department, telkom university, bandung, indonesia"	-0.0053	0.7098	569	0	0	1	0	0	2019	0	0
+591	"telecommunication engineering dept, telkom university, bandung, indonesia"	-0.4784	0.7044	570	0	0	1	0	0	2019	0	0
+592	"telecommunication engineering dept., telkom university, bandung, indonesia"	0.3881	-0.8626	571	0	0	2	0	0	2019	0	0
+593	"telecommunication engineering, faculty of applied science telkom university, bandung, indonesia"	0.9238	0.2041	572	0	0	1	0	0	2019	0	0
+594	"telecommunications engineering, faculty of electrical engineering, telkom university, bandung, indonesia"	-0.1627	-0.9305	573	0	0	1	0	0	2019	0	0
+595	"telekomunikasi terusan buah, batu st., bandung, 40257, indonesia"	0.4291	0.3898	574	0	0	1	4	8.4372	2019	4	8.4372
+596	"telkom applied science school, telkom university, bandung, indonesia"	0.1167	-0.9374	575	0	0	1	0	0	2019	0	0
+597	"telkom institute of technology purwokerto, purwokerto, indonesia"	0.8666	0.1091	576	0	0	1	0	0	2019	0	0
+598	"telkom institute of technology, industrial and informatics faculty, purwokerto, indonesia"	0.2748	0.1372	2	2	2	1	0	0	2019	0	0
+599	"telkom school of computing, telkom university, bandung, indonesia"	-0.8104	-0.4879	577	0	0	4	1	2.1093	2019	0.25	0.5273
+600	"telkom univeristy, school of coumputing, bandung, indonesia"	-0.0734	0.6598	578	0	0	2	0	0	2019	0	0
+601	"telkom university bandung, indonesia"	-0.0103	-0.4599	579	0	0	2	4	8.4372	2019	2	4.2186
+602	"telkom university jl, computer engineering study, faculty of electrical engineering, bandung, jawa barat, 40257, indonesia"	0.4799	0.8105	580	0	0	2	0	0	2019	0	0
+603	"telkom university telekomunikasi no.1 st., terusan buah batu, sukapura, dayeuhkolot, bandung, indonesia"	0.084	-0.9052	581	0	0	1	4	8.4372	2019	4	8.4372
+604	"telkom university, 01 telekomunikasi st., dayeuhkolot, bandung, jawa barat, indonesia"	0.3257	0.8875	582	0	0	1	2	4.2186	2019	2	4.2186
+605	"telkom university, applied science school, bandung, indonesia"	-0.2628	-0.908	583	0	0	1	0	0	2019	0	0
+606	"telkom university, bandung, 40257, indonesia"	-0.012	0.7858	584	0	0	1	3	6.3279	2019	3	6.3279
+607	"telkom university, bandung, indonesia"	0.1064	-0.8562	585	0	0	19	13	27.4208	2019	0.6842	1.4432
+608	"telkom university, business communication department, indonesia"	0.4944	0.123	586	0	0	1	0	0	2019	0	0
+609	"telkom university, center for advanced wireless technologies (adwitech), bandung, 40257, indonesia"	-0.3488	0.3606	587	0	0	2	0	0	2019	0	0
+610	"telkom university, center for advanced wireless technologies (adwitech), jl. telekomunikasi no. 1, terusan buah batu, bandung, 40257, indonesia"	0.6169	0.1465	588	0	0	1	0	0	2019	0	0
+611	"telkom university, center for advanced wireless technologies (adwitech), school of electrical engineering, jl. telekomunikasi no. 1, terusan buah batu, bandung, 40257, indonesia"	0.8558	-0.4003	589	0	0	4	0	0	2019	0	0
+612	"telkom university, center for advanced wireless technologies (adwitech), school of electrical engineering, jl. telekomunikasi no.l, terusan buah batu, bandung, 40257, indonesia"	0.9366	-0.1318	590	0	0	1	1	2.1093	2019	1	2.1093
+613	"telkom university, center for advanced wireless technology (adwitech), jl. telekomunikasi no.1, terusan buah batu, bandung, 40257, indonesia"	-0.8918	0.3161	591	0	0	1	0	0	2019	0	0
+614	"telkom university, center for regulation management of telecommunication, bandung, indonesia"	-0.0187	-0.198	592	0	0	1	0	0	2019	0	0
+615	"telkom university, center for regulation telecommunication management school of electrical engineering, bandung, indonesia"	-0.5603	-0.717	593	0	0	1	0	0	2019	0	0
+616	"telkom university, computing laboratory, school of computing, bandung, 40257, indonesia"	-0.7541	0.4872	594	0	0	1	0	0	2019	0	0
+617	"telkom university, creative arts department, indonesia"	0.5198	0.5034	595	0	0	1	0	0	2019	0	0
+618	"telkom university, cyber physical laboratory, school of electrical engineering, bandung, indonesia"	0.192	-0.7656	596	0	0	1	0	0	2019	0	0
+619	"telkom university, department of applied science school, bandung, indonesia"	-0.7336	0.4163	597	0	0	1	1	2.1093	2019	1	2.1093
+620	"telkom university, department of computer engineering, bandung, indonesia"	-0.1524	-0.1173	9	1	1	1	0	0	2019	0	0
+621	"telkom university, department of computer science, indonesia"	-0.2111	-0.2257	598	0	0	1	1	2.1093	2019	1	2.1093
+622	"telkom university, department of electrical engineering, bandung, indonesia"	0.1432	0.6372	599	0	0	4	0	0	2019	0	0
+623	"telkom university, department of electrical engineering, jl. telekomunikasi 1, bandung, west java, indonesia"	-0.0455	0.9463	600	0	0	1	0	0	2019	0	0
+624	"telkom university, department of industrial engineering, bandung, indonesia"	0.4563	0.2139	601	0	0	1	0	0	2019	0	0
+625	"telkom university, department of informatics, bandung, indonesia"	0.5445	0.1811	602	0	0	2	0	0	2019	0	0
+626	"telkom university, department of information system, bandung, indonesia"	-0.0019	0.2277	4	2	2	3	0	0	2019	0	0
+627	"telkom university, department of information systems, bandung, west java, 40257, indonesia"	0.3859	0.2502	603	0	0	2	1	2.1093	2019	0.5	1.0546
+628	"telkom university, department of internet of things center, bandung, indonesia"	-0.5673	0.1466	604	0	0	1	0	0	2019	0	0
+629	"telkom university, dept. telecommuniaction engineering, bandung, indonesia"	0.654	0.5368	605	0	0	1	0	0	2019	0	0
+630	"telkom university, diploma of information system, school of applied science, bandung, indonesia"	-0.0062	-0.5506	606	0	0	1	0	0	2019	0	0
+631	"telkom university, faculty informatics, terusan buah batu, bandung, 40275, indonesia"	-0.8937	0.043	607	0	0	1	0	0	2019	0	0
+632	"telkom university, faculty of economy and business, bandung, indonesia"	-0.7855	-0.3056	608	0	0	1	0	0	2019	0	0
+633	"telkom university, faculty of industrial and system engineering, bandung, indonesia"	0.6364	0.4541	609	0	0	1	0	0	2019	0	0
+634	"telkom university, indonesia"	-0.157	-0.5373	610	0	0	16	11	23.2022	2019	0.6875	1.4501
+635	"telkom university, indonesia, school of applied science, bandung, 40257, indonesia"	0.3945	-0.8196	611	0	0	1	1	2.1093	2019	1	2.1093
+636	"telkom university, indonesia, school of electrical engineering, bandung, 40257, indonesia"	0.6475	-0.6365	612	0	0	1	1	2.1093	2019	1	2.1093
+637	"telkom university, information system department, bandung, indonesia"	-0.8694	-0.2222	613	0	0	3	0	0	2019	0	0
+638	"telkom university, information system department, indonesia"	-0.6175	-0.5916	614	0	0	1	0	0	2019	0	0
+639	"telkom university, jalan telekomunikasi no. 1, bandung, 40257, indonesia"	0.5618	0.4344	615	0	0	14	1	2.1093	2019	0.0714	0.1507
+640	"telkom university, jalan telekomunikasi no.1, terusan buah batu, dayeuhkolot, bandung, 40257, indonesia"	-0.102	0.8843	616	0	0	1	0	0	2019	0	0
+641	"telkom university, jalan telekomunikasi, terusan buah batu, bandung, 40257, indonesia"	0.846	-0.3241	617	0	0	1	7	14.765	2019	7	14.765
+642	"telkom university, jalan terusan buah batu, bandung, 40257, indonesia"	0.4278	-0.661	618	0	0	2	0	0	2019	0	0
+643	"telkom university, jl. telekomunikasi 1, bandung, 40257, indonesia"	-0.1551	0.8909	619	0	0	1	1	2.1093	2019	1	2.1093
+644	"telkom university, jl. telekomunikasi no. 1, bandung, 40257, indonesia"	0.5667	0.6311	620	0	0	1	0	0	2019	0	0
+645	"telkom university, jl. telekomunikasi no. 1, optical communication laboratory school of electrical engineering, terusan buah batu, bandung, 40257, indonesia"	0.5597	-0.3137	621	0	0	1	0	0	2019	0	0
+646	"telkom university, jl. telekomunikasi no. 1, optical communication laoratory school of electrical engineering, terusan buah batu, bandung, 40257, indonesia"	-0.8276	0.1251	622	0	0	1	0	0	2019	0	0
+647	"telkom university, jl. telekomunikasi no. 1, school of electrical engineering, terusan buah batu, bandung, 40257, indonesia"	0.0651	0.6786	623	0	0	1	0	0	2019	0	0
+648	"telkom university, jl. telekomunikasi no.1, bandung, 40257, indonesia"	-0.358	-0.6901	624	0	0	1	0	0	2019	0	0
+649	"telkom university, jl. telekomunikasi terusan buah batu indonesia, bandung, 40257, indonesia"	0.5153	0.6656	625	0	0	1	0	0	2019	0	0
+650	"telkom university, jl. terusan buah batu no.01, kota bandung, jawa barat, 40257, indonesia"	0.8541	0.4088	626	0	0	1	0	0	2019	0	0
+651	"telkom university, school of applied science, bandung, indonesia"	0.0355	0.451	627	0	0	2	1	2.1093	2019	0.5	1.0546
+652	"telkom university, school of applied science, telecomunication street, indonesia"	-0.158	-0.7665	628	0	0	1	4	8.4372	2019	4	8.4372
+653	"telkom university, school of applied sciences, bandung, indonesia"	0.3777	-0.4543	629	0	0	1	0	0	2019	0	0
+654	"telkom university, school of communication and business, jalan terusan buah batu, bandung, indonesia"	-0.3088	0.8458	630	0	0	1	1	2.1093	2019	1	2.1093
+655	"telkom university, school of computing, bandung west java, indonesia"	-0.4915	-0.2403	631	0	0	1	0	0	2019	0	0
+656	"telkom university, school of computing, bandung, indonesia"	0.2686	0.1342	2	3	8	24	3	6.3279	2019	0.125	0.2637
+657	"telkom university, school of computing, indonesia"	-0.1959	-0.9241	632	0	0	1	0	0	2019	0	0
+658	"telkom university, school of economics and business, bandung, indonesia"	-0.2456	-0.3476	8	1	1	3	0	0	2019	0	0
+659	"telkom university, school of economy and business, bandung, indonesia"	-0.3427	-0.4619	633	0	0	1	0	0	2019	0	0
+660	"telkom university, school of electrical engineering, adaptive network laboratory, bandung, indonesia"	-0.2295	-0.5148	634	0	0	1	0	0	2019	0	0
+661	"telkom university, school of electrical engineering, bandung, 40257, indonesia"	0.8148	-0.1894	635	0	0	1	0	0	2019	0	0
+662	"telkom university, school of electrical engineering, bandung, indonesia"	-0.787	0.2351	636	0	0	28	4	8.4372	2019	0.1429	0.3013
+663	"telkom university, school of electrical engineering, indonesia"	0.5227	0.2614	637	0	0	4	0	0	2019	0	0
+664	"telkom university, school of electrical engineering, terusan buah batu, jl. telekomunikasi no. 1, bandung, 40257, indonesia"	0.4156	0.8082	638	0	0	1	0	0	2019	0	0
+665	"telkom university, school of industrial and system engineering, bandung, indonesia"	0.7908	0.3305	639	0	0	2	0	0	2019	0	0
+666	"telkom university, school of industrial engineering, bandung, 40257, indonesia"	-0.3963	0.5865	640	0	0	1	0	0	2019	0	0
+667	"telkom university, school of industrial, system engineering faculty, bandung, indonesia"	0.2605	0.9088	641	0	0	1	0	0	2019	0	0
+668	"telkom university, telecommunication engineering dept., bandung, indonesia"	0.4241	0.1407	642	0	0	1	0	0	2019	0	0
+669	"telkom university, telecommunication engineering, bandung, indonesia"	0.7749	-0.1286	643	0	0	1	0	0	2019	0	0
+670	"telkom university, telecommunication enginnering dept., bandung, indonesia"	0.867	0.2572	644	0	0	1	0	0	2019	0	0
+671	"telkom university, telekomunikasi no. 1, bandung, 40257, indonesia"	-0.2663	-0.1471	645	0	0	1	1	2.1093	2019	1	2.1093
+672	"telkom university, telekomunikasi street 1, sukapura dayeuhkolot, bandung, 40257, indonesia"	0.0911	0.1199	646	0	0	1	0	0	2019	0	0
+673	"telkom university, telekomunikasi street no. 1, bandung, 40257, indonesia"	-0.6813	0.6545	647	0	0	1	0	0	2019	0	0
+674	"the national institute of public administration (nipa) republic of indonesia, bandung, indonesia"	0.0588	-0.7465	648	0	0	1	0	0	2019	0	0
+675	"uin sunan gunung djati bandung, department of electrical engineeering, bandung, indonesia"	0.388	-0.2954	649	0	0	1	0	0	2019	0	0
+676	"uin sunan gunung djati bandung, department of electrical engineering, bandung, indonesia"	-0.6121	0.0015	650	0	0	1	0	0	2019	0	0
+677	"uin sunan gunung djati bandung, department of mathematics education, bandung, indonesia"	0.9421	0.1036	651	0	0	1	0	0	2019	0	0
+678	"uin sunan gunung djati bandung, faculty of tarbiyah and education, bandung, indonesia"	0.4385	-0.2346	652	0	0	1	0	0	2019	0	0
+679	"universidad pablo de olavide, spain"	-0.1475	0.9349	653	0	0	1	1	2.1093	2019	1	2.1093
+680	"universitas gadjah mada, department of electrical and information engineering, yogyakarta, indonesia"	-0.6736	-0.2465	5	2	4	3	4	8.4372	2019	1.3333	2.8124
+681	"universitas gadjah mada, department of electrical engineering and information technology, yogyakarta, indonesia"	-0.5149	0.3788	654	0	0	1	0	0	2019	0	0
+682	"universitas harapan medan, department informatic system, medan, indonesia"	0.5391	0.7751	655	0	0	1	2	4.2186	2019	2	4.2186
+683	"universitas harapan, jalan hm joni no. 70 c, teladan baru, medan, 20216, indonesia"	-0.0656	0.5795	656	0	0	1	0	0	2019	0	0
+684	"universitas indonesia (ui), electrical engineering departement, depok, west java, indonesia"	-0.7055	0.629	657	0	0	1	0	0	2019	0	0
+685	"universitas indonesia, graduate program of telecommunication management, dept. of electrical engineering, jakarta, indonesia"	-0.3478	-0.0421	658	0	0	1	0	0	2019	0	0
+686	"universitas islam negeri sunan gunung djati bandung, bandung, indonesia"	-0.44	-0.0329	659	0	0	1	0	0	2019	0	0
+687	"universitas muhammadiyah sumatera utara, department of information system, medan, indonesia"	-0.6583	0.6796	660	0	0	1	2	4.2186	2019	2	4.2186
+688	"universitas muhammadiyah sumatera utara, jalan kapten mucthar basri, medan, indonesia"	0.2794	0.3743	661	0	0	1	0	0	2019	0	0
+689	"universitas pakuan, bogor, indonesia"	0.053	0.8973	662	0	0	1	0	0	2019	0	0
+690	"universitas pendidikan, indonesia"	0.7311	-0.4268	663	0	0	1	0	0	2019	0	0
+691	"universitas sangga buana, department of electrical engineering, bandung, indonesia"	0.2497	0.5364	664	0	0	1	0	0	2019	0	0
+692	"universitas sangga, department of electrical engineering, buana, indonesia"	0.3111	0.5911	665	0	0	1	0	0	2019	0	0
+693	"universitas sumatera utara, faculty of com. science inf. tech, medan, indonesia"	0.755	0.1521	666	0	0	1	0	0	2019	0	0
+694	"universitas teknokrat indonesia, z.a. pagar alam no. 9-11, bandar lampung, 35142, indonesia"	0.7469	-0.0567	667	0	0	1	1	2.1093	2019	1	2.1093
+695	"universiti teknikal malaysia melaka, department of ftmk, melaka, malaysia"	-0.4573	-0.4983	668	0	0	1	1	2.1093	2019	1	2.1093
+696	"universiti tun hussein onn malaysia, parit raja, johor, 86400, malaysia"	-0.6632	0.6115	669	0	0	1	0	0	2019	0	0
+697	"universiti tun hussein onn, computer science and information technology, malaysia"	-0.2498	0.1801	670	0	0	1	1	2.1093	2019	1	2.1093
+698	"university of indonesia, faculty of computer science, indonesia"	0.5379	-0.6707	671	0	0	1	0	0	2019	0	0
+699	"university of jyväskylä, jyväskylä, finland"	-0.782	0.4451	672	0	0	2	0	0	2019	0	0
+700	"university of leeds, leeds, ls2 9jt, united kingdom"	-0.5426	0.0532	673	0	0	1	8	16.8743	2019	8	16.8743
+701	"university of leeds, united kingdom"	0.1609	0.8921	674	0	0	1	4	8.4372	2019	4	8.4372
+702	"widyatama university, indonesia"	0.1647	0.557	675	0	0	2	0	0	2019	0	0
+703	"x-lab ltd., leeds, ls3 1ab, united kingdom"	-0.074	0.7395	676	0	0	1	8	16.8743	2019	8	16.8743

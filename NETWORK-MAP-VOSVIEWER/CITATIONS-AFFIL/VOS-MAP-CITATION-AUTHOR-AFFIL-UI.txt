@@ -1,0 +1,1001 @@
+﻿id	label	x	y	cluster	weight<Links>	weight<Total link strength>	weight<Documents>	weight<Citations>	weight<Norm. citations>	score<Avg. pub. year>	score<Avg. citations>	score<Avg. norm. citations>
+1	"abhipraya foundation and cipto mangunkusumo hospital, jakarta, indonesia"	-0.0713	0.9076	1	10	10	1	2	1.6416	2019	2	1.6416
+35	"antenna propagation and microwave research group (amrg), department of electrical engineering, faculty of engineering, universitas indonesia, depok, indonesia"	-0.4951	0.8004	28	1	2	1	0	0	2019	0	0
+37	"antenna propagation and microwave research group (amrg), department of electrical engineering, faculty of engineering, universitas indonesia, kampus baru ui depok, depok, indonesia"	-0.4952	0.8004	28	1	1	1	2	1.6416	2019	2	1.6416
+43	"ape lab, department of biology, university of padova, padova, 35131, italy"	-0.2757	0.5217	4	6	6	1	30	24.6233	2019	30	24.6233
+46	"applied heat transfer research group, department of mechanical engineering, faculty of engineering, universitas indonesia, kampus ui depok, depok, 16424, indonesia"	0.1419	0.7435	29	2	2	2	4	3.2831	2019	2	1.6416
+57	"asian school of the environment, nanyang technological university, singapore, 637723, singapore"	-0.2758	0.5206	4	6	6	1	30	24.6233	2019	30	24.6233
+76	"badan pengawas obat dan makanan, jakarta, indonesia"	0.9135	0.0945	6	13	13	1	2	1.6416	2019	2	1.6416
+121	"biomérieux, clinical unit, la balme-les-grottes, france"	0.1322	0.9067	3	7	7	1	2	1.6416	2019	2	1.6416
+122	"biomérieux, data analytics unit, la balme-les-grottes, france"	0.131	0.9076	3	7	7	1	2	1.6416	2019	2	1.6416
+132	"bloomberg school of public health, johns hopkins university, baltimore, md, united states"	-0.0708	0.907	1	10	10	1	2	1.6416	2019	2	1.6416
+166	"center for green research on energy and environmental materials, international center for materials nanoarchitectonics, national institute for material science (nims), 1-1 namiki, tsukuba, ibaraki, 305-0044, japan"	0.119	-0.2071	14	2	3	1	10	8.2078	2019	10	8.2078
+198	"center for sustainable infrastructure development, depok, indonesia"	0.537	0.7488	9	5	5	1	0	0	2019	0	0
+201	"center for sustainable infrastructure development, universitas indonesia, depok, 16424, indonesia"	0.5374	0.7486	9	3	3	1	8	6.5662	2019	8	6.5662
+202	"center for sustainable infrastructure development, universitas indonesia, kampus baru ui, depok, 16424, indonesia"	0.5331	0.7518	9	2	6	3	0	0	2019	0	0
+203	"center for technology of nuclear industry materials-national energy agency indonesia, batan, puspitek area, serpong, south tangerang, 15314, indonesia"	-0.5452	-0.5902	24	2	2	1	4	3.2831	2019	4	3.2831
+215	"center of medical education, indonesia medical education and research institute (imeri), faculty of medicine, universitas indonesia, indonesia"	0.366	-0.2348	17	4	4	1	2	1.6416	2019	2	1.6416
+264	"chemical engineering department, faculty of engineering, universitas indonesia, depok, 16424, indonesia"	-0.1956	-0.3042	33	1	1	11	6	4.9247	2019	0.5455	0.4477
+279	"chemistry department, faculty of mathematics and natural science, universitas indonesia, jalan margonda raya, depok, 16424, indonesia"	-0.9333	-0.0012	13	3	3	1	1	0.8208	2019	1	0.8208
+282	"chemistry department, faculty of mathematics and sciences, university of indonesia, kampus ui depok, jakarta, 16-4424, indonesia"	0.1193	-0.2081	14	2	3	1	10	8.2078	2019	10	8.2078
+300	"cipto mangunkusumo hospital, university of indonesia, jalan pangeran diponegoro no.71, salemba, senen, jakarta pusat, daerah khusus ibukota, jakarta, 10430, indonesia"	-0.0705	0.9078	1	10	10	1	5	4.1039	2019	5	4.1039
+313	"civil engineering department, faculty of engineering, universitas indonesia, depok, 16424, indonesia"	0.5341	0.7514	9	7	12	4	14	11.4909	2019	3.5	2.8727
+319	"civil engineering department, faculty of engineering, universitas pancasila, jakarta, 12640, indonesia"	0.534	0.7513	9	7	12	1	13	10.6701	2019	13	10.6701
+333	"clinical epidemiology and evidence based medicine unit, faculty of medicine universitas indonesia, cipto mangunkusumo hospital, jalan pangeran diponegoro no. 71, jakarta, 10430, indonesia"	-0.1973	-0.8957	5	6	6	1	7	5.7454	2019	7	5.7454
+337	"clinical unit, biomérieux, la balme les grottes, france"	0.1308	0.9064	3	10	10	1	0	0	2019	0	0
+346	"college of public health, the ohio state university, columbus, oh, united states"	-0.0704	0.9092	1	10	10	1	2	1.6416	2019	2	1.6416
+350	"complexity institute, nanyang technological university, singapore, 637723, singapore"	-0.2731	0.5221	4	6	6	1	30	24.6233	2019	30	24.6233
+364	"critical care division, department of anesthesia and intensive care, faculty of medicine universitas indonesia, dr. cipto mangunkusumo general hospital, jakarta, indonesia"	0.1299	0.9064	3	7	7	1	1	0.8208	2019	1	0.8208
+365	"critical care division, department of anesthesia and intensive care, faculty of medicine, universitas indonesia/dr cipto mangunkusumo general hospital, jakarta, indonesia"	0.1303	0.9072	3	7	7	1	2	1.6416	2019	2	1.6416
+366	"critical care division, department of anesthesia and intensive care, faculty of medicine, universitas indonesia/dr, cipto mangunkusumo general hospital, jakarta, indonesia"	0.1313	0.9062	3	10	10	1	0	0	2019	0	0
+386	"departemen fisika, fakultas mipa, universitas indonesia, depok, 16424, indonesia"	-0.8016	0.4388	2	9	14	4	30	24.6233	2019	7.5	6.1558
+390	"departemen fisika, fmipa, universitas indonesia, depok, 16424, indonesia"	0.3034	-0.4672	32	1	1	15	21	17.2363	2019	1.4	1.1491
+392	"departemen fisika, universitas indonesia, kampus ui depok 16424, indonesia"	-0.7964	0.4439	2	6	7	1	2	1.6416	2019	2	1.6416
+393	"departemen fisika, universitas indonesia, kampus ui depok, 16424, indonesia"	-0.7993	0.4426	2	3	3	1	0	0	2019	0	0
+413	"departement of chemical engineering, faculty of engineering, universitas indonesia, depok, west java, 16424, indonesia"	-0.0564	0.6982	12	4	4	1	0	0	2019	0	0
+434	"departement of mathematics, universitas indonesia, indonesia"	-0.6974	0.1216	21	1	1	1	5	4.1039	2019	5	4.1039
+459	"departmen of biology, faculty of mathematics and natural science, universitas indonesia, depok, 16424, indonesia"	0.6421	-0.0291	18	2	2	1	1	0.8208	2019	1	0.8208
+492	"department of anatomical pathology, faculty of medicine, universitas indonesia, jakarta, indonesia"	0.6542	0.2384	26	2	2	2	2	1.6416	2019	1	0.8208
+540	"department of biochemistry and molecular biology, faculty of medicine, universitas indonesia, jakarta, indonesia"	0.2558	0.6452	27	3	4	6	4	3.2831	2019	0.6667	0.5472
+559	"department of biology, faculty of mathematics and natural science, universitas indonesia, kampus ui depok16424, indonesia"	0.6418	-0.029	18	2	2	1	1	0.8208	2019	1	0.8208
+560	"department of biology, faculty of mathematics and natural science, universitas indonesia, kampus ui gedung e lt. 2, jl. lingkar kampus raya, pondok cina, beji, kota depok, jawa barat, 16424, indonesia"	0.6419	-0.029	18	2	2	1	2	1.6416	2019	2	1.6416
+603	"department of biostatistics, erasmus mc university, medical center rotterdam, rotterdam, netherlands"	0.1323	0.9059	3	7	7	1	1	0.8208	2019	1	0.8208
+604	"department of biotechnology and life science, faculty of technology, tokyo university of agriculture and technology, nakacho 2-24-16, koganei, tokyo, 184-8588, japan"	0.0874	-0.8734	11	3	3	1	5	4.1039	2019	5	4.1039
+606	"department of biotechnology and life science, tokyo university of agriculture and technology, tokyo, japan"	0.4489	-0.8019	8	2	2	1	0	0	2019	0	0
+644	"department of chemical engineering and technology, jazan university, jazan, 45971, saudi arabia"	0.5203	-0.3124	19	3	3	1	3	2.4623	2019	3	2.4623
+645	"department of chemical engineering, comsats university islamabad, lahore campus, defence road, lahore, 54000, pakistan"	0.52	-0.3125	19	3	3	1	2	1.6416	2019	2	1.6416
+648	"department of chemical engineering, faculty of engineering, universitas indonesia, baru ui, depok, 16424, indonesia"	0.4492	-0.8028	8	12	12	1	8	6.5662	2019	8	6.5662
+650	"department of chemical engineering, faculty of engineering, universitas indonesia, depok, 16424, indonesia"	0.52	-0.3126	19	4	4	16	14	11.4909	2019	0.875	0.7182
+651	"department of chemical engineering, faculty of engineering, universitas indonesia, depok, 16425, indonesia"	0.0869	-0.8738	11	3	3	1	2	1.6416	2019	2	1.6416
+656	"department of chemical engineering, faculty of engineering, universitas indonesia, indonesia"	-0.0568	0.6994	12	5	5	4	4	3.2831	2019	1	0.8208
+665	"department of chemical engineering, faculty of engineering, universitas indonesia, kampus ui depok, west-java, 16425, indonesia"	0.0867	-0.8729	11	3	3	1	5	4.1039	2019	5	4.1039
+666	"department of chemical engineering, faculty of engineering, universitas indonesia, kampus ui, depok, 16424, indonesia"	0.4484	-0.8035	8	2	2	3	7	5.7454	2019	2.3333	1.9151
+677	"department of chemical engineering, majoring technology bioprocess, faculty of engineering, universitas indonesia, depok, west java, 16424, indonesia"	0.45	-0.8025	8	2	2	1	0	0	2019	0	0
+679	"department of chemical engineering, universitas indonesia, depok, 16424, indonesia"	-0.1957	-0.3041	33	1	1	8	7	5.7454	2019	0.875	0.7182
+684	"department of chemical engineering, universitas indonesia, kampus ui depok, depok, 16424, indonesia"	0.0869	-0.8732	11	7	8	6	1	0.8208	2019	0.1667	0.1368
+695	"department of chemistry, faculty of mathematics and natural science, universitas indonesia, depok, 16424, indonesia"	-0.9334	-0.0014	13	1	1	1	3	2.4623	2019	3	2.4623
+698	"department of chemistry, faculty of mathematics and natural sciences (fmipa), universitas indonesia, depok, 16424, indonesia"	0.1192	-0.2076	14	6	12	25	22	18.0571	2019	0.88	0.7223
+701	"department of chemistry, faculty of mathematics and natural sciences, universitas indonesia, depok, 16424, indonesia"	-0.5454	-0.5903	24	2	2	5	14	11.4909	2019	2.8	2.2982
+702	"department of chemistry, faculty of mathematics and natural sciences, universitas indonesia, depok, indonesia"	-0.5454	-0.5902	24	2	2	2	5	4.1039	2019	2.5	2.0519
+705	"department of chemistry, faculty of mathematics and natural sciences, universitas indonesia, kampus ui depok, depok, west java, 16424, indonesia"	-0.5454	-0.5903	24	2	2	1	7	5.7454	2019	7	5.7454
+716	"department of chemistry, faculty of science and technology, keio university, japan"	0.1192	-0.2075	14	6	6	1	0	0	2019	0	0
+722	"department of chemistry, keio university, 3-14-1 hiyoshi, yokohama, 223-8522, japan"	0.1188	-0.2074	14	2	3	1	10	8.2078	2019	10	8.2078
+724	"department of chemistry, universitas indonesia, depok, 16424, indonesia"	-0.9327	0.0015	13	3	3	1	5	4.1039	2019	5	4.1039
+725	"department of chemistry, universitas indonesia, depok, indonesia"	-0.9328	0.0012	13	4	4	3	6	4.9247	2019	2	1.6416
+732	"department of chemistry, university of warwick, coventry, cv4 7al, united kingdom"	-0.9327	0.0012	13	4	5	2	11	9.0286	2019	5.5	4.5143
+746	"department of child health, faculty of medicine, universitas indonesia, cipto mangunkusumo hospital, jakarta, indonesia"	0.0007	-0.9257	30	1	1	7	11	9.0286	2019	1.5714	1.2898
+761	"department of civil engineering, faculty of engineering, universitas indonesia, depok, 16424, indonesia"	0.5373	0.7483	9	3	3	4	9	7.387	2019	2.25	1.8468
+765	"department of civil engineering, faculty of engineering, universitas pancasila, dki jakarta, 12640, indonesia"	0.5376	0.7487	9	3	3	1	8	6.5662	2019	8	6.5662
+767	"department of civil engineering, universitas indonesia, depok, 16424, indonesia"	0.3526	-0.8673	31	2	2	2	4	3.2831	2019	2	1.6416
+778	"department of clinical microbiology, faculty of medicine, universitas indonesia, dr. cipto mangunkusumo general hospital, jakarta, indonesia"	0.1319	0.9055	3	7	7	1	1	0.8208	2019	1	0.8208
+780	"department of clinical microbiology, faculty of medicine, universitas indonesia/dr cipto mangunkusumo general hospital, jakarta, indonesia"	0.131	0.9051	3	7	7	1	2	1.6416	2019	2	1.6416
+781	"department of clinical microbiology, faculty of medicine, universitas indonesia/dr, cipto mangunkusumo general hospital, jakarta, indonesia"	0.1309	0.9061	3	10	10	1	0	0	2019	0	0
+805	"department of community medicine, faculty of medicine, universitas trisakti, jakarta, 11440, indonesia"	-0.7668	-0.5037	7	5	5	1	1	0.8208	2019	1	0.8208
+839	"department of economics and institute for economic and social research (lpem), faculty of economics and business, universitas indonesia, depok, indonesia"	0.9124	0.0947	6	2	2	1	36	29.548	2019	36	29.548
+845	"department of electrical engineering and electronics, college of science and engineering, aoyama gakuin university, 5-10-1 fuchinobe, chuo-ku, sagamihara, kanagawa, 252-5258, japan"	0.1195	-0.2071	14	2	3	1	10	8.2078	2019	10	8.2078
+851	"department of electrical engineering, faculty of engineering, universitas indonesia, depok, indonesia"	0.3232	0.8877	20	2	2	4	5	4.1039	2019	1.25	1.026
+853	"department of electrical engineering, faculty of engineering, universitas indonesia, indonesia"	-0.6973	0.1207	21	2	2	3	1	0.8208	2019	0.3333	0.2736
+867	"department of electrical engineering, universitas indonesia, depok, indonesia"	0.3233	0.8878	20	3	3	13	10	8.2078	2019	0.7692	0.6314
+876	"department of electrical engineering, university of indonesia, depok, 16424, indonesia"	-0.6973	0.1206	21	1	1	1	0	0	2019	0	0
+902	"department of epidemiology, faculty of public health, universitas indonesia, depok, indonesia"	-0.7677	-0.5038	7	10	10	3	9	7.387	2019	3	2.4623
+905	"department of epidemiology, school of public health, universitas indonesia, depok, 16424, indonesia"	-0.7674	-0.5028	7	5	5	1	1	0.8208	2019	1	0.8208
+906	"department of evolution and biological diversity (umr 5174), université de toulouse midi-pyrénées, cnrs, ird, ups, toulouse, 31062, france"	-0.2751	0.5224	4	6	6	1	30	24.6233	2019	30	24.6233
+907	"department of evolutionary genetics, max planck institute for evolutionary anthropology, deutscher platz 6, leipzig, d04103, germany"	-0.2745	0.521	4	13	13	1	0	0	2019	0	0
+908	"department of evolutionary genetics, max planck institute for evolutionary anthropology, leipzig, 04103, germany"	-0.2728	0.5203	4	6	6	1	30	24.6233	2019	30	24.6233
+966	"department of health behavior, gillings school of global public health, the university of north carolina at chapel hill, 135 dauer drive, chapel hill, nc 27599, united states"	-0.0713	0.907	1	10	10	1	5	4.1039	2019	5	4.1039
+967	"department of health behavior, gillings school of global public health, university of north carolina-chapel hill, chapel hill, nc, united states"	-0.0719	0.9075	1	10	10	1	2	1.6416	2019	2	1.6416
+978	"department of health, behavior, and society, johns hopkins university, 615 n. wolfe street, baltimore, md 21205, united states"	-0.0718	0.9086	1	10	10	1	5	4.1039	2019	5	4.1039
+1043	"department of internal medicine, dr. cipto mangunkusumo national general hospital, faculty of medicine, universitas indonesia, indonesia"	0.4114	0.5806	15	5	5	1	1	0.8208	2019	1	0.8208
+1044	"department of internal medicine, dr. cipto mangunkusumo national referral hospital, faculty of medicine, universitas indonesia, jl. diponegoro no. 71, central jakarta, 10430, indonesia"	0.4113	0.5803	15	3	3	1	2	1.6416	2019	2	1.6416
+1052	"department of internal medicine, faculty of medicine universitas indonesia-dr. cipto mangunkusumo general hospital, jakarta, indonesia"	-0.1979	-0.8952	5	6	6	1	0	0	2019	0	0
+1066	"department of internal medicine, faculty of medicine, universitas indonesia-dr. cipto mangunkusumo general hospital, jakarta, 10430, indonesia"	-0.7687	-0.5039	7	5	5	1	1	0.8208	2019	1	0.8208
+1068	"department of internal medicine, faculty of medicine, university of indonesia, jakarta, indonesia"	-0.1947	-0.8961	5	10	10	1	1	0.8208	2019	1	0.8208
+1103	"department of management, faculty of economics, university of indonesia, depok, indonesia"	-0.0828	-0.2169	25	2	2	1	4	3.2831	2019	4	3.2831
+1107	"department of management, university of indonesia, depok, indonesia"	-0.0828	-0.2169	25	2	2	1	4	3.2831	2019	4	3.2831
+1108	"department of marine system engineering, kyushu university, japan"	-0.7384	0.574	22	1	1	1	5	4.1039	2019	5	4.1039
+1144	"department of mathematics, university of indonesia, depok, 16424, indonesia"	-0.6973	0.121	21	2	3	9	21	17.2363	2019	2.3333	1.9151
+1153	"department of mechanical engineering, faculty of engineering, universitas indonesia, depok, indonesia"	-0.7386	0.5741	22	1	1	2	2	1.6416	2019	1	0.8208
+1160	"department of mechanical engineering, faculty of engineering, universitas indonesia, kampus ui depok, depok, 16424, indonesia"	0.1419	0.7434	29	1	1	4	7	5.7454	2019	1.75	1.4364
+1184	"department of mechanical engineering, universitas indonesia, indonesia"	-0.7383	0.5738	22	1	2	5	14	11.4909	2019	2.8	2.2982
+1190	"department of mechanical engineering, universitas indonesia, kampus ui depok, depok, 16424, indonesia"	-0.7385	0.5739	22	4	5	5	3	2.4623	2019	0.6	0.4925
+1212	"department of medical biology, faculty of medicine, university of indonesia, jakarta, 10430, indonesia"	-0.274	0.5209	4	15	17	2	30	24.6233	2019	15	12.3117
+1219	"department of medical education, faculty of medicine, universitas indonesia, indonesia"	0.3659	-0.2349	17	5	5	2	2	1.6416	2019	1	0.8208
+1223	"department of medical microbiology and infectious diseases, erasmus mc university medical center rotterdam, dr molewaterplein 40, rotterdam, 3015 gd, netherlands"	0.1318	0.9073	3	7	7	1	2	1.6416	2019	2	1.6416
+1224	"department of medical microbiology and infectious diseases, erasmus mc university medical center, rotterdam, netherlands"	0.1314	0.9069	3	10	10	1	0	0	2019	0	0
+1225	"department of medical microbiology and infectious diseases, erasmus mc university, medical center rotterdam, dr. molewaterplein 40, rotterdam, 3015 gd, netherlands"	0.1303	0.9057	3	7	7	1	1	0.8208	2019	1	0.8208
+1229	"department of medical pharmacy, faculty of medicine, universitas indonesia, jakarta, 10430, indonesia"	0.448	-0.8027	8	2	2	1	0	0	2019	0	0
+1244	"department of medicinal chemistry, faculty of medicine, universitas indonesia, depok, indonesia"	-0.7348	-0.0252	23	2	2	1	3	2.4623	2019	3	2.4623
+1315	"department of microbiology, faculty of medicine, universitas indonesia - dr cipto mangunkusumo general hospital, jakarta, indonesia"	0.9126	0.0954	6	2	2	1	36	29.548	2019	36	29.548
+1352	"department of nutrition, faculty of medicine, universitas indonesia - dr cipto mangunkusumo general hospital, jakarta, indonesia"	0.9124	0.0942	6	2	2	1	36	29.548	2019	36	29.548
+1353	"department of nutrition, faculty of medicine, universitas indonesia, jakarta, indonesia"	-0.7678	-0.5036	7	10	10	3	3	2.4623	2019	1	0.8208
+1354	"department of nutrition, faculty of medicine, universitas indonesia-dr. cipto mangunkusumo general hospital, jakarta, 10430, indonesia"	-0.7681	-0.5027	7	5	5	1	1	0.8208	2019	1	0.8208
+1356	"department of nutrition, faculty of medicine, universitas trisakti, jakarta, 11440, indonesia"	-0.7684	-0.5045	7	5	5	1	1	0.8208	2019	1	0.8208
+1357	"department of nutrition, faculty of medicine, universitas trisakti, jakarta, indonesia"	-0.7674	-0.5039	7	10	10	1	1	0.8208	2019	1	0.8208
+1359	"department of nutrition, faculty of public health, universitas andalas, padang, 25163, indonesia"	-0.7685	-0.5033	7	5	5	1	1	0.8208	2019	1	0.8208
+1360	"department of nutrition, faculty of public health, universitas indonesia, depok, indonesia"	0.9131	0.0957	6	2	2	1	36	29.548	2019	36	29.548
+1361	"department of nutrition, harvard th chan school of public health, boston, ma, united states"	0.9144	0.0953	6	2	2	1	36	29.548	2019	36	29.548
+1362	"department of nutrition, health polytechnic of malang, malang, indonesia"	-0.8683	-0.3148	10	8	8	1	2	1.6416	2019	2	1.6416
+1363	"department of nutrition, semarang health polytechnic, ministry of health, semarang, indonesia"	0.9141	0.096	6	2	2	1	36	29.548	2019	36	29.548
+1398	"department of ophthalmology, faculty of medicine, universitas indonesia - dr cipto mangunkusumo general hospital, jakarta, indonesia"	0.9134	0.0954	6	2	2	1	36	29.548	2019	36	29.548
+1462	"department of parasitology, faculty of medicine, universitas indonesia, jakarta, indonesia"	0.9133	0.0933	6	2	2	6	40	32.8311	2019	6.6667	5.4719
+1468	"department of pathology anatomy, faculty of medicine, universitas indonesia, jakarta, indonesia"	-0.3304	-0.7728	16	3	3	1	1	0.8208	2019	1	0.8208
+1469	"department of pathology anatomy, faculty of medicine, universitas indonesia, jalan salemba raya 6, jakarta, 10430, indonesia"	-0.3302	-0.7729	16	3	3	1	0	0	2019	0	0
+1470	"department of pathology, graduate school of medicine, kobe university, kobe, japan"	-0.1948	-0.8961	5	10	10	1	1	0.8208	2019	1	0.8208
+1526	"department of pharmaceutical technology, faculty of pharmacy, universitas indonesia, kampus ui, depok, 16424, indonesia"	-0.7349	-0.0251	23	3	3	1	1	0.8208	2019	1	0.8208
+1532	"department of pharmaceutics, faculty of pharmacy, universitas indonesia, depok, indonesia"	-0.7347	-0.0252	23	2	2	2	4	3.2831	2019	2	1.6416
+1534	"department of pharmacognosy and phytochemistry, faculty of pharmacy, pancasila university, south jakarta, dki jakarta, 12640, indonesia"	0.0873	-0.8729	11	3	3	1	5	4.1039	2019	5	4.1039
+1536	"department of pharmacognosy and phytochemistry, faculty of pharmacy, universitas indonesia, kampus ui depok, west-java, 16424, indonesia"	0.087	-0.8727	11	3	3	1	5	4.1039	2019	5	4.1039
+1537	"department of pharmacognosy and phytochemistry, pancasila university, south jakarta, dki jakarta, 12640, indonesia"	0.0869	-0.8731	11	7	8	1	0	0	2019	0	0
+1544	"department of pharmacology and therapeutic, faculty of medicine, universitas indonesia, indonesia"	0.0007	-0.9257	30	2	2	3	0	0	2019	0	0
+1554	"department of pharmacology and toxicology, faculty of pharmacy, universitas indonesia, depok, indonesia"	-0.735	-0.0251	23	2	2	1	3	2.4623	2019	3	2.4623
+1556	"department of pharmacology and toxicology, faculty of pharmacy, universitas indonesia, kampus ui, depok, 16424, indonesia"	-0.7349	-0.0251	23	3	3	2	2	1.6416	2019	1	0.8208
+1560	"department of pharmacology, faculty of medicine, universitas indonesia, jakarta, 10430, indonesia"	-0.3303	-0.7726	16	3	3	1	0	0	2019	0	0
+1561	"department of pharmacology, faculty of medicine, universitas indonesia, jakarta, indonesia"	-0.3306	-0.773	16	3	3	2	2	1.6416	2019	1	0.8208
+1575	"department of physics education, faculty of teacher and education sciece, universitas muhammadiyah, prof dr hamka, jakarta timur, indonesia"	-0.8011	0.4433	2	5	6	1	2	1.6416	2019	2	1.6416
+1582	"department of physics, faculty of mathematics and natural science, universitas indonesia, depok, 16424, indonesia"	-0.801	0.4433	2	5	6	4	3	2.4623	2019	0.75	0.6156
+1612	"department of physics, fmipa, universitas indonesia, indonesia"	-0.8032	0.4357	2	2	2	1	0	0	2019	0	0
+1616	"department of physics, fmipa, university of indonesia, kampus ui depok, indonesia"	0.3033	-0.4672	32	1	1	4	0	0	2019	0	0
+1630	"department of physics, university of warwick, coventry, cv4 7al, united kingdom"	-0.9329	0.0004	13	4	4	2	8	6.5662	2019	4	3.2831
+1640	"department of population health, london school of hygiene and tropical medicine, keppel street, london, wc1e 7ht, united kingdom"	-0.8689	-0.3144	10	4	4	1	6	4.9247	2019	6	4.9247
+1660	"department of psychiatry, perelman school of medicine, university of pennsylvania, 3535 market street, 4th floor - suite 4000, philadelphia, pa 19104-3309, united states"	-0.0698	0.9081	1	10	10	1	5	4.1039	2019	5	4.1039
+1666	"department of psychology, faculty of psychology, universitas islam negeri syarif hidayatullah, jakarta, 15419, indonesia"	-0.7679	-0.5046	7	5	5	1	1	0.8208	2019	1	0.8208
+1778	"department of urology, faculty of medicine, universitas indonesia - dr cipto mangunkusumo general hospital, jakarta, indonesia"	0.9146	0.0949	6	2	2	1	36	29.548	2019	36	29.548
+1840	"division of cardiology, department of internal medicine, dr. cipto mangunkusumo national referral hospital, faculty of medicine, universitas indonesia, jl. diponegoro no. 71, central jakarta, 10430, indonesia"	0.4111	0.5804	15	3	3	1	2	1.6416	2019	2	1.6416
+1855	"division of endocrinology and metabolism, department of internal medicine, dr. cipto mangunkusumo national general hospital, faculty of medicine, universitas indonesia, indonesia"	0.4113	0.5807	15	5	5	1	1	0.8208	2019	1	0.8208
+1858	"division of endocrinology, department of internal medicine, dr. cipto mangunkusumo national referral hospital, faculty of medicine, universitas indonesia, jl. diponegoro no. 71, central jakarta, 10430, indonesia"	0.4115	0.5808	15	3	3	1	2	1.6416	2019	2	1.6416
+1862	"division of epidemiology, college of public health, the ohio state university, 300-d cunz hall, 1841 neil avenue, columbus, oh 43210, united states"	-0.0702	0.9069	1	10	10	1	5	4.1039	2019	5	4.1039
+1893	"division of geriatric, departement of internal medicine, faculty of medicine, universitas airlangga, dr. soetomo general hospital, surabaya, east java, indonesia"	-0.1976	-0.896	5	6	6	1	7	5.7454	2019	7	5.7454
+1894	"division of geriatric, departement of internal medicine, faculty of medicine, universitas udayana, sanglah teaching hospital, bali, bali, indonesia"	-0.1974	-0.8958	5	6	6	1	7	5.7454	2019	7	5.7454
+1895	"division of geriatric, department of internal medicine, faculty of medicine universitas indonesia, cipto mangunkusumo hospital, jakarta, indonesia"	-0.1971	-0.8956	5	6	6	1	7	5.7454	2019	7	5.7454
+1896	"division of geriatric, department of internal medicine, faculty of medicine universitas indonesia-dr. cipto mangunkusumo general hospital, jakarta, indonesia"	-0.1979	-0.8957	5	6	6	1	0	0	2019	0	0
+1897	"division of geriatric, department of internal medicine, faculty of medicine, universitas brawijaya, dr. syaiful anwar hospital, malang, east java, indonesia"	-0.1972	-0.8951	5	6	6	1	7	5.7454	2019	7	5.7454
+1899	"division of geriatric, department of internal medicine, faculty of medicine, universitas padjajaran, hasan sadikin general hospital, bandung, west java, indonesia"	-0.1973	-0.8951	5	6	6	1	7	5.7454	2019	7	5.7454
+1908	"division of human nutrition, and health, wageningen university, wageningen, 6708 we, netherlands"	-0.7668	-0.503	7	5	5	1	1	0.8208	2019	1	0.8208
+1913	"division of infectious diseases, school of medicine, the university of north carolina at chapel hill, 130 mason farm rd, chapel hill, nc 27599, united states"	-0.0704	0.9086	1	10	10	1	5	4.1039	2019	5	4.1039
+1914	"division of infectious diseases, school of medicine, university of north carolina at chapel hill, chapel hill, united states"	-0.0723	0.9083	1	10	10	1	2	1.6416	2019	2	1.6416
+1951	"division of rheumatology, department of internal medicine, faculty of medicine, universitas indonesia-dr. cipto mangunkusumo general hospital, jakarta, indonesia"	-0.1978	-0.8953	5	6	6	2	0	0	2019	0	0
+1974	"drug development cluster, indonesia medical education and research institute, universitas indonesia, jakarta, 10430, indonesia"	0.4488	-0.8039	8	2	2	1	0	0	2019	0	0
+2021	"emma children’s hospital, amsterdam university medical centers, university of amsterdam, amsterdam, netherlands"	0.0006	-0.9258	30	1	1	1	1	0.8208	2019	1	0.8208
+2036	"environmental engineering study program, civil engineering department, faculty of engineering, universitas indonesia, kampus ui depok, depok, 16424, indonesia"	-0.5314	0.7529	34	1	1	1	1	0.8208	2019	1	0.8208
+2038	"environmental engineering study program, department of civil engineering, universitas indonesia, kampus ui depok, depok, 16424, indonesia"	-0.5314	0.753	34	1	1	1	0	0	2019	0	0
+2083	"faculty of computer science, universitas indonesia, depok, indonesia"	0.57	-0.7535	35	1	1	61	53	43.5012	2019	0.8689	0.7131
+2086	"faculty of computer science, universitas indonesia, indonesia"	0.5701	-0.7535	35	1	1	16	16	13.1325	2019	1	0.8208
+2090	"faculty of computer science, universitas indonesia, kampus ui depok16424, indonesia"	0.538	0.7481	9	1	1	1	2	1.6416	2019	2	1.6416
+2108	"faculty of dentistry, universitas indonesia, jakarta, 10430, indonesia"	0.4482	-0.8031	8	2	2	2	1	0.8208	2019	0.5	0.4104
+2116	"faculty of economics and business, universitas indonesia, depok, 16424, indonesia"	-0.0828	-0.2169	25	2	2	1	1	0.8208	2019	1	0.8208
+2139	"faculty of engineering, antenna propagation and microwave research group (amrg), universitas indonesia, department of electrical engineering, kampus baru ui depok, depok, indonesia"	-0.4952	0.8004	28	2	3	1	2	1.6416	2019	2	1.6416
+2154	"faculty of engineering, universitas indonesia, kampus baru ui, depok, 16424, indonesia"	0.5332	0.7516	9	2	6	3	0	0	2019	0	0
+2158	"faculty of engineering, universitas pancasila, srengseng sawah jakarta selatan, 12640, indonesia"	0.5337	0.7523	9	2	4	2	0	0	2019	0	0
+2159	"faculty of engineering, universitas pancasila, srengseng, sawah jakarta selatan, 12640, indonesia"	0.5333	0.7521	9	2	2	1	0	0	2019	0	0
+2204	"faculty of medicine, department of nutrition, universitas indonesia—dr. cipto mangunkusumo general hospital, jakarta, indonesia"	-0.8685	-0.3147	10	8	8	1	2	1.6416	2019	2	1.6416
+2230	"faculty of medicine, universitas indonesia, jl. salemba raya 6, jakarta, 10430, indonesia"	0.6542	0.2384	26	2	2	1	0	0	2019	0	0
+2248	"faculty of medicine, universitas sebelas maret solo, indonesia"	0.366	-0.2347	17	3	3	1	0	0	2019	0	0
+2279	"faculty of pharmacy, pancasila university, south jakarta, dki jakarta, 12640, indonesia"	0.0865	-0.8735	11	3	3	1	2	1.6416	2019	2	1.6416
+2322	"faculty of public health, universitas indonesia, kampus ul depok, depok, west java 16424, indonesia"	0.6542	0.2384	26	2	2	1	0	0	2019	0	0
+2329	"faculty of science and engineering, waseda university, shinjuku-ku, tokyo, 169-8555, japan"	-0.7383	0.5741	22	1	1	2	3	2.4623	2019	1.5	1.2312
+2356	"fakultas kesehatan masyarakat, universitas indonesia, depok, indonesia"	0.9136	0.0947	6	13	13	1	2	1.6416	2019	2	1.6416
+2383	"genome diversity and diseases laboratory, eijkman institute for molecular biology, jakarta, 10430, indonesia"	-0.2741	0.5207	4	15	17	2	30	24.6233	2019	15	12.3117
+2403	"graduate of master program in medical education, department of medical education, faculty of medicine universitas indonesia, indonesia"	0.3658	-0.2349	17	4	4	1	2	1.6416	2019	2	1.6416
+2407	"graduate program in management, faculty of economics and business, universitas indonesia, depok, 16424, indonesia"	-0.0828	-0.2169	25	2	2	1	1	0.8208	2019	1	0.8208
+2414	"graduate school of integrated pharmaceutical and nutritional sciences, university of shizuoka, 52-1 yada, suruga-ku, shizuoka, 422-8526, japan"	0.449	-0.8028	8	12	12	1	8	6.5662	2019	8	6.5662
+2481	"human nutrition research center, indonesian medical education and research institute (imeri), faculty of medicine, universitas indonesia, jakarta, 10430, indonesia"	-0.7668	-0.5042	7	5	5	1	1	0.8208	2019	1	0.8208
+2483	"human nutrition research centre, indonesian medical education and research institute (imeri), faculty of medicine, universitas indonesia, jakarta, indonesia"	-0.7679	-0.5039	7	10	10	1	1	0.8208	2019	1	0.8208
+2484	"human nutrition research centre, indonesian medical education and research institute, faculty of medicine, universitas indonesia, jakarta, indonesia"	0.9138	0.0937	6	2	2	1	36	29.548	2019	36	29.548
+2505	"indonesia young health professionals' society (iyhps), indonesia"	0.3659	-0.2347	17	3	3	1	0	0	2019	0	0
+2556	"institute for materials research, tohoku university, aoba-ku, sendai, miyagi, 980-8577, japan"	0.1188	-0.208	14	2	3	1	10	8.2078	2019	10	8.2078
+2567	"institute of genomics, university of tartu, tartu, 51010, estonia"	-0.2743	0.5213	4	13	13	1	0	0	2019	0	0
+2568	"institute of genomics, university of tartu, tartu, tartumaa, 51010, estonia"	-0.2735	0.5197	4	6	6	1	30	24.6233	2019	30	24.6233
+2577	"institute of microengineering and nanoelectronics (imen), universiti kebangsaan malaysia (ukm), bangi, selangor 43600, malaysia"	-0.7989	0.4435	2	5	6	1	9	7.387	2019	9	7.387
+2578	"institute of microengineering and nanoelectronics (imen), universiti kebangsaan malaysia, ukm bangiselangor 43600, malaysia"	-0.8015	0.4437	2	2	2	1	5	4.1039	2019	5	4.1039
+2580	"institute of nutrition, mahidol university, nakhon pathom, thailand"	-0.8678	-0.3153	10	4	4	1	6	4.9247	2019	6	4.9247
+2584	"institute of research for development, umr, nutripass, montpellier, france"	-0.8677	-0.3146	10	4	4	1	6	4.9247	2019	6	4.9247
+2604	"integrative epidemiology unit, population health sciences, university of bristol, bristol, bs8 2bn, united kingdom"	-0.2726	0.5212	4	6	6	1	30	24.6233	2019	30	24.6233
+2633	"jst-accel, 3-14-1 hiyoshi, yokohama, 223-8522, japan"	0.1197	-0.2078	14	2	3	1	10	8.2078	2019	10	8.2078
+2637	"jurusan pendidikan fisika, fakultas keguruan dan ilmu pendidikan, universitas muhammadiyah prof. dr. hamka, jakarta timur, indonesia"	-0.7988	0.4435	2	5	6	1	9	7.387	2019	9	7.387
+2638	"jurusan pendidikan fisika, fakultas keguruan dan ilmu pendidikan, universitas muhammadiyah prof. dr. hamka, jakarta, timur, indonesia"	-0.8016	0.4437	2	2	2	1	5	4.1039	2019	5	4.1039
+2639	"jurusan pendidikan fisika, universitas muhammadiyah prof. dr. hamka, jakarta timur, indonesia"	-0.7959	0.4445	2	2	2	1	13	10.6701	2019	13	10.6701
+2663	"lab of pharmacognosy and phytochemistry, faculty of pharmacy, pancasila university, jakarta, 12640, indonesia"	0.45	-0.8031	8	2	2	4	0	0	2019	0	0
+2668	"laboratorium of bioinformatics and advanced computing, faculty of mathematics and natural science, universitas indonesia, department mathematics, depok, indonesia"	-0.6973	0.1213	21	2	3	1	0	0	2019	0	0
+2679	"laboratory of pharmacognosy and phytochemistry, faculty of pharmacy, pancasila university, indonesia"	-0.0564	0.6982	12	3	3	1	2	1.6416	2019	2	1.6416
+2718	"marine science postgraduate program, faculty of mathematics and natural science, universitas indonesia, depok, west java, 16424, indonesia"	-0.0564	0.6983	12	4	4	1	0	0	2019	0	0
+2721	"marine science postgraduate program, faculty of mathematics and natural sciences, universitas indonesia, indonesia"	-0.0563	0.6983	12	3	3	1	2	1.6416	2019	2	1.6416
+2734	"master program in biomedical sciences, faculty of medicine, universitas indonesia, jakarta, indonesia"	0.2557	0.6453	27	3	4	3	1	0.8208	2019	0.3333	0.2736
+2761	"mechanical engineering department, politeknik negeri bali, badung, 80364, indonesia"	0.1419	0.7434	29	1	1	1	3	2.4623	2019	3	2.4623
+2777	"medical education centre, indonesia medical education and research institute (medec imeri), faculty of medicine, universitas indonesia, indonesia"	0.3658	-0.2351	17	3	3	1	0	0	2019	0	0
+2789	"metabolic, cardiovascular and aging cluster, the indonesian medical education and research institute, faculty of medicine, universitas indonesia, indonesia"	0.4114	0.5805	15	5	5	1	1	0.8208	2019	1	0.8208
+2790	"metabolic, cardiovascular and aging cluster, the indonesian medical education and research institute, faculty of medicine, universitas indonesia, jl. salemba raya no vi, central jakarta, 10430, indonesia"	0.4112	0.5807	15	3	3	1	2	1.6416	2019	2	1.6416
+2809	"microbiology r&d, biomérieux, la balme les grottes, france"	0.1315	0.9065	3	10	10	1	0	0	2019	0	0
+2812	"ministry of agriculture, phnom penh, cambodia"	-0.8687	-0.3154	10	4	4	1	6	4.9247	2019	6	4.9247
+2816	"ministry of health of laos, national institute of public health, vientiane, laos"	-0.8689	-0.3149	10	4	4	1	6	4.9247	2019	6	4.9247
+2819	"ministry of health of vietnam, national institute of nutrition, hanoi, viet nam"	-0.8679	-0.3144	10	4	4	1	6	4.9247	2019	6	4.9247
+2822	"ministry of health, jakarta, indonesia"	0.913	0.0937	6	2	2	1	36	29.548	2019	36	29.548
+2824	"ministry of health, phnom penh, cambodia"	-0.8686	-0.314	10	4	4	1	6	4.9247	2019	6	4.9247
+2834	"molecular biology and proteomics core facilities, imeri-faculty of medicine, universitas indonesia, jakarta, indonesia"	0.2558	0.6451	27	3	3	1	1	0.8208	2019	1	0.8208
+2836	"molecular biology and proteomics core facilities, indonesian medical education and research institute, faculty of medicine, universitas indonesia, jakarta, indonesia"	0.2559	0.6452	27	3	3	1	0	0	2019	0	0
+2837	"monash university, australia"	0.9159	-0.0269	36	0	0	1	1	0.8208	2019	1	0.8208
+2838	"monash university, melbourne, vic, australia"	-0.5829	0.1312	37	0	0	1	10	8.2078	2019	10	8.2078
+2839	"mongolian national university of medical sciences, ulaanbaatar, mongolia"	0.5514	-0.5369	38	0	0	1	2	1.6416	2019	2	1.6416
+2840	"moscow research institute of psychiatry, moscow, russian federation"	-0.8479	0.0406	39	0	0	1	5	4.1039	2019	5	4.1039
+2841	"muhammadiyah university of gresik, indonesia"	-0.3599	-0.8519	40	0	0	1	1	0.8208	2019	1	0.8208
+2842	"muhammadiyah university, purwokerto, indonesia"	0.7408	-0.088	41	0	0	1	1	0.8208	2019	1	0.8208
+2843	"murdoch children’s research institute, melbourne, australia"	-0.2309	-0.7112	42	0	0	2	11	9.0286	2019	5.5	4.5143
+2844	"murdoch children’s research institute, royal children’s hospital, parkville, australia"	-0.5121	-0.1381	43	0	0	1	1	0.8208	2019	1	0.8208
+2845	"mylan laboratories ltd, global center of excellence lead for infectious disease and head of medical affairs"	-0.803	-0.1719	44	0	0	1	2	1.6416	2019	2	1.6416
+2846	"nangarhar medical faculty, nangarhar university, ministry of higher education, jalalabad, afghanistan"	0.3959	-0.6297	45	0	0	1	13	10.6701	2019	13	10.6701
+2847	"nanobioelectronics & biosensors group, institut català de nanociència i nanotecnologia (icn2), csic and the barcelona institute of science and technology (bist), campus uab, bellaterra, barcelona 08193, spain"	0.7704	-0.3831	46	0	0	1	8	6.5662	2019	8	6.5662
+2848	"nanomedicine group, research center for functional materials, national institute for materials science (nims), tsukuba, japan"	0.6862	0.6526	47	0	0	1	3	2.4623	2019	3	2.4623
+2849	"national aspergillosis centre, manchester university nhs foundation trust, wythenshawe hospital, manchester, united kingdom"	-0.4111	-0.0374	48	0	0	1	12	9.8493	2019	12	9.8493
+2850	"national cancer institute of thailand, bangkok, thailand"	-0.586	0.5384	49	0	0	1	2	1.6416	2019	2	1.6416
+2851	"national cancer institute, centro di riferimento oncologico, aviano, italy"	-0.5963	0.3627	50	0	0	1	11	9.0286	2019	11	9.0286
+2852	national cardiovascular center universitas indonesia jakarta indonesia	-0.5236	-0.7436	51	0	0	1	7	5.7454	2019	7	5.7454
+2853	"national cardiovascular center universitas indonesia, jakarta, indonesia"	0.8761	-0.2457	52	0	0	1	22	18.0571	2019	22	18.0571
+2854	"national center for genetic engineering and biotechnology (biotec), pathum thani, 12120, thailand"	0.409	-0.5578	53	0	0	1	1	0.8208	2019	1	0.8208
+2855	"national center for global health and medicine, tokyo, japan"	-0.7118	0.318	54	0	0	5	17	13.9532	2019	3.4	2.7906
+2856	"national center for hiv/aids, dermatology & stds, phnom penh, cambodia"	-0.7978	-0.2211	55	0	0	2	9	7.387	2019	4.5	3.6935
+2857	"national center for hiv/aids, dermatology & stds, university of health sciences, phnom penh, cambodia"	0.4655	0.4509	56	0	0	2	7	5.7454	2019	3.5	2.8727
+2858	"national center for hiv/aids, dermatology and stds, university of health sciences, phnom penh, cambodia"	0.2514	-0.8772	57	0	0	1	1	0.8208	2019	1	0.8208
+2859	"national center for tuberculosis and leprosy control, phnom penh, cambodia"	-0.9394	-0.1276	58	0	0	1	2	1.6416	2019	2	1.6416
+2860	"national centre for hiv/aids, dermatology and stds, phnom penh, cambodia"	0.8283	-0.4551	59	0	0	3	3	2.4623	2019	1	0.8208
+2861	"national committee for tobacco control indonesia, jakarta, 10350, indonesia"	0.9014	-0.2877	60	0	0	1	0	0	2019	0	0
+2862	"national committee of adverse event following immunization, moh, universitas indonesia, jakarta, indonesia"	0.1431	-0.7432	61	0	0	1	3	2.4623	2019	3	2.4623
+2863	"national defense university, washington, united states"	0.5673	0.6331	62	0	0	1	1	0.8208	2019	1	0.8208
+2864	"national expert committee for hepatitis, ministry of health, indonesia"	-0.8688	-0.1112	63	0	0	1	2	1.6416	2019	2	1.6416
+2865	"national heart and lung institute, imperial college london, london, united kingdom"	0.3955	0.8027	64	0	0	1	1	0.8208	2019	1	0.8208
+2866	"national heart and lung institute, imperial college, london, united kingdom"	-0.59	0.3056	65	0	0	1	3	2.4623	2019	3	2.4623
+2867	national heart centre singapore singapore	-0.3476	-0.359	66	0	0	1	7	5.7454	2019	7	5.7454
+2868	"national heart centre singapore, singapore, singapore"	-0.7652	0.2962	67	0	0	1	22	18.0571	2019	22	18.0571
+2869	"national hospital for tropical diseases, hanoi, viet nam"	0.1906	-0.3511	68	0	0	5	17	13.9532	2019	3.4	2.7906
+2870	"national hospital of pediatrics, hanoi, viet nam"	0.5232	-0.066	69	0	0	3	3	2.4623	2019	1	0.8208
+2871	"national housing & urban development corporation (perumnas), indonesia"	0.3266	-0.8113	70	0	0	1	3	2.4623	2019	3	2.4623
+2872	"national institute of allergy and infectious disease (niaid), national institutes of health, bethesda, md, united states"	-0.0948	-0.6204	71	0	0	1	2	1.6416	2019	2	1.6416
+2873	"national institute of health research and development (nihrd), ministry of health republic of indonesia, jakarta, indonesia"	0.2359	-0.7777	72	0	0	1	2	1.6416	2019	2	1.6416
+2874	"national institute of health research and development, indonesian ministry of health, jl. percetakan negara no.29, central jakarta, 10560, indonesia"	-0.6688	0.5588	73	0	0	1	1	0.8208	2019	1	0.8208
+2875	"national institute of health research and development, jakarta, indonesia"	-0.0175	0.5505	74	0	0	2	4	3.2831	2019	2	1.6416
+2876	"national institute of health research and development, ministry of health republic of indonesia, dki, jakarta, 10560, indonesia"	0.2936	0.4936	75	0	0	1	7	5.7454	2019	7	5.7454
+2877	"national institute of health research and development, ministry of health republic of indonesia, jl. percetakan negara no. 29, central jakarta, 10560, indonesia"	0.4116	0.5806	15	3	3	1	2	1.6416	2019	2	1.6416
+2878	"national institute of health research and development, ministry of health, jakarta, indonesia"	0.9144	0.0938	6	2	2	1	36	29.548	2019	36	29.548
+2879	"national institute of health research and development, ministry of health, jalan percetakan negara, no.29 jakarta, pusat, indonesia"	0.7738	0.3955	76	0	0	1	2	1.6416	2019	2	1.6416
+2880	"national institute of nutrition, hanoi, 116110, viet nam"	0.8147	0.483	77	0	0	1	0	0	2019	0	0
+2881	"national institute of public health, phnom penh, cambodia"	-0.8684	-0.3148	10	8	8	1	2	1.6416	2019	2	1.6416
+2882	"national institute of radiological sciences hospital, national institutes for quantum and radiological science and technology, chiba, japan"	0.2822	-0.8019	78	0	0	1	1	0.8208	2019	1	0.8208
+2883	"national lung hospital, hanoi, viet nam"	-0.4538	-0.2684	79	0	0	1	2	1.6416	2019	2	1.6416
+2884	"national narcotics board, jakarta, indonesia"	-0.0718	0.9092	1	10	10	1	2	1.6416	2019	2	1.6416
+2885	"national narcotics board, jalan letnan jendral m.t. haryono no.11, rt.1/rw.6, cawang, kramatjati, rt.1/rw.6, cawang, kramatjati, kota jakarta timur, daerah khusus ibukota, jakarta, 13630, indonesia"	-0.0697	0.909	1	10	10	1	5	4.1039	2019	5	4.1039
+2886	"national social security council and department of health policy and administration, universitas indonesia, depok, indonesia"	0.9148	0.0942	6	2	2	1	36	29.548	2019	36	29.548
+2887	"national taichung university of science and technology, taiwan"	-0.0913	0.1075	80	0	0	1	0	0	2019	0	0
+2888	"national taiwan university college of medicine and national taiwan university hospital, taipei, taiwan"	-0.9191	0.2254	81	0	0	1	12	9.8493	2019	12	9.8493
+2889	"national taiwan university college of medicine, and national taiwan university hospital, taipei, taiwan"	0.7568	-0.3127	82	0	0	1	8	6.5662	2019	8	6.5662
+2890	"national university centre for organ transplantation, national university hospital, national university health system, singapore, singapore"	0.5246	0.625	83	0	0	1	1	0.8208	2019	1	0.8208
+2891	"national university heart centre, singapore, singapore"	-0.8785	0.3432	84	0	0	1	22	18.0571	2019	22	18.0571
+2892	"naval architecture and marine engineering study program, universitas indonesia, jl. kampus ui, depok, 16424, indonesia"	-0.9242	-0.207	85	0	0	1	0	0	2019	0	0
+2893	"naval architecture and marine engineering, faculty of engineering, universitas indonesia, department of mechanical engineering, depok, 16424, indonesia"	-0.6792	-0.3895	86	0	0	1	0	0	2019	0	0
+2894	"neonatal intensive care unit, pondok indah general hospital, jakarta, indonesia"	-0.4745	-0.8204	87	0	0	1	2	1.6416	2019	2	1.6416
+2895	"neonatal intensive care unit, pondok indah general hospital, jl metro duta kav. ue, pondok indah, jakarta, indonesia"	-0.2601	-0.5394	88	0	0	1	1	0.8208	2019	1	0.8208
+2896	"neonatology unit, biak general hospital, biak numfor, indonesia"	0.3344	0.09	89	0	0	1	2	1.6416	2019	2	1.6416
+2897	"nestle nutrition institute, indonesia"	0.4814	-0.1334	90	0	0	1	6	4.9247	2019	6	4.9247
+2898	"nestle nutrition institute, jakarta, indonesia"	-0.7584	-0.1269	91	0	0	1	1	0.8208	2019	1	0.8208
+2899	"neuro-ophthalmology division, department of ophthalmology, faculty of medicine, universitas indonesia, cipto mangunkusumo hospital, jakarta, indonesia"	-0.5126	0.702	92	0	0	1	0	0	2019	0	0
+2900	"neurological surgery unit, muhimbili orthopaedic institute and muhimbili university college of allied health sciences, dar es salaam, tanzania"	-0.1944	0.0216	93	0	0	1	1	0.8208	2019	1	0.8208
+2901	"neurology department, cipto mangunkusumo hospital, jakarta, indonesia"	-0.1938	-0.8967	5	2	2	2	5	4.1039	2019	2.5	2.0519
+2902	"neurology department, cluster of medical technology imeri, faculty of medicine, universitas indonesia, jl salemba raya no 6, senen, central jakarta, 10430, indonesia"	-0.8851	0.2032	94	0	0	1	0	0	2019	0	0
+2903	"neurology department, faculty of medicine, universitas indonesia, cipto mangunkusumo hospital, jakarta, indonesia"	-0.9169	-0.2301	95	0	0	1	1	0.8208	2019	1	0.8208
+2904	"neurology department, faculty of medicine, universitas indonesia, jakarta, indonesia"	-0.1938	-0.8962	5	2	2	2	5	4.1039	2019	2.5	2.0519
+2905	"new zealand liver transplant unit, auckland city hospital, grafton, auckland, new zealand"	0.2366	0.2898	96	0	0	1	2	1.6416	2019	2	1.6416
+2906	"nexchal corp., seongnam, south korea"	-0.4583	0.8294	97	0	0	1	6	4.9247	2019	6	4.9247
+2907	"nihr global health research group on neurotrauma, university of cambridge, cambridge, cambridgeshire, united kingdom"	0.1864	-0.9301	98	0	0	1	1	0.8208	2019	1	0.8208
+2908	"nippon medical school's department of cardiovascular medicine, tokyo, japan"	-0.8706	-0.0645	99	0	0	1	22	18.0571	2019	22	18.0571
+2909	"non-communicable disease regional technical advisor, southeast asia regional office (searo), tephinet, a program of the task force for global health, inc., decatur, ga 30030, united states"	0.8854	-0.3364	100	0	0	1	3	2.4623	2019	3	2.4623
+2910	"nuclear energy regulatory agency, jl.gadjah mada no. 8, jakarta, 10120, indonesia"	0.7396	0.1806	101	0	0	1	0	0	2019	0	0
+2911	"nuclear energy regulatory agency, jl.gajah mada no. 8, jakarta, 10120, indonesia"	0.5215	0.363	102	0	0	1	0	0	2019	0	0
+2912	"nuffield department of medicine, centre for tropical medicine and global health, university of oxford, oxford, ox3 7lf, united kingdom"	-0.378	0.0859	103	0	0	1	1	0.8208	2019	1	0.8208
+2913	"nuffield department of primary care health sciences, university of oxford, oxford, ox2 6gg, united kingdom"	0.7709	0.5508	104	0	0	1	2	1.6416	2019	2	1.6416
+2914	"nursing program, faculty of health sciences, esa unggul university, jakarta, 11510, indonesia"	-0.6744	-0.665	105	0	0	1	1	0.8208	2019	1	0.8208
+2915	"nursing science, department of basic science and fundamental nursing, faculty of nursing, universitas indonesia, depok, west-java, 16424, indonesia"	-0.8984	-0.1724	106	0	0	1	1	0.8208	2019	1	0.8208
+2916	"nutrition department, faculty of medicine universitas indonesia, jakarta, indonesia"	-0.4624	0.759	107	0	0	1	1	0.8208	2019	1	0.8208
+2917	"nutrition department, faculty of medicine, universitas indonesia, jakarta, indonesia"	-0.4234	-0.6427	108	0	0	1	1	0.8208	2019	1	0.8208
+2918	"nutrition department, faculty of medicine, universitas indonesia/dr cipto mangunkusumo general hospital, jakarta, indonesia"	0.472	-0.0331	109	0	0	2	2	1.6416	2019	1	0.8208
+2919	"nutrition support department, casa de saude sao jose, associacao congregacao de santa catarina, rio de janeiro, brazil"	0.8187	-0.4803	110	0	0	1	8	6.5662	2019	8	6.5662
+2920	"occupational health and safety department, universitas indonesia, depok, indonesia"	-0.1183	-0.5002	111	0	0	1	0	0	2019	0	0
+2921	"oil and gas general direct., ministry of energy and mineral resources, gedung migas, jl. hr rasuna said kav. b-5, jakarta, 12910, indonesia"	-0.5839	0.0687	112	0	0	1	1	0.8208	2019	1	0.8208
+2922	"operation system department pt. pln (persero) p2b, depok, indonesia"	0.6297	0.4321	113	0	0	2	0	0	2019	0	0
+2923	"ophthalmology department, faculty of medicine, universitas indonesia, cipto mangunkusumo hospital, jakarta, indonesia"	-0.4815	-0.7485	114	0	0	1	1	0.8208	2019	1	0.8208
+2924	"oral epidemiology and clinical studies in dentistry research cluster, faculty of dentistry, universitas indonesia, jakarta, indonesia"	-0.1728	0.1673	115	0	0	1	1	0.8208	2019	1	0.8208
+2925	"oral epidemiology and clinical studies in dentistry research cluster, faculty of dentistry, university of indonesia, jakarta, 10430, indonesia"	0.9006	-0.1095	116	0	0	1	1	0.8208	2019	1	0.8208
+2926	"oral medicine residency program, faculty of dentistry, university of indonesia, jakarta, indonesia"	0.9446	-0.0131	117	0	0	1	3	2.4623	2019	3	2.4623
+2927	"oral research science center, faculty of dentistry, universitas indonesia, jakarta, indonesia"	-0.6203	-0.0474	118	0	0	1	1	0.8208	2019	1	0.8208
+2928	"oral science laboratory, department of dentistry, university of indonesia, jl. salemba rayacentral jakarta 10430, indonesia"	-0.9124	0.086	119	0	0	1	6	4.9247	2019	6	4.9247
+2929	"oral science laboratory, department of oral biology, faculty of dentistry, universitas indonesia, jakarta, indonesia"	-0.7898	0.0789	120	0	0	1	4	3.2831	2019	4	3.2831
+2930	"osteoporosis center, medistra hospital, jakarta, indonesia"	-0.198	-0.8954	5	6	6	2	0	0	2019	0	0
+2931	"oxford university clinical research unit, centre for tropical medicine, ho chi minh city, viet nam"	-0.2369	-0.0482	121	0	0	1	8	6.5662	2019	8	6.5662
+2932	"oxford university clinical research unit, hospital for tropical diseases, ho chi minh city, viet nam"	-0.2832	-0.332	122	0	0	1	13	10.6701	2019	13	10.6701
+2933	"padang state university, indonesia"	0.5313	0.0863	123	0	0	2	6	4.9247	2019	3	2.4623
+2934	"padang state university, indonesia university, indonesia"	-0.5578	-0.7208	124	0	0	1	3	2.4623	2019	3	2.4623
+2935	"pancasila university, jakarta, indonesia"	0.5369	0.7489	9	5	5	1	0	0	2019	0	0
+2936	"paprsb institute of health sciences, universiti brunei darussalam, jalan tungku link, gadong be1410, brunei darussalam"	0.1475	0.5046	125	0	0	1	4	3.2831	2019	4	3.2831
+2937	"papua new guinea institute of medical research, madang, papua new guinea"	-0.0678	0.51	126	0	0	2	11	9.0286	2019	5.5	4.5143
+2938	"parasitology clinical program, faculty of medicine, universitas indonesia, jakarta, 10430, indonesia"	0.4483	-0.802	8	2	2	1	0	0	2019	0	0
+2939	"parasitology department, faculty of medicine, universitas indonesia, jakarta, 10430, indonesia"	0.4493	-0.8037	8	2	2	1	0	0	2019	0	0
+2940	"parasitology department, universitas indonesia, jakarta, indonesia"	0.0727	0.7777	127	0	0	1	12	9.8493	2019	12	9.8493
+2941	"parkcity medical centre, kuala lumpur, malaysia"	-0.5179	0.0422	128	0	0	1	5	4.1039	2019	5	4.1039
+2942	"pasteur institute, ho chi minh city, viet nam"	0.684	-0.6564	129	0	0	1	6	4.9247	2019	6	4.9247
+2943	"pc pal, wissous, 91320, france"	0.1835	-0.6812	130	0	0	1	1	0.8208	2019	1	0.8208
+2944	"pediactric department, faculty of medical, universitas indonesia, depok, indonesia"	0.8579	-0.0734	131	0	0	1	6	4.9247	2019	6	4.9247
+2945	"pediatric cardiac intensive care unit, national cardiovascular center harapan kita, let jend s parman road, kav 87, slipi, jakarta, 11420, indonesia"	-0.5074	0.4353	132	0	0	1	1	0.8208	2019	1	0.8208
+2946	"pediatric cardiac surgery unit, national cardiovascular center harapan kita, jakarta, indonesia"	-0.3365	0.1574	133	0	0	1	1	0.8208	2019	1	0.8208
+2947	"pediatric cardiology unit, national cardiovascular center harapan kita, jakarta, indonesia"	0.7196	-0.3557	134	0	0	1	1	0.8208	2019	1	0.8208
+2948	"pediatric dentistry department, university of indonesia, jakarta, 10430, indonesia"	-0.7242	-0.6072	135	0	0	1	1	0.8208	2019	1	0.8208
+2949	"pediatric hematology-oncology division, department of child health, dr. cipto mangunkusumo hospital, faculty of medicine universitas indonesia, jakarta, indonesia"	0.7031	-0.6355	136	0	0	1	1	0.8208	2019	1	0.8208
+2950	"pediatric institute, hospital kuala lumpur, kuala lumpur, malaysia"	-0.5365	0.1889	137	0	0	3	3	2.4623	2019	1	0.8208
+2951	"pediatric orthopaedics, department of orthopaedic and traumatology, fatmawati general hospital, faculty of medicine universitas, jalan rs fatmawati no. 1, south jakarta, indonesia"	-0.0072	-0.3092	138	0	0	1	1	0.8208	2019	1	0.8208
+2952	"peking university people’s hospital, peking university hepatology institute, beijing, china"	0.755	0.5166	139	0	0	1	12	9.8493	2019	12	9.8493
+2953	"pembinaan masyarakat indonesia university, indonesia"	-0.4644	-0.7865	140	0	0	1	0	0	2019	0	0
+2954	"penang hospital, penang, malaysia"	-0.6882	-0.3249	141	0	0	3	3	2.4623	2019	1	0.8208
+2955	"penn state heart and vascular institute, pennsylvania state university college of medicine, hershey, pa, united states"	-0.4288	-0.75	142	0	0	1	4	3.2831	2019	4	3.2831
+2956	"perelman school of medicine, university of pennsylvania and the treatment research institute, philadelphia, pa, united states"	-0.0708	0.9093	1	10	10	1	2	1.6416	2019	2	1.6416
+2957	"persahabatan general hospital, jakarta, indonesia, jl. persahabatan raya no. 1, pulogadung, jakarta timur, dki jakarta, jakarta, 13230, indonesia"	-0.4048	0.8587	143	0	0	1	0	0	2019	0	0
+2958	"pertamina hulu energi, jl. t.b. simatupang kav. 88, jakarta, 12520, indonesia"	0.1616	-0.9341	144	0	0	2	3	2.4623	2019	1.5	1.2312
+2959	"pertamina research and technology center, jl. raya bekasi no 20, jakarta, 13920, indonesia"	-0.9334	-0.0015	13	1	1	1	3	2.4623	2019	3	2.4623
+2960	"pharmaceutical microbiology and biotechnology division, faculty of pharmacy, universitas indonesia, ui depok campus, depok, 16424, indonesia"	0.6297	0.7068	145	0	0	1	1	0.8208	2019	1	0.8208
+2961	"pharmacy department, cipto mangunkusumo hospitaljakarta, indonesia"	-0.5768	-0.752	146	0	0	1	8	6.5662	2019	8	6.5662
+2962	"physics and physics education program, faculty of mathematics and science, universitas negeri jakarta, indonesia"	0.5499	0.2192	147	0	0	1	1	0.8208	2019	1	0.8208
+2963	"physics departement, faculty of mathematics and natural science, universitas indonesia, indonesia"	0.4194	0.8368	148	0	0	1	0	0	2019	0	0
+2964	"physics departement, fakultas matematika dan ilmu pengetahuan alam, universitas indonesia, kampus depok16424, indonesia"	-0.5196	0.654	149	0	0	1	0	0	2019	0	0
+2965	"physics department, faculty of mathematics and natural sciences, universitas indonesia, depok, 16424, indonesia"	0.2461	0.9122	150	0	0	1	1	0.8208	2019	1	0.8208
+2966	"physics department, faculty of mathematics and natural sciences, universitas indonesia, indonesia"	-0.6627	0.6751	151	0	0	3	0	0	2019	0	0
+2967	"physics department, fmipa universitas indonesia, kampus depok, 16424, indonesia"	-0.3088	-0.8529	152	0	0	1	0	0	2019	0	0
+2968	"physics department, universitas indonesia, depok, jawa barat, 16424, indonesia"	0.6889	-0.2458	153	0	0	1	2	1.6416	2019	2	1.6416
+2969	"physics department, university of indonesia, indonesia"	-0.6227	-0.5493	154	0	0	1	0	0	2019	0	0
+2970	"physics education program, faculty of education and pedagogy, universitas kristen indonesia, indonesia"	-0.2166	-0.3896	155	0	0	1	0	0	2019	0	0
+2971	"physics education program, faculty of teacher training and education science, universitas muhammadiyah prof. dr. hamka, jakarta, 13830, indonesia"	-0.416	0.1504	156	0	0	1	1	0.8208	2019	1	0.8208
+2972	"physics education program, muhammadiyah prof. dr. hamka university, east jakarta, 12130, indonesia"	0.6246	-0.7133	157	0	0	1	1	0.8208	2019	1	0.8208
+2973	"physics of earth and complex systems, faculty of mathematics and natural sciences, institut teknologi bandung, bandung, indonesia"	0.3016	-0.5463	158	0	0	1	0	0	2019	0	0
+2974	"physiotherapy department, faculty of vocational, universitas kristen indonesia, jakarta, indonesia"	-0.6058	0.7291	159	0	0	1	6	4.9247	2019	6	4.9247
+2975	"pittsburg state university and global economic education alliance, united states"	0.4701	-0.5339	160	0	0	1	2	1.6416	2019	2	1.6416
+2976	"plastic and reconstructive division, department of otorhinolaryngology head and neck surgery, cipto mangunkusumo hospital-faculty of medicine, universitas indonesia, jakarta, indonesia"	-0.3744	-0.6029	161	0	0	1	0	0	2019	0	0
+2977	"plastic surgery division, department of surgery, faculty of medicine, universitas indonesia, dr. cipto mangunkusumo general hospital, jakarta, 10430, indonesia"	-0.2996	0.8414	162	0	0	1	0	0	2019	0	0
+2978	"politeknik kesehatan kementerian kesehatan mamuju, sulawesi barat, indonesia"	0.2342	0.7409	163	0	0	1	1	0.8208	2019	1	0.8208
+2979	"politeknik negeri jakarta, kampus baru universitas indonesia, prof. siwabessy street., depok, indonesia"	-0.0382	-0.8115	164	0	0	1	0	0	2019	0	0
+2980	"poltekkes kemenkes jakarta iii, indonesia"	-0.1399	-0.5683	165	0	0	1	0	0	2019	0	0
+2981	"polytechnic aka bogor, jl. pangeran sogiri no. 283, tanah baru bogor, 16154, indonesia"	0.8797	0.2581	166	0	0	1	0	0	2019	0	0
+2982	"polytechnic aka bogor, ministry of industry, bogor, indonesia"	-0.2999	-0.1152	167	0	0	1	0	0	2019	0	0
+2983	"postgraduate biomedical science, faculty of medicine, andalas university, padang, indonesia"	-0.9413	-0.1016	168	0	0	1	1	0.8208	2019	1	0.8208
+2984	"postgraduate faculty of public health, universitas indonesia, depok, indonesia"	-0.7446	-0.2864	169	0	0	1	0	0	2019	0	0
+2985	"postgraduate institute of medical education and research, chandigarh, india"	0.9423	-0.0871	170	0	0	1	1	0.8208	2019	1	0.8208
+2986	"postgraduate program in sociology, state university of makassar, makassar, indonesia"	0.7166	-0.5669	171	0	0	1	1	0.8208	2019	1	0.8208
+2987	"postgraduate program of material science, department of physics, faculty of mathematics and natural sciences, university of indonesia, depok, indonesia"	0.11	0.373	172	0	0	1	2	1.6416	2019	2	1.6416
+2988	"postgraduate program of material science, faculty of mathematics and natural sciences, universitas indonesia, jakarta, 10430, indonesia"	0.3417	0.0038	173	0	0	1	5	4.1039	2019	5	4.1039
+2989	"postgraduate program of materials science study, department of physics, faculty of mathematics and natural sciences, universitas indonesia, depok, 16424, indonesia"	-0.4198	0.7009	174	0	0	1	0	0	2019	0	0
+2990	"postgraduate program of materials science, faculty of mathematics and natural sciences, universitas indonesia, jl. salemba raya no.4, jakarta, 10430, indonesia"	0.0868	-0.5209	175	0	0	1	0	0	2019	0	0
+2991	"postgraduate program of telecommunication management, university of indonesia, jakarta, indonesia"	-0.6898	-0.2064	176	0	0	1	0	0	2019	0	0
+2992	"postgraduate programe of materials science study, department of physics faculty of mathematics and natural sciences, universitas indonesia, depok, 16424, indonesia"	0.9239	-0.2138	177	0	0	1	0	0	2019	0	0
+2993	"power21 corp., daejeon, south korea"	0.4051	0.7176	178	0	0	1	6	4.9247	2019	6	4.9247
+2994	"ppptmbg lemigas, jakarta, indonesia"	-0.4637	-0.528	179	0	0	1	0	0	2019	0	0
+2995	"primary care, novartis, australia"	-0.4038	-0.548	180	0	0	1	2	1.6416	2019	2	1.6416
+2996	"primaryteacher education department, faculty of humanities, bina nusantara university, jakarta, indonesia"	0.5986	0.327	181	0	0	1	6	4.9247	2019	6	4.9247
+2997	"process intensification laboratory, department of chemical engineering, faculty of engineering, universitas indonesia, kampus ui depok, depok, 16424, indonesia"	-0.0569	0.6998	12	1	1	1	3	2.4623	2019	3	2.4623
+2998	"process intensification laboratory, department of chemical engineering, universitas indonesia, kampus ui, depok, 16424, indonesia"	-0.4575	-0.0963	182	0	0	1	2	1.6416	2019	2	1.6416
+2999	"process system design and control laboratory, school of chemical engineering, yeungnam university, dae-dong 214-1, gyeongsan, 712-749, south korea"	0.5203	-0.3126	19	3	3	1	2	1.6416	2019	2	1.6416
+3000	"prodi komputer akuntansi, amik bsi bekasi, bekasi, 17113, indonesia"	0.9154	-0.2386	183	0	0	1	2	1.6416	2019	2	1.6416
+3001	"program in geothermal exploration, departement of physics, universitas indonesia, indonesia"	-0.7125	0.6236	184	0	0	1	0	0	2019	0	0
+3002	"program magister in biomedical science, faculty of medicine, universitas indonesia, indonesia"	0.2275	-0.0803	185	0	0	1	1	0.8208	2019	1	0.8208
+3003	"program of bioengineering, seoul national university, i gwanak-gu, seoul, 08826, south korea"	0.8538	-0.1206	186	0	0	1	1	0.8208	2019	1	0.8208
+3004	"program of study geology, university of indonesia, indonesia"	0.1369	-0.9442	187	0	0	1	0	0	2019	0	0
+3005	"program of study geophysics, university of indonesia, indonesia"	-0.236	0.9189	188	0	0	1	0	0	2019	0	0
+3006	"program pascasarjana ilmu manajemen, faculty of economics and business, universitas indonesia, jl. ppn karet iii no. 37, kalibata timur, jakarta selatan, 12510, indonesia"	0.1004	-0.7325	189	0	0	1	5	4.1039	2019	5	4.1039
+3007	"program studi fisika, fakultas mipa, universitas negeri jakarta, jl. rawamangun muka no. 01, rawamangun, jakarta timur, 13220, indonesia"	-0.8033	0.4354	2	4	4	1	3	2.4623	2019	3	2.4623
+3008	"program studi fisika, fmipa universitas negeri jakarta, jl. rawamangun muka no. 01, rawamangun, jakarta 13220, indonesia"	-0.7958	0.4445	2	2	2	1	13	10.6701	2019	13	10.6701
+3009	"program studi fisika, fmipa, universitas negeri jakarta, jalan rawamangun muka, rawamangun, jakarta timur, 13220, indonesia"	-0.8033	0.4355	2	2	2	1	0	0	2019	0	0
+3010	"program studi geologi, faculty of mathematics and natural sciences (fmipa), universitas indonesia, depok, 16424, indonesia"	0.6073	0.6432	190	0	0	1	0	0	2019	0	0
+3011	"program studi ilmu kesehatan masyarakat, program pascasarjana, universitas nusa cendana, kupang, indonesia"	-0.7425	-0.1824	191	0	0	1	1	0.8208	2019	1	0.8208
+3012	"program studi kimia, fmipa, universitas negeri jakarta, jalan rawamangun muka, rawamangun, jakarta timur, 13220, indonesia"	-0.8031	0.4356	2	2	2	1	0	0	2019	0	0
+3013	"program studi pendidikan fisika, universitas muhammadiyah prof. dr. hamka, jakarta timur, 12130, indonesia"	-0.797	0.4437	2	6	10	2	2	1.6416	2019	1	0.8208
+3014	"program studi pendidikan ipa fmipa universitas negeri malang, jl. semarang 5, malang, 65145, indonesia"	0.6223	-0.6069	192	0	0	1	1	0.8208	2019	1	0.8208
+3015	"psychology, universitas indonesia, jakarta, indonesia"	-0.4886	-0.0243	193	0	0	1	1	0.8208	2019	1	0.8208
+3016	"pt 3s engineering, bukit rivaria, depok, indonesia"	0.7755	0.4779	194	0	0	1	0	0	2019	0	0
+3017	"pt bio farma, bandung, indonesia"	0.379	0.2042	195	0	0	1	0	0	2019	0	0
+3018	"pt geo dipa energi persero, pancoran, jakarta, 12740, indonesia"	0.3572	0.2781	196	0	0	2	0	0	2019	0	0
+3019	"pt indonesia biotek regenerasi, jl. mh. thamrin no. 2, cikarang selatan, bekasi, west java, 17530, indonesia"	0.189	-0.6075	197	0	0	1	0	0	2019	0	0
+3020	"pt infimap geospasial sistem, indonesia"	-0.2719	-0.6072	198	0	0	1	1	0.8208	2019	1	0.8208
+3021	"pt pertamina nsb, jakarta, indonesia"	-0.6273	0.4241	199	0	0	1	0	0	2019	0	0
+3022	"pt pln (persero), pt pln (persero) uiw aceh, jakarta, indonesia"	-0.8374	0.2093	200	0	0	1	0	0	2019	0	0
+3023	"pt. adaro services (saptaindra sejati), south jakarta, indonesia"	0.7393	-0.5936	201	0	0	1	0	0	2019	0	0
+3024	"pt. pangripta geomatika indonesia, indonesia"	0.6833	-0.5338	202	0	0	1	3	2.4623	2019	3	2.4623
+3025	"pt. pertamina (persero), jakarta, indonesia"	-0.5835	-0.1166	203	0	0	1	0	0	2019	0	0
+3026	"pt. pertamina nsb, jakarta, indonesia"	-0.5991	0.6103	204	0	0	1	0	0	2019	0	0
+3027	"pt. pertamina upstream technical center, kwarnas pramuka, jakarta, indonesia"	-0.5599	0.7052	205	0	0	1	0	0	2019	0	0
+3028	"pt. pertamina upstream technology center, jakarta, indonesia"	-0.8008	0.1436	206	0	0	1	0	0	2019	0	0
+3029	"pt. pln (persero), jl. trunojoyo blok m-i no.135, jakarta, 12160, indonesia"	0.8007	0.5055	207	0	0	1	0	0	2019	0	0
+3030	"ptnbr-batan, jln. tamansari 71 bandung, bandung, 40317, indonesia"	-0.3253	-0.5612	208	0	0	1	0	0	2019	0	0
+3031	"public health nutrition dept, universitas indonesia, depok, west java province 16424, indonesia"	0.7257	0.5441	209	0	0	1	0	0	2019	0	0
+3032	"public health science program studies, faculty of public health, university of indonesia, depok, indonesia"	0.8188	0.4098	210	0	0	1	1	0.8208	2019	1	0.8208
+3033	"pulih thepeak- women, youth and family empowerment center, jakarta, indonesia"	0.791	0.1676	211	0	0	1	3	2.4623	2019	3	2.4623
+3034	"pulihthepeak- women, youth and family empowerment center, jakarta, indonesia"	-0.8788	0.2433	212	0	0	1	1	0.8208	2019	1	0.8208
+3035	"pulmonary hypertension unit, london, united kingdom"	-0.4638	0.6602	213	0	0	1	3	2.4623	2019	3	2.4623
+3036	"punjab medical center, lahore, pakistan"	0.8092	-0.1636	214	0	0	2	24	19.6987	2019	12	9.8493
+3037	"pusat riset primata, universitas nasional, jl. sawo manila no. 61, pejaten, pasar minggu, jakarta selatan, 12520, indonesia"	0.833	0.2643	215	0	0	1	0	0	2019	0	0
+3038	"pusat sains antariksa, lembaga penerbangan dan antariksa nasional (lapan), jl. dr. djunjunan no. 133, bandung, 40173, indonesia"	-0.4511	-0.83	216	0	0	1	1	0.8208	2019	1	0.8208
+3039	"puslitbangtek ketenagalistrikan, energi baru dan terbarukan, dan konservasi energi (p3tkebtke), jakarta, 12230, indonesia"	0.6037	-0.7309	217	0	0	1	0	0	2019	0	0
+3040	"queen elizabeth hospital, hong kong"	-0.0985	0.3987	218	0	0	3	10	8.2078	2019	3.3333	2.7359
+3041	"queen elizabeth hospital, hong kong, hong kong"	0.7988	-0.3467	219	0	0	1	1	0.8208	2019	1	0.8208
+3042	"queen elizabeth hospital, kowloon, hong kong"	-0.9063	-0.1303	220	0	0	1	6	4.9247	2019	6	4.9247
+3043	"r& d center for posts and informatics, mcit, indonesia"	0.5667	-0.4262	221	0	0	1	0	0	2019	0	0
+3044	"r&d systems & development, biomérieux, marcy l’etoile, france"	0.1313	0.9061	3	10	10	1	0	0	2019	0	0
+3045	"radboud university nijmegen, radboud group for historical demography and family history, nijmegen, netherlands"	-0.8863	0.1248	222	0	0	1	1	0.8208	2019	1	0.8208
+3046	"radiodiagnostic department, dharmais national cancer center, jakarta, 11420, indonesia"	-0.495	0.3741	223	0	0	1	1	0.8208	2019	1	0.8208
+3047	"radiology department, general regional hospital of cibinong, west java, bogor, 16914, indonesia"	-0.7853	0.2504	224	0	0	1	1	0.8208	2019	1	0.8208
+3048	"radiology department, pertamina central hospital, jakarta, 12120, indonesia"	0.6182	0.5427	225	0	0	1	2	1.6416	2019	2	1.6416
+3049	"rajshahi university, bangladesh"	-0.4613	0.5564	226	0	0	1	1	0.8208	2019	1	0.8208
+3050	"ramathibodi hospital, faculty of medicine, mahidol university, bangkok, thailand"	0.101	0.6612	227	0	0	1	1	0.8208	2019	1	0.8208
+3051	"ramathibodi hospital, mahidol university, bangkok, thailand"	0.3504	-0.5825	228	0	0	1	22	18.0571	2019	22	18.0571
+3052	"razak faculty of technology and informatics, universiti teknologi malaysia, kuala lumpur, 54100, malaysia"	-0.5354	-0.784	229	0	0	1	0	0	2019	0	0
+3053	"rcave (research center for advanced vehicle universitas indonesia), indonesia"	0.0935	-0.3662	230	0	0	1	0	0	2019	0	0
+3054	"regional and rural development planning, bogor agricultural university, bogor, 16680, indonesia"	-0.5837	0.74	231	0	0	1	5	4.1039	2019	5	4.1039
+3055	"regional management research centre, graduate school of humanities and social science, kagoshima university, korimoto, 1-21-24, kagoshima, 890-8580, japan"	-0.57	-0.3341	232	0	0	1	6	4.9247	2019	6	4.9247
+3056	"remote sensing data centre-lapan, jl. lapan no.70, jakarta timur, jakarta, 13710, indonesia"	0.6349	0.4937	233	0	0	1	2	1.6416	2019	2	1.6416
+3057	"remote sensing technology and data center, indonesian national institute of aeronautics and space (lapan), jakarta, 13710, indonesia"	0.8616	-0.2832	234	0	0	1	2	1.6416	2019	2	1.6416
+3058	"remote sensing technology and data center, indonesian national institute of aeronautics and space (lapan), jakarta, indonesia"	-0.0852	0.5655	235	0	0	1	3	2.4623	2019	3	2.4623
+3059	"remote sensing technology and data center, national institute of aeronautics and space (lapan), indonesia"	-0.899	0.1645	236	0	0	1	1	0.8208	2019	1	0.8208
+3060	"reproductive immunoendocrinology division, department of obstetrics and gynecology, faculty of medicine universitas indonesia, dr. cipto mangunkusumo general hospital, jakarta pusat, dki jakarta, 10430, indonesia"	-0.9424	0.0784	237	0	0	1	1	0.8208	2019	1	0.8208
+3061	"research and development center for marine and fisheries product processing and biotechnology, ministry of marine and fisheries, jl. petamburan vi, ks. tubun, slipi jakarta, indonesia"	0.8793	-0.0302	238	0	0	1	0	0	2019	0	0
+3062	"research and development center for oil and gas technology, lemigas, jl.ciledug raya kav.109, kebayoran lama, south jakarta, 12230, indonesia"	-0.5407	0.489	239	0	0	1	0	0	2019	0	0
+3063	"research and development centre for oil and gas technology, jalan ciledug raya no.109, jakarta, 12230, indonesia"	0.903	0.2862	240	0	0	1	1	0.8208	2019	1	0.8208
+3064	"research and development pt pertamina (persero), jalan raya bekasi, jakarta, 13920, indonesia"	0.4165	0.764	241	0	0	3	3	2.4623	2019	1	0.8208
+3065	"research center for advanced oral science, graduate school of medical and dental sciences, niigata university, niigata, japan"	-0.9253	0.2005	242	0	0	1	3	2.4623	2019	3	2.4623
+3066	"research center for advanced oral science, niigata university graduate school of medical and dental sciences, niigata, japan"	0.1334	-0.6606	243	0	0	2	6	4.9247	2019	3	2.4623
+3067	"research center for advanced oral science, niigata university graduate school of medical and dental sciencesniigata, japan"	0.0985	-0.9531	244	0	0	1	2	1.6416	2019	2	1.6416
+3068	"research center for advanced vehicle (rcave), universitas indonesia16424, indonesia"	0.6647	-0.6756	245	0	0	2	1	0.8208	2019	0.5	0.4104
+3069	"research center for biology, indonesian institute of sciences (lipi), cibinong science center, jl.raya jakarta-bogor, km4616911, indonesia"	0.2871	0.7688	246	0	0	1	1	0.8208	2019	1	0.8208
+3070	"research center for biomaterials, indonesian institute of sciences (lipi), jl.raya bogor km. 46 cibinong, bogor, 16911, indonesia"	-0.8512	-0.408	247	0	0	1	1	0.8208	2019	1	0.8208
+3071	"research center for biomedical eng., universitas indonesia, kampus ui depok16424, indonesia"	-0.4795	-0.6503	248	0	0	1	1	0.8208	2019	1	0.8208
+3072	"research center for biomedical engineering (rcbe), universitas indonesia, kampus ui depok, depok, 16424, indonesia"	-0.1549	-0.041	249	0	0	1	0	0	2019	0	0
+3073	"research center for biomedical engineering (rcbe), universitas indonesia, kampus ui depok, west java, 16424, indonesia"	-0.2238	0.7871	250	0	0	1	0	0	2019	0	0
+3074	"research center for biomedical engineering (rcbe), universitas indonesia, kampus ui, depok, 16424, indonesia"	0.6103	-0.222	251	0	0	1	1	0.8208	2019	1	0.8208
+3075	"research center for biomedical engineering, faculty of engineering, universitas indonesia, depok, indonesia"	-0.2492	0.838	252	0	0	2	0	0	2019	0	0
+3076	"research center for biomedical engineering, faculty of engineering, universitas indonesia, depok, west java, 16424, indonesia"	-0.0298	0.2146	253	0	0	5	0	0	2019	0	0
+3077	"research center for biomedical engineering, faculty of engineering, universitas indonesia, depok, west java, 16425, indonesia"	0.4498	-0.8034	8	2	2	1	0	0	2019	0	0
+3078	"research center for biomedical engineering, faculty of engineering, universitas indonesia, indonesia"	-0.0563	0.6982	12	3	3	1	2	1.6416	2019	2	1.6416
+3079	"research center for biomedical engineering, faculty of engineering, universitas indonesia, kampus ui depok, west java, 16424, indonesia"	0.8537	0.4127	254	0	0	9	0	0	2019	0	0
+3080	"research center for biomedical engineering, faculty of engineering, universitas indonesia, kampus ui depok, west-java, 16425, indonesia"	0.0864	-0.8728	11	3	6	2	7	5.7454	2019	3.5	2.8727
+3081	"research center for biomedical engineering, faculty of engineering, universitas indonesia, kampus ui depok16424, indonesia"	0.3949	0.1356	255	0	0	1	1	0.8208	2019	1	0.8208
+3082	"research center for biomedical engineering, faculty of engineering, universitas indonesia, kampus ui, depok, 16424, indonesia"	0.4495	-0.8017	8	2	2	2	0	0	2019	0	0
+3083	"research center for biomedical engineering, faculty of engineering, universitas indonesia, kampus ui, depok, west java, 16424, indonesia"	0.6978	-0.3028	256	0	0	2	0	0	2019	0	0
+3084	"research center for biomedical engineering, universitas indonesia kampus ui depok, west java, 16424, indonesia"	0.6847	-0.4487	257	0	0	1	1	0.8208	2019	1	0.8208
+3085	"research center for biomedical engineering, universitas indonesia, depok, west java, 16424, indonesia"	-0.2649	0.9117	258	0	0	5	9	7.387	2019	1.8	1.4774
+3086	"research center for biomedical engineering, universitas indonesia, depok, west-java, 16424, indonesia"	-0.4107	0.8268	259	0	0	2	2	1.6416	2019	1	0.8208
+3087	"research center for biomedical engineering, universitas indonesia, indonesia"	-0.51	-0.7854	260	0	0	2	2	1.6416	2019	1	0.8208
+3088	"research center for biomedical engineering, universitas indonesia, jakarta, 16024, indonesia"	-0.6663	0.227	261	0	0	1	2	1.6416	2019	2	1.6416
+3089	"research center for biomedical engineering, universitas indonesia, kampus baru ui, depok, 16424, indonesia"	-0.621	0.0269	262	0	0	1	5	4.1039	2019	5	4.1039
+3090	"research center for biomedical engineering, universitas indonesia, kampus baru ui, depok, west-java, 16424, indonesia"	0.2798	-0.0281	263	0	0	1	2	1.6416	2019	2	1.6416
+3091	"research center for biomedical engineering, universitas indonesia, kampus ui depok, west java, 16424, indonesia"	-0.6481	-0.1004	264	0	0	4	3	2.4623	2019	0.75	0.6156
+3092	"research center for biomedical engineering, universitas indonesia, kampus ui depok, west java, indonesia"	-0.6577	0.3849	265	0	0	1	0	0	2019	0	0
+3093	"research center for biomedical engineering, universitas indonesia, kampus ui depok16424, indonesia"	0.546	-0.7657	266	0	0	2	0	0	2019	0	0
+3094	"research center for biomedical engineering, universitas indonesia16424, indonesia"	-0.5174	0.1193	267	0	0	1	2	1.6416	2019	2	1.6416
+3095	"research center for chemistry, indonesian institute of sciences (lipi), kawasan puspiptek, serpong, tangerang, 15314, indonesia"	0.0122	-0.7408	268	0	0	1	0	0	2019	0	0
+3096	"research center for chemistry, indonesian institute of sciences (lipi), puspiptek, serpong, 15310, indonesia"	-0.1056	0.0204	269	0	0	1	0	0	2019	0	0
+3097	"research center for chemistry, indonesian institute of sciences, kawasan puspiptek serpong, universitas diponegoro, tembalang, tangerang selatan, banten 15314, indonesia"	0.5518	0.2935	270	0	0	1	1	0.8208	2019	1	0.8208
+3098	"research center for chemistry, indonesian institute of sciences, kawasan puspiptek, serpong, south tangerang, banten, indonesia"	0.8511	-0.3236	271	0	0	2	0	0	2019	0	0
+3099	"research center for chemistry, indonesian institute of sciences, kawasan puspiptek, serpong, southtangerang, 15314, indonesia"	0.7718	-0.5495	272	0	0	1	0	0	2019	0	0
+3100	"research center for chemistry, indonesian institute of sciences, kawasan puspiptek, serpong, tangerang selatan, 15314, indonesia"	0.6777	0.3345	273	0	0	1	0	0	2019	0	0
+3101	"research center for chemistry, indonesian institute of sciences, kawasan puspitek serpong, 15416, indonesia"	-0.6488	0.6272	274	0	0	3	3	2.4623	2019	1	0.8208
+3102	"research center for chemistry-indonesian institute of sciences (rcchem-lipi), kawasan puspiptek, serpong tangerang selatan, banten, 15314, indonesia"	0.0524	-0.9539	275	0	0	1	2	1.6416	2019	2	1.6416
+3103	"research center for climate change, and department of biology, faculty of math and sciences, university of indonesia, depok, jakarta 16424, indonesia"	0.1199	0.1127	276	0	0	1	17	13.9532	2019	17	13.9532
+3104	"research center for climate change, universitas indonesia, depok, west java, indonesia"	-0.9422	-0.0762	277	0	0	1	0	0	2019	0	0
+3105	"research center for climate change, universitas indonesia, west java, indonesia"	0.4317	-0.6727	278	0	0	1	2	1.6416	2019	2	1.6416
+3106	"research center for climate change, university of indonesia (rccc ui), laboratorium multidisiplin fmipa, 7th fl., kampus ui depok16424, indonesia"	0.7273	-0.1981	279	0	0	1	0	0	2019	0	0
+3107	"research center for climate change, university of indonesia, depok, indonesia"	0.1223	0.1977	280	0	0	1	0	0	2019	0	0
+3108	"research center for climate change, university of indonesia, kota depok, java barat 16424, indonesia"	0.6451	-0.3337	281	0	0	1	5	4.1039	2019	5	4.1039
+3109	"research center for electrical power and mechatronics, indonesian institute of sciences, bandung, indonesia"	-0.5707	-0.0087	282	0	0	2	0	0	2019	0	0
+3110	"research center for electrical power and mechatronics, indonesian institute of sciences, indonesia"	-0.1885	0.7389	283	0	0	1	0	0	2019	0	0
+3111	"research center for electronics and telecommunication indonesian institute of science (p2et lipi), jl. sangkuriang - komplek lipi, bandung, 40135, indonesia"	0.1683	0.2533	284	0	0	1	0	0	2019	0	0
+3112	"research center for electronics and telecommunication indonesian institute of science (p2et lipi), jl. sangkuriang - lipi complex, bandung, 40135, indonesia"	-0.0427	-0.4873	285	0	0	1	0	0	2019	0	0
+3113	"research center for electronics and telecommunications, indonesian institute of sciences, bandung40135, indonesia"	0.5259	0.4312	286	0	0	1	0	0	2019	0	0
+3114	"research center for energy and information technology, universitas bangka belitung, indonesia"	-0.1038	0.1872	287	0	0	1	0	0	2019	0	0
+3115	"research center for fisheries, agency for marine and fisheries research and human resources, ministry of marine affairs and fisheries of republic indonesia, jakarta, indonesia"	0.841	-0.4341	288	0	0	1	0	0	2019	0	0
+3116	"research center for informatics, indonesian institute of science, cibinong, indonesia"	-0.1691	0.7824	289	0	0	1	1	0.8208	2019	1	0.8208
+3117	"research center for informatics, indonesian institute of science, lipi, cibinong, indonesia"	-0.45	0.3217	290	0	0	1	0	0	2019	0	0
+3118	"research center for metallurgy and material, indonesia institute of science (lipi), kawasan puspiptek gedung 470, kota tangerang selatan banten, 15314, indonesia"	-0.4093	-0.7021	291	0	0	1	0	0	2019	0	0
+3119	"research center for metallurgy and materials, banten, indonesia"	-0.2087	0.9017	292	0	0	1	2	1.6416	2019	2	1.6416
+3120	"research center for metallurgy and materials, indonesia institute of sciences, indonesia"	-0.2063	-0.5873	293	0	0	1	1	0.8208	2019	1	0.8208
+3121	"research center for metallurgy and materials, indonesia institute of sciences, kawasan puspitek serpong, 15416, indonesia"	0.6823	0.4598	294	0	0	1	0	0	2019	0	0
+3122	"research center for metallurgy and materials, indonesian institute of science (lipi), gedung 470, puspitek, south tangerang, banten, 15314, indonesia"	0.6883	0.5153	295	0	0	1	0	0	2019	0	0
+3123	"research center for metallurgy and materials, indonesian institute of sciences (lipi), gedung 470, puspiptek, south tangerang, banten, 15314, indonesia"	0.3647	0.7413	296	0	0	2	0	0	2019	0	0
+3124	"research center for metallurgy and materials, indonesian institute of sciences building 470, puspiptek technological park serpong, tangerang selatan, banten, 15314, indonesia"	0.2072	-0.8646	297	0	0	1	3	2.4623	2019	3	2.4623
+3125	"research center for metallurgy and materials, indonesian institute of sciences, indonesia"	-0.0775	-0.9163	298	0	0	2	2	1.6416	2019	1	0.8208
+3126	"research center for metallurgy and materials, indonesian institute of sciences, kawasan puspiptek, gedung 470, setu, south tangerang, banten, 15314, indonesia"	0.2978	-0.8495	299	0	0	1	0	0	2019	0	0
+3127	"research center for metallurgy and materials, indonesian institute of sciences, serpong, tangsel, indonesia"	-0.4914	0.6008	300	0	0	1	1	0.8208	2019	1	0.8208
+3128	"research center for metallurgy and materials, indonesian institute of sciences, tangerang selatan, banten 15314, indonesia"	-0.2268	0.1026	301	0	0	1	3	2.4623	2019	3	2.4623
+3129	"research center for physics, indonesian institute of science (lipi), puspiptek area, tangerang selatan, 15314, indonesia"	0.0515	0.073	302	0	0	1	6	4.9247	2019	6	4.9247
+3130	"research center for physics, indonesian institute of science lipi, tangerang selatan, indonesia"	-0.6935	-0.6463	303	0	0	1	4	3.2831	2019	4	3.2831
+3131	"research center for physics, indonesian institute of sciences (lipi), bld. 440-442 puspiptek office area, south tangerang, 15314, indonesia"	0.3342	-0.6445	304	0	0	1	0	0	2019	0	0
+3132	"research center for physics, indonesian institute of sciences (lipi), puspiptek office area tangerang selatan15314, indonesia"	-0.6271	0.7114	305	0	0	1	0	0	2019	0	0
+3133	"research center for physics, indonesian institute of sciences (lipi), puspiptek office area, tangerang selatan, 15314, indonesia"	0.4497	0.3906	306	0	0	1	0	0	2019	0	0
+3134	"research center for physics, indonesian institute of sciences, banten, 15314, indonesia"	-0.8034	0.4356	2	2	2	1	0	0	2019	0	0
+3135	"research center for physics, indonesian institute of sciences, kawasan puspiptek serpong, south tangerang, 15314, indonesia"	0.3156	0.1662	307	0	0	1	0	0	2019	0	0
+3136	"research center for physics, indonesian institute of sciences, kawasan puspiptek serpong, tangerang selatan, 15310, indonesia"	-0.9054	0.2755	308	0	0	1	0	0	2019	0	0
+3137	"research center for physics, indonesian institute of sciences, serpong, indonesia"	0.0961	0.2876	309	0	0	1	0	0	2019	0	0
+3138	"research center for physics, lipi, serpong 15314, kompleks puspitek, serpong, banten 15314, indonesia"	-0.7956	0.4442	2	2	2	1	13	10.6701	2019	13	10.6701
+3139	"research center for physics-indonesian institute of sciences, kawasan puspiptek building 442, serpong, tangerang selatan, banten, indonesia"	-0.3709	0.7365	310	0	0	1	1	0.8208	2019	1	0.8208
+3140	"research center for population, indonesian institute of sciences (lipi)12710, indonesia"	-0.4	-0.315	311	0	0	1	6	4.9247	2019	6	4.9247
+3141	"research center for pure and applied mathematics, graduate school of information sciences, tohoku university, aramaki-aza-aoba 6-3-09, aoba-ku, sendai, 980-8579, japan"	-0.6342	-0.6984	312	0	0	1	2	1.6416	2019	2	1.6416
+3142	"research center of biomedical engineering, faculty of engineering, universitas indonesia, depok, west java, 16424, indonesia"	-0.3206	0.8914	313	0	0	1	3	2.4623	2019	3	2.4623
+3143	"research center of biomedical engineering, universitas indonesia, depok, indonesia"	-0.0893	-0.4303	314	0	0	1	0	0	2019	0	0
+3144	"research center of biomedical engineering, universitas indonesia, depok, west java, 16424, indonesia"	-0.0662	-0.5535	315	0	0	1	1	0.8208	2019	1	0.8208
+3145	"research center of metallurgy and material, indonesia institute of sciences, kawasan puspiptek serpong, tangerang selatan, 15314, indonesia"	-0.3538	0.0188	316	0	0	1	1	0.8208	2019	1	0.8208
+3146	"research center of police science and terrorism studies, school of strategic and global studies, university of indonesia, jakarta, indonesia"	0.5792	0.4622	317	0	0	1	1	0.8208	2019	1	0.8208
+3147	"research center of smart molecule of natural genetics resources, universitas brawijaya, indonesia"	0.6912	-0.5971	318	0	0	1	3	2.4623	2019	3	2.4623
+3148	"research centre for biomedical engineering, faculty of engineering, universitas indonesia, campus ui depokwest java 16425, indonesia"	-0.5551	-0.7661	319	0	0	1	2	1.6416	2019	2	1.6416
+3149	"research centre for biomedical engineering, faculty of engineering, universitas indonesia, depok, west java, 16424, indonesia"	-0.0564	0.6986	12	4	4	1	0	0	2019	0	0
+3150	"research centre for biomedical engineering, universitas indonesia, kampus ui depok, depok, 16424, indonesia"	0.0869	-0.8731	11	7	8	1	0	0	2019	0	0
+3151	"research centre for chemistry lipi, kompleks puspiptek, serpong, 15416, indonesia"	-0.6383	-0.6555	320	0	0	1	1	0.8208	2019	1	0.8208
+3152	"research centre for climate change, university of indonesia, depok, indonesia"	0.8906	-0.2029	321	0	0	1	7	5.7454	2019	7	5.7454
+3153	"research centre for electronics and telecommunications-lipi, bandung40135, indonesia"	-0.2114	0.8659	322	0	0	1	0	0	2019	0	0
+3154	"research centre for physics, indonesian institute of sciences (lipi), puspiptek office area, tangerang selatan, 15314, indonesia"	0.7221	0.6131	323	0	0	1	0	0	2019	0	0
+3155	"research centrer for biomedical engineering, faculty of engineering universitas indonesia, kampus ui depok, west java, 16424, indonesia"	-0.437	0.8005	324	0	0	1	0	0	2019	0	0
+3156	"research cluster of bioprospecting for sustaining nature, department of biology, faculty of mathematics and natural sciences (fmipa), universitas indonesia, depok, 16424, indonesia"	-0.6282	-0.6073	325	0	0	3	0	0	2019	0	0
+3157	"research group of chemical ecology, department of biology, faculty of mathematics and natural sciences (fmipa), universitas indonesia, depok, 16424, indonesia"	-0.4579	-0.1845	326	0	0	1	0	0	2019	0	0
+3158	"research institute for health sciences, chiang mai university, chiang mai, thailand"	0.1065	0.5575	327	0	0	3	8	6.5662	2019	2.6667	2.1887
+3159	"research institute for health sciences, chiang mai, thailand"	0.1632	0.329	328	0	0	2	9	7.387	2019	4.5	3.6935
+3160	"research institute for tropical medicine, alabang, muntinlupa city, philippines"	0.7997	-0.1092	329	0	0	1	6	4.9247	2019	6	4.9247
+3161	"research institute for tropical medicine, manila, philippines"	-0.1631	-0.7009	330	0	0	3	8	6.5662	2019	2.6667	2.1887
+3162	"research institute for tropical medicine, muntinlupa city, philippines"	0.668	0.6726	331	0	0	2	9	7.387	2019	4.5	3.6935
+3163	"research institute of electronics, shizuoka university, 3-5-1 johoku, naka-ku, hamamatsu, shizuoka, 432- 8011, japan"	0.7874	-0.5275	332	0	0	1	4	3.2831	2019	4	3.2831
+3164	"research institute of electronics, shizuoka university, hamamatsu, 432-8011, japan"	-0.6968	-0.1359	333	0	0	1	1	0.8208	2019	1	0.8208
+3165	"research interest group in educational technology, bina nusantara university, jakarta, indonesia"	-0.4054	-0.8572	334	0	0	1	6	4.9247	2019	6	4.9247
+3166	"research of power plant and primary energy, pt pln (persero) research institute, jakarta, indonesia"	-0.6872	-0.2654	335	0	0	1	1	0.8208	2019	1	0.8208
+3167	"research team for social participation and community health, tokyo metropolitan institute of gerontology, tokyo, japan"	-0.5074	-0.4931	336	0	0	1	1	0.8208	2019	1	0.8208
+3168	"research unit for clean technology, indonesian institute of sciences, jalan cisitu sangkuriang, bandung, 40135, indonesia"	0.2151	0.4968	337	0	0	1	1	0.8208	2019	1	0.8208
+3169	"research unit for mineral technology, indonesian institute of science, lampung35361, indonesia"	-0.3286	-0.8777	338	0	0	1	0	0	2019	0	0
+3170	"research unit for mineral technology, indonesian institute of sciences, jl. ir. sutami km. 15 tanjung bintang, south lampung, lampung, indonesia"	0.6112	-0.5412	339	0	0	1	1	0.8208	2019	1	0.8208
+3171	"research unit for mineral technology, indonesian institute of sciences, south lampung, indonesia"	0.7284	0.4812	340	0	0	1	1	0.8208	2019	1	0.8208
+3172	"research unit for natural product technology, bptba lipi, yogyakarta, 55861, indonesia"	0.5491	-0.6754	341	0	0	1	0	0	2019	0	0
+3173	"research unit for natural product technology, indonesian institute of sciences, yogyakarta, indonesia"	0.0191	-0.9564	342	0	0	1	1	0.8208	2019	1	0.8208
+3174	"research unit for oral-systemic connection, division of oral science for health promotion, graduate school of medical and dental sciences, niigata university, niigata, japan"	0.0448	0.4229	343	0	0	1	3	2.4623	2019	3	2.4623
+3175	"research unit for oral-systemic connection, division of oral science for health promotion, niigata university graduate school of medical and dental sciences, niigata, japan"	-0.4988	-0.8078	344	0	0	2	6	4.9247	2019	3	2.4623
+3176	"research unit for oral-systemic connection, division of oral science for health promotion, niigata university graduate school of medical and dental sciencesniigata, japan"	-0.5606	0.4072	345	0	0	1	2	1.6416	2019	2	1.6416
+3177	"resident department of obstetrics and gynecology, faculty of medicine, universitas syiah kuala, banda aceh, indonesia"	0.2665	0.9037	346	0	0	1	0	0	2019	0	0
+3178	"resident of orthopaedic surgery, universitas indonesia, cipto mangunkusumo hospital, jakarta, indonesia"	0.3378	0.4532	347	0	0	1	0	0	2019	0	0
+3179	"resident urologist at department of urology, indonesia university, cipto mangunkusumo national general hospital, jl. diponegoro no. 71, salemba, central jakarta, dki jakarta, jakarta, 10430, indonesia"	0.8025	-0.5042	348	0	0	1	0	0	2019	0	0
+3180	"ritchie centre, hudson institute of medical research, clayton, australia"	-0.9099	-0.0855	349	0	0	1	1	0.8208	2019	1	0.8208
+3181	"robotic surgical system training programme, jockey club minimally invasive surgical skills center, chinese university of hong kong, hong kong, hong kong"	-0.1565	-0.6399	350	0	0	1	1	0.8208	2019	1	0.8208
+3182	"royal brompton and harefield nhs foundation trust and imperial college, london, united kingdom"	-0.6237	0.6578	351	0	0	1	1	0.8208	2019	1	0.8208
+3183	"royal brompton hospital, royal brompton and harefield nhs foundation trust, sydney street, london, sw3 6np, united kingdom"	0.4724	0.3257	352	0	0	1	3	2.4623	2019	3	2.4623
+3184	"royal holloway, university of london, london, united kingdom"	0.7827	0.0588	353	0	0	1	2	1.6416	2019	2	1.6416
+3185	"royal holloway, university of london, united kingdom"	0.3212	-0.8945	354	0	0	1	5	4.1039	2019	5	4.1039
+3186	"royal prince alfred hospital, centenary institute, university of sydney, sydney, australia"	0.3387	-0.7224	355	0	0	2	20	16.4156	2019	10	8.2078
+3187	"royal university of phnom penh, phnom penh, cambodia"	-0.2342	-0.4623	356	0	0	1	3	2.4623	2019	3	2.4623
+3188	"rsia budi kemuliaan, jalan budi kemuliaan no.25, gambir, central jakarta, indonesia"	-0.6795	0.6579	357	0	0	1	2	1.6416	2019	2	1.6416
+3189	"rsm indonesia, jakarta, indonesia"	-0.3718	0.8394	358	0	0	1	1	0.8208	2019	1	0.8208
+3190	"s. rajaratnam school of international studies, singapore"	-0.1557	0.254	359	0	0	1	1	0.8208	2019	1	0.8208
+3191	"sanglah hospital, bali, denpasar, indonesia"	-0.3728	0.2862	360	0	0	1	2	1.6416	2019	2	1.6416
+3192	"sanglah hospital, faculty of medicine, udayana university, bali, indonesia"	0.1944	0.5599	361	0	0	1	1	0.8208	2019	1	0.8208
+3193	"sanglah hospital, udayana university, bali, indonesia"	0.3044	0.7268	362	0	0	3	3	2.4623	2019	1	0.8208
+3194	"sanjiwani general hospital, bali, indonesia"	-0.3813	-0.8692	363	0	0	1	1	0.8208	2019	1	0.8208
+3195	"sanofi pasteur, asia & jpac region, singapore"	0.8618	-0.1686	364	0	0	1	6	4.9247	2019	6	4.9247
+3196	"sanofi pasteur, asia and jpac, 38 beach road #18-11, south beach tower, singapore, 189767, singapore"	0.5769	0.3893	365	0	0	1	6	4.9247	2019	6	4.9247
+3197	"sanofi pasteur, bangkok, thailand"	0.8954	0.2118	366	0	0	1	6	4.9247	2019	6	4.9247
+3198	"sanofi pasteur, marcy l'etoile, france"	-0.4696	0.7168	367	0	0	1	6	4.9247	2019	6	4.9247
+3199	"sanofi pasteur, swiftwater, pa, united states"	0.4063	0.8572	368	0	0	1	6	4.9247	2019	6	4.9247
+3200	"santa fe institute, santa fe, nm 87501, united states"	-0.2753	0.5198	4	6	6	1	30	24.6233	2019	30	24.6233
+3201	"sardjito hospital, yogyakarta, indonesia"	0.3431	-0.3718	369	0	0	1	2	1.6416	2019	2	1.6416
+3202	"sarjana kedokteran, medicine faculty, universitas pembangunan nasional veteran jakarta, jl. rs fatmawati, pondok labu, jakarta selatan, 12450, indonesia"	0.6669	0.5587	370	0	0	1	4	3.2831	2019	4	3.2831
+3203	"schneider children's medical centre of israel, sackler faculty of medicine, tel-aviv university, tel-aviv, israel"	0.8423	-0.2138	371	0	0	1	1	0.8208	2019	1	0.8208
+3204	"school of biomedical science, curtin university, bentley, wa 6102, australia"	-0.4368	0.6168	372	0	0	1	2	1.6416	2019	2	1.6416
+3205	"school of biomedical science, curtin university, perth, australia"	0.3707	-0.0869	373	0	0	1	1	0.8208	2019	1	0.8208
+3206	"school of biomedical sciences, curtin university, bentley, australia"	-0.194	-0.8964	5	2	2	1	2	1.6416	2019	2	1.6416
+3207	"school of biomedical sciences, university of western australia, nedlands, wa, australia"	0.912	0.2597	374	0	0	1	1	0.8208	2019	1	0.8208
+3208	"school of business and economics, universitas prasetiya mulya, south jakarta, indonesia"	0.5525	-0.1211	375	0	0	1	1	0.8208	2019	1	0.8208
+3209	"school of chemical and biological engineering, seoul national university, seoul, 08826, south korea"	-0.509	-0.6962	376	0	0	1	2	1.6416	2019	2	1.6416
+3210	"school of chemical engineering, college of engineering, yeungnam university, gyeongsan, south korea"	0.5202	-0.3125	19	3	3	1	3	2.4623	2019	3	2.4623
+3211	"school of chemical engineering, faculty of industrial engineering, bandung institute of technology, jl. ganesha 10, bandung, indonesia"	0.2946	0.3933	377	0	0	1	7	5.7454	2019	7	5.7454
+3212	"school of clinical sciences, monash university, clayton, vic, australia"	0.0763	-0.6587	378	0	0	1	1	0.8208	2019	1	0.8208
+3213	"school of computing, telkom university, bandung, indonesia"	0.3766	-0.5069	379	0	0	1	0	0	2019	0	0
+3214	"school of economics and business, universitas telkom, bandung, indonesia"	-0.0528	-0.8989	380	0	0	1	1	0.8208	2019	1	0.8208
+3215	"school of economics indonesia, 'stiesia', surabaya, indonesia"	0.4444	0.8389	381	0	0	1	1	0.8208	2019	1	0.8208
+3216	"school of electrical engineering and informatics, bandung institute of technology, jl. ganesha no 10, bandung, west java, 40132, indonesia"	0.6891	-0.1316	382	0	0	1	0	0	2019	0	0
+3217	"school of electrical engineering and informatics, institut teknologi bandung, bandung, indonesia"	-0.3021	0.0912	383	0	0	1	1	0.8208	2019	1	0.8208
+3218	"school of electrical engineering, telkom university, jl. telekomunikasi terusan buah batu, bandung, 40257, indonesia"	0.7835	-0.2107	384	0	0	1	1	0.8208	2019	1	0.8208
+3219	"school of engineering, cardiff university, wales, cf24 3aa, united kingdom"	-0.3449	0.6951	385	0	0	1	4	3.2831	2019	4	3.2831
+3220	"school of engineering, the university of warwick, coventry, cv4 7al, united kingdom"	0.0768	-0.4457	386	0	0	2	2	1.6416	2019	1	0.8208
+3221	"school of engineering, university of roma tor vergata, rome, 00133, italy"	0.4004	0.4383	387	0	0	1	4	3.2831	2019	4	3.2831
+3222	"school of engineering, university of warwick, coventry, cv4 7al, united kingdom"	-0.9327	0.0014	13	4	5	2	11	9.0286	2019	5.5	4.5143
+3223	"school of environment, universitas indonesia, indonesia"	0.1876	-0.8992	388	0	0	1	0	0	2019	0	0
+3224	"school of environmental science universitas indonesia, jl. salemba raya no.4, central jakarta, 10430, indonesia"	-0.696	0.6407	389	0	0	1	0	0	2019	0	0
+3225	"school of environmental science, indonesia university, jakarta, indonesia"	0.5869	-0.6429	390	0	0	3	0	0	2019	0	0
+3226	"school of environmental science, universitas indonesia salemba campus, building c, 5th & 6th floor jl. salemba raya no. 4, central jakarta, jakarta, 10430, indonesia"	-0.0222	0.3975	391	0	0	1	1	0.8208	2019	1	0.8208
+3227	"school of environmental science, universitas indonesia, central jakarta, jl. salemba raya no. 410430, indonesia"	0.6353	-0.6559	392	0	0	1	0	0	2019	0	0
+3228	"school of environmental science, universitas indonesia, depok, indonesia"	0.6419	-0.0289	18	3	3	1	0	0	2019	0	0
+3229	"school of environmental science, universitas indonesia, indonesia"	-0.0423	-0.6484	393	0	0	2	0	0	2019	0	0
+3230	"school of environmental science, universitas indonesia, jakarta, 10430, indonesia"	-0.1984	0.8255	394	0	0	6	2	1.6416	2019	0.3333	0.2736
+3231	"school of environmental science, universitas indonesia, jl. salemba raya no. 4 central, jakarta, 10430, indonesia"	0.0536	0.2179	395	0	0	1	0	0	2019	0	0
+3232	"school of environmental science, universitas indonesia, jl. salemba raya no. 4, central jakarta, 10430, indonesia"	-0.2206	-0.6533	396	0	0	1	0	0	2019	0	0
+3233	"school of environmental science, universitas indonesia, jl. salemba raya no. 4, jakarta, 10430, indonesia"	0.934	-0.1633	397	0	0	1	0	0	2019	0	0
+3234	"school of environmental science, universitas indonesia, salemba campus, jakarta, indonesia"	0.778	0.3433	398	0	0	1	0	0	2019	0	0
+3235	"school of environmental science, universitas indonesia, salemba, indonesia"	0.693	0.4065	399	0	0	6	0	0	2019	0	0
+3236	"school of environmental science, universitas indonesia, ui salemba campus, central jakarta, 10430, indonesia"	-0.8424	-0.4243	400	0	0	6	1	0.8208	2019	0.1667	0.1368
+3237	"school of environmental science, university of indonesia, indonesia"	-0.7151	0.2673	401	0	0	2	0	0	2019	0	0
+3238	"school of environmental science, university of indonesia, jakarta, 10430, indonesia"	-0.2216	0.2265	402	0	0	1	0	0	2019	0	0
+3239	"school of environmental science, university of indonesia, jakarta, indonesia"	-0.0234	-0.1138	403	0	0	2	0	0	2019	0	0
+3240	"school of environmental science, university of indonesia, jl. salemba raya no. 4, central jakarta, 10430, indonesia"	0.5928	0.0791	404	0	0	1	0	0	2019	0	0
+3241	"school of environmental science, university of indonesia, jl. salemba raya, kenari, senen, jakarta, 10430, indonesia"	-0.3818	0.7916	405	0	0	1	0	0	2019	0	0
+3242	"school of environmental science, university of indonesia, salemba, indonesia"	-0.4251	-0.7961	406	0	0	2	2	1.6416	2019	1	0.8208
+3243	"school of forest resources & conservation, university of florida, united states"	-0.3993	-0.1513	407	0	0	1	3	2.4623	2019	3	2.4623
+3244	"school of fundamental sciences, massey university, palmerston north, 4442, new zealand"	-0.2741	0.5213	4	13	13	1	0	0	2019	0	0
+3245	"school of geography, the university of leeds, leeds, united kingdom"	0.3762	-0.6876	408	0	0	1	1	0.8208	2019	1	0.8208
+3246	"school of health sciences, faculty of biology, medicine and health, university of manchester, united kingdom"	-0.0383	-0.7106	409	0	0	1	1	0.8208	2019	1	0.8208
+3247	"school of health sciences, universiti sains malaysia, malaysia"	0.4772	-0.6483	410	0	0	1	2	1.6416	2019	2	1.6416
+3248	"school of human movement and nutrition sciences, university of queensland, brisbane, qld, australia"	0.6488	0.6901	411	0	0	1	8	6.5662	2019	8	6.5662
+3249	"school of industrial and system engineering, telkom university, bandung, indonesia"	0.012	0.2786	412	0	0	1	0	0	2019	0	0
+3250	"school of informatics, university of edinburgh, 11 crichton street, edinburgh, eh8 9le, united kingdom"	0.7729	0.1225	413	0	0	1	1	0.8208	2019	1	0.8208
+3251	"school of information, systems and modelling, faculty of engineering and information technology, university of technology sydneynsw 2007, australia"	-0.5673	-0.1853	414	0	0	2	11	9.0286	2019	5.5	4.5143
+3252	"school of information, systems and modelling, faculty of engineering and it, university of technology sydney, sydney, nsw 2007, australia"	0.7899	-0.4283	415	0	0	1	27	22.161	2019	27	22.161
+3253	"school of life science and technology, bandung institute of technology, bandung, indonesia"	-0.3773	0.8707	416	0	0	1	4	3.2831	2019	4	3.2831
+3254	"school of life sciences and technology, institut teknologi bandung, bandung, west java, indonesia"	-0.6604	-0.5715	417	0	0	1	2	1.6416	2019	2	1.6416
+3255	"school of lnformation, systems and modelling, faculty of engineering and information technology, university of technology sydneynsw 2007, australia"	-0.809	0.0279	418	0	0	1	3	2.4623	2019	3	2.4623
+3256	"school of mechanical engineering, faculty of engineering, universiti teknologi malaysia, johor bahru, skudai, 81310, malaysia"	0.1849	0.1569	419	0	0	1	8	6.5662	2019	8	6.5662
+3257	"school of mechanical engineering, faculty of engineering, universiti teknologi malaysia, utm skudai, johor, 81310, malaysia"	-0.005	0.4761	420	0	0	1	0	0	2019	0	0
+3258	"school of mechanical engineering, university of adelaide, adelaide, sa 5005, australia"	-0.2833	0.8766	421	0	0	1	27	22.161	2019	27	22.161
+3259	"school of mechanical engineering, yeungnam university, 280 daehak-ro, gyeongsan-si, gyeongsangbuk-do, 38541, south korea"	0.3694	0.8338	422	0	0	1	0	0	2019	0	0
+3260	"school of mechanical engineering, yeungnam university, south korea"	-0.8359	0.1072	423	0	0	3	0	0	2019	0	0
+3261	"school of medicine and health sciences, atmajaya catholic university of indonesia, jakarta, 12930, indonesia"	-0.9313	0.1749	424	0	0	1	0	0	2019	0	0
+3262	"school of medicine, royal perth hospital unit, university of western australia, perth, australia"	0.531	-0.6286	425	0	0	1	2	1.6416	2019	2	1.6416
+3263	"school of medicine, university of queensland, woolloongabba, qld 4102, australia"	0.0563	-0.7296	426	0	0	1	12	9.8493	2019	12	9.8493
+3264	"school of nursing, fudan university, 305 fenglin road, shanghai, 200032, china"	0.4635	0.8232	427	0	0	1	1	0.8208	2019	1	0.8208
+3265	"school of nursing, nanjing university of chinese medicine, nanjing, china"	0.327	0.819	428	0	0	1	1	0.8208	2019	1	0.8208
+3266	"school of nursing, phenikaa university, hanoi, viet nam"	-0.0105	-0.5869	429	0	0	1	1	0.8208	2019	1	0.8208
+3267	"school of pharmacy and biomedical science, curtin university, bentley, australia"	0.665	-0.6275	430	0	0	1	3	2.4623	2019	3	2.4623
+3268	"school of pharmacy, queen's university belfast, medical biology centre, 97 lisburn road, belfast, bt9 7bl, united kingdom"	0.3468	0.6918	431	0	0	1	10	8.2078	2019	10	8.2078
+3269	"school of pharmacy, university of wolverhampton, wolverhampton, united kingdom"	-0.6127	-0.4626	432	0	0	1	8	6.5662	2019	8	6.5662
+3270	"school of physiology, university of the witwatersrand, johannesburg, south africa"	-0.1937	-0.8959	5	2	2	1	2	1.6416	2019	2	1.6416
+3271	"school of physiology, university of witwatersrand, johannesburg, south africa"	-0.4576	0.4604	433	0	0	1	3	2.4623	2019	3	2.4623
+3272	"school of population and global health university of western australia perth australia, france"	0.6063	-0.6849	434	0	0	1	7	5.7454	2019	7	5.7454
+3273	"school of population health, curtin university, bentley, australia"	0.8405	0.4379	435	0	0	1	2	1.6416	2019	2	1.6416
+3274	"school of public health and preventive medicine, monash university, 553 street kilda roadvictoria 3004, australia"	0.258	-0.9133	436	0	0	1	5	4.1039	2019	5	4.1039
+3275	"school of public health, the university of sydney, camperdown, australia"	-0.3237	0.759	437	0	0	1	1	0.8208	2019	1	0.8208
+3276	"school of public health, the university of sydney, sydney, nsw 2006, australia"	0.3493	0.7828	438	0	0	1	7	5.7454	2019	7	5.7454
+3277	"school of public health, universitas indonesia, depok, indonesia"	-0.0841	-0.3311	439	0	0	1	1	0.8208	2019	1	0.8208
+3278	"school of sport, exercise and health sciences, loughborough universityle11 3tu, united kingdom"	-0.6266	0.5749	440	0	0	1	1	0.8208	2019	1	0.8208
+3279	"school of strategic and global studies (sksg), universitas indonesia, jakarta, indonesia"	0.1456	-0.4004	441	0	0	1	2	1.6416	2019	2	1.6416
+3280	"school of strategic and global studies, universitas indonesia, indonesia"	-0.2601	0.7495	442	0	0	1	0	0	2019	0	0
+3281	"school of strategic and global studies, university of indonesia, central jakarta, indonesia"	-0.3351	-0.1895	443	0	0	1	0	0	2019	0	0
+3282	"school of systems, management and leadership, faculty of engineering and information technology, university of technology, sydney, nsw 2007, australia"	-0.2729	0.2934	444	0	0	1	1	0.8208	2019	1	0.8208
+3283	"science facilitation department, durham, nc, united states"	-0.0696	0.9076	1	10	10	1	2	1.6416	2019	2	1.6416
+3284	"science facilitation department, fhi 360, 359 blackwell street, suite 200, durham, nc 27701, united states"	-0.071	0.9084	1	10	10	1	5	4.1039	2019	5	4.1039
+3285	"science facilitation department, fhi 360, durham, nc, united states"	-0.5967	-0.7348	445	0	0	1	2	1.6416	2019	2	1.6416
+3286	"scientific editorial board of writing center, indonesian medical education and research institute, faculty of medicine, universitas indonesia, indonesia"	0.7976	0.2271	446	0	0	1	0	0	2019	0	0
+3287	"seattle children’s hospital, university of washington, seattle, wa, united states"	0.4495	-0.4157	447	0	0	1	1	0.8208	2019	1	0.8208
+3288	"sebi school of islamic economics and university of indonesia, depok, indonesia"	0.8051	-0.0574	448	0	0	1	1	0.8208	2019	1	0.8208
+3289	"section of bioengineering, department of dental engineering, fukuoka dental college, 2-15-1 tamura, sawara, fukuoka 814-0193, japan"	-0.0728	-0.8543	449	0	0	1	8	6.5662	2019	8	6.5662
+3290	"section of cardiology, department of medicine, medical center manila, manila, philippines"	0.4512	-0.6011	450	0	0	2	17	13.9532	2019	8.5	6.9766
+3291	"section of gastroenterology, veterans affairs medical center, san francisco, ca, united states"	0.8537	-0.4109	451	0	0	1	6	4.9247	2019	6	4.9247
+3292	"section of hepatobiliary surgery and liver transplantation, department of surgery, university of groningen, university medical center groningen, groningen, netherlands"	0.8615	0.2215	452	0	0	1	6	4.9247	2019	6	4.9247
+3293	"section of nutrition, department of medicine, the medical city hospital, pasig city, metro manila, philippines"	0.5161	0.1605	453	0	0	1	8	6.5662	2019	8	6.5662
+3294	"section of technical foundation, universiti kuala lumpur micet, perindustrian bandar, alor gajah, melaka, 78000, malaysia"	-0.5482	0.607	454	0	0	1	0	0	2019	0	0
+3295	"section of urology, department of surgery, university of santo tomas, manila, philippines"	-0.814	-0.3987	455	0	0	1	10	8.2078	2019	10	8.2078
+3296	"sekolah tinggi ilmu ekonomi totalwin, semarang, indonesia"	-0.1813	-0.7518	456	0	0	1	1	0.8208	2019	1	0.8208
+3297	"sekolah tinggi perikanan jakarta, jl. aup no 1 pasar minggu, jakarta selatan, 12520, indonesia"	-0.4339	0.8451	457	0	0	1	0	0	2019	0	0
+3298	"sekolah tinggi sandi negara, bogor, 16120, indonesia"	0.6179	0.6786	458	0	0	1	1	0.8208	2019	1	0.8208
+3299	"sekolah tinggi sandi negara, bogor, indonesia"	-0.545	-0.4442	459	0	0	1	2	1.6416	2019	2	1.6416
+3300	"senior researcher, research center of police science and terrorism studies, school of strategic and global studies, university of indonesia, jakarta, indonesia"	0.6646	-0.1867	460	0	0	1	1	0.8208	2019	1	0.8208
+3301	"sh ho urology centre, chinese university of hong kong, hong kong, hong kong"	0.6496	0.6448	461	0	0	1	1	0.8208	2019	1	0.8208
+3302	"shark diving indonesia research department, desa yayasan, daruba, morotai, indonesia"	-0.0914	-0.8027	462	0	0	1	0	0	2019	0	0
+3303	"sheffield university management school, the university of sheffield, sheffield, united kingdom"	-0.8145	0.3	463	0	0	1	4	3.2831	2019	4	3.2831
+3304	"siddhi vinayak ganapati cancer hospital, miraj, india"	-0.8573	-0.1584	464	0	0	1	10	8.2078	2019	10	8.2078
+3305	"sinergi qalbu fikri, depok, 16952, indonesia"	0.3827	-0.4326	465	0	0	1	0	0	2019	0	0
+3306	"singapore clinical research institute, singapore, singapore"	0.0528	-0.5895	466	0	0	1	1	0.8208	2019	1	0.8208
+3307	"sir john walsh research institute, faculty of dentistry, university of otago, dunedin, new zealand"	-0.5707	-0.5024	467	0	0	1	1	0.8208	2019	1	0.8208
+3308	"sir peter maccallum department of oncology, university of melbourne, parkville, vic, australia"	-0.538	-0.0689	468	0	0	1	10	8.2078	2019	10	8.2078
+3309	"sksg universitas indonesia, jakarta, 10430, indonesia"	-0.0445	-0.0231	469	0	0	1	0	0	2019	0	0
+3310	"smart power distribution laboratory, kepco research institute, daejeon, south korea"	-0.0621	-0.9447	470	0	0	1	2	1.6416	2019	2	1.6416
+3311	"smart power distribution laboratory, korea electric power corporation, research institute, south korea"	0.0468	0.1462	471	0	0	1	1	0.8208	2019	1	0.8208
+3312	"social work, university of haifa, haifa, israel"	-0.0362	-0.3863	472	0	0	1	2	1.6416	2019	2	1.6416
+3313	"soetomo hospital, faculty of medicine university airlangga, surabaya, indonesia"	0.749	0.2415	473	0	0	1	6	4.9247	2019	6	4.9247
+3314	"sorbonne universities, université de technologie de compiègne, cnrs fre 2012 roberval, compiègne, 60205, france"	0.3526	-0.8672	31	1	1	1	2	1.6416	2019	2	1.6416
+3315	"south east asian ministers of education organization regional centre for food and nutrition (seameo recfon), pusat kajian gizi regional (pkgr) universitas indonesia, jakarta, indonesia"	0.8375	-0.0166	474	0	0	1	1	0.8208	2019	1	0.8208
+3316	"south east asian ministers of education organization, regional center for food and nutrition (seameo recfon), pusat kajian gizi regional universitas indonesia, salemba raya 6, jakarta, 10430, indonesia"	0.9399	-0.1116	475	0	0	1	0	0	2019	0	0
+3317	"southeast asian ministers of education organization regional center for food and nutrition (seameo recfon)—pusat kajian gizi regional universitas indonesia (pkgr-ui), jakarta, indonesia"	-0.8684	-0.3148	10	8	8	1	2	1.6416	2019	2	1.6416
+3318	"southeast asian ministers of education organization regional center for food and nutrition (seameo recfon)—pusat kajian gizi regional universitas indonesia, jakarta, 10430, indonesia"	-0.7672	-0.5047	7	5	5	1	1	0.8208	2019	1	0.8208
+3319	"southeast asian ministers of education organization regional centre for food and nutrition (seameo recfon), jakarta, indonesia"	-0.2813	-0.6797	476	0	0	1	1	0.8208	2019	1	0.8208
+3320	"southeast asian ministers of education organization regional centre for food and nutrition (seameo recfon), jakarta, indonesia.;jl. salemba raya no. 6,jakarta 10430, indonesia"	-0.6188	-0.7192	477	0	0	1	1	0.8208	2019	1	0.8208
+3321	"southeast asian ministers of education organization regional centre for food and nutrition (seameo recfon), pusat kajian gizi regional (pkgr) universitas indonesia, jakarta, indonesia"	0.566	0.5183	478	0	0	2	2	1.6416	2019	1	0.8208
+3322	"southeast asian ministers of education organization regional centre for food and nutrition (seameo recfon), pusat kajian gizi regional universitas indonesia (pkgr), jakarta, indonesia"	-0.6559	-0.6855	479	0	0	1	1	0.8208	2019	1	0.8208
+3323	"southeast asian ministers of education organization regional centre for food and nutrition (seameo recfon)-pusat kajian gizi regional (pkgr), universitas indonesiajakarta, indonesia"	-0.4498	-0.5909	480	0	0	1	1	0.8208	2019	1	0.8208
+3324	"southeast asian ministers of education organization, regional center for food and nutrition (seameo recfon), pusat kajian gizi regional universitas indonesia, jakarta, indonesia"	-0.7675	-0.5035	7	10	10	1	1	0.8208	2019	1	0.8208
+3325	"southeast asian ministries of education (seameo) regional centre for nutrition and nutrition (recfon), university of indonesia, jakarta, 10430, indonesia"	-0.8683	-0.3154	10	4	4	1	6	4.9247	2019	6	4.9247
+3326	"specialized complex care program, st. michael's hospital, faculty of pharmacy, university of toronto, toronto, canada"	0.2142	-0.9243	481	0	0	1	8	6.5662	2019	8	6.5662
+3327	"sri venkateswara college, university of delhi, delhi, india"	0.0417	0.3461	482	0	0	1	7	5.7454	2019	7	5.7454
+3328	"st. luke's medical center, institute of digestive and liver diseases, quezon city, philippines"	-0.6284	-0.2952	483	0	0	1	2	1.6416	2019	2	1.6416
+3329	"stai ddi sidenreng rappang, indonesia"	0.7217	-0.6148	484	0	0	1	1	0.8208	2019	1	0.8208
+3330	"state polytechnic of jakarta, department of computer science, universitas indonesia, indonesia"	-0.3377	0.808	485	0	0	1	1	0.8208	2019	1	0.8208
+3331	"state polytechnic of jakarta, department of informatics and computer, depok, indonesia"	0.81	-0.2987	486	0	0	1	0	0	2019	0	0
+3332	"statistics and bioinformatics group, school of fundamental sciences, massey university, palmerston north, 4410, new zealand"	-0.2744	0.5194	4	6	6	1	30	24.6233	2019	30	24.6233
+3333	"statistics and bioinformatics group, school of fundamental sciences, massey university, palmerston north, new zealand"	-0.2826	0.7973	487	0	0	1	1	0.8208	2019	1	0.8208
+3334	"stem cell and cancer institute, jakarta, indonesia"	0.2081	0.0063	488	0	0	1	1	0.8208	2019	1	0.8208
+3335	"stem cell and tissue engineering cluster, indonesian medical education and research institute, faculty of medicine, universitas indonesia, jakarta, 10430, indonesia"	0.8211	0.3159	489	0	0	1	0	0	2019	0	0
+3336	"stem cell and tissue engineering research center, indonesia medical education and research institute (imeri), faculty of medicine, universitas indonesia, jakarta, indonesia"	0.7392	-0.5335	490	0	0	1	2	1.6416	2019	2	1.6416
+3337	"stem cell and tissue engineering research cluster, indonesian medical education and research institute, faculty of medicine, universitas indonesia, jl salemba raya no 6, senen, central jakarta, 10430, indonesia"	0.1713	-0.7818	491	0	0	1	0	0	2019	0	0
+3338	"stem cell and tissue engineering research cluster-imeri, universitas indonesia, jl salemba raya no 6, jakarta, 10430, indonesia"	0.5848	0.5859	492	0	0	1	0	0	2019	0	0
+3339	"stem cell medical technology integrated service unit, dr. ciptomangunkusumo general hospital, faculty of medicine, universitas indonesia, jakarta, indonesia"	0.6448	-0.6942	493	0	0	1	2	1.6416	2019	2	1.6416
+3340	"stem cell medical technology, integrated service unit, dr. cipto mangunkusumo general hospital, faculty of medicine, universitas indonesia, jl salemba raya no 6, senen, central jakarta, 10430, indonesia"	0.2649	-0.1434	494	0	0	1	0	0	2019	0	0
+3341	"stem cells and tissue engineering cluster, indonesian medical education and research institute, faculty of medicine, universitas indonesia, jl salemba raya no 6, senen, central jakarta, 10430, indonesia"	-0.1527	-0.1184	495	0	0	1	2	1.6416	2019	2	1.6416
+3342	"stem cells and tissue engineering cluster, indonesian medical education and research institute, faculty of medicine, universitas indonesia, jl. salemba raya no. 6, senen, central jakarta, 10430, indonesia"	-0.9376	0.1483	496	0	0	1	0	0	2019	0	0
+3343	"stem cells and tissue engineering research cluster, indonesia medical education and research institute (imeri), faculty of medicine, universitas indonesia, jl salemba raya no 6, senen, central jakarta, 10430, indonesia"	-0.4126	-0.3998	497	0	0	1	0	0	2019	0	0
+3344	"stem cells and tissue engineering research cluster, indonesian medical education and research institute (imeri), faculty of medicine, universitas indonesia, jl salemba raya no 6, senen, central jakarta, 10430, indonesia"	-0.8507	0.1618	498	0	0	1	0	0	2019	0	0
+3345	"stie perbanas surabaya, indonesia"	-0.0328	-0.8587	499	0	0	1	2	1.6416	2019	2	1.6416
+3346	"stmik dipanegara makassar, indonesia"	-0.3677	-0.6705	500	0	0	1	0	0	2019	0	0
+3347	"stockholm resilience center, kräftriket, stockholm, 10405, sweden"	-0.274	0.5227	4	6	6	1	30	24.6233	2019	30	24.6233
+3348	"storr liver centre, westmead institute for medical research, westmead hospital and university of sydney, westmead, nsw 2145, australia"	-0.0746	-0.7537	501	0	0	1	5	4.1039	2019	5	4.1039
+3349	"strategic investigation on comprehensive cancer network, the university of tokyo, tokyo, japan"	-0.8226	-0.0731	502	0	0	1	10	8.2078	2019	10	8.2078
+3350	"strathclyde institute of pharmacy and biomedical sciences, university of strathclyde, 161 cathedral street, glasgow, g40re, united kingdom"	0.8192	-0.401	503	0	0	1	4	3.2831	2019	4	3.2831
+3351	"strathclyde institute of pharmacy and biomedical sciences, university of strathclyde, glasgow, united kingdom"	-0.0255	0.1398	504	0	0	1	6	4.9247	2019	6	4.9247
+3352	"student of biomedical magister, faculty of medicine, universitas indonesia, jakarta, indonesia"	-0.4251	-0.4724	505	0	0	1	1	0.8208	2019	1	0.8208
+3353	"study program of doctor engineering science, faculty of engineering, university of udayana, jl. pb. sudirman, denpasar, bali, indonesia"	0.2499	-0.2708	506	0	0	1	1	0.8208	2019	1	0.8208
+3354	"sulianti saroso infectious disease hospital, jakarta, indonesia"	-0.5205	-0.3811	507	0	0	1	2	1.6416	2019	2	1.6416
+3355	"surabaya health polytechnic, ministry of health, jl. pucang jajar tengah, surabaya, indonesia"	-0.593	-0.6954	508	0	0	1	1	0.8208	2019	1	0.8208
+3356	"surgical oncology department, dharmais national cancer center hospital, jakarta, indonesia"	0.0353	0.5705	509	0	0	1	1	0.8208	2019	1	0.8208
+3357	"surgical research laboratory, department of surgery, university of groningen, university medical center groningen, groningen, netherlands"	0.617	-0.1442	510	0	0	1	6	4.9247	2019	6	4.9247
+3358	"suryanto aviation and aerospace health institute (lakespra), jakarta, indonesia"	0.4317	-0.1031	511	0	0	1	0	0	2019	0	0
+3359	"syarif hidayatullah state islamic university jakarta, jl. ir. h. djuanda no.95, banten, indonesia"	0.2379	-0.6545	512	0	0	1	1	0.8208	2019	1	0.8208
+3360	"sydney medical school, university of sydney, australia"	0.0319	-0.3633	513	0	0	1	2	1.6416	2019	2	1.6416
+3361	"sydney medical school, university of sydney, sydney, nsw 2006, australia"	-0.2744	0.5207	4	15	17	2	30	24.6233	2019	15	12.3117
+3362	"sydney school of public health, sydney medical school, the university of sydney, sydney, nsw 2006, australia"	0.4984	0.2609	514	0	0	1	0	0	2019	0	0
+3363	"sydney university, australia"	-0.4162	0.7566	515	0	0	1	1	0.8208	2019	1	0.8208
+3364	"syiah kuala university, indonesia"	0.6382	0.1311	516	0	0	1	0	0	2019	0	0
+3365	"system engineering, modeling, and simulation laboratory, industrial engineering department, universitas indonesia, depok, 16424, indonesia"	0.1109	0.4494	517	0	0	1	1	0.8208	2019	1	0.8208
+3366	"system planning division, pt. pln (persero) head office, jakarta, indonesia"	0.9097	-0.264	518	0	0	1	0	0	2019	0	0
+3367	"systematics lab, department of environmental studies, university of delhi, delhi, india"	0.6343	0.599	519	0	0	1	7	5.7454	2019	7	5.7454
+3368	"systems engineering, modeling and simulation laboratory, industrial engineering department, faculty of engineering, universitas indonesia, depok, 16424, indonesia"	-0.6669	-0.6242	520	0	0	4	16	13.1325	2019	4	3.2831
+3369	"taichung veterans general hospital, taiwan boulevard, taichung city, taiwan"	-0.6361	-0.1666	521	0	0	1	9	7.387	2019	9	7.387
+3370	"taipei veterans general hospital, taipei, taiwan"	-0.0881	-0.0808	522	0	0	5	17	13.9532	2019	3.4	2.7906
+3371	"tan tock seng hospital, singapore"	-0.4589	-0.3536	523	0	0	1	6	4.9247	2019	6	4.9247
+3372	"tan tock seng hospital, singapore city, singapore"	0.2092	-0.7291	524	0	0	1	3	2.4623	2019	3	2.4623
+3373	"tanah air beta, batu karu, tabanan, bali 82152, indonesia"	0.2801	0.8117	525	0	0	1	5	4.1039	2019	5	4.1039
+3374	"tasbee meliponiculture farm, jalan bukit nanas, kg sungai kelugos, tutong, brunei darussalam"	0.7507	-0.1459	526	0	0	1	4	3.2831	2019	4	3.2831
+3375	"telkom university of indonesia, indonesia"	0.2127	-0.4247	527	0	0	1	1	0.8208	2019	1	0.8208
+3376	"telkom university, school of electrical engineering, indonesia"	-0.181	0.6775	528	0	0	1	0	0	2019	0	0
+3377	"tenggara strategics, indonesia"	0.4392	-0.48	529	0	0	1	1	0.8208	2019	1	0.8208
+3378	"the australian national university, australia"	-0.8988	0.3008	530	0	0	1	1	0.8208	2019	1	0.8208
+3379	"the duke clinical research institute, durham, nc, united states"	0.7547	0.5708	531	0	0	1	4	3.2831	2019	4	3.2831
+3380	"the earth physics skills group and complex systems, faculty of math and science, institut teknologi bandung, bandung, indonesia"	0.0119	-0.4417	532	0	0	1	1	0.8208	2019	1	0.8208
+3381	"the indonesia population and family planning board, jakarta, 13610, indonesia"	-0.7486	-0.3333	533	0	0	1	1	0.8208	2019	1	0.8208
+3382	"the kirby institute, university of new south wales, sydney, nsw, australia"	0.4293	0.2588	534	0	0	1	6	4.9247	2019	6	4.9247
+3383	"the kirby institute, unsw sydney, sydney, nsw, australia"	-0.3944	0.6624	535	0	0	1	1	0.8208	2019	1	0.8208
+3384	"the kirby institute, unsw, sydney, australia"	-0.3689	-0.0916	536	0	0	1	6	4.9247	2019	6	4.9247
+3385	"the kirby institute, unsw, sydney, nsw, australia"	0.8859	0.338	537	0	0	1	3	2.4623	2019	3	2.4623
+3386	"the management faculty, czestochowa university of technology, al. armii krajowej 19 b, czestochowa, 42-201, poland"	0.6726	-0.3896	538	0	0	1	4	3.2831	2019	4	3.2831
+3387	"the national aspergillosis centre, education and research centre, wythenshawe hospital, manchester university nhs foundation trust, manchester, united kingdom"	-0.4007	-0.8268	539	0	0	1	8	6.5662	2019	8	6.5662
+3388	"the supreme audit board of indonesia, jln jend. gatot subroto no 31, jakarta pusat, indonesia"	-0.191	-0.5163	540	0	0	1	5	4.1039	2019	5	4.1039
+3389	"the university of auckland, auckland, new zealand and university of pretoria, pretoria, south africa"	0.9008	-0.1521	541	0	0	1	7	5.7454	2019	7	5.7454
+3390	"the university of manchester and the manchester academic health service centre, manchester, united kingdom"	-0.0302	0.0581	542	0	0	1	8	6.5662	2019	8	6.5662
+3391	"the university of melbourne, melbourne, australia"	-0.1366	-0.3685	543	0	0	1	2	1.6416	2019	2	1.6416
+3392	"the university of tokyo, 7-3-1 hongo, bunkyo-ku, tokyo, 113-8655, japan"	-0.3791	0.215	544	0	0	2	20	16.4156	2019	10	8.2078
+3393	"theoretical physics laboratory, theoretical high energy physics and instrumentation research group, faculty of mathematics and natural sciences, institut teknologi bandung, bandung, 40132, indonesia"	-0.1298	-0.7609	545	0	0	1	1	0.8208	2019	1	0.8208
+3394	"thermodynamic, energy and environmental laboratory, department of chemical engineering, faculty of engineering, universitas indonesia, kampus ui depok, depok, 16424, indonesia"	-0.057	0.6997	12	1	1	1	3	2.4623	2019	3	2.4623
+3395	"thoracic, cardiac, and vascular surgery, department of surgery, ciptomangunkusumo national general hospital, jakarta, indonesia"	0.8166	-0.2544	546	0	0	1	0	0	2019	0	0
+3396	"tokiwa child development center, sapporo, japan"	0.1911	0.0773	547	0	0	1	5	4.1039	2019	5	4.1039
+3397	"tokyo institute of technology, meguro, tokyo, 152-8550, japan"	0.7971	0.0098	548	0	0	1	2	1.6416	2019	2	1.6416
+3398	"tomography and advanced materials laboratories, university of sultan ageng tirtayasa, cilegon, 42435, indonesia"	-0.3133	-0.8933	549	0	0	1	0	0	2019	0	0
+3399	"training and assessment research group (targ), department of maritime operations, university of south-eastern norway, postboks 4, borre, 3199, norway"	0.0187	-0.6617	550	0	0	1	2	1.6416	2019	2	1.6416
+3400	"transmission and distribution department, pt. pln (persero) research institute, jakarta, indonesia"	-0.4588	0.0925	551	0	0	1	0	0	2019	0	0
+3401	"trauma aid germany, duisburg, germany"	-0.6092	0.195	552	0	0	1	3	2.4623	2019	3	2.4623
+3402	"treat asia, amfar - the foundation for aids research, bangkok, thailand"	-0.5994	-0.6554	553	0	0	1	3	2.4623	2019	3	2.4623
+3403	"treat asia, amfar – the foundation for aids research, bangkok, thailand"	-0.1626	-0.4417	554	0	0	3	13	10.6701	2019	4.3333	3.5567
+3404	"treat asia, amfar, foundation for aids research, bangkok, thailand"	0.2974	-0.8846	555	0	0	1	1	0.8208	2019	1	0.8208
+3405	"treat asia/amfar - the foundation for aids research, bangkok, thailand"	-0.3224	-0.6402	556	0	0	1	0	0	2019	0	0
+3406	"treat asia/amfar, foundation for aids research, bangkok, thailand"	0.6288	-0.4415	557	0	0	2	3	2.4623	2019	1.5	1.2312
+3407	"tropical renewable energy center (trec), faculty of engineering, universitas indonesia, depok, 16424, indonesia"	0.1446	-0.4728	558	0	0	1	11	9.0286	2019	11	9.0286
+3408	"tropical renewable energy center, faculty of engineering, universitas indonesia, kampus ui depok, depok, 16424, indonesia"	-0.6326	0.5129	559	0	0	1	1	0.8208	2019	1	0.8208
+3409	"tsinghua changgung hospital, tsinghua university, beijing, china"	-0.6321	-0.3581	560	0	0	1	8	6.5662	2019	8	6.5662
+3410	"tuberculosis research unit, faculty of medicine, chulalongkorn university, bangkok, thailand"	-0.5913	0.4681	561	0	0	1	6	4.9247	2019	6	4.9247
+3411	"udayana university, denpasar, bali, indonesia"	-0.693	-0.5966	562	0	0	1	1	0.8208	2019	1	0.8208
+3412	"ukrainian institute on public health policy, kiev, ukraine"	0.8647	0.2985	563	0	0	1	2	1.6416	2019	2	1.6416
+3413	"ukrainian institute on public health policy, kyiv, ukraine"	-0.0698	0.9073	1	10	10	1	2	1.6416	2019	2	1.6416
+3414	"ukrainian institute on public health policy, malopidvalna street, 4, kiev, 02000, ukraine"	-0.0713	0.9093	1	10	10	1	5	4.1039	2019	5	4.1039
+3415	"unc project vietnam, hanoi, viet nam"	-0.0695	0.9085	1	10	10	1	2	1.6416	2019	2	1.6416
+3416	"unc project vietnam, yen hoa health clinic, lot e2, duong dinh nghe street, cau giay district, hanoi, viet nam"	-0.0719	0.9079	1	10	10	1	5	4.1039	2019	5	4.1039
+3417	"undergraduate international program, faculty of medicine, universitas indonesia, jakarta, indonesia"	0.6542	0.2384	26	2	2	1	1	0.8208	2019	1	0.8208
+3418	"undergraduate medical program, faculty of medicine, universitas indonesia, jakarta, indonesia"	0.2308	0.8176	564	0	0	1	0	0	2019	0	0
+3419	"undergraduate medical program, universitas indonesia, indonesia"	0.2768	-0.6089	565	0	0	1	1	0.8208	2019	1	0.8208
+3420	"undergraduate program in medicine, faculty of medicine, universitas indonesia, jakarta, indonesia"	0.7893	-0.4682	566	0	0	1	1	0.8208	2019	1	0.8208
+3421	"undergraduate program, faculty of medicine, universitas indonesia, jakarta, indonesia"	0.4497	-0.802	8	2	2	1	0	0	2019	0	0
+3422	"undergraduate student faculty of medicine, universitas indonesia, jakarta, indonesia"	0.4377	0.8016	567	0	0	1	0	0	2019	0	0
+3423	"undergraduate student of faculty of medicine, universitas indonesia, jakarta, indonesia"	-0.3302	-0.7727	16	3	3	1	1	0.8208	2019	1	0.8208
+3424	"undergraduate student, faculty of medicine, universitas indonesia, indonesia"	0.6112	-0.3826	568	0	0	1	0	0	2019	0	0
+3425	"undergraduated from faculty of medicine, universitas indonesia, jakarta, 10430, indonesia"	-0.3305	-0.7731	16	3	3	1	0	0	2019	0	0
+3426	"unidade de cuidados intensivos polivalente neurocríticos, hospital de s. josé, centro hospitalar de lisboa central, e.p.e, lisboa, portugal"	0.7628	-0.5013	569	0	0	1	5	4.1039	2019	5	4.1039
+3427	"union hospital of tongji medical college, huazhong university of science and technology, wuhan, china"	0.381	0.8633	570	0	0	1	9	7.387	2019	9	7.387
+3428	"unit of anthropology (adbou), department of forensic medicine, university of southern denmark, dk-52600 odense s, denmark"	-0.5114	-0.2245	571	0	0	1	1	0.8208	2019	1	0.8208
+3429	"unit of global health, department of health sciences, university of groningen university medical center groningen, groningen, netherlands"	0.1749	0.4199	572	0	0	1	1	0.8208	2019	1	0.8208
+3430	"unit of pharmaco therapy, epidemiology and -economics (pte2), department of pharmacy faculty of science and engineering university of groningen, groningen, netherlands"	0.1239	0.0313	573	0	0	1	1	0.8208	2019	1	0.8208
+3431	"univ. medicine and pharmacy, tirgu mures, romania"	-0.2946	0.9029	574	0	0	1	1	0.8208	2019	1	0.8208
+3432	"universitas ahmad dahlan, yogyakarta, indonesia"	-0.2201	-0.1187	575	0	0	1	2	1.6416	2019	2	1.6416
+3433	"universitas airlangga, department of dermatology and venereology, surabaya, indonesia"	0.2254	0.3637	576	0	0	1	0	0	2019	0	0
+3434	"universitas al azhar indonesia, jakarta, indonesia"	0.2605	-0.3345	577	0	0	1	2	1.6416	2019	2	1.6416
+3435	"universitas amikom purwokerto, information system department, indonesia"	0.0197	-0.5193	578	0	0	1	5	4.1039	2019	5	4.1039
+3436	"universitas azzahra, jakarta, indonesia"	0.2678	-0.73	579	0	0	1	1	0.8208	2019	1	0.8208
+3437	"universitas budi luhur, department of electrical engineering, jakarta, indonesia"	0.5831	-0.4853	580	0	0	1	0	0	2019	0	0
+3438	"universitas gadjah mada, indonesia"	-0.2713	-0.2518	581	0	0	1	0	0	2019	0	0
+3439	"universitas hasanuddin, department of informatics, makassar, indonesia"	0.8951	0.3124	582	0	0	1	0	0	2019	0	0
+3440	"universitas indonesia and indonesian council for economic and financial literacy, indonesia"	-0.3354	0.8588	583	0	0	1	2	1.6416	2019	2	1.6416
+3441	"universitas indonesia depok, faculty of computer science, indonesia"	-0.0874	-0.9431	584	0	0	1	0	0	2019	0	0
+3442	"universitas indonesia depok, faculty of computer science, jawa barat, indonesia"	-0.2864	-0.4073	585	0	0	2	0	0	2019	0	0
+3443	"universitas indonesia depok, master of computer science department, indonesia"	0.9443	-0.062	586	0	0	1	5	4.1039	2019	5	4.1039
+3444	"universitas indonesia pusat ekonomi dan bisnis syariah, depok, indonesia"	-0.3132	-0.0392	587	0	0	1	2	1.6416	2019	2	1.6416
+3445	"universitas indonesia, antenna propagation and microwave research group, department of electrical engineering, faculty of engineering, depok, indonesia"	-0.1977	-0.2039	588	0	0	1	1	0.8208	2019	1	0.8208
+3446	"universitas indonesia, chemical engineering, depok, 16424, indonesia"	0.5145	-0.4905	589	0	0	1	0	0	2019	0	0
+3447	"universitas indonesia, ciptomangunkusumo hospital, jakarta, indonesia"	0.7302	0.3067	590	0	0	1	5	4.1039	2019	5	4.1039
+3448	"universitas indonesia, civil engineering department, depok, 16424, indonesia"	0.3526	-0.8672	31	1	1	2	6	4.9247	2019	3	2.4623
+3449	"universitas indonesia, computer science department, depok, 16424, indonesia"	0.2934	-0.6836	591	0	0	1	0	0	2019	0	0
+3450	"universitas indonesia, departement of electrical engineering, depok, indonesia"	0.3028	0.3232	592	0	0	1	0	0	2019	0	0
+3451	"universitas indonesia, departmenet of biology, depok, indonesia"	0.6421	-0.0291	18	3	3	1	0	0	2019	0	0
+3452	"universitas indonesia, department of computer engineering, jakarta, indonesia"	-0.8408	-0.0209	593	0	0	1	0	0	2019	0	0
+3453	"universitas indonesia, department of computer science, depok, east jakarta, indonesia"	-0.8895	0.3242	594	0	0	1	0	0	2019	0	0
+3454	"universitas indonesia, department of economics, jakarta, indonesia"	-0.8475	-0.2035	595	0	0	2	0	0	2019	0	0
+3455	"universitas indonesia, department of electrical engineering faculty of engineering, depok, indonesia"	-0.0391	-0.9481	596	0	0	1	0	0	2019	0	0
+3456	"universitas indonesia, department of electrical engineering, depok, 16423, indonesia"	0.5079	-0.4332	597	0	0	1	0	0	2019	0	0
+3457	"universitas indonesia, department of electrical engineering, depok, 16424, indonesia"	0.5381	0.5652	598	0	0	5	0	0	2019	0	0
+3458	"universitas indonesia, department of electrical engineering, depok, indonesia"	0.167	0.6696	599	0	0	14	1	0.8208	2019	0.0714	0.0586
+3459	"universitas indonesia, department of electrical engineering, jakarta, indonesia"	0.756	-0.5712	600	0	0	1	0	0	2019	0	0
+3460	"universitas indonesia, department of electrical engineering, kampus ui depok, indonesia"	0.3234	0.888	20	1	1	1	0	0	2019	0	0
+3461	"universitas indonesia, department of electrican engineering, depok, 16424, indonesia"	0.2451	0.4393	601	0	0	1	0	0	2019	0	0
+3462	"universitas indonesia, department of mathematics, depok, indonesia"	-0.3498	0.8834	602	0	0	2	1	0.8208	2019	0.5	0.4104
+3463	"universitas indonesia, department of oral and maxillofacial radiology, depok, indonesia"	-0.599	0.692	603	0	0	1	0	0	2019	0	0
+3464	"universitas indonesia, department of physic, depok, indonesia"	-0.6822	0.5186	604	0	0	1	0	0	2019	0	0
+3465	"universitas indonesia, department of physics, depok, 16424, indonesia"	-0.7519	-0.2398	605	0	0	1	0	0	2019	0	0
+3466	"universitas indonesia, department of physics, depok, indonesia"	0.8533	0.343	606	0	0	5	0	0	2019	0	0
+3467	"universitas indonesia, department of physics, faculty of mathematics and natural sciences, depok, indonesia"	0.4	0.0565	607	0	0	3	0	0	2019	0	0
+3468	"universitas indonesia, depok city, west java, 16424, indonesia"	-0.5095	-0.3058	608	0	0	1	1	0.8208	2019	1	0.8208
+3469	"universitas indonesia, depok citywest java, 16424, indonesia"	-0.3524	-0.8825	609	0	0	1	2	1.6416	2019	2	1.6416
+3470	"universitas indonesia, depok, indonesia"	0.5375	0.7485	9	6	6	15	12	9.8493	2019	0.8	0.6566
+3471	"universitas indonesia, depok, jawa barat, indonesia"	-0.2303	0.7053	610	0	0	2	0	0	2019	0	0
+3472	"universitas indonesia, dept. of electrical engineering, depok, indonesia"	0.8269	0.4603	611	0	0	1	0	0	2019	0	0
+3473	"universitas indonesia, electrical department, engineering faculty, depok, west java, indonesia"	0.7399	0.5922	612	0	0	1	0	0	2019	0	0
+3474	"universitas indonesia, electrical engineering department, depok, indonesia"	-0.4357	0.0281	613	0	0	1	0	0	2019	0	0
+3475	"universitas indonesia, electrical engineering department, indonesia"	-0.3059	0.2334	614	0	0	2	0	0	2019	0	0
+3476	"universitas indonesia, electrical engineering, west java, indonesia"	0.9179	0.2342	615	0	0	1	0	0	2019	0	0
+3477	"universitas indonesia, energy system engineering, depok, 16424, indonesia"	-0.2076	0.9249	616	0	0	1	0	0	2019	0	0
+3478	"universitas indonesia, faculty of computer science, depok, indonesia"	-0.6245	-0.2303	617	0	0	21	4	3.2831	2019	0.1905	0.1563
+3479	"universitas indonesia, faculty of computer science, depok, jawa barat, indonesia"	0.0678	0.6195	618	0	0	8	0	0	2019	0	0
+3480	"universitas indonesia, faculty of computer science, depok, west java, indonesia"	-0.8147	-0.1211	619	0	0	1	0	0	2019	0	0
+3481	"universitas indonesia, faculty of computer science, indonesia"	-0.5276	0.3232	620	0	0	5	1	0.8208	2019	0.2	0.1642
+3482	"universitas indonesia, faculty of computer science, jakarta, indonesia"	0.2327	-0.9091	621	0	0	4	0	0	2019	0	0
+3483	"universitas indonesia, faculty of computer science, salemba, jakarta, indonesia"	0.793	0.4424	622	0	0	1	0	0	2019	0	0
+3484	"universitas indonesia, faculty of economics and business, department of management, indonesia"	0.4998	-0.6876	623	0	0	1	3	2.4623	2019	3	2.4623
+3485	"universitas indonesia, faculty of engineering, depok, 16424, indonesia"	-0.7884	0.1932	624	0	0	1	0	0	2019	0	0
+3486	"universitas indonesia, faculty of mathematics and natural sciences, depok, indonesia"	0.1627	-0.0467	625	0	0	1	1	0.8208	2019	1	0.8208
+3487	"universitas indonesia, faculty of medicine, depok, indonesia"	0.1603	-0.5413	626	0	0	1	1	0.8208	2019	1	0.8208
+3488	"universitas indonesia, faculty of pharmacy, indonesia"	0.7048	0.6336	627	0	0	1	0	0	2019	0	0
+3489	"universitas indonesia, faculty of social and political science, indonesia"	-0.7744	-0.3764	628	0	0	1	0	0	2019	0	0
+3490	"universitas indonesia, fakultas ilmu komputer, indonesia"	-0.5068	0.2602	629	0	0	1	0	0	2019	0	0
+3491	"universitas indonesia, indonesia"	0.2839	-0.9058	630	0	0	20	32	26.2649	2019	1.6	1.3132
+3492	"universitas indonesia, institut teknologi dan bisnis kalbis, indonesia"	0.9364	-0.1367	631	0	0	1	0	0	2019	0	0
+3493	"universitas indonesia, institute for economic and social research, jakarta, indonesia"	0.8316	0.1937	632	0	0	2	0	0	2019	0	0
+3494	"universitas indonesia, jakarta, indonesia"	-0.6466	0.2788	633	0	0	4	12	9.8493	2019	3	2.4623
+3495	"universitas indonesia, jl. salemba raya 4, jakarta pusat, 10430, indonesia"	-0.9438	0.1054	634	0	0	1	1	0.8208	2019	1	0.8208
+3496	"universitas indonesia, kampus baru ui depok, depok, 16424, indonesia"	-0.4308	-0.8446	635	0	0	1	2	1.6416	2019	2	1.6416
+3497	"universitas indonesia, kampus baru ui depok, jawa barat, 16241, indonesia"	0.2336	-0.5569	636	0	0	1	1	0.8208	2019	1	0.8208
+3498	"universitas indonesia, kampus baru ui depok, jawa barat, 16424, indonesia"	-0.834	0.258	637	0	0	1	0	0	2019	0	0
+3499	"universitas indonesia, kampus baru ui depok, jawa barat, 16425, indonesia"	-0.3635	-0.5015	638	0	0	1	0	0	2019	0	0
+3500	"universitas indonesia, kampus baru ui depok16424, indonesia"	-0.5491	-0.6746	639	0	0	1	2	1.6416	2019	2	1.6416
+3501	"universitas indonesia, kampus ui depok, depok, 16424, indonesia"	0.2637	0.849	640	0	0	2	8	6.5662	2019	4	3.2831
+3502	"universitas indonesia, kampus ui depok, jawa barat, 16424, indonesia"	-0.4345	0.3972	641	0	0	1	1	0.8208	2019	1	0.8208
+3503	"universitas indonesia, pt. pln (persero) load dispatch centre, department of electrical engineering, faculty of engineering, jakarta, indonesia"	-0.5759	0.2465	642	0	0	1	0	0	2019	0	0
+3504	"universitas juanda, indonesia"	-0.6482	-0.4291	643	0	0	1	0	0	2019	0	0
+3505	"universitas lambung mangkurat, banjarmasin, indonesia"	0.9234	0.2084	644	0	0	1	3	2.4623	2019	3	2.4623
+3506	"universitas mercu buana jakarta, indonesia"	-0.2459	0.8867	645	0	0	1	6	4.9247	2019	6	4.9247
+3507	"universitas muhammadiyah makassar, indonesia"	-0.2612	0.1682	646	0	0	1	1	0.8208	2019	1	0.8208
+3508	"universitas multimedia nusantara, department of informatics, tangerang, indonesia"	0.7448	-0.4572	647	0	0	1	0	0	2019	0	0
+3509	"universitas negeri jakarta, jakarta, indonesia"	0.7811	0.286	648	0	0	1	0	0	2019	0	0
+3510	"universitas negeri semarang, indonesia"	-0.7385	0.2193	649	0	0	1	1	0.8208	2019	1	0.8208
+3511	"universitas of indonesia, jakarta, indonesia"	-0.5724	0.6563	650	0	0	1	6	4.9247	2019	6	4.9247
+3512	"universitas padjadjaran, bandung, indonesia"	0.5632	-0.1896	651	0	0	1	0	0	2019	0	0
+3513	"universitas palangka raya, central borneo, indonesia"	0.2343	0.2091	652	0	0	1	0	0	2019	0	0
+3514	"universitas papua, faculty of engineering, manokwari, indonesia"	0.6316	-0.2762	653	0	0	1	0	0	2019	0	0
+3515	"universitas paramadina, dept. of teknik informatika, jakarta, indonesia"	0.2781	-0.3901	654	0	0	1	0	0	2019	0	0
+3516	"universitas persada indonesia, indonesia"	-0.2345	-0.7621	655	0	0	1	6	4.9247	2019	6	4.9247
+3517	"universitas pertamina, computer science department, indonesia"	0.8611	0.3883	656	0	0	1	0	0	2019	0	0
+3518	"universitas raharja tangerang, master of information system department, indonesia"	0.9265	-0.1877	657	0	0	1	5	4.1039	2019	5	4.1039
+3519	"universitas raharja tangerang, master of information technology department, indonesia"	-0.4599	-0.703	658	0	0	1	5	4.1039	2019	5	4.1039
+3520	"universitas riau, departement of chemical engineering, pekanbaru, riau, 28293, indonesia"	0.5765	-0.7109	659	0	0	1	0	0	2019	0	0
+3521	"universitas sriwijaya, inderalaya, indonesia"	0.2728	0.0511	660	0	0	1	0	0	2019	0	0
+3522	"universitas sumatera utara, medan, indonesia"	-0.0414	0.3277	661	0	0	1	13	10.6701	2019	13	10.6701
+3523	"universitas teknologi sumbawa, indonesia"	0.0408	0.7973	662	0	0	1	1	0.8208	2019	1	0.8208
+3524	"universite clermont auvergne, clermont-ferrand, france"	0.7872	0.5284	663	0	0	1	0	0	2019	0	0
+3525	"universite de technologie de compeigne, france"	0.217	-0.4932	664	0	0	1	0	0	2019	0	0
+3526	"universite de technologie de compiegne, france"	0.7342	0.086	665	0	0	1	0	0	2019	0	0
+3527	"universiti teknologi petronas, sri iskandar, perak, malaysia"	-0.2625	-0.181	666	0	0	1	4	3.2831	2019	4	3.2831
+3528	"universiti tunku abdul rahman, kampar, malaysia"	-0.6339	-0.5064	667	0	0	1	2	1.6416	2019	2	1.6416
+3529	"university college london, department of information studies, london, united kingdom"	0.6776	0.6112	668	0	0	1	0	0	2019	0	0
+3530	"university malaya medical centre, kuala lumpur, malaysia"	0.094	-0.0388	669	0	0	3	15	12.3117	2019	5	4.1039
+3531	"university of arizona, united states"	-0.5688	0.7614	670	0	0	1	2	1.6416	2019	2	1.6416
+3532	"university of central florida, united states"	0.2482	-0.8351	671	0	0	1	1	0.8208	2019	1	0.8208
+3533	"university of groningen faculty of arts/law, netherlands"	0.2562	0.1262	672	0	0	1	1	0.8208	2019	1	0.8208
+3534	"university of hasanuddin, indonesia"	0.071	0.7206	673	0	0	1	0	0	2019	0	0
+3535	"university of hawaii at manoa, united states"	0.6461	-0.4969	674	0	0	1	2	1.6416	2019	2	1.6416
+3536	"university of indonesia (ui), indonesian institute of sciences (lipi), indonesia"	-0.4391	0.2544	675	0	0	1	0	0	2019	0	0
+3537	"university of indonesia, cipto mangunkusumo hospital, department of child health, jakarta, indonesia"	-0.323	0.3262	676	0	0	1	2	1.6416	2019	2	1.6416
+3538	"university of indonesia, civil engineering, faculty of engineering, depok, west java, indonesia"	0.2694	0.5466	677	0	0	1	0	0	2019	0	0
+3539	"university of indonesia, departement of electrical engineering, indonesia"	-0.6545	0.4676	678	0	0	1	0	0	2019	0	0
+3540	"university of indonesia, department of electrical engineering, depok, indonesia"	0.5335	0.0154	679	0	0	3	0	0	2019	0	0
+3541	"university of indonesia, department of electrical engineering, depok, west java, indonesia"	0.8761	-0.3609	680	0	0	1	0	0	2019	0	0
+3542	"university of indonesia, department of electrical engineering, faculty of engineering, depok, indonesia"	0.1471	0.6065	681	0	0	1	0	0	2019	0	0
+3543	"university of indonesia, department of energy system engineering, depok, indonesia"	0.5093	-0.5795	682	0	0	1	0	0	2019	0	0
+3544	"university of indonesia, department of mathematics, depok, indonesia"	-0.9275	0.1252	683	0	0	1	0	0	2019	0	0
+3545	"university of indonesia, depok, indonesia"	0.6717	0.0802	684	0	0	4	3	2.4623	2019	0.75	0.6156
+3546	"university of indonesia, dept of electrical engineering, indonesia"	0.5741	-0.5889	685	0	0	1	0	0	2019	0	0
+3547	"university of indonesia, dept. of physics, depok, indonesia"	-0.7103	-0.6269	686	0	0	1	0	0	2019	0	0
+3548	"university of indonesia, electrical engineering department, depok, indonesia"	0.2982	0.239	687	0	0	1	0	0	2019	0	0
+3549	"university of indonesia, electrical engineering department, jakarta, indonesia"	0.839	-0.3642	688	0	0	1	0	0	2019	0	0
+3550	"university of indonesia, electrical engineering, jakarta, indonesia"	0.4994	-0.1907	689	0	0	2	0	0	2019	0	0
+3551	"university of indonesia, engineering department, depok, indonesia"	0.7419	0.4329	690	0	0	1	0	0	2019	0	0
+3552	"university of indonesia, faculty of computer science, depok, indonesia"	0.5137	0.4943	691	0	0	2	2	1.6416	2019	1	0.8208
+3553	"university of indonesia, faculty of computer science, depok, west java, 16424, indonesia"	0.1179	-0.5923	692	0	0	1	0	0	2019	0	0
+3554	"university of indonesia, faculty of computer science, indonesia"	-0.9306	-0.1814	693	0	0	1	0	0	2019	0	0
+3555	"university of indonesia, faculty of computer science, jakarta, indonesia"	0.8655	-0.3865	694	0	0	2	0	0	2019	0	0
+3556	"university of indonesia, faculty of engineering, depok, indonesia"	-0.889	-0.2107	695	0	0	1	0	0	2019	0	0
+3557	"university of indonesia, faculty of engineering, depok, west java, indonesia"	0.7564	-0.0305	696	0	0	1	0	0	2019	0	0
+3558	"university of indonesia, indonesia"	-0.1702	0.3343	697	0	0	12	8	6.5662	2019	0.6667	0.5472
+3559	"university of indonesia, jakarta, indonesia"	-0.9346	-0.1547	698	0	0	5	10	8.2078	2019	2	1.6416
+3560	"university of indonesia, kota depok, jawa barat, 16424, indonesia"	0.8753	0.3665	699	0	0	1	1	0.8208	2019	1	0.8208
+3561	"university of indonesia, mechanical engineering department, depok, 16424, indonesia"	-0.115	0.3416	700	0	0	1	1	0.8208	2019	1	0.8208
+3562	"university of indonesia, ministry of public work and public housing, indonesia"	0.3098	-0.0942	701	0	0	1	0	0	2019	0	0
+3563	"university of jenderal achmad yani, jl. terusan jenderal sudirman po.box 148, cimahi, 40531, indonesia"	-0.1559	0.0869	702	0	0	1	0	0	2019	0	0
+3564	"university of malaya medical centre, kuala lumpur, malaysia"	0.7287	-0.4117	703	0	0	2	2	1.6416	2019	1	0.8208
+3565	"university of malaya, kuala lumpur, malaysia"	-0.8532	0.3195	704	0	0	1	1	0.8208	2019	1	0.8208
+3566	"university of melbourne, australia"	-0.4858	0.5127	705	0	0	1	1	0.8208	2019	1	0.8208
+3567	"university of melbourne, school of computing and information system, australia"	0.2486	0.8777	706	0	0	1	0	0	2019	0	0
+3568	"university of miami, united states"	0.9068	-0.069	707	0	0	1	2	1.6416	2019	2	1.6416
+3569	"university of nursing, yangon, myanmar"	-0.4757	-0.4326	708	0	0	1	1	0.8208	2019	1	0.8208
+3570	"university of potsdam, germany"	-0.5664	-0.2631	709	0	0	1	1	0.8208	2019	1	0.8208
+3571	"university of potsdam, human biology, potsdam, 14469, germany"	-0.4705	0.1889	710	0	0	1	1	0.8208	2019	1	0.8208
+3572	"university of potsdam, institute of biochemistry and biology, germany"	-0.0047	-0.7828	711	0	0	1	1	0.8208	2019	1	0.8208
+3573	"university of pretoria, pretoria, south africa"	0.4572	0.1927	712	0	0	1	4	3.2831	2019	4	3.2831
+3574	"university of queensland, school of medicine, woolloongabba, qld 4102, australia"	0.4023	0.332	713	0	0	1	8	6.5662	2019	8	6.5662
+3575	"university of serang, raya chemical engineering department, serang, indonesia"	-0.6781	0.6043	714	0	0	1	0	0	2019	0	0
+3576	"university of singapore, singapore"	0.4094	-0.3649	715	0	0	1	1	0.8208	2019	1	0.8208
+3577	"university of southern california, keck school of medicine children's hospital, los angeles, united states"	-0.6626	0.3355	716	0	0	1	3	2.4623	2019	3	2.4623
+3578	"university of the east ramon magsaysay memorial medical center inc, quezon city, philippines"	0.0596	0.5034	717	0	0	2	24	19.6987	2019	12	9.8493
+3579	"university of the east ramon magsaysay memorial medical center inc., quezon city, philippines"	0.4058	-0.0222	718	0	0	1	12	9.8493	2019	12	9.8493
+3580	"university of the free state, bloemfontein, south africa"	0.0256	-0.0693	719	0	0	1	1	0.8208	2019	1	0.8208
+3581	"university of the philippines manila college of medicine, manila, philippines"	-0.645	0.6924	720	0	0	1	1	0.8208	2019	1	0.8208
+3582	"university of warwick, united kingdom"	0.6532	-0.5708	721	0	0	1	2	1.6416	2019	2	1.6416
+3583	"university of windsor, canada"	-0.0854	0.2662	722	0	0	1	2	1.6416	2019	2	1.6416
+3584	"university of worcester, worcester, united kingdom"	-0.5884	-0.401	723	0	0	1	3	2.4623	2019	3	2.4623
+3585	"university santo tomas hospital, manila, philippines"	0.3181	-0.7636	724	0	0	2	20	16.4156	2019	10	8.2078
+3586	"université polytechnique hauts de france, cnrs iemn doae, valenciennes, france"	0.3232	0.8877	20	2	2	1	4	3.2831	2019	4	3.2831
+3587	"universitépolytechnique hauts de france, cnrs, iemn, doae, valenciennes, france"	0.323	0.8876	20	2	2	1	0	0	2019	0	0
+3588	"upn 'veteran' jakarta, fakultas ilmu komputer, jakarta, indonesia"	-0.8733	0.078	725	0	0	1	0	0	2019	0	0
+3589	"urban development studies, school of strategic and global studies, universitas indonesia, depok, indonesia"	0.8933	-0.3119	726	0	0	1	0	0	2019	0	0
+3590	"urban studies, university of indonesia, jakarta, indonesia"	-0.914	0.2508	727	0	0	1	0	0	2019	0	0
+3591	"urologist at department of urology, indonesia university, cipto mangunkusumo national general hospital, jl. diponegoro no. 71, salemba, central jakarta, dki jakarta, jakarta, 10430, indonesia"	-0.0785	0.4517	728	0	0	1	0	0	2019	0	0
+3592	"urology department, faculty of medicine universitas indonesia - cipto mangunkusumo hospital, jakarta, 10430, indonesia"	0.7	0.1407	729	0	0	1	3	2.4623	2019	3	2.4623
+3593	"urology division, surgery department, indonesian army hospital rspad gatot soebroto, indonesia"	0.1975	-0.821	730	0	0	1	0	0	2019	0	0
+3594	"us department of veterans affairs, regional tele-icu system (visn 23), hines, il, united states"	0.6403	0.3742	731	0	0	1	8	6.5662	2019	8	6.5662
+3595	"us public health service, washington, dc, united states"	-0.8675	0.2858	732	0	0	1	1	0.8208	2019	1	0.8208
+3596	"vaccine & infectious disease institute, laboratory of medical microbiology, faculty of medicine and health sciences, university of antwerp, antwerp, belgium"	0.131	0.9067	3	15	15	2	2	1.6416	2019	1	0.8208
+3597	"vaccine and infectious disease division, fred hutchinson cancer research center, seattle, wa, united states"	0.469	0.041	733	0	0	1	2	1.6416	2019	2	1.6416
+3598	veterans affairs medical center minneapolis mn	-0.3545	-0.4324	734	0	0	1	7	5.7454	2019	7	5.7454
+3599	"veterans affairs medical center, minneapolis, mn, united states"	0.447	0.6826	735	0	0	1	22	18.0571	2019	22	18.0571
+3600	"virology and cancer pathobiology research center, universitas indonesia, jakarta, indonesia"	-0.2934	0.7096	736	0	0	2	5	4.1039	2019	2.5	2.0519
+3601	"vocational education program, universitas indonesia, indonesia"	-0.1032	-0.6941	737	0	0	1	0	0	2019	0	0
+3602	"vrije universiteit amsterdam, amsterdam, netherlands"	0.7063	0.5802	738	0	0	1	1	0.8208	2019	1	0.8208
+3603	"wahidin sudirohusodo hospital, makassar, indonesia"	-0.337	-0.2753	739	0	0	1	2	1.6416	2019	2	1.6416
+3604	"waseda institute for advanced study, waseda university, 1-6-1 nishiwaseda, shinjuku-kutokyo 169-8050, japan"	0.8218	0.37	740	0	0	1	11	9.0286	2019	11	9.0286
+3605	"washington university, st. louis, mo, united states"	-0.3946	-0.2317	741	0	0	2	11	9.0286	2019	5.5	4.5143
+3606	"wildlife conservation society, indonesia program head office, bogor, 16151, indonesia"	0.7099	-0.4941	742	0	0	2	0	0	2019	0	0
+3607	"wildlife institute of india (wii), dehradun, india"	0.7281	0.3666	743	0	0	1	7	5.7454	2019	7	5.7454
+3608	"william harvey research institute, barts and the london school of medicine and dentistry, queen mary university of london, london, united kingdom"	-0.5355	0.5542	744	0	0	1	5	4.1039	2019	5	4.1039
+3609	"working group on aids, cipto mangunkusumo hospital, faculty of medicine, university of indonesia, jakarta, indonesia"	0.58	0.1524	745	0	0	1	1	0.8208	2019	1	0.8208
+3610	"working group on aids, faculty of medicine, university of indonesia/cipto mangunkusumo hospital, jakarta, indonesia"	0.7339	0.029	746	0	0	1	1	0.8208	2019	1	0.8208
+3611	"working group on aids, faculty of medicine, university of indonesia/ciptomangunkusumo hospital, jakarta, indonesia"	0.0313	0.0049	747	0	0	1	6	4.9247	2019	6	4.9247
+3612	"world federation of neurosurgical societies, nyon, switzerland"	0.4616	0.1136	748	0	0	1	1	0.8208	2019	1	0.8208
+3613	"world health organization collaborating centre for oral cancer, london, united kingdom"	-0.2697	0.0262	749	0	0	1	3	2.4623	2019	3	2.4623
+3614	"worldwide antimalarial resistance network, asia regional centre, faculty of tropical medicine, mahidol university, bangkok, thailand"	-0.5364	0.7859	750	0	0	1	13	10.6701	2019	13	10.6701
+3615	"wwf-indonesia sumatran tiger program, sumatra, indonesia"	-0.7252	-0.3744	751	0	0	1	0	0	2019	0	0
+3616	"yamanashi prefectural central hospital, 1-1-1 fujimi, kofu-shi, yamanashi 400-8506, japan"	0.7529	-0.2589	752	0	0	1	12	9.8493	2019	12	9.8493
+3617	"yamanashi prefectural central hospital, 1-1-1 fujimi, kofu-shi, yamanashi, 400-8506, japan"	0.947	-0.037	753	0	0	1	8	6.5662	2019	8	6.5662
+3618	"yasmin ivf clinic, dr. cipto mangunkusumo general hospital, jakarta, indonesia"	-0.2203	0.3118	754	0	0	1	0	0	2019	0	0
+3619	"yasmin ivf clinic, salemba raya no 6, central jakarta, 10430, indonesia"	-0.2998	-0.484	755	0	0	1	1	0.8208	2019	1	0.8208
+3620	"yayasan spiritia, jakarta, indonesia"	0.2109	0.782	756	0	0	1	2	1.6416	2019	2	1.6416
+3621	"yong loo lin school of medicine, national university of singapore, 1e kent ridge road, singapore, singapore"	0.3619	0.3811	757	0	0	1	22	18.0571	2019	22	18.0571
+3622	"yrgcare medical centre, cart crs, chennai, india"	0.5345	-0.719	758	0	0	2	3	2.4623	2019	1.5	1.2312
+3623	"yrgcare medical centre, chennai, india"	-0.3901	0.3527	759	0	0	2	7	5.7454	2019	3.5	2.8727
