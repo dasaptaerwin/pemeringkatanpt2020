@@ -63,7 +63,7 @@ Saya membuat repositori ini adalah untuk:
 ## Petunjuk penggunaan data
 
 - Untuk kebutuhan instan, ibu dan bapak langsung menuju folder `REKAPITULASI` dan membuka dokumen `pptx` dan `xls`. Saat melihat angka-angka dalam tabel, harap tidak heran jika melihat perbedaan angka. Scopus memang sering (selalu) mengupdate basis data jurnal yang diindeksnya, sehingga berakibat kepada jumlah makalah yang diindeks, yang pada akhirnya dapat mempengaruhi jumlahnya. Jadi mohon diingat selalu bahwa angka-angka ini saya buat berdasarkan data yang diekstraksi tanggal 25-26 Agt 2020.
-- Untuk melihat hasil visualisasi, ibu dan bapak dapat membuka dokumen pptx, namun demikian karena di dalamnya hanyalah hasil tangkapan layar (_screenshot_), maka pasti tidak dapat dipelajari lebih lanjut. Untuk itu, saya menyediakan file hasil visualisasi sebagai `map` dan `network` berformat `txt` untuk setiap visualisasi. 
+- Untuk melihat hasil visualisasi, ibu dan bapak dapat membuka dokumen `pptx`, namun demikian karena di dalamnya hanyalah hasil tangkapan layar (_screenshot_), maka pasti tidak dapat dipelajari lebih lanjut. Untuk itu, saya menyediakan file hasil visualisasi sebagai `map` dan `network` berformat `txt` untuk setiap visualisasi. 
 - Cara untuk mengeksplorasi hasil visualisasi adalah dengan membukanya menggunakan [Vosviewer](vosviewer.com):
 		* ada menu `Create a map based on network data`,
 		* pilih tab `Vosviewer`
@@ -72,4 +72,4 @@ Saya membuat repositori ini adalah untuk:
 				- file `net` misal `VOS-NET-ITB-title-abstract.txt` dan 
 				- file `map` misal `VOS-MAP-ITB-title-abstract.txt` untuk data ITB. 
 				- Untuk data perguruan tinggi lain, anda dapat membuka file sejenis dengan memperhatikan nama perguruan tinggi yang tertera pada nama filenya,
-		* setelah visualisasi terbuka, anda dapat melakukan _hover_, _zoom in_, dan _zoom out_
+		* setelah visualisasi terbuka, anda dapat melakukan _hover_, _zoom in_, dan _zoom out_.
