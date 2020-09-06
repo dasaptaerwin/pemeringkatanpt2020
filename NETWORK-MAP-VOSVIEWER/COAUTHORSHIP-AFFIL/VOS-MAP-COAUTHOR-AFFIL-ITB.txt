@@ -1,0 +1,1001 @@
+﻿id	label	x	y	cluster	weight<Links>	weight<Total link strength>	weight<Documents>	weight<Citations>	weight<Norm. citations>	score<Avg. pub. year>	score<Avg. citations>	score<Avg. norm. citations>
+6	"advanced functional materials (afm) laboratory, engineering physics, institut teknologi bandung, bandung, 40132, indonesia"	-0.0945	-0.8564	121	0	0	2	27	28.025	2019	13.5	14.0125
+7	"advanced functional materials (afm) laboratory, engineering physics, institute of technology bandung, bandung, 40132, indonesia"	0.5705	0.6916	1	9	9	1	19	19.7213	2019	19	19.7213
+8	"advanced functional materials laboratory, department of engineering physics, faculty of industry technology, institut teknologi bandung, bandung, indonesia"	-0.1069	0.4337	18	5	8	2	2	2.0759	2019	1	1.038
+9	"advanced functional materials laboratory, department of engineering physics, institut teknologi bandung, bandung, 40132, indonesia"	0.4593	0.346	6	4	4	1	2	2.0759	2019	2	2.0759
+10	"advanced functional materials research group, department of engineering physics, institute of technology bandung, ganesha 10, bandung, 40132, indonesia"	0.5798	0.6859	1	6	6	1	6	6.2278	2019	6	6.2278
+11	"advanced functional materials research group, institut teknologi bandung jl. ganesha 10, bandung, 40132, indonesia"	0.3925	-0.6353	41	6	6	1	1	1.038	2019	1	1.038
+16	"advanced materials processing group, engineering physics study program, institut teknologi bandung, bandung, 40132, indonesia"	0.4543	0.3478	6	5	5	1	0	0	2019	0	0
+17	"advanced materials processing laboratory, department of engineering physics, institut teknologi bandung, bandung, 40132, indonesia"	0.4594	0.3455	6	4	4	1	2	2.0759	2019	2	2.0759
+23	"aes center, institute of innovative research tokyo instiute of technology, tokyo, japan"	-0.0628	-0.1998	8	5	5	2	2	2.0759	2019	1	1.038
+25	"agency for marine & fisheries research, ministry of marine affairs and fisheries, jakarta, 10110, indonesia"	-0.5818	0.7151	20	5	5	1	3	3.1139	2019	3	3.1139
+26	"agency for marine & fisheries research, ministry of marine affairs and fisheries, jakarta, 14430, indonesia"	-0.5817	0.7151	20	4	4	1	6	6.2278	2019	6	6.2278
+27	"agency for marine and fisheries research and development, ministry of marine affairs and fisheries, jakarta, indonesia"	-0.3016	-0.5875	5	8	8	1	2	2.0759	2019	2	2.0759
+29	"agency for meteorology, climatology and geophysics, jalan angkasa i, no. 2, kemayoran, jakarta, indonesia"	-0.9289	-0.0871	32	8	8	1	1	1.038	2019	1	1.038
+30	"agency for meteorology, climatology, and geophysics (bmkg), bandung, 40161, indonesia"	-0.3194	-0.8967	45	6	6	1	0	0	2019	0	0
+31	"agency for meteorology, climatology, and geophysics (bmkg), jakarta, 10610, indonesia"	-0.3194	-0.8967	45	6	6	1	0	0	2019	0	0
+32	"agency for meteorology, climatology, and geophysics (bmkg), jakarta, indonesia"	-0.2255	-0.4302	3	9	9	1	6	6.2278	2019	6	6.2278
+35	"agency for the assessment and application of technology (bppt), jl. m.h thamrin no. 8 jakarta pusat, dki jakarta, 10340, indonesia"	0.5413	-0.6523	47	5	5	1	0	0	2019	0	0
+39	"agency of research and development for marine and fisheries, jakarta, indonesia"	-0.3117	-0.6053	5	18	36	2	9	9.3417	2019	4.5	4.6708
+44	"aix marseille université, cnrs, lce, umr 7376, aix-en-provence cedex 4, 13545, france"	-0.1792	0.6694	50	5	5	1	1	1.038	2019	1	1.038
+46	"akashi college, national institute of technology, akashi, hyogo 674-8501, japan"	0.4588	0.3459	6	4	4	1	7	7.2657	2019	7	7.2657
+47	"alaska center for climate assessment and policy, university of alaska fairbanks, fairbanks, al, united states"	-0.7067	-0.1404	48	5	5	1	5	5.1898	2019	5	5.1898
+66	"animal hospital faculty of veterinary medicine, bogor agricultural institute, bogor, indonesia"	-0.1985	-0.0417	4	6	6	1	2	2.0759	2019	2	2.0759
+76	"applied physics and medical imaging, california state university channel islands, camarillo, ca 93012, united states"	0.9021	-0.2984	43	3	4	2	3	3.1139	2019	1.5	1.5569
+78	"applied physics and medical imaging, california state university, channel islands, ca, united states"	-0.2953	0.5489	96	3	6	2	3	3.1139	2019	1.5	1.5569
+79	"archaeology research office of makassar, jl. pajjaiyyang no. 13, makassar, 90552, indonesia"	-0.8465	0.0262	28	6	6	1	3	3.1139	2019	3	3.1139
+86	"association nature océan indien, petite ile, reunion"	0.7399	-0.0918	15	13	13	1	4	4.1518	2019	4	4.1518
+114	"atmospheric science research group, bandung institute of technology, jl. ganesha. 10, coblong, kotamadya bandung, jawa barat, 40132, indonesia"	0.5411	-0.6525	47	5	5	1	0	0	2019	0	0
+115	"atmospheric science research group, faculty of earth science and technology, institut teknologi bandung, bandung, indonesia"	-0.7067	-0.1405	48	5	5	1	5	5.1898	2019	5	5.1898
+118	"atmospheric science research group, faculty of earth sciences and technology, institut teknologi bandung, indonesia"	0.8632	0.154	120	1	2	2	0	0	2019	0	0
+121	"australia awards in indonesia, jakarta selatan, indonesia"	-0.2568	-0.4391	3	9	9	1	3	3.1139	2019	3	3.1139
+123	"australian institute for innovative materials (aiim), university of wollongong, north wollongong, nsw 2500, australia"	0.5925	0.6735	1	7	7	1	4	4.1518	2019	4	4.1518
+124	"australian institute of innovative materials (aiim), university of wollongong north wollongongnsw 2500, australia"	-0.5675	-0.7477	62	4	4	1	7	7.2657	2019	7	7.2657
+125	"australian institute of innovative materials, university of wollongong, squires way, north wollongong, nsw 2500, australia"	0.5968	0.679	1	15	15	2	22	22.8352	2019	11	11.4176
+127	"australian research centre for human evolution, environmental futures research institute, griffith university, brisbane, queensland 4111, australia"	-0.8469	0.0263	28	6	6	1	3	3.1139	2019	3	3.1139
+128	"automotive and robotics program, computer engineering department, binus aso school of engineering, bina nusantara university, jakarta, 11480, indonesia"	0.0938	0.6843	2	12	12	1	0	0	2019	0	0
+132	"bali international research center for banana (bircb), udayana university, bali, indonesia"	-0.2446	-0.4412	3	5	5	1	2	2.0759	2019	2	2.0759
+139	"bandung institute of technology, bandung, indonesia"	-0.2078	-0.5166	12	18	18	8	39	40.4805	2019	4.875	5.0601
+141	"bandung institute of technology, bandung, west java, indonesia"	-0.4647	0.7863	33	8	8	1	2	2.0759	2019	2	2.0759
+145	"bandung institute of technology, department of industrial engineering, bandung, indonesia"	-0.3318	0.3262	122	0	0	3	0	0	2019	0	0
+159	"bandung institute of technology, indonesia"	0.7732	0.2371	49	5	5	3	6	6.2278	2019	2	2.0759
+167	"bandung institute of technology, pt. pln (persero), school of electrical engineering and informatics, jakarta, indonesia"	-0.1865	-0.095	19	2	4	2	0	0	2019	0	0
+176	"bandung institute of technology, school of electrical engineering and informatics, bandung, indonesia"	-0.1864	-0.0953	19	5	7	46	1	1.038	2019	0.0217	0.0226
+188	"barrer centre, department of chemical engineering, imperial college london, exhibition road, london, sw7 2az, united kingdom"	0.3868	-0.3536	16	4	7	3	49	50.8601	2019	16.3333	16.9534
+189	"bc cancer agency, university of british columbia, vancouver, bc v6t 1z4, canada"	-0.9139	0.1711	14	14	14	1	4	4.1518	2019	4	4.1518
+190	"beijing jiaotong university, state key laboratory of rail traffic control and safety, beijing, china"	-0.0699	-0.2004	8	1	1	2	0	0	2019	0	0
+200	"binus graduate program, doctor of computer science, bina nusantara university jakarta, information system dept. buana perjuangan university, karawang, indonesia"	-0.5303	0.5255	71	4	4	1	0	0	2019	0	0
+211	"biology department, 9th floor hasyim ashari building, faculty of mathematics and natural sciences, universitas negeri jakarta, jakarta, indonesia"	0.251	-0.8688	13	6	6	1	0	0	2019	0	0
+212	"biology department, hasyim ashari building, faculty of mathematics and natural sciences, universitas negeri jakarta, jakarta, indonesia"	0.2505	-0.8693	13	4	4	1	0	0	2019	0	0
+225	"biomedical enginering, universitas airlangga, surabaya, indonesia"	-0.0608	-0.1994	8	4	4	1	1	1.038	2019	1	1.038
+229	"bioscience and biotechnology research center, institut teknologi bandung, bandung, 40132, indonesia"	0.4519	0.3482	6	7	7	2	2	2.0759	2019	1	1.038
+234	"bioscience and biotechnology research center, institute of technology bandung, indonesia"	0.0267	0.9529	98	2	4	2	2	2.0759	2019	1	1.038
+238	"bjerknes centre for climate research, bergen, norway"	-0.7068	-0.1404	48	5	5	1	5	5.1898	2019	5	5.1898
+239	"blast impact and survivability research unit (bisru), department of mechanical engineering, university of cape town, rondebosch, 7700, south africa"	0.9056	0.2824	52	5	5	1	6	6.2278	2019	6	6.2278
+246	"botram ocean technology research and management, indonesia"	-0.2256	-0.4304	3	9	9	1	6	6.2278	2019	6	6.2278
+249	"british columbia children’s hospital research institute, vancouver, bc v5z 4h4, canada"	-0.9141	0.1714	14	14	14	1	4	4.1518	2019	4	4.1518
+250	"british geological survey (bgs), nottingham, united kingdom"	-0.2036	-0.5223	12	7	7	1	23	23.8731	2019	23	23.8731
+261	"byrd polar and climate research center, ohio state university, columbus, oh 43210, united states"	0.7967	0.4593	21	11	11	1	2	2.0759	2019	2	2.0759
+266	"center for aeronautics technology, national institute of aeronautics and space, bogor, indonesia"	-0.6654	0.6209	37	3	3	2	1	1.038	2019	0.5	0.519
+268	"center for applied climate information, indonesian agency for meteorology, climatology and geophysics, jakarta, 10720, indonesia"	0.5533	0.3412	10	4	4	1	0	0	2019	0	0
+269	"center for applied coastal research, university of delaware (ud), newark, de, united states"	-0.2036	-0.5223	12	7	7	1	23	23.8731	2019	23	23.8731
+271	"center for astrophysics | harvard & smithsonian, cambridge, ma, united states"	-0.4646	0.7862	33	8	8	1	2	2.0759	2019	2	2.0759
+273	"center for earthquake science and technology, institut teknologi bandung, bandung, 40132, indonesia"	-0.3194	-0.8967	45	6	6	1	0	0	2019	0	0
+279	"center for environmental studies, ipb university, bogor, 16144, indonesia"	-0.4891	-0.8246	63	4	4	1	0	0	2019	0	0
+280	"center for experimental nuclear physics and astrophysics, department of physics, university of washington, seattle, wa, united states"	-0.8818	-0.2423	9	18	18	1	4	4.1518	2019	4	4.1518
+281	"center for marine and coastal development, institut teknologi bandung, bandung, indonesia"	-0.2257	-0.4306	3	9	9	1	6	6.2278	2019	6	6.2278
+282	"center for maritime biosciences studies – institute for sciences and community service, jenderal soedirman university, kampus karangwangkal, jl. dr. suparno, purwokerto, 53123, indonesia"	-0.1792	0.6695	50	5	5	1	1	1.038	2019	1	1.038
+288	"center for pharmaceutical and medical technology, agency for the assessment and application of technology (bppt), puspiptek area, tangerang selatan, 15314, indonesia"	-0.6858	0.4323	22	11	11	1	7	7.2657	2019	7	7.2657
+289	"center for pharmaceutical and medical technology, agency for the assessment and application of technology bppt, tangerang selatan, indonesia"	0.7925	-0.4891	29	9	9	1	4	4.1518	2019	4	4.1518
+290	"center for radioisotope and radiopharmaceutical technology, national nuclear energy agency (batan), puspiptek area, serpong, south tangerang, indonesia"	-0.0287	-0.9342	30	9	9	1	2	2.0759	2019	2	2.0759
+291	"center for radioisotope and radiopharmaceutical technology, national nuclear energy agency (batan), puspiptek area, south tangerang, serpong, indonesia"	0.5704	0.6917	1	9	9	1	19	19.7213	2019	19	19.7213
+292	"center for regional environmental research, national institute for environmental studies, tsukuba, ibaraki 305-8506, japan"	0.3702	-0.7631	64	4	4	1	2	2.0759	2019	2	2.0759
+296	"center for remote sensing, bandung institute of technology, jawa barat, 40132, indonesia"	-0.738	-0.0382	65	4	4	1	1	1.038	2019	1	1.038
+297	"center for remote sensing, institut teknologi bandung, bandung, 40132, indonesia"	-0.2546	0.9103	51	5	5	1	1	1.038	2019	1	1.038
+298	"center for remote sensing, institut teknologi bandung, bandung, indonesia"	-0.2447	-0.4413	3	5	5	1	2	2.0759	2019	2	2.0759
+300	"center for research and development, agency for meteorology climatology and geophysics (badan meteorologi, klimatologi, dan geofisika), jakarta, 10720, indonesia"	0.7971	0.4594	21	11	11	1	2	2.0759	2019	2	2.0759
+301	"center for research and development, indonesian agency for meteorology, climatology and geophysics, jakarta, 10720, indonesia"	0.5537	0.3407	10	4	4	1	0	0	2019	0	0
+305	"center for underground physics, institute for basic science (ibs), daejeon, 34126, south korea"	0.3851	0.0052	7	19	61	4	26	26.987	2019	6.5	6.7467
+306	"center for underground physics, institute for basic science (ibs), daejeon, south korea"	-0.8822	-0.2427	9	18	18	1	4	4.1518	2019	4	4.1518
+307	"center for volcanology and geological hazard mitigation (cvghm), bandung, indonesia"	-0.1426	-0.9309	36	5	5	1	11	11.4176	2019	11	11.4176
+309	"center for volcanology and geological hazard mitigation, geological agency, jalan diponegoro no. 57, bandung, 40122, indonesia"	-0.9288	-0.0871	32	8	8	1	1	1.038	2019	1	1.038
+310	"center for water resources development, institute for research and community services, institut teknologi bandung, jl. ganesha 10, bandung, indonesia"	-0.4589	0.3881	66	4	4	1	0	0	2019	0	0
+313	"center of engineering, modelling and applied social science (cecs), federal university of abc (ufabc), av. dos estados, 5001 - bangú, santo andré, sp 09210-580, brazil"	0.9056	0.2824	52	5	5	1	6	6.2278	2019	6	6.2278
+315	"center of excellence in glass technology and materials science (cegm), nakhon pathom rajabhat university, nakhon pathom, 73000, thailand"	0.5458	0.3408	10	7	7	2	7	7.2657	2019	3.5	3.6329
+316	"center of excellence in glass technology and materials science, nakhon pathom rajabhat university, nakhon pathom, 73000, thailand"	0.0834	0.934	67	4	4	1	6	6.2278	2019	6	6.2278
+321	"center of research excellence in nanotechnology, king fahd university of petroleum & minerals, dhahran, 31261, saudi arabia"	0.2002	0.4303	68	4	4	1	2	2.0759	2019	2	2.0759
+331	"centre for environmental sustainability and water security (ipasa), research institute for sustainable environment, faculty of civil engineering, universiti teknologi malaysia, utm johor bahrujohor 81310, malaysia"	0.5983	-0.3325	53	5	5	1	2	2.0759	2019	2	2.0759
+333	"centre for micro-photonics faculty of science, engineering and technology, swinburne university of technology, melbourne, 3122, australia"	0.8562	-0.4009	69	4	4	1	3	3.1139	2019	3	3.1139
+335	"centre for southern hemisphere oceans research, csiro oceans and atmosphere, hobart, australia"	-0.3016	-0.5876	5	8	8	1	2	2.0759	2019	2	2.0759
+336	"centre for southern hemisphere oceans research, hobart, tas, australia"	-0.3113	-0.6052	5	18	36	2	9	9.3417	2019	4.5	4.6708
+339	"centre of advanced electronic and communication engineering (paket), universiti kebangsaan malaysia, ukm, bangi, selangor 43600, malaysia"	0.4593	0.346	6	4	4	1	2	2.0759	2019	2	2.0759
+343	"centre of tropical geoengineering, universitas teknologi malaysia, malaysia"	0.5484	-0.7715	70	4	4	1	1	1.038	2019	1	1.038
+356	"chemical engineering department, institut teknologi bandung, jalan ganesa 10, bandung, 40132, indonesia"	0.2002	0.4304	68	4	4	1	2	2.0759	2019	2	2.0759
+359	"chemical engineering department, institut teknologi bandung, jl. ganesha 10, bandung, 40132, indonesia"	0.3862	-0.3535	16	2	6	5	9	9.3417	2019	1.8	1.8683
+363	"chemical engineering department, king fahd university of petroleum & minerals, dhahran, 31261, saudi arabia"	0.2002	0.4303	68	4	4	1	2	2.0759	2019	2	2.0759
+366	"chemical engineering department, universitas jenderal achmad yani, jl. terusan jendral sudirman, cimahi, 40285, indonesia"	0.3862	-0.3535	16	2	3	2	1	1.038	2019	0.5	0.519
+373	"chemistry department, 6th floor hasyim ashari building, faculty of mathematics and natural sciences, universitas negeri jakarta, jakarta, indonesia"	0.2509	-0.8689	13	6	6	1	0	0	2019	0	0
+376	"chemistry department, faculty of mathematics and natural sciences, institute of technology bandungwest java, indonesia"	0.8451	0.3518	34	8	8	1	2	2.0759	2019	2	2.0759
+377	"chemistry department, faculty of mathematics and natural sciences, syiah kuala university, darussalam, banda aceh, 23111 nad, indonesia"	0.0924	0.6898	2	11	11	1	1	1.038	2019	1	1.038
+378	"chemistry department, faculty of mathematics and natural sciences, syiah kuala university, darussalam, banda aceh, 23111, indonesia"	0.0937	0.6842	2	12	12	1	0	0	2019	0	0
+384	"chemistry department, institut teknologi bandung, jalan ganesa 10, bandung, 40132, indonesia"	0.2001	0.4302	68	4	4	1	2	2.0759	2019	2	2.0759
+387	"chemistry department, king fahd university of petroleum & minerals, dhahran, 31261, saudi arabia"	0.2003	0.4304	68	4	4	1	2	2.0759	2019	2	2.0759
+390	"chemistry, fmipa, institut teknologi bandung, bandung, indonesia"	-0.7581	0.1611	99	2	4	2	0	0	2019	0	0
+392	"chinese university of hong kong, shatin, hong kong"	-0.738	-0.0383	65	4	4	1	1	1.038	2019	1	1.038
+393	"chubu electric power co., inc.aichi, japan"	-0.2059	-0.0049	4	10	10	1	15	15.5694	2019	15	15.5694
+394	"chungbuk national university, school of electrical engineering, cheongju city, south korea"	-0.1865	-0.0947	19	2	4	2	0	0	2019	0	0
+395	"cibio inbio, university of porto, porto, portugal"	0.7399	-0.0917	15	13	13	1	4	4.1518	2019	4	4.1518
+396	"cintra cnrs/ntu/thales umi 3288, research techno plaza, 50 nanyang drive, singapore, 637553, singapore"	0.5401	0.3408	10	7	7	1	11	11.4176	2019	11	11.4176
+397	"city of scientific research and technology applications, new burg al arab, alexandria, egypt"	0.2482	-0.8714	13	8	9	2	2	2.0759	2019	1	1.038
+401	"civil engineering department, computer sciences and engineering faculty, universitas komputer indonesia, jl. dipati ukur, bandung, 112-116, indonesia"	-0.4587	0.3881	66	4	4	1	0	0	2019	0	0
+411	"civil engineering of andalas university, padang, indonesia"	0.4734	-0.7327	109	1	2	2	0	0	2019	0	0
+412	"civil engineering of institute tech. of bandung, indonesia"	0.4732	-0.7327	109	1	2	2	0	0	2019	0	0
+414	"civil engineering program, department of engineering, niigata university, niigata, japan"	-0.2058	-0.0049	4	10	10	1	15	15.5694	2019	15	15.5694
+415	"climate and environmental physics group, university of bern, bern, 3012, switzerland"	0.7971	0.4593	21	11	11	1	2	2.0759	2019	2	2.0759
+416	"climate change research centre and arc centre of excellence for climate extremes, university of new south wales, sydney, australia"	-0.3016	-0.5876	5	8	8	1	2	2.0759	2019	2	2.0759
+417	"cnrs international ntu thales research alliances/umi 3288 (cintra), research techno plaza, 50 nanyang drive, border x block, level 6, singapore637553, singapore"	0.6581	-0.6708	35	8	8	1	1	1.038	2019	1	1.038
+422	"cognitive engineering research group, faculty of engineering, universitas katolik indonesia atma jaya, jakarta, 12930, indonesia"	-0.184	-0.1063	19	4	4	1	1	1.038	2019	1	1.038
+423	"college of chemistry and molecular engineering, qingdao university of science and technology, qingdao, 266042, china"	0.58	0.6864	1	6	6	1	6	6.2278	2019	6	6.2278
+424	"college of earth, ocean and environment, university of delaware, newark, de, united states"	-0.3018	-0.5871	5	8	8	1	2	2.0759	2019	2	2.0759
+426	"college of marine science, nanjing university of information science and technology, nanjing, jiangsu, 210044, china"	-0.5809	0.7144	20	4	4	1	2	2.0759	2019	2	2.0759
+427	"college of science and technology, nihon university, chiyoda, tokyo, 101-0062, japan"	0.6584	-0.671	35	8	10	3	2	2.0759	2019	0.6667	0.692
+436	"commonwealth scientific and industrial research organisation (csiro), hobart, tas, australia"	-0.3113	-0.6063	5	18	36	2	9	9.3417	2019	4.5	4.6708
+442	"computer engineering department, faculty of engineering, bina nusantara university, 9 k. h. syahdan, jakarta, 11480, indonesia"	0.0927	0.6903	2	11	11	1	1	1.038	2019	1	1.038
+443	"computer engineering department, faculty of engineering, bina nusantara university, 9 k.h. syahdan, jakarta, 11480, indonesia"	0.0939	0.6843	2	12	12	1	0	0	2019	0	0
+446	"computer science departement, binus graduate program - doctor of computer science, bina nusantara university, jakarta, 11480, indonesia"	-0.184	-0.1063	19	4	4	1	1	1.038	2019	1	1.038
+447	"computer science departement, school of computer science, bina nusantara university, jakarta, 11480, indonesia"	-0.184	-0.1063	19	4	4	1	1	1.038	2019	1	1.038
+450	"computer science department, binus graduate program, doctor of computer science, bina nusantara university jakarta, indonesia"	-0.5302	0.5255	71	4	4	1	0	0	2019	0	0
+456	"corporate communication, regulatory management unit, pt telekomunikasi indonesia, jakarta, indonesia"	-0.6653	0.6205	37	1	3	3	2	2.0759	2019	0.6667	0.692
+458	"cultural property preservation office of heritage, jl. ujung pandang no. 1, makassar, 9017, indonesia"	-0.8465	0.0262	28	6	6	1	3	3.1139	2019	3	3.1139
+466	"departamento de farmacología, facultad de medicina, universidad nacional autónoma de méxico, mexico city, 04510, mexico"	-0.9146	0.1712	14	14	14	1	4	4.1518	2019	4	4.1518
+468	"departamento de geografía, universidad de concepción, concepción, 4070386, chile"	0.7969	0.4594	21	11	11	1	2	2.0759	2019	2	2.0759
+484	"departement of physics, institute teknologi bandung, bandung, 40132, indonesia"	0.6311	0.0892	123	0	0	2	0	0	2019	0	0
+489	"department for management of science and technology development, ton duc thang university, no.19 nguyen huu tho street, tan phong ward, district 7, ho chi minh city, viet nam"	0.5983	-0.3325	53	5	5	1	2	2.0759	2019	2	2.0759
+490	"department of accelerator science, korea university, sejong, 30019, south korea"	0.3856	0.0036	7	19	61	4	26	26.987	2019	6.5	6.7467
+491	"department of accelerator science, korea university, sejong, south korea"	-0.8819	-0.2429	9	18	18	1	4	4.1518	2019	4	4.1518
+494	"department of agribusiness, faculty of agriculture, tompotika university, luwuk, indonesia"	-0.2061	-0.5187	12	4	4	1	0	0	2019	0	0
+506	"department of agrotechnology, faculty of agriculture, tompotika university, luwuk, indonesia"	-0.2061	-0.5185	12	4	4	1	0	0	2019	0	0
+507	"department of applied chemistry and, department of nanoscience and nanoengineering, faculty of science and engineering, waseda university, 3-4-1 okubo, shinjuku, tokyo 169-8555, japan"	-0.0287	-0.9341	30	9	9	1	2	2.0759	2019	2	2.0759
+508	"department of applied physics and medical imaging, california state university channel islands, camarillo, ca 93012, united states"	0.9021	-0.2985	43	5	8	3	14	14.5315	2019	4.6667	4.8438
+510	"department of applied physics, osaka city university, sumiyoshi-ku, osaka, 558-8585, japan"	0.383	0.8697	54	5	8	3	1	1.038	2019	0.3333	0.346
+511	"department of applied physics, osaka university, suita, osaka 565-0871, japan"	0.4591	0.3462	6	4	4	1	7	7.2657	2019	7	7.2657
+512	"department of aquaculture, faculty of marine and fisheries, universitas syiah kuala, banda aceh, 23111, indonesia"	0.7005	-0.3971	72	4	4	1	0	0	2019	0	0
+519	"department of astronomy and bosscha observatory, fmipa institut teknologi bandung, jalan ganesha 10, bandung, 40132, indonesia"	0.7048	0.1277	114	1	2	2	0	0	2019	0	0
+522	"department of astronomy, faculty of mathematics and natural sciences, institut teknologi bandung, bandung, indonesia"	-0.2568	-0.4388	3	9	9	2	3	3.1139	2019	1.5	1.5569
+532	"department of astronomy, mt. holyoke college, united states"	-0.1627	0.9281	55	5	5	1	3	3.1139	2019	3	3.1139
+534	"department of atmospheric and oceanic science, university of maryland, college park, md 20742, united states"	-0.5812	0.7149	20	11	13	3	11	11.4176	2019	3.6667	3.8059
+535	"department of atmospheric and oceanic science, university of maryland, college park, md, united states"	-0.3069	-0.5967	5	25	44	3	11	11.4176	2019	3.6667	3.8059
+536	"department of atmospheric and oceanic sciences, university of maryland, college park, md 20742, united states"	0.797	0.4596	21	11	11	1	2	2.0759	2019	2	2.0759
+538	"department of basic biomedicine, faculty of medicine, universitas kristen indonesia, jakarta, indonesia"	-0.1985	-0.0416	4	6	6	1	2	2.0759	2019	2	2.0759
+540	"department of biochemistry, genetics and immunology and biomedical research center (cinbio), university of vigo, vigo, spain"	0.7394	-0.092	15	13	13	1	4	4.1518	2019	4	4.1518
+545	"department of bioenergy engineering and chemurgy, institut teknologi bandung, sumedang, 45363, indonesia"	0.785	-0.2841	26	2	4	2	3	3.1139	2019	1.5	1.5569
+548	"department of biology education, state university of malang, semarang street 5, east java, 65145, indonesia"	-0.2946	0.7254	38	4	4	1	6	6.2278	2019	6	6.2278
+550	"department of biology, bandung institute of technology, jl. ganesha no. 10, bandung, 40132, indonesia"	-0.6856	0.4321	22	11	11	1	7	7.2657	2019	7	7.2657
+551	"department of biology, faculty of mathematics and natural sciences, universitas negeri jakarta, campus a, hasyim ashari building, jl. rawamangun muka east java, indonesia"	0.2485	-0.8711	13	4	4	1	2	2.0759	2019	2	2.0759
+552	"department of biology, faculty of mathematics and sciences, tadulako university, palu, indonesia"	-0.2061	-0.5186	12	4	4	1	0	0	2019	0	0
+554	"department of biology, universitas airlangga, surabaya, 60286, indonesia"	-0.2546	0.9102	51	5	5	1	1	1.038	2019	1	1.038
+556	"department of biology, universitas indonesia, depok, indonesia"	0.2477	-0.8718	13	5	5	1	0	0	2019	0	0
+559	"department of biomedical engineering, faculty of life science and technology, swiss german university (sgu), prominence tower, jalan jalur sutera barat no. 15, tangerang, banten, 15143, indonesia"	-0.2369	-0.9153	73	4	4	1	0	0	2019	0	0
+560	"department of biomedical engineering, faculty of life sciences and technology, swiss german university, tangerang, 15143, indonesia"	0.3926	-0.6353	41	6	6	1	1	1.038	2019	1	1.038
+563	"department of bioprocess and polymer engineering, school of chemical and energy engineering, faculty of engineering, universiti teknologi malaysia, skudai, johor, 81310, malaysia"	0.2509	-0.869	13	9	10	2	0	0	2019	0	0
+566	"department of biotechnology and life science, tokyo university of agriculture and technology, koganei, tokyo, 184-8588, japan"	0.8457	0.3521	34	8	8	1	2	2.0759	2019	2	2.0759
+569	"department of business management, institut teknologi sepuluh nopember (its), surabaya, indonesia"	-0.0186	0.9108	74	4	4	1	0	0	2019	0	0
+570	"department of business management, texas health and science universitytx, united states"	-0.0186	0.9108	74	4	4	1	0	0	2019	0	0
+571	"department of cell processing and transfusion, institute of medical science, university of tokyo, tokyo, japan"	0.7924	-0.4895	29	9	9	1	4	4.1518	2019	4	4.1518
+572	"department of cell processing and transfusion, the institute of medical science, the university of tokyo, 7 chome-3-1 hongo, tokyo, 113-8654, japan"	-0.6858	0.4323	22	11	11	1	7	7.2657	2019	7	7.2657
+573	"department of chemical and materials engineering, national yunlin university of science and technology, yunlin, 64002, china"	0.5401	0.3408	10	7	7	1	11	11.4176	2019	11	11.4176
+577	"department of chemical engineering faculty of industrial technology, institut teknologi bandung, bandung, 40132, indonesia"	0.8564	-0.4008	69	4	4	1	3	3.1139	2019	3	3.1139
+580	"department of chemical engineering, faculty of engineering, universitas indonesia, campus ui depokwest java 16425, indonesia"	0.8457	0.3521	34	8	8	1	2	2.0759	2019	2	2.0759
+583	"department of chemical engineering, faculty of engineering, universitas sebelas maret, jl. ir. sutami 36 a, surakarta, central java, 57126, indonesia"	-0.864	-0.382	75	4	4	1	11	11.4176	2019	11	11.4176
+585	"department of chemical engineering, faculty of industrial technology, bandung institute of technology, jalan ganesha no. 10, bandung, 40132, indonesia"	0.5988	-0.3322	53	5	5	1	2	2.0759	2019	2	2.0759
+590	"department of chemical engineering, graduate school of engineering, hiroshima university, higashi hiroshima, 7398527, japan"	0.5402	0.3408	10	7	7	1	11	11.4176	2019	11	11.4176
+591	"department of chemical engineering, institut teknologi bandung (itb), ganesha 10, bandung, 40132, indonesia"	-0.2946	0.7254	38	4	4	1	6	6.2278	2019	6	6.2278
+592	"department of chemical engineering, institut teknologi bandung, bandung, 40132, indonesia"	0.7853	-0.2839	26	10	13	11	51	52.936	2019	4.6364	4.8124
+593	"department of chemical engineering, institut teknologi bandung, bandung, indonesia"	0.3607	0.7414	17	5	5	2	12	12.4555	2019	6	6.2278
+595	"department of chemical engineering, institut teknologi bandung, ganesha 10, bandung, 40132, indonesia"	-0.2946	0.7253	38	4	4	2	6	6.2278	2019	3	3.1139
+598	"department of chemical engineering, institut teknologi bandung, jl. ganesha 10, bandung, 40132, indonesia"	0.3867	-0.3536	16	4	13	9	92	95.4925	2019	10.2222	10.6103
+601	"department of chemical engineering, jenderal achmad yani university, jl. terusan jendral sudirman, po box 148, cimahi, west java, indonesia"	0.3869	-0.3537	16	4	4	1	18	18.6833	2019	18	18.6833
+602	"department of chemical engineering, monash university, clayton, vic 3800, australia"	0.571	0.6917	1	9	9	1	19	19.7213	2019	19	19.7213
+606	"department of chemical engineering, national taiwan university, no. 1, sec. 4, roosevelt road, taipei, 10617, taiwan"	0.58	0.6863	1	6	6	1	6	6.2278	2019	6	6.2278
+611	"department of chemical engineering, universitas brawijaya, jl. mayjen haryono 167, malang, 65145, indonesia"	0.3868	-0.3536	16	4	9	3	65	67.4675	2019	21.6667	22.4892
+612	"department of chemical engineering, universitas gadjah mada, yogyakarta, 55281, indonesia"	0.7849	-0.2844	26	2	4	2	3	3.1139	2019	1.5	1.5569
+616	"department of chemical engineering, university of indonesia, jl. margonda raya, depok, 16424, indonesia"	-0.6859	0.4322	22	11	11	1	7	7.2657	2019	7	7.2657
+621	"department of chemistry education, uin sunan gunung djati bandung, jl. cimincrang, cimenerang, panyileukan, west java, bandung, 40292, indonesia"	-0.9516	-0.0012	110	1	2	3	0	0	2019	0	0
+635	"department of chemistry, faculty of mathematics and natural sciences, universitas andalas, kampus limau manis, padang, 25163, indonesia"	0.3791	-0.3482	16	5	5	1	2	2.0759	2019	2	2.0759
+637	"department of chemistry, faculty of mathematics and natural sciences, universitas sumatera utara, padang bulan, medan, 20155, indonesia"	0.7738	0.0756	95	3	6	2	3	3.1139	2019	1.5	1.5569
+640	"department of chemistry, faculty of mathematics and science, itb, jl. ganesa no. 10, bandung, 40132, indonesia"	0.2475	-0.8719	13	5	5	1	0	0	2019	0	0
+641	"department of chemistry, faculty of mathematics and science, universitas gadjah mada, yogyakarta, 55281, indonesia"	-0.7747	0.287	39	7	7	1	1	1.038	2019	1	1.038
+644	"department of chemistry, faculty of science and technology, uin sunan gunung djati bandung, jl. a.h. nasution no.105, bandung, west java, 40614, indonesia"	-0.9515	-0.0011	110	1	2	2	0	0	2019	0	0
+645	"department of chemistry, faculty of science and technology, universitas islam negeri maulana malik ibrahim malang, jl. gajayana 50, malang, 65144, indonesia"	0.3796	-0.3486	16	6	6	2	2	2.0759	2019	1	1.038
+651	"department of chemistry, mathematics and science faculty, universitas negeri jakarta k.h. hasyim asj'ari building the 6 floor, rawamangun jakarta timur, jakarta, 13220, indonesia"	0.2477	-0.8718	13	5	5	1	0	0	2019	0	0
+654	"department of chemistry, universitas airlangga, surabaya, indonesia"	-0.1068	0.4336	18	5	8	2	2	2.0759	2019	1	1.038
+656	"department of chemistry, universitas pertamina, jl. teuku nyak arief, simprug, jakarta, 12220, indonesia"	-0.317	0.8398	44	6	6	2	4	4.1518	2019	2	2.0759
+657	"department of chemistry, universitas timor, jl. eltari, kefamenanu, 85613, indonesia"	-0.8483	0.0275	28	2	3	2	3	3.1139	2019	1.5	1.5569
+658	"department of chemistry, university college london, gower street, london, wc1h 0aj, united kingdom"	-0.6174	0.0587	42	6	6	1	14	14.5315	2019	14	14.5315
+659	"department of chemistry, university of indonesia, jl. margonda raya, depok, 16424, indonesia"	-0.686	0.4324	22	11	11	1	7	7.2657	2019	7	7.2657
+660	"department of civil and environmental engineering, faculty of agricultural engineering, ipb university, bogor, 16144, indonesia"	-0.4891	-0.8248	63	4	4	1	0	0	2019	0	0
+663	"department of civil and environmental engineering, university of hawaii at manoa, honolulu, united states"	-0.2058	-0.0047	4	10	10	1	15	15.5694	2019	15	15.5694
+665	"department of civil and environmental engineering, waseda university, tokyo, japan"	-0.2059	-0.0047	4	10	11	2	25	25.949	2019	12.5	12.9745
+676	"department of civil engineering, universidad católica de la santísima concepción, concepción, chile"	-0.2059	-0.0049	4	10	10	1	15	15.5694	2019	15	15.5694
+679	"department of civil engineering, university of ottawa, ottawa, canada"	-0.2057	-0.0046	4	10	10	1	15	15.5694	2019	15	15.5694
+683	"department of computer engineering, bina nusantara university, 9 k.h. syahdan, jakarta, 14810, indonesia"	0.0968	0.6832	2	7	7	1	4	4.1518	2019	4	4.1518
+684	"department of computer engineering, faculty of engineering, bina nusantara university, 9 k.h. syahdan, jakarta, 11480, indonesia"	0.1017	0.6827	2	11	11	1	8	8.3037	2019	8	8.3037
+689	"department of earth and environmental sciences, paleontology and geobiology, ludwig-maximilians-universität, richard-wagner-str. 10, munich, 80333, germany"	-0.6583	-0.6862	23	10	10	1	9	9.3417	2019	9	9.3417
+690	"department of earth and environmental sciences, university of michigan, ann arbor, mi, united states"	-0.311	-0.6052	5	18	36	2	9	9.3417	2019	4.5	4.6708
+691	"department of earth and planetary science, the university of tokyo, tokyo, japan"	-0.3119	-0.6065	5	18	36	2	9	9.3417	2019	4.5	4.6708
+692	"department of earth and planetary sciences, johns hopkins university, baltimore, md, united states"	-0.4647	0.7863	33	8	8	1	2	2.0759	2019	2	2.0759
+696	"department of earth resources engineering, kyushu university, fukuoka, japan"	-0.8122	-0.3593	111	1	2	3	5	5.1898	2019	1.6667	1.7299
+697	"department of earth sciences – bullard labs, university of cambridge, cambridge, cb30ez, united kingdom"	-0.9289	-0.0873	32	8	8	1	1	1.038	2019	1	1.038
+698	"department of earth sciences, free university of berlin, berlin, 12249, germany"	-0.6584	-0.6855	23	10	10	1	9	9.3417	2019	9	9.3417
+699	"department of earth sciences, indiana university-purdue university, indianapolis, in 46202, united states"	0.797	0.4594	21	11	11	1	2	2.0759	2019	2	2.0759
+701	"department of earth sciences, university of geneva, geneva, 1205, switzerland"	-0.7443	-0.4925	11	11	14	2	10	10.3796	2019	5	5.1898
+702	"department of earth sciences, university of geneva, rue des maraîchers 13, geneva, 1205, switzerland"	-0.6581	-0.6853	23	10	10	1	9	9.3417	2019	9	9.3417
+704	"department of earth, environmental and planetary sciences, brown university, 324 brook street, providence, ri 02912, united states"	-0.6582	-0.6854	23	10	10	1	9	9.3417	2019	9	9.3417
+705	"department of earth, environmental, and planetary sciences, brown university, 324 brook st., box 1846, providence, ri 02912, united states"	0.9202	0.1009	76	4	4	1	9	9.3417	2019	9	9.3417
+706	"department of earth, environmental, and planetary sciences, brown university, providence, ri 02912, united states"	-0.7439	-0.4926	11	11	14	2	10	10.3796	2019	5	5.1898
+707	"department of earth, environmental, and planetary sciences, brown university, united states"	-0.1626	0.9281	55	5	5	1	3	3.1139	2019	3	3.1139
+708	"department of earth, ocean and atmospheric sciences and of microbiology and immunology, university of british columbia, 2350 health sciences mall, vancouver, bc v6t 1z4, canada"	-0.6581	-0.6854	23	10	10	1	9	9.3417	2019	9	9.3417
+709	"department of electrical (mechatronics) engineering, parahyangan catholic university, indonesia"	-0.0497	-0.1978	8	3	4	2	0	0	2019	0	0
+715	"department of electrical engineering, engineering faculty, andalas university, limau manis, padang, 25163, indonesia"	0.9163	-0.1566	24	10	10	1	0	0	2019	0	0
+719	"department of electrical engineering, faculty of science and technology, uin sunan gunung djati, bandung, indonesia"	-0.6654	0.6211	37	1	1	2	1	1.038	2019	0.5	0.519
+723	"department of electrical engineering, institut teknologi bandung, indonesia"	0.0952	-0.8113	31	4	4	1	2	2.0759	2019	2	2.0759
+724	"department of electrical engineering, krida wacana christian university, jakarta, 11470, indonesia"	0.0934	0.6871	2	21	23	2	1	1.038	2019	0.5	0.519
+730	"department of electrical engineering, state polytechnic of jakarta, jakarta, indonesia"	0.4594	0.3455	6	4	4	1	2	2.0759	2019	2	2.0759
+732	"department of electrical engineering, universitas malikussaleh, indonesia"	0.0952	-0.8113	31	4	4	1	2	2.0759	2019	2	2.0759
+734	"department of electrical engineering, university of pelita harapan, 1100 m.h. thamrin boulevard, lippo village, tangerang, 15811, indonesia"	0.0957	0.6835	2	16	19	2	4	4.1518	2019	2	2.0759
+735	"department of electro, faculty of engineering, universitas indonesia, campus ui, depok, west java 16425, indonesia"	0.8456	0.352	34	8	8	1	2	2.0759	2019	2	2.0759
+739	"department of energy and materials engineering, dongguk university, seoul, 04620, south korea"	0.602	0.6791	1	9	9	1	19	19.7213	2019	19	19.7213
+740	"department of energy and materials engineering, dongguk university-seoul, seoul, 04620, south korea"	0.5705	0.6916	1	9	9	1	19	19.7213	2019	19	19.7213
+744	"department of engineering physics and research center for nanoscience and nanotechnology, institute of technology bandung, ganesha 10, bandung, 40132, indonesia"	0.602	0.6792	1	9	9	1	19	19.7213	2019	19	19.7213
+745	"department of engineering physics, bandung institute of technology, 10 ganesha street, bandung, 40132, indonesia"	-0.5675	-0.7478	62	4	4	1	7	7.2657	2019	7	7.2657
+748	"department of engineering physics, faculty of industrial engineering, institut teknologi bandung, bandung, 40132, indonesia"	-0.775	0.2867	39	7	7	1	1	1.038	2019	1	1.038
+753	"department of engineering physics, institut teknologi bandung (itb), bandung, 40132, indonesia"	-0.2369	-0.9153	73	4	4	1	0	0	2019	0	0
+756	"department of engineering physics, research center for nanoscience and nanotechnology, institute of technology bandung, bandung, 40132, indonesia"	0.5927	0.6737	1	7	7	1	4	4.1518	2019	4	4.1518
+757	"department of engineering physics, research center for nanoscience and nanotechnology, institute of technology bandung, ganesha 10, bandung, 40132, indonesia"	0.5908	0.6791	1	6	6	1	3	3.1139	2019	3	3.1139
+763	"department of environmental engineering, faculty of science and technology, state islamic university of ar-raniry, banda aceh, 23111, indonesia"	-0.7485	-0.493	11	6	10	2	8	8.3037	2019	4	4.1518
+769	"department of fiber and composite materials, feng chia university, taichung, 40724, taiwan"	0.5402	0.3408	10	7	7	1	11	11.4176	2019	11	11.4176
+774	"department of forest biomaterials engineering, college of forest and environmental science, kangwon national university, chuncheon, 24341, south korea"	-0.8362	0.4049	56	5	5	1	1	1.038	2019	1	1.038
+777	"department of forest products, faculty of forestry, bogor agricultural university, ipb dramaga campus, bogor, 16680, indonesia"	-0.8362	0.405	56	5	5	1	1	1.038	2019	1	1.038
+780	"department of forestry, faculty of agriculture, lampung university, jalan sumantri brojonegoro 1, bandar lampung, 35145, indonesia"	-0.8362	0.4047	56	5	5	1	1	1.038	2019	1	1.038
+782	"department of general medicine, imsut hospital, institute of medical science, university of tokyo, tokyo, japan"	0.7925	-0.4895	29	9	9	1	4	4.1518	2019	4	4.1518
+783	"department of general medicine, imsut hospital, the institute of medical science, the university of tokyo, 7 chome-3-1 hongo, tokyo, 113-8654, japan"	-0.6859	0.4323	22	11	11	1	7	7.2657	2019	7	7.2657
+786	"department of geodesy and geomatics, remote sensing and geographic information science research group, faculty of earth science and technology, institut teknologi bandung, bandung, 40132, indonesia"	-0.2546	0.9103	51	5	5	1	1	1.038	2019	1	1.038
+788	"department of geographic information science, faculty of geography, universitas gadjah mada, yogyakarta, 55281, indonesia"	-0.2544	0.9102	51	5	5	1	1	1.038	2019	1	1.038
+789	"department of geography and geosciences, university of louisville, louisville, ky 40292, united states"	0.7973	0.4592	21	11	11	1	2	2.0759	2019	2	2.0759
+791	"department of geography, ohio state university, columbus, oh 43210, united states"	0.7968	0.4592	21	11	11	1	2	2.0759	2019	2	2.0759
+797	"department of geology, university of yangon, yangon, myanmar"	0.7305	-0.5883	90	4	4	1	0	0	2019	0	0
+799	"department of geophysical engineering, faculty of civil, environmental and geo engineering, institut teknologi sepuluh nopember, jl. raya its, surabaya, 60111, indonesia"	-0.7488	-0.4928	11	5	5	1	1	1.038	2019	1	1.038
+800	"department of geophysical engineering, faculty of civil, environmental and geo engineering, institut teknologi sepuluh nopember, surabaya, 60111, indonesia"	-0.7483	-0.4929	11	5	5	1	7	7.2657	2019	7	7.2657
+804	"department of geophysical engineering, faculty of mining and petroleum engineering, institut teknologi bandung, jalan ganesa no.10, west java, bandung, 40132, indonesia"	0.055	-0.921	124	0	0	4	0	0	2019	0	0
+812	"department of geophysics, graduate school of science, tohoku university, sendai, japan"	-0.7068	-0.1404	48	5	5	1	5	5.1898	2019	5	5.1898
+815	"department of health sciences, faculty of medical sciences, kyushu university, 3-1-1 maidashi, higashi-ku, fukuoka, 812-8582, japan"	0.9021	-0.2983	43	6	12	5	17	17.6453	2019	3.4	3.5291
+816	"department of health sciences, faculty of medical sciences, kyushu university, 3-1-1 maidashi, higashi-ku, fukuoka, japan"	-0.2953	0.5489	96	3	6	2	3	3.1139	2019	1.5	1.5569
+817	"department of herpetology, zoologische staatssamlung münich, munich, germany"	0.74	-0.0916	15	13	13	1	4	4.1518	2019	4	4.1518
+828	"department of industrial engineering, faculty of engineering, universitas sebelas maret, jl. ir. sutami 36 a, surakarta, central java, 57126, indonesia"	-0.8641	-0.3818	75	4	4	1	11	11.4176	2019	11	11.4176
+830	"department of industrial engineering, institut teknologi bandung (itb), bandung, indonesia"	-0.0186	0.9108	74	4	4	1	0	0	2019	0	0
+837	"department of industrial engineering, institut teknologi telkom purwokerto, jl. di panjaitan 128, purwokerto, indonesia"	-0.3171	0.8398	44	4	4	1	1	1.038	2019	1	1.038
+841	"department of industrial engineering, mercu buana university, jakarta, indonesia"	-0.0185	0.911	74	4	4	1	0	0	2019	0	0
+843	"department of industrial engineering, universal university, batam, indonesia"	-0.0186	0.9108	74	4	4	1	0	0	2019	0	0
+845	"department of industrial engineering, university of pelita harapan, 1100 m.h. thamrin boulevard, lippo village, tangerang, 15811, indonesia"	0.0968	0.6831	2	7	7	1	4	4.1518	2019	4	4.1518
+847	"department of informatics engineering, engineering faculty, lampung university, bandar lampung, 35145, indonesia"	0.9163	-0.1566	24	10	10	1	0	0	2019	0	0
+848	"department of informatics engineering, engineering faculty, university muhammadiyah of tangerang, tangerang, 15117, indonesia"	0.9163	-0.1561	24	10	10	1	0	0	2019	0	0
+849	"department of informatics engineering, sekolah tinggi teknologi bandung, bandung, 40235, indonesia"	0.9163	-0.1564	24	10	10	1	0	0	2019	0	0
+850	"department of informatics engineering, universitas langlangbuana, bandung, 40261, indonesia"	0.9163	-0.1561	24	10	10	1	0	0	2019	0	0
+851	"department of informatics management, iain batusangkar, tanah datar, 27213, indonesia"	0.9164	-0.1563	24	10	10	1	0	0	2019	0	0
+854	"department of informatics, universitas dr.soetomo, surabaya, 60118, indonesia"	0.9164	-0.1561	24	10	10	1	0	0	2019	0	0
+855	"department of information system, stmik jayanusa, padang, 25112, indonesia"	0.9163	-0.1564	24	10	10	1	0	0	2019	0	0
+863	"department of marine science, universitas padjadaran, indonesia"	0.0947	-0.8108	31	5	5	1	5	5.1898	2019	5	5.1898
+864	"department of marine sciences, faculty of marine and fisheries, universitas syiah kuala, banda aceh, 23111, indonesia"	0.7007	-0.397	72	4	4	1	0	0	2019	0	0
+869	"department of materials engineering, faculty of mechanical and aerospace engineering, institut teknologi bandung, indonesia"	-0.0001	-0.8283	117	1	2	2	0	0	2019	0	0
+873	"department of materials science and engineering, national university of singapore117574, singapore"	-0.6175	0.0585	42	6	6	1	14	14.5315	2019	14	14.5315
+874	"department of materials science and engineering, royal institute of technology (kth), brinellvägen 23, stockholm, 100 44, sweden"	-0.2945	0.7255	38	7	8	2	12	12.4555	2019	6	6.2278
+875	"department of materials science and engineering, school of engineering, nagoya university, nagoya, 464-8601, japan"	0.9269	0.1966	77	4	4	1	2	2.0759	2019	2	2.0759
+877	"department of mathematical sciences, university of essex, wivenhoe park, colchester, co4 3sq, united kingdom"	-0.7211	-0.6173	119	1	1	3	3	3.1139	2019	1	1.038
+885	"department of mathematics, faculty of mathematics and natural sciences, institut teknologi bandung, bandung, indonesia"	-0.2568	-0.4392	3	9	9	1	3	3.1139	2019	3	3.1139
+889	"department of mathematics, faculty of mathematics and natural sciences, universitas indonesia, kampus baru ui, depok, 16424, indonesia"	0.5352	-0.1883	78	4	4	1	8	8.3037	2019	8	8.3037
+893	"department of mathematics, faculty of mathematics and natural sciences, universitas padjadjaran, jl. raya jatinangor km 21, jatinangor, 45363, indonesia"	0.5352	-0.1883	78	4	4	1	8	8.3037	2019	8	8.3037
+894	"department of mathematics, faculty of science and engineering, universitas nusa cendana, kupang, ntt, indonesia"	0.5352	-0.1883	78	4	4	1	8	8.3037	2019	8	8.3037
+907	"department of mathematics, university of ghana, legon, ghana"	-0.3112	-0.6061	5	18	36	2	9	9.3417	2019	4.5	4.6708
+918	"department of mechanical engineering, universitas muhammadiyah tasikmalaya, indonesia"	0.0946	-0.8112	31	9	9	2	7	7.2657	2019	3.5	3.6329
+920	"department of mechanical engineering, universitas pendidikan, indonesia"	0.0947	-0.8108	31	5	5	1	5	5.1898	2019	5	5.1898
+921	"department of mechanical engineering, university of colorado, boulder, co 80309"	0.3925	-0.6353	41	6	6	1	1	1.038	2019	1	1.038
+923	"department of mechatronics and mechanical systems engineering, group of solid mechanics and structural impact, university of são paulo (usp), butantã, são paulo, state of são paulo 03178-200, brazil"	0.9056	0.2824	52	5	5	1	6	6.2278	2019	6	6.2278
+924	"department of medical genetics, university of british columbia, vancouver, bc v6t 1z4, canada"	-0.9146	0.1709	14	14	14	1	4	4.1518	2019	4	4.1518
+925	"department of medical oncology, tom baker cancer centre, calgary, ab t2n 4n2, canada"	-0.9139	0.1713	14	14	14	1	4	4.1518	2019	4	4.1518
+926	"department of medical radiation sciences, university of sydney, sydney, australia"	0.902	-0.2991	43	4	4	1	7	7.2657	2019	7	7.2657
+935	"department of metallurgical engineering, institut teknologi bandung, jl. ganesa no. 10, bandung, jawa barat, 40132, indonesia"	0.9269	0.1966	77	4	4	1	2	2.0759	2019	2	2.0759
+937	"department of metallurgical engineering, sumbawa university of technology, jl. raya olat maras, nusa tenggara barat, 84371, indonesia"	-0.6857	0.4323	22	11	11	1	7	7.2657	2019	7	7.2657
+938	"department of metallurgical engineering, sumbawa university of technology, sumbawa besar, indonesia"	0.7924	-0.4895	29	9	9	1	4	4.1518	2019	4	4.1518
+941	"department of microbiology and immunology and department of earth, ocean, and atmospheric sciences, university of british columbia, vancouver, canada"	-0.7439	-0.4925	11	10	10	1	4	4.1518	2019	4	4.1518
+945	"department of microbiology, school of life sciences and technology, institut teknologi bandung, indonesia"	0.2503	-0.8696	13	13	14	3	2	2.0759	2019	0.6667	0.692
+946	"department of microscope electron, faculty of medicine, universitas airlangga, surabaya, indonesia"	0.2669	0.8956	25	10	10	1	10	10.3796	2019	10	10.3796
+949	"department of molecular and medical virology, ruhr-university bochum, bochum, germany"	0.5412	-0.501	46	6	6	1	18	18.6833	2019	18	18.6833
+950	"department of molecular medicine and neurobiology, scripps research institute, 10550 n. torrey pines road, san diego, ca 92037, united states"	0.1095	-0.946	79	4	4	1	9	9.3417	2019	9	9.3417
+951	"department of nanoscience and nanoengineering, faculty of science and engineering, waseda university, 3-4-1 okubo, shinjuku, tokyo, 169-8555, japan"	0.5925	0.6735	1	7	7	1	4	4.1518	2019	4	4.1518
+952	"department of natural product chemistry, research centre for biotechnology, indonesian institute of science, jl. raya bogor km 46, cibinong, 16911, indonesia"	0.7738	0.0756	95	3	6	2	3	3.1139	2019	1.5	1.5569
+953	"department of natural resource conservation and ecotourism, faculty of forestry, ipb university, bogor, 16680, indonesia"	-0.2546	0.9103	51	5	5	1	1	1.038	2019	1	1.038
+955	"department of neurosurgery and oncology & stem cell working group, faculty of medicine, universitas padjadjaran, bandung, west java 40161, indonesia"	0.8451	0.3518	34	8	8	1	2	2.0759	2019	2	2.0759
+960	"department of ocean engineering, university of rhode island (uri), narragansett, ri, united states"	-0.2036	-0.5224	12	7	7	1	23	23.8731	2019	23	23.8731
+961	"department of oceanography, bandung institute of technology, bandung, 40132, indonesia"	0.7007	-0.397	72	4	4	1	0	0	2019	0	0
+968	"department of oral and maxillofacial surgery, matsumoto dental university, 1780 hirookagobara, shiojiri, nagano-prefecture 399-0704, japan"	-0.6858	0.4323	22	11	11	1	7	7.2657	2019	7	7.2657
+969	"department of oral and maxillofacial surgery, matsumoto dental university, shiojiri, japan"	0.7925	-0.4894	29	9	9	1	4	4.1518	2019	4	4.1518
+970	"department of orthodontics, faculty of dental medicine, universitas airlangga, surabaya, indonesia"	0.2673	0.896	25	10	10	1	10	10.3796	2019	10	10.3796
+971	"department of orthopaedic and traumatology, faculty of medicine, universitas airlangga, dr. soetomo general hospital, surabaya, indonesia"	0.2673	0.896	25	10	10	1	10	10.3796	2019	10	10.3796
+972	"department of pathology anatomy, faculty of medicine, universitas airlangga, surabaya, indonesia"	0.2673	0.896	25	10	10	1	10	10.3796	2019	10	10.3796
+973	"department of periodontics, faculty of dental medicine, universitas airlangga, surabaya, indonesia"	0.2669	0.8956	25	10	10	1	10	10.3796	2019	10	10.3796
+974	"department of periodontics, faculty of dentistry, universitas jember, jember, indonesia"	0.2672	0.8961	25	10	10	1	10	10.3796	2019	10	10.3796
+978	"department of petroleum engineering, universitas pertamina, jl. teuku nyak arief, simprug, jakarta, 12220, indonesia"	-0.3167	0.8398	44	4	4	1	1	1.038	2019	1	1.038
+980	"department of pharmaceutical biology, faculty of pharmacy, university of surabaya, surabaya, 60293, indonesia"	-0.4165	0.8495	80	4	4	1	0	0	2019	0	0
+983	"department of pharmaceutical chemistry - school of pharmacy, the university of kansas, 2093 constant avenue, lawrence, ks 66047, united states"	0.2204	-0.6294	81	4	4	1	5	5.1898	2019	5	5.1898
+990	"department of pharmacognosy and phytochemistry, faculty of pharmacy, universitas indonesia, depok, west java 16424, indonesia"	0.8458	0.352	34	8	8	1	2	2.0759	2019	2	2.0759
+993	"department of pharmacology and clinical pharmacy, padjadjaran university, jl. raya bandung - sumedang km 21, jatinangor, 45363, indonesia"	0.2205	-0.6294	81	4	4	1	5	5.1898	2019	5	5.1898
+998	"department of pharmacology, faculty of pharmacy, institut teknologi bandung, jl. ganesha, bandung, 40132, indonesia"	0.7738	0.0754	95	3	6	2	3	3.1139	2019	1.5	1.5569
+1000	"department of pharmacology-clinical pharmacy, school of pharmacy, bandung institute of technology, bandung, 40132, indonesia"	-0.9138	0.1712	14	14	14	1	4	4.1518	2019	4	4.1518
+1007	"department of pharmacy, sumatera institute of technology, south lampung, 35365, indonesia"	-0.4165	0.8494	80	4	4	1	0	0	2019	0	0
+1009	"department of physic engineering, faculty of engineering, universitas gadjah mada, yogyakarta, indonesia"	-0.1069	0.4336	18	4	4	1	1	1.038	2019	1	1.038
+1010	"department of physic engineering, faculty of engineering, universitas gadjah mada. yogyakarta, indonesia"	-0.1069	0.4337	18	4	4	1	1	1.038	2019	1	1.038
+1012	"department of physical oceanography, woods hole oceanographic institution, woods hole, ma, united states"	-0.3125	-0.6062	5	18	36	2	9	9.3417	2019	4.5	4.6708
+1013	"department of physics and astronomy, johns hopkins university, baltimore, md, united states"	-0.4647	0.7862	33	8	8	1	2	2.0759	2019	2	2.0759
+1014	"department of physics and astronomy, northwestern university, evanston, il, united states"	-0.882	-0.2428	9	18	18	1	4	4.1518	2019	4	4.1518
+1015	"department of physics and astronomy, seoul national university, seoul, 08826, south korea"	0.3854	0.0041	7	19	61	4	26	26.987	2019	6.5	6.7467
+1016	"department of physics and astronomy, seoul national university, seoul, south korea"	-0.882	-0.2423	9	18	18	1	4	4.1518	2019	4	4.1518
+1017	"department of physics and astronomy, university of british columbia, vancouver, bc, canada"	-0.8825	-0.2423	9	18	18	1	4	4.1518	2019	4	4.1518
+1018	"department of physics and astronomy, university of sheffield, sheffield, s3 7rh, united kingdom"	0.3856	0.0054	7	19	61	4	26	26.987	2019	6.5	6.7467
+1019	"department of physics and astronomy, university of sheffield, sheffield, united kingdom"	-0.8822	-0.2424	9	18	18	1	4	4.1518	2019	4	4.1518
+1021	"department of physics and wisconsin icecube particle astrophysics center, university of wisconsin-madison, madison, wi 53706, united states"	0.3868	0.004	7	17	32	2	5	5.1898	2019	2.5	2.5949
+1022	"department of physics and wisconsin icecube particle astrophysics center, university of wisconsin-madison, madison, wi, united states"	-0.883	-0.2422	9	18	18	1	4	4.1518	2019	4	4.1518
+1023	"department of physics and wisconsin, icecube particle astrophysics center, university of wisconsin-madison, madison, wi 53706, united states"	0.3867	0.0057	7	15	15	1	16	16.6074	2019	16	16.6074
+1024	"department of physics and wright laboratory, yale university, new haven, ct 06520, united states"	0.3853	0.0049	7	19	61	4	26	26.987	2019	6.5	6.7467
+1025	"department of physics education, faculty of education and teacher training, state islamic university of ar-raniry, banda aceh, 23111, indonesia"	-0.7485	-0.493	11	6	10	2	8	8.3037	2019	4	4.1518
+1028	"department of physics education, haluoleo university, jl. h.e.a. monokodompit no.1, anduonohu, kendari, 39237, indonesia"	-0.8805	0.3218	57	5	5	1	0	0	2019	0	0
+1031	"department of physics education, university of bengkulu, kandang limun, bengkulu, 38371, indonesia"	0.3831	0.8697	54	5	7	2	1	1.038	2019	0.5	0.519
+1033	"department of physics engineering, faculty of industrial engineering, bandung institute of technology, bandung, indonesia"	0.4028	-0.8475	100	2	4	3	5	5.1898	2019	1.6667	1.7299
+1034	"department of physics, bandung institute of technology, bandung, 40132, indonesia"	0.3857	0.0038	7	19	61	4	26	26.987	2019	6.5	6.7467
+1035	"department of physics, bandung institute of technology, bandung, indonesia"	-0.8826	-0.2422	9	18	18	4	9	9.3417	2019	2.25	2.3354
+1038	"department of physics, carleton university, ottawa, on k1s 5b6, canada"	0.3873	0.0047	7	18	47	3	21	21.7972	2019	7	7.2657
+1043	"department of physics, faculty of mathematic and natural science, universitas sebelas maret, jl. ir. sutami 36 a, surakarta, central java, 57126, indonesia"	-0.8641	-0.3818	75	4	4	1	11	11.4176	2019	11	11.4176
+1049	"department of physics, faculty of mathematics and natural science, bogor agricultural university, bogor, indonesia"	0.4028	-0.8475	100	2	3	2	5	5.1898	2019	2.5	2.5949
+1054	"department of physics, faculty of mathematics and natural science, universitas padjadjaran45363, indonesia"	0.0834	0.934	67	4	4	1	6	6.2278	2019	6	6.2278
+1062	"department of physics, faculty of mathematics and natural sciences, bandung institute of technology, ganesha 10, west java, bandung, 40132, indonesia"	0.9021	-0.2987	43	4	4	1	7	7.2657	2019	7	7.2657
+1063	"department of physics, faculty of mathematics and natural sciences, bandung institute of technology, indonesia"	-0.2952	0.5489	96	3	7	4	5	5.1898	2019	1.25	1.2975
+1065	"department of physics, faculty of mathematics and natural sciences, bandung institute of technology, jl. ganesha no 10, west java, 40132, indonesia"	-0.2788	0.3464	125	0	0	2	0	0	2019	0	0
+1066	"department of physics, faculty of mathematics and natural sciences, bogor agricultural university of indonesia, bogor, indonesia"	-0.107	0.4338	18	5	8	2	2	2.0759	2019	1	1.038
+1068	"department of physics, faculty of mathematics and natural sciences, diponegoro university, indonesia"	-0.2953	0.5489	96	3	7	3	5	5.1898	2019	1.6667	1.7299
+1070	"department of physics, faculty of mathematics and natural sciences, diponegoro university, jl. prof. soedarto sh, tembalang, semarang, 50275, indonesia"	0.9021	-0.2983	43	3	4	2	7	7.2657	2019	3.5	3.6329
+1071	"department of physics, faculty of mathematics and natural sciences, diponegoro university, jl. prof. soedarto sh, tembalang, semarang, central java, 50275, indonesia"	0.9021	-0.2985	43	5	8	3	10	10.3796	2019	3.3333	3.4599
+1073	"department of physics, faculty of mathematics and natural sciences, institut teknologi bandung, bandung, 40132, indonesia"	0.5393	0.3411	10	14	14	6	39	40.4805	2019	6.5	6.7467
+1074	"department of physics, faculty of mathematics and natural sciences, institut teknologi bandung, bandung, indonesia"	-0.2569	-0.4391	3	9	9	5	4	4.1518	2019	0.8	0.8304
+1076	"department of physics, faculty of mathematics and natural sciences, institut teknologi bandung, ganesha 10, bandung, 40132, indonesia"	0.6581	-0.6708	35	8	8	3	1	1.038	2019	0.3333	0.346
+1078	"department of physics, faculty of mathematics and natural sciences, institut teknologi bandung, jalan ganesa 10, bandung, 40132, indonesia"	0.2586	-0.705	107	2	6	5	16	16.6074	2019	3.2	3.3215
+1079	"department of physics, faculty of mathematics and natural sciences, institut teknologi bandung, jalan ganesha 10, bandung, 40132, indonesia"	-0.3166	0.8395	44	2	3	4	8	8.3037	2019	2	2.0759
+1080	"department of physics, faculty of mathematics and natural sciences, institut teknologi bandung, jl. ganesa 10, bandung, 40132, indonesia"	-0.4961	0.2247	126	0	0	4	1	1.038	2019	0.25	0.2595
+1083	"department of physics, faculty of mathematics and natural sciences, institut teknologi bandung40132, indonesia"	0.0833	0.9341	67	4	4	1	6	6.2278	2019	6	6.2278
+1084	"department of physics, faculty of mathematics and natural sciences, jakarta state university, 10 rawamangun, jakarta, indonesia"	0.0937	0.6842	2	12	12	1	0	0	2019	0	0
+1085	"department of physics, faculty of mathematics and natural sciences, national center for sustainable transportation technology (ncstt), institut teknologi bandung, bandung, indonesia"	-0.1061	0.4327	18	2	4	2	0	0	2019	0	0
+1086	"department of physics, faculty of mathematics and natural sciences, syiah kuala university, darussalam, banda aceh, aceh 23111, indonesia"	0.0968	0.6832	2	7	7	1	4	4.1518	2019	4	4.1518
+1087	"department of physics, faculty of mathematics and natural sciences, udayana university, kampus bukit jimbaran, denpasar, 80361, indonesia"	0.0928	0.69	2	11	11	1	1	1.038	2019	1	1.038
+1088	"department of physics, faculty of mathematics and natural sciences, udayana university, kampus bukit jimbaran, denpasar, bali, 80361, indonesia"	0.0937	0.6844	2	12	12	1	0	0	2019	0	0
+1091	"department of physics, faculty of mathematics and natural sciences, universitas lambung mangkurat, banjarmasin, 70124, indonesia"	-0.7483	-0.4932	11	6	10	2	8	8.3037	2019	4	4.1518
+1092	"department of physics, faculty of mathematics and natural sciences, universitas negeri gorontalo, gorontalo, 96128, indonesia"	-0.7489	-0.4927	11	6	10	3	9	9.3417	2019	3	3.1139
+1094	"department of physics, faculty of mathematics and natural sciences, universitas negeri malang, jl. semarang 5, malang, 65145, indonesia"	0.3791	-0.3482	16	5	5	1	2	2.0759	2019	2	2.0759
+1095	"department of physics, faculty of mathematics and natural sciences, universitas negeri medan20221, indonesia"	0.0834	0.934	67	4	4	1	6	6.2278	2019	6	6.2278
+1099	"department of physics, faculty of mathematics and natural sciences, universitas padjadjaran, jl. raya jatinangor km 21, jatinangor, 45363, indonesia"	0.5352	-0.1883	78	4	4	1	8	8.3037	2019	8	8.3037
+1101	"department of physics, faculty of mathematics and science, institut pertanian bogor, bogor, 16680, indonesia"	-0.775	0.2867	39	7	7	1	1	1.038	2019	1	1.038
+1105	"department of physics, faculty of science and technology, universitas airlangga, jl. mulyorejo, surabaya, 60115, indonesia"	-0.7751	0.2867	39	7	7	1	1	1.038	2019	1	1.038
+1107	"department of physics, faculty of science, national university of singapore, singapore, 117542, singapore"	-0.7749	0.2868	39	7	7	1	1	1.038	2019	1	1.038
+1108	"department of physics, faculty of science, national university of singapore117542, singapore"	0.6582	-0.6708	35	8	8	1	1	1.038	2019	1	1.038
+1109	"department of physics, faculty of sciences and mathematics, diponegoro university, semarang, 50275, indonesia"	0.0924	0.6897	2	11	11	1	1	1.038	2019	1	1.038
+1110	"department of physics, faculty of sciences and mathematics, diponegoro university, tembalang, semarang, 50275, indonesia"	0.0942	0.6842	2	12	12	1	0	0	2019	0	0
+1118	"department of physics, institut teknologi bandung, indonesia"	0.0943	-0.811	31	5	5	3	6	6.2278	2019	2	2.0759
+1121	"department of physics, institut teknologi bandung, jalan ganesha, bandung, 40132, indonesia"	0.3833	0.8694	54	5	5	1	1	1.038	2019	1	1.038
+1122	"department of physics, institut teknologi bandung, jl. ganesha 10, bandung, 40132, indonesia"	-0.3169	0.8397	44	4	4	1	1	1.038	2019	1	1.038
+1123	"department of physics, institut teknologi bandung, jl. ganesha no.10, bandung, west java, 40132, indonesia"	-0.8641	-0.3818	75	4	4	1	11	11.4176	2019	11	11.4176
+1129	"department of physics, krishna university, dr. mrar pg centre, nuzvid, 521 201, india"	0.5443	0.3413	10	6	6	1	5	5.1898	2019	5	5.1898
+1130	"department of physics, kyungpook national university, daegu, 41566, south korea"	0.3861	0.0054	7	19	61	4	26	26.987	2019	6.5	6.7467
+1131	"department of physics, kyungpook national university, daegu, south korea"	-0.8826	-0.2423	9	18	18	1	4	4.1518	2019	4	4.1518
+1134	"department of physics, sejong university, seoul, 05006, south korea"	0.3852	0.0055	7	19	61	4	26	26.987	2019	6.5	6.7467
+1135	"department of physics, sejong university, seoul, south korea"	-0.8818	-0.2428	9	18	18	1	4	4.1518	2019	4	4.1518
+1136	"department of physics, sogang university, seoul, 04107, south korea"	0.3867	0.0035	7	17	17	1	4	4.1518	2019	4	4.1518
+1139	"department of physics, sungkyunkwan university, suwon, 16419, south korea"	0.3865	0.0046	7	19	61	4	26	26.987	2019	6.5	6.7467
+1140	"department of physics, sungkyunkwan university, suwon, south korea"	-0.8825	-0.2425	9	18	18	1	4	4.1518	2019	4	4.1518
+1142	"department of physics, uin sunan gunung djati bandung, indonesia"	0.0947	-0.8108	31	5	5	1	5	5.1898	2019	5	5.1898
+1150	"department of physics, universitas islam negri sunan gunung djati bandung, indonesia"	0.095	-0.8115	31	4	4	1	2	2.0759	2019	2	2.0759
+1152	"department of physics, universitas san pedro, kupang, indonesia"	0.3604	0.7431	17	6	6	1	1	1.038	2019	1	1.038
+1153	"department of physics, universitas syiah kuala, banda aceh, 23111, indonesia"	0.7003	-0.3972	72	4	4	1	0	0	2019	0	0
+1154	"department of physics, university of agriculture, faisalabad, 38040, pakistan"	0.1012	0.6823	2	11	11	1	8	8.3037	2019	8	8.3037
+1155	"department of physics, university of azad, jammu and kashmir, muzaffarabad, 13230, pakistan"	0.0945	0.6842	2	12	12	1	0	0	2019	0	0
+1156	"department of physics, university of azad, jammu and kashmir, muzaffarabad, pakistan"	0.1017	0.6827	2	11	11	1	8	8.3037	2019	8	8.3037
+1158	"department of physics, university of helsinki, helsinki, fi-00014, finland"	0.3865	0.0035	7	17	17	1	4	4.1518	2019	4	4.1518
+1159	"department of physics, university of illinois at urbana-champaign, urbana, il 61801, united states"	0.386	0.0045	7	19	61	4	26	26.987	2019	6.5	6.7467
+1160	"department of physics, university of illinois at urbana-champaign, urbana, il, united states"	-0.8821	-0.2422	9	18	18	1	4	4.1518	2019	4	4.1518
+1162	"department of physics, wisconsin icecube particle astrophysics center, university of wisconsin-madison, madison, wi 53706, united states"	0.3844	0.0047	7	14	14	1	5	5.1898	2019	5	5.1898
+1163	"department of physics, yale university, new haven, ct, united states"	-0.8818	-0.2427	9	18	18	1	4	4.1518	2019	4	4.1518
+1164	"department of physics, yogi vemana university, kadapa, 516 005, india"	0.5439	0.341	10	6	6	1	5	5.1898	2019	5	5.1898
+1165	"department of physiology, school of basic medical sciences, health sciences center, shenzhen university, shenzhen, 518060, china"	0.5402	0.3408	10	7	7	1	11	11.4176	2019	11	11.4176
+1166	"department of plant & environmental new resources, kyung hee university, 1732 deogyeong-daero, giheung-gu, yongin-si, gyeonggi-do, 446-701, south korea"	-0.0286	-0.9341	30	9	9	1	2	2.0759	2019	2	2.0759
+1167	"department of plant & environmental new resources, kyung hee university, 1732 deogyeong-daero, giheunggu, yongin-si, gyeonggi-do 446-701, south korea"	0.602	0.6791	1	9	9	1	19	19.7213	2019	19	19.7213
+1168	"department of plant and environmental new resources, kyung hee university, 1732 deogyeong-daero, giheung-gu, yongin-si gyeonggi-do, 446-701, south korea"	0.5853	0.6828	1	12	12	2	9	9.3417	2019	4.5	4.6708
+1169	"department of plant and environmental new resources, kyung hee university, 1732 deogyeong-daero, giheung-gu, yongin-si, gyeonggi-do, 446-701, south korea"	0.5928	0.6736	1	7	7	1	4	4.1518	2019	4	4.1518
+1170	"department of plant and environmental new resources, kyung hee university, 1732 deogyeong-daero, giheunggu, yongin-si, gyeonggi-do 446-701, south korea"	0.5704	0.6918	1	9	9	1	19	19.7213	2019	19	19.7213
+1174	"department of radiation oncology, kobe proton center, 1-6-8 minatoshima minamimachi, chuoku, kobe, 650-0047, japan"	0.5705	0.6916	1	9	9	1	19	19.7213	2019	19	19.7213
+1176	"department of radiotherapy, kobe proton center, 1-6-8, minatoshima minamimachi, kobe, hyogo, 650-0047, japan"	-0.0286	-0.9342	30	9	9	1	2	2.0759	2019	2	2.0759
+1177	"department of refrigeration and air conditioning, gegerkalong hilir, politeknik negeri bandung, bandung, ciwaruga 40012, indonesia"	0.5983	-0.3325	53	5	5	1	2	2.0759	2019	2	2.0759
+1182	"department of renewable energy engineering, prasetiya mulya university, kavling edutown i.1, bsd raya utama, bsd city, tangerang, 15339, indonesia"	0.6582	-0.6708	35	8	8	1	1	1.038	2019	1	1.038
+1183	"department of renewable energy engineering, universitas prasetiya mulya, tangerang, indonesia"	0.3601	0.7416	17	4	4	1	3	3.1139	2019	3	3.1139
+1184	"department of respiratory medicine, amsterdam university medical centers, university of amsterdam, amsterdam, 1105 az, netherlands"	-0.9141	0.1713	14	14	14	1	4	4.1518	2019	4	4.1518
+1186	"department of science education, ewha womans university, seoul, 03760, south korea"	0.3847	0.0049	7	19	61	4	26	26.987	2019	6.5	6.7467
+1187	"department of science education, ewha womans university, seoul, south korea"	-0.8822	-0.2422	9	18	18	1	4	4.1518	2019	4	4.1518
+1191	"department of silviculture, faculty of forestry, ipb university, bogor, 16144, indonesia"	-0.4891	-0.8248	63	4	4	1	0	0	2019	0	0
+1200	"department of transdisciplinary science and engineering, tokyo institute of technology, 2-12-1 ookayama, meguro-ku, tokyo, 152-8550, japan"	-0.2947	0.7252	38	7	8	3	14	14.5315	2019	4.6667	4.8438
+1201	"department of urban and civil engineering, tokyo city university, tokyo, japan"	-0.2058	-0.0047	4	10	10	1	15	15.5694	2019	15	15.5694
+1202	"department of urban and regional planning, universitas komputer indonesia, bandung, indonesia"	-0.2568	-0.4392	3	9	9	2	3	3.1139	2019	1.5	1.5569
+1204	"department of water and environmental engineering, faculty of civil engineering, universiti teknologi malaysia, utm johor bahrujohor 81310, malaysia"	0.5983	-0.3325	53	5	5	1	2	2.0759	2019	2	2.0759
+1211	"dept. of atmospheric and environmental sciences, university at albany, 1400 washington ave., albany, ny 12222, united states"	-0.5513	0.3124	82	4	4	1	1	1.038	2019	1	1.038
+1212	"dept. of earth, environmental, and planetary sciences, brown university, 324 brook street, providence, ri 02912, united states"	-0.5512	0.3124	82	4	4	1	1	1.038	2019	1	1.038
+1213	"dept. of earth, environmental, and planetary sciences, rice university, 6100 main street, houston, tx 77005, united states"	-0.5513	0.3124	82	4	4	1	1	1.038	2019	1	1.038
+1218	"dept. of environmental science, graduate school, universitas padjadjaran, jl. raya bandung-sumedang km 21, jatinangor, jawa barat, 45363, indonesia"	-0.0869	0.9362	83	4	4	1	0	0	2019	0	0
+1219	"dept. of pharmacy, faculty of pharmacy, universitas padjadjaran, jl. raya bandung-sumedang km 21, jatinangor, jawa barat, 45363, indonesia"	-0.0869	0.9362	83	4	4	1	0	0	2019	0	0
+1224	"dept. of physics, faculty of mathematics and natural sciences, universitas padjadjaran, jl. raya bandung-sumedang km 21, jatinangor, jawa barat, 45363, indonesia"	-0.0869	0.9361	83	4	4	1	0	0	2019	0	0
+1225	"dept. of physics, graduate school, institute of technology bandung, jl. ganesha no.10, kota bandung, jawa barat, 40132, indonesia"	-0.0869	0.9361	83	4	4	1	0	0	2019	0	0
+1226	"dept. transdisciplinary science and engieering, tokyo institute of technology, tokyo, japan"	-0.0608	-0.1994	8	4	4	1	1	1.038	2019	1	1.038
+1229	"dexa laboratories of biomolecular sciences, dexa medica, industri selatan v pp-7, jababeka ii industrial estate, cikarang, 17550, indonesia"	0.2205	-0.6294	81	4	4	1	5	5.1898	2019	5	5.1898
+1231	"digital rock physics and soil mechanical laboratory, department of physics education, faculty of mathematics and natural sciences education, universitas pendidikan indonesia, bandung, indonesia"	-0.9444	0.0536	101	2	4	2	0	0	2019	0	0
+1233	"dinas energi and sumber daya mineral, jawa tengah, indonesia"	-0.1465	0.8191	58	5	5	1	0	0	2019	0	0
+1235	"direct. general of water resources, ministry of public works and housing, jl. pattimura no. 20, kebayoran baru, jakarta selatan, indonesia"	-0.4587	0.3881	66	4	4	1	0	0	2019	0	0
+1236	"directorate general of oil and gas, ministry of energy and mineral resources of republic of indonesia, indonesia"	0.9241	0.029	40	7	7	1	0	0	2019	0	0
+1238	"division of bionanotechnology, nano center indonesia, jl. raya serpong, tangerang selatan, 15310, indonesia"	-0.6856	0.4322	22	11	11	1	7	7.2657	2019	7	7.2657
+1239	"division of bionanotechnology, nano center indonesia, tangerang selatan, indonesia"	0.7924	-0.4895	29	9	9	1	4	4.1518	2019	4	4.1518
+1244	"division of inorganic and physical chemistry, faculty of mathematics and natural sciences, institut teknologi bandung, jl. ganesha 10, bandung, 40132, indonesia"	0.3792	-0.3484	16	5	5	1	2	2.0759	2019	2	2.0759
+1245	"division of inorganic and physical chemistry, faculty of mathematics and natural sciences, institut teknologi bandung, jl. ganesha no. 10, bandung, 40132, indonesia"	-0.848	0.0274	28	2	4	3	5	5.1898	2019	1.6667	1.7299
+1248	"division of inorganic and physical chemistry, institut teknologi bandung, jl. ganesha no. 10, bandung, 40132, indonesia"	-0.8468	0.0264	28	7	8	4	14	14.5315	2019	3.5	3.6329
+1250	"division of molecular therapy, institute of medical science, the university of tokyo, 7 chome-3-1 hongo, tokyo, 113-8654, japan"	-0.6859	0.4324	22	11	11	1	7	7.2657	2019	7	7.2657
+1251	"division of molecular therapy, institute of medical science, university of tokyo, tokyo, japan"	0.7924	-0.4894	29	9	9	1	4	4.1518	2019	4	4.1518
+1252	"division of nephrology, department of medicine, university health network and university of toronto, toronto, on m5s, canada"	-0.914	0.1712	14	14	14	1	4	4.1518	2019	4	4.1518
+1254	"division of pharmacology, utrecht institute for pharmaceutical sciences, utrecht university, utrecht, 3512 je, netherlands"	-0.9143	0.1714	14	14	14	1	4	4.1518	2019	4	4.1518
+1256	"division of translational therapeutics, department of pediatrics, faculty of medicine, university of british columbia, vancouver, bc v6t 1z4, canada"	-0.9144	0.1706	14	14	14	1	4	4.1518	2019	4	4.1518
+1257	"division of visual communication and multimedia, institut teknologi bandung, jl. ganesha no. 10, bandung, 40132, indonesia"	-0.8465	0.0262	28	6	6	1	3	3.1139	2019	3	3.1139
+1258	"division of zoology, research center for biology, indonesian institute of sciences (lipi), jalan raya jakarta bogor km 46, cibinong, 16911, indonesia"	0.1534	0.9221	84	4	4	1	3	3.1139	2019	3	3.1139
+1263	"doctoral program of biomedical sciences, faculty of medicine, universitas indonesia, jakarta, indonesia"	-0.1985	-0.0418	4	6	6	1	2	2.0759	2019	2	2.0759
+1264	"doctoral program of civil engineering, civil and environmental engineering faculty, institut teknologi bandung, jl. ganesha 10, bandung, indonesia"	-0.4587	0.3881	66	4	4	1	0	0	2019	0	0
+1291	"economic faculty, universitas nasional pasim, bandung, 40175, indonesia"	0.9164	-0.1561	24	10	10	1	0	0	2019	0	0
+1305	"electrical engineering, department universitas diponegoro, indonesia"	-0.1463	0.8192	58	5	5	1	0	0	2019	0	0
+1316	"electronic materials physics research division, institut teknologi bandung, jalan ganesha 10, bandung, 40132, indonesia"	0.5925	-0.7297	102	2	4	2	1	1.038	2019	0.5	0.519
+1329	engineering	-0.6759	-0.281	85	4	4	1	1	1.038	2019	1	1.038
+1332	"engineering fac., andalas university, indonesia"	-0.6759	-0.281	85	4	4	2	2	2.0759	2019	1	1.038
+1333	"engineering fac., institute tech. of bandung, indonesia"	-0.6757	-0.2815	85	4	4	1	1	1.038	2019	1	1.038
+1335	"engineering fac., udayana university, indonesia"	-0.6758	-0.2813	85	4	4	1	1	1.038	2019	1	1.038
+1336	"engineering geophysics, syiah kuala university, indonesia"	-0.6279	-0.5995	59	5	5	1	1	1.038	2019	1	1.038
+1339	"engineering physics department and research centre for nanoscience and nanotechnology, institut teknologi bandung, bandung, 40132, indonesia"	-0.0287	-0.9342	30	9	9	1	2	2.0759	2019	2	2.0759
+1351	"engineering physics program, institut teknologi sumatera, lampung selatan, indonesia"	0.3602	0.744	17	6	6	1	1	1.038	2019	1	1.038
+1353	"engineering physics research group, faculty of industrial technology, institut teknologi bandung, bandung, 40132, indonesia"	0.6339	0.0549	127	0	0	2	4	4.1518	2019	2	2.0759
+1356	"engineering physics research group, institut teknologi bandung, bandung, 40132, indonesia"	0.4588	0.3459	6	4	4	1	7	7.2657	2019	7	7.2657
+1357	"engineering physics research group, institut teknologi bandung, bandung, indonesia"	0.3599	0.7433	17	7	7	2	1	1.038	2019	0.5	0.519
+1363	"engineering physics, school of electrical engineering, telkom university, bandung, jawa barat 40257, indonesia"	0.3702	-0.7631	64	4	4	1	2	2.0759	2019	2	2.0759
+1364	"engineering physics, school of electrical engineering, telkom university, jalan telekomunikasi no.1, terusan buah batu, bandung, indonesia"	-0.5202	0.1906	128	0	0	2	0	0	2019	0	0
+1367	"environmental department, pt freeport indonesia, timika, papua, 99971, indonesia"	0.797	0.4593	21	11	11	1	2	2.0759	2019	2	2.0759
+1381	"environmental engineering department, institute of technology bandung, indonesia"	0.0267	0.953	98	2	4	2	2	2.0759	2019	1	1.038
+1390	"exploration and engineering seismology research group, bandung institute of technology, bandung, indonesia"	-0.8121	-0.3592	111	1	2	2	4	4.1518	2019	2	2.0759
+1396	"fac., north sumatra university, indonesia"	-0.6759	-0.281	85	4	4	1	1	1.038	2019	1	1.038
+1397	"faculty of agriculture, haluoleo university, jl. h.e.a. monokodompit no.1, anduonohu, kendari, 39237, indonesia"	-0.8804	0.3221	57	5	5	1	0	0	2019	0	0
+1398	"faculty of agriculture, khairun university, ternate city, nort maluku 97721, indonesia"	-0.8362	0.4049	56	5	5	1	1	1.038	2019	1	1.038
+1400	"faculty of agriculture, udayana university, bali, indonesia"	-0.2446	-0.4412	3	5	5	1	2	2.0759	2019	2	2.0759
+1402	"faculty of archaeology, leiden university, p.o. box 9514, leiden, netherlands"	0.0738	0.3136	86	4	4	1	3	3.1139	2019	3	3.1139
+1405	"faculty of biosciences and medical engineering, universiti teknologi malaysia, utm, skudai, johor, 81310, malaysia"	-0.2369	-0.9153	73	4	4	1	0	0	2019	0	0
+1415	"faculty of civil and environmental engineering, bandung institute of technology, ganesha 10, bandung, 40132, indonesia"	-0.6357	0.1967	60	5	5	1	18	18.6833	2019	18	18.6833
+1417	"faculty of civil and environmental engineering, institut teknologi bandung (itb), bandung, indonesia"	-0.2058	-0.0046	4	10	11	2	25	25.949	2019	12.5	12.9745
+1427	"faculty of computer science, informatics engineering department, universitas dian nuswantoro, semarang, 50131, indonesia"	0.4441	0.3499	6	6	6	1	0	0	2019	0	0
+1430	"faculty of earth science and technology, bandung institute of technology, bandung, 40132, indonesia"	0.797	0.4592	21	11	11	1	2	2.0759	2019	2	2.0759
+1432	"faculty of earth science and technology, bandung institute of technology, ganesha 10, bandung, 40132, indonesia"	-0.6354	0.197	60	5	5	1	18	18.6833	2019	18	18.6833
+1436	"faculty of earth sciences and technology, bandung institute of technology, bandung, 40116, indonesia"	-0.5816	0.7152	20	7	9	2	9	9.3417	2019	4.5	4.6708
+1437	"faculty of earth sciences and technology, bandung institute of technology, bandung, 40132, indonesia"	-0.5813	0.7143	20	4	4	1	2	2.0759	2019	2	2.0759
+1438	"faculty of earth sciences and technology, bandung institute of technology, bandung, indonesia"	-0.2875	-0.5662	5	28	48	6	23	23.8731	2019	3.8333	3.9789
+1441	"faculty of earth sciences and technology, bandung institute of technology, jl. ganesha 10, bandung, 40132, indonesia"	-0.7803	0.5303	87	4	4	1	0	0	2019	0	0
+1445	"faculty of earth sciences and technology, institut teknologi bandung, bandung, indonesia"	-0.2349	-0.4356	3	14	14	2	8	8.3037	2019	4	4.1518
+1446	"faculty of earth sciences and technology, institut teknologi bandung, jalan ganesa no. 10, bandung, 40132, indonesia"	-0.9288	-0.0871	32	8	8	1	1	1.038	2019	1	1.038
+1451	"faculty of eath science and technology, haluoleo university, jl. h.e.a. monokodompit no.1, anduonohu, kendari, 39237, indonesia"	-0.8804	0.3219	57	5	5	1	0	0	2019	0	0
+1457	"faculty of education, aichi university of education, kariya, aichi, 448-8542, japan"	-0.4042	-0.8628	61	5	5	1	3	3.1139	2019	3	3.1139
+1471	"faculty of environment and labour safety, ton duc thang university, no.19 nguyen huu tho street, tan phong ward, district 7, ho chi minh city, viet nam"	0.5983	-0.3325	53	5	5	1	2	2.0759	2019	2	2.0759
+1473	"faculty of fisheries and marine science, jenderal soedirman university, purwokerto, 53123, indonesia"	-0.5817	0.7152	20	5	5	1	3	3.1139	2019	3	3.1139
+1478	"faculty of human ecology, bogor agricultural university, indonesia"	-0.2232	-0.4275	3	4	4	1	2	2.0759	2019	2	2.0759
+1485	"faculty of industrial technology, catalysis and reaction engineering, institut teknologi bandung, bandung, 40132, indonesia"	0.4434	0.3497	6	6	6	1	0	0	2019	0	0
+1486	"faculty of industrial technology, engineering physics department, institut teknologi bandung, bandung, 40132, indonesia"	0.4441	0.3499	6	6	6	1	0	0	2019	0	0
+1489	"faculty of industrial technology, universitas pgri adi buana, surabaya, 60234, indonesia"	-0.4165	0.8494	80	4	4	1	0	0	2019	0	0
+1490	"faculty of informatic and computing, universiti sultan zainal abidin, indonesia"	0.0952	-0.8113	31	4	4	1	2	2.0759	2019	2	2.0759
+1491	"faculty of informatics and computing, universiti sultan zainal abidin, malaysia"	0.0947	-0.8108	31	5	5	1	5	5.1898	2019	5	5.1898
+1492	"faculty of information and communication technology, universiti teknikal malaysia melaka, melacca, 76100, malaysia"	0.9164	-0.1561	24	10	10	1	0	0	2019	0	0
+1497	"faculty of mathematic and natural sciences, institut teknologi bandung. jl. ganesha no. 10 bandung40133, indonesia"	-0.1792	0.6695	50	5	5	1	1	1.038	2019	1	1.038
+1502	"faculty of mathematics and natural science, institut teknologi bandung, jalan ganesha 10, bandung, 40132, indonesia"	-0.3571	0.4461	88	4	4	1	5	5.1898	2019	5	5.1898
+1505	"faculty of mathematics and natural science, padjadjaran university, jl. bandung-sumedang km.21, jatinangor, sumedang, 45363, indonesia"	-0.8804	0.3221	57	5	5	1	0	0	2019	0	0
+1506	"faculty of mathematics and natural science, samratulangi university, jl. kampus unsrat bahu, manado, 95115, indonesia"	-0.8804	0.3221	57	5	5	1	0	0	2019	0	0
+1507	"faculty of mathematics and natural sciences institut teknologi bandung, department of physics, bandung, indonesia"	-0.1056	0.432	18	7	9	3	0	0	2019	0	0
+1513	"faculty of mathematics and natural sciences, diponegoro university, tembalang, semarang, 50275, indonesia"	0.1013	0.6824	2	11	11	1	8	8.3037	2019	8	8.3037
+1514	"faculty of mathematics and natural sciences, institut teknologi bandung, bandung, 40132, indonesia"	0.5527	0.3408	10	5	5	3	5	5.1898	2019	1.6667	1.7299
+1518	"faculty of mathematics and natural sciences, institut teknologi bandung, jl. ganesha 10, bandung, 40132, indonesia"	0.7757	0.5452	89	4	4	1	2	2.0759	2019	2	2.0759
+1520	"faculty of mathematics and natural sciences, jakarta state university, 10 rawamangun, jakarta, 13220, indonesia"	0.1018	0.6826	2	11	11	1	8	8.3037	2019	8	8.3037
+1521	"faculty of mathematics and natural sciences, jakarta state university, rawamangun muka, jakarta, 13220, indonesia"	0.0926	0.6904	2	11	11	1	1	1.038	2019	1	1.038
+1522	"faculty of mathematics and natural sciences, syiah kuala university, darussalam, banda aceh, 23111, indonesia"	0.1017	0.6828	2	11	11	1	8	8.3037	2019	8	8.3037
+1523	"faculty of mathematics and natural sciences, udayana university, kampus bukit jimbaran, denpasar, bali, 80361, indonesia"	0.1017	0.6827	2	11	11	1	8	8.3037	2019	8	8.3037
+1524	"faculty of mathematics and natural sciences, universitas lambung mangkurat, banjarmasin, 70124, indonesia"	-0.7467	-0.4929	11	1	2	2	4	4.1518	2019	2	2.0759
+1527	"faculty of mechanical and aerospace engineering, bandung institute of technology, bandung, indonesia"	-0.8257	0.4724	103	2	6	4	0	0	2019	0	0
+1533	"faculty of mechanical and aerospace engineering, institut teknologi bandung, bandung, indonesia"	-0.0779	-0.2017	8	4	7	11	13	13.4935	2019	1.1818	1.2267
+1534	"faculty of mechanical and aerospace engineering, institut teknologi bandung, ganesha 10, bandung, 40132, indonesia"	-0.2945	0.7255	38	4	4	1	6	6.2278	2019	6	6.2278
+1535	"faculty of mechanical and aerospace engineering, institut teknologi bandung, ganesha street no. 10, bandung, west java 40132, indonesia"	0.9051	0.2821	52	5	5	1	6	6.2278	2019	6	6.2278
+1536	"faculty of mechanical and aerospace engineering, institut teknologi bandung, indonesia"	-0.0563	-0.1986	8	2	3	12	4	4.1518	2019	0.3333	0.346
+1541	"faculty of mechanical and aerospace engineering, institut teknologi, bandung, indonesia"	-0.059	-0.1989	8	8	8	3	2	2.0759	2019	0.6667	0.692
+1549	"faculty of medicine, universitas airlangga, surabaya, indonesia"	0.2669	0.8957	25	10	10	1	10	10.3796	2019	10	10.3796
+1550	"faculty of medicine, universitas indonesia, campus ui salemba, jakarta, 10430, indonesia"	0.8458	0.3521	34	8	8	1	2	2.0759	2019	2	2.0759
+1553	"faculty of medicine, university of tsukuba, 1-1-1 tennoudai, tsukuba, ibaraki 305-8576, japan"	-0.0287	-0.9342	30	9	9	1	2	2.0759	2019	2	2.0759
+1557	"faculty of mining and petroleum engineering, bandung institute of technology, ganesha 10, bandung, 40132, indonesia"	-0.6354	0.197	60	5	5	1	18	18.6833	2019	18	18.6833
+1558	"faculty of mining and petroleum engineering, bandung institute of technology, jl. ganesha 10, bandung, 40132, indonesia"	-0.7805	0.5302	87	4	4	1	0	0	2019	0	0
+1561	"faculty of mining and petroleum engineering, institut teknologi bandung, bandung, 40132, indonesia"	-0.7464	-0.4929	11	18	26	11	24	24.9111	2019	2.1818	2.2646
+1562	"faculty of mining and petroleum engineering, institut teknologi bandung, bandung, indonesia"	-0.2198	-0.4119	3	10	10	4	7	7.2657	2019	1.75	1.8164
+1564	"faculty of mining and petroleum engineering, institut teknologi bandung, indonesia"	-0.1626	0.9281	55	5	5	3	4	4.1518	2019	1.3333	1.3839
+1565	"faculty of mining and petroleum engineering, institut teknologi bandung, jalan ganesa 10, bandung, 40132, indonesia"	-0.5512	0.3124	82	4	4	1	1	1.038	2019	1	1.038
+1566	"faculty of mining and petroleum engineering, institut teknologi bandung, jalan ganesa 10, bandung, 40291, indonesia"	0.9203	0.1009	76	4	4	1	9	9.3417	2019	9	9.3417
+1569	"faculty of mining and petroleum engineering, institut teknologi bandung, jl. ganesha 10, bandung, jawa barat, 40132, indonesia"	-0.6581	-0.6853	23	10	10	1	9	9.3417	2019	9	9.3417
+1570	"faculty of mining and petroleum engineering, institut teknologi bandung, jl. ganesha 10/12, bandung, 40132, indonesia"	-0.8805	0.3218	57	5	5	1	0	0	2019	0	0
+1575	"faculty of pharmaceutical sciences, the university of british columbia, vancouver, bc v6t 1z4, canada"	-0.9138	0.1709	14	14	14	1	4	4.1518	2019	4	4.1518
+1581	"faculty of pharmacy, universitas pancasila, jl. srengseng sawah, jagakarsa, jakarta, 12640, indonesia"	0.7738	0.0756	95	3	6	2	3	3.1139	2019	1.5	1.5569
+1584	"faculty of physics and mathematics, tashkent state pedagogical university, 27 bunyodkor street, tashkent, 100070, uzbekistan"	0.3832	0.8695	54	5	5	1	1	1.038	2019	1	1.038
+1585	"faculty of physics, national university of uzbekistan, vuzgorodok, tashkent, 100174, uzbekistan"	0.3832	0.8695	54	5	8	3	1	1.038	2019	0.3333	0.346
+1589	"faculty of science and engineering, waseda university, 3-4-1 okubo, shinjuku, tokyo, 169-8555, japan"	0.602	0.6791	1	9	9	1	19	19.7213	2019	19	19.7213
+1590	"faculty of science and technology, research center for quantum engineering design, universitas airlangga, surabaya, 60115, indonesia"	0.444	0.3499	6	6	6	1	0	0	2019	0	0
+1595	"faculty of science and technology, university of pelita harapan, 1100 m. h. thamrin boulevard, tangerang, 15811, indonesia"	0.0929	0.6904	2	11	11	1	1	1.038	2019	1	1.038
+1596	"faculty of science, department of earth sciences, vrije universiteit, de boelelaan 1085, amsterdam, 1081hv, netherlands"	0.0739	0.3135	86	4	4	1	3	3.1139	2019	3	3.1139
+1597	"faculty of science, engineering and technology, swinburne university of technology, po box 218, hawthorn, victoria 3122, australia"	0.9053	0.2822	52	5	5	1	6	6.2278	2019	6	6.2278
+1598	"faculty of science, fukuoka university, jonan-ku, fukuoka, 814-0180, japan"	0.3702	-0.7631	64	4	4	1	2	2.0759	2019	2	2.0759
+1603	"faculty of social sciences and political sciences, airlangga university, indonesia"	-0.2234	-0.4281	3	4	4	1	2	2.0759	2019	2	2.0759
+1612	"first institute of oceanography, ministry of natural resources, qingdao, 266061, china"	-0.5818	0.7151	20	4	4	1	6	6.2278	2019	6	6.2278
+1613	"first institute of oceanography, soa, qingdao, china"	-0.3018	-0.5871	5	8	8	1	2	2.0759	2019	2	2.0759
+1619	"food and nutrition department, faculty of engineering, universitas negeri jakarta, jakarta, indonesia"	0.251	-0.8689	13	6	6	1	0	0	2019	0	0
+1623	"forestry engineering, faculty of production and industrial technology, institut teknologi sumatera (itera), lampung selatan, 35551, indonesia"	-0.8362	0.4049	56	5	5	1	1	1.038	2019	1	1.038
+1626	"formind institute (indonesian young researcher forum), bandung, indonesia"	-0.2456	-0.4437	3	6	6	2	2	2.0759	2019	1	1.038
+1632	"fukui science education academy, takagi chuo 2 chome, fukui, 910-0804, japan"	0.0926	0.6898	2	11	11	1	1	1.038	2019	1	1.038
+1633	"fukui science education academy, takagi chuou 2 choume, fukui, 910-0804, japan"	0.0975	0.6836	2	25	30	3	12	12.4555	2019	4	4.1518
+1646	"geodesy research group, faculty of earth science and technology, bandung institute of technology, bandung, indonesia"	0.7305	-0.5883	90	4	4	1	0	0	2019	0	0
+1656	"geodesy research group, faculty of earth sciences and technology, institute of technology bandung, bandung, indonesia"	-0.2355	0.3517	129	0	0	2	2	2.0759	2019	1	1.038
+1667	"geodynamic and sedimentology research group, faculty of earth sciences and technology, institut teknologi bandung, bandung, 40132, indonesia"	-0.3194	-0.8967	45	6	6	1	0	0	2019	0	0
+1670	"geographical institute, university of cologne, zülpicher str. 45, cologne, 50674, germany"	0.9202	0.101	76	4	4	1	9	9.3417	2019	9	9.3417
+1671	"geological engineering department, bandung istitute of techology, bandung, indonesia"	0.3019	-0.5125	91	4	5	2	0	0	2019	0	0
+1672	"geological engineering department, faculty of engineering, gadjah mada university, indonesia"	-0.2233	-0.4277	3	4	4	1	2	2.0759	2019	2	2.0759
+1673	"geological engineering department, gadjah mada university, yogyakarta, indonesia"	0.302	-0.5125	91	4	5	2	0	0	2019	0	0
+1674	"geological engineering department, jenderal soedirman university, purbalingga, indonesia"	0.302	-0.5125	91	4	4	1	0	0	2019	0	0
+1680	"geology department, institut teknologi bandung, jalan ganesha 10, bandung, 40132, indonesia"	0.0738	0.3136	86	4	4	1	3	3.1139	2019	3	3.1139
+1684	"geomatics engineering, department of regional and infrastructure technology, institut teknologi sumatera, lampung selatan, 35365, indonesia"	-0.2547	0.9103	51	5	5	1	1	1.038	2019	1	1.038
+1687	"geophysical engineering department, institut teknologi sepuluh nopember, surabaya, indonesia"	0.3019	-0.5125	91	4	4	1	0	0	2019	0	0
+1689	"geophysical engineering study program, bandung institute of technology, indonesia"	0.9242	0.0287	40	7	7	1	0	0	2019	0	0
+1690	"geophysical engineering study program, faculty of mining and petroleum engineering, institut teknologi bandung, bandung, 40132, indonesia"	-0.3196	-0.8967	45	6	7	3	0	0	2019	0	0
+1695	"geophysical engineering, department of sciences, institut teknologi sumatera, indonesia"	-0.1433	-0.93	36	2	4	2	0	0	2019	0	0
+1697	"geophysical engineering, faculty of mining and petroleum engineering, institut teknologi bandung, indonesia"	-0.1426	-0.9308	36	6	6	2	11	11.4176	2019	5.5	5.7088
+1710	"geophysical institute, university of bergen, bergen, norway"	-0.7067	-0.1404	48	5	5	1	5	5.1898	2019	5	5.1898
+1722	"geotechnical engineering research group, faculty of civil and environment, institut teknologi bandung, jalan ganesa no. 10, bandung, 40132, indonesia"	-0.4269	0.6672	92	4	4	1	2	2.0759	2019	2	2.0759
+1731	"gfz german research centre for geosciences, helmholtz centre potsdam, telegrafenberg, potsdam, 14473, germany"	-0.6581	-0.6852	23	10	10	1	9	9.3417	2019	9	9.3417
+1732	"gfz german research centre for geosciences, section 5.3. geomicrobiology, potsdam, d-14473, germany"	-0.7438	-0.4928	11	10	10	1	4	4.1518	2019	4	4.1518
+1737	"global geophysics group, institut teknologi bandung, indonesia"	-0.5435	-0.7963	112	1	1	3	1	1.038	2019	0.3333	0.346
+1740	"global geophysics research group, faculty of mining and petroleum engineering, bandung institute of technology, bandung, indonesia"	0.7304	-0.5884	90	4	4	1	0	0	2019	0	0
+1741	"global geophysics research group, faculty of mining and petroleum engineering, bandung institute of technology, indonesia"	-0.2234	-0.4281	3	4	4	3	13	13.4935	2019	4.3333	4.4978
+1743	"global geophysics research group, faculty of mining and petroleum engineering, institut teknologi bandung, bandung, 40132, indonesia"	-0.3194	-0.8967	45	6	7	3	4	4.1518	2019	1.3333	1.3839
+1744	"global geophysics research group, faculty of mining and petroleum engineering, institut teknologi bandung, bandung, indonesia"	-0.2256	-0.4305	3	9	9	2	6	6.2278	2019	3	3.1139
+1746	"global geophysics research group, faculty of mining and petroleum engineering, institut teknologi bandung, indonesia"	-0.1428	-0.9302	36	3	5	7	2	2.0759	2019	0.2857	0.2966
+1748	"global geophysics research group, faculty of mining and petroleum engineering, institut teknologi bandung, jalan ganesa no. 10, bandung, 40132, indonesia"	-0.9289	-0.0873	32	8	8	2	2	2.0759	2019	1	1.038
+1749	"global geophysics research group, faculty of mining and petroleum engineering, institut teknologi bandung, jalan ganesha no. 10, bandung, 40132, indonesia"	-0.4265	0.6675	92	4	4	1	2	2.0759	2019	2	2.0759
+1754	"global geophysics research group, geophysical engineering, faculty of mining and petroleum engineering, institut teknologi bandung, indonesia"	-0.1429	-0.9308	36	5	5	1	11	11.4176	2019	11	11.4176
+1757	"global geophysics research group, institut teknologi bandung, indonesia"	-0.6278	-0.5997	59	5	5	1	1	1.038	2019	1	1.038
+1759	"gns science, lower hutt, new zealand"	-0.2244	-0.429	3	13	13	2	8	8.3037	2019	4	4.1518
+1770	"graduate program of earth sciences, faculty of earth science and technology, bandung institute of technology, bandung, indonesia"	0.7305	-0.5883	90	4	4	1	0	0	2019	0	0
+1777	"graduate school of engineering, department of applied physics, osaka university, 2-1 yamadaoka, suita city, osaka, 565-0871, japan"	0.444	0.3499	6	6	6	1	0	0	2019	0	0
+1780	"graduate school of engineering, osaka university, suita, osaka 565-0871, japan"	0.4591	0.3461	6	4	4	1	7	7.2657	2019	7	7.2657
+1782	"graduate school of frontier sciences, the university of tokyo, kashiwa, chiba 277-0827, japan"	-0.0283	-0.9341	30	9	9	1	2	2.0759	2019	2	2.0759
+1783	"graduate school of global environmental studies, kyoto university, yoshida-honmachi, sakyo-ku, kyoto, 606-8501, japan"	-0.4042	-0.8628	61	5	5	1	3	3.1139	2019	3	3.1139
+1785	"graduate school of human and environmental studies, kyoto university, sakyo-ku, kyoto, 606–8501, japan"	-0.4042	-0.8628	61	5	5	1	3	3.1139	2019	3	3.1139
+1786	"graduate school of industrial design department, keimyung university, daegu, south korea"	-0.6703	0.6923	105	2	2	2	1	1.038	2019	0.5	0.519
+1790	"graduate school of mathematics and applied sciences, universitas syiah kuala, banda aceh, 23111, indonesia"	0.7007	-0.397	72	4	4	1	0	0	2019	0	0
+1792	"graduate school of natural science and technology, kanazawa university, kanazawa, ishikawa 920-1192, japan"	0.3702	-0.7631	64	4	4	1	2	2.0759	2019	2	2.0759
+1793	"graduate school of oceanography, university of rhode island (uri), narragansett, ri, united states"	-0.2035	-0.5223	12	7	7	1	23	23.8731	2019	23	23.8731
+1796	"graduate school of science and technology, kumamoto university, 2-39-1 kurokami, kumomoto, 860-8555, japan"	-0.6354	0.197	60	5	5	1	18	18.6833	2019	18	18.6833
+1799	"graz university of technology, institute of high voltage engineering and system performance, graz, austria"	-0.1924	-0.0692	4	2	4	2	0	0	2019	0	0
+1801	"griffith centre for social and cultural research, griffith university, gold coast, queensland 4222, australia"	-0.8465	0.0261	28	6	6	1	3	3.1139	2019	3	3.1139
+1803	"guangdong key laboratory for biomedical measurements and ultrasound imaging, school of biomedical engineering, health sciences center, shenzhen university, shenzhen, 518060, china"	0.5402	0.3409	10	7	7	1	11	11.4176	2019	11	11.4176
+1806	"halliburton indonesia, indonesia"	0.9242	0.0287	40	7	7	1	0	0	2019	0	0
+1810	"hayandralab, yayasan hayandra peduli, jakarta, indonesia"	-0.1985	-0.0417	4	6	6	1	2	2.0759	2019	2	2.0759
+1812	"high energy accelerator research organization (kek), tsukuba, japan"	-0.8828	-0.2417	9	18	18	1	4	4.1518	2019	4	4.1518
+1817	"huawei us r and d center, united states"	0.7732	0.2371	49	5	5	1	2	2.0759	2019	2	2.0759
+1819	"hydrography research group, faculty of earth sciences and technology, institut teknologi bandung, bandung, indonesia"	0.6662	-0.5207	93	3	7	3	0	0	2019	0	0
+1821	"ibs school, university of science and technology (ust), daejeon, 34113, south korea"	0.3856	0.0033	7	19	61	4	26	26.987	2019	6.5	6.7467
+1822	"ibs school, university of science and technology (ust), daejeon, south korea"	-0.8819	-0.2421	9	18	18	1	4	4.1518	2019	4	4.1518
+1825	"ii. physikalisches institut, universität zu köln, zülpicher str. 77, köln, d-50937, germany"	-0.3573	0.4461	88	4	4	1	5	5.1898	2019	5	5.1898
+1830	"indonesia aerospace, bandung, indonesia"	-0.8257	0.4724	103	2	4	2	0	0	2019	0	0
+1835	"indonesia center for theoretical and mathematical physics (ictmp), institut teknologi bandung, jl. ganesha 10, bandung, 40132, indonesia"	0.166	0.2227	130	0	0	3	6	6.2278	2019	2	2.0759
+1843	"indonesia defense university, faculty of defense technology, bogor, indonesia"	-0.8256	0.4724	103	2	6	4	0	0	2019	0	0
+1846	"indonesian agency for meteorology, climatology and geophysics, indonesia"	-0.628	-0.5995	59	5	5	1	1	1.038	2019	1	1.038
+1847	"indonesian agency for meteorology, climatology, and geophysics, indonesia"	0.5484	-0.7714	70	4	4	1	1	1.038	2019	1	1.038
+1852	"indonesian center of theoretical and mathematical physics (ictmp), indonesia"	-0.4394	0.5603	104	2	5	6	1	1.038	2019	0.1667	0.173
+1865	"indonesian institute of sciences, research centre for electrical power and mechatronics, bandung, indonesia"	-0.6704	0.6923	105	2	3	2	0	0	2019	0	0
+1869	"indonesian society for geotechnical engineering, indonesia"	0.5481	-0.7716	70	4	4	1	1	1.038	2019	1	1.038
+1874	"industrial and financial mathematics group, faculty of mathematics and natural sciences, institut teknologi bandung, jl. ganesha 10, bandung, 40132, indonesia"	0.5352	-0.1883	78	4	4	1	8	8.3037	2019	8	8.3037
+1881	"industrial and financial mathematics research group, faculty of mathematics and natural sciences, institut teknologi bandung, jalan ganesha no. 10, bandung, 40132, indonesia"	-0.6323	-0.0861	131	0	0	2	0	0	2019	0	0
+1894	"informatics departement, institut bisnis dan teknologi kalbis, jakarta, 13210, indonesia"	-0.184	-0.1063	19	4	4	1	1	1.038	2019	1	1.038
+1899	"information system department, bina nusantara university jakarta, indonesia"	-0.5302	0.5255	71	4	4	1	0	0	2019	0	0
+1900	"information system study program, faculty of science and technology, universitas airlangga, jl. mulyorejo, surabaya, 60115, indonesia"	-0.7751	0.2867	39	7	7	1	1	1.038	2019	1	1.038
+1901	"information system technology department, institut teknologi bandung, indonesia"	-0.5302	0.5255	71	4	4	1	0	0	2019	0	0
+1917	"institut de physique du globe de paris, université sorbonne-paris-cité, cnrs, france"	-0.9289	-0.0872	32	8	8	1	1	1.038	2019	1	1.038
+1918	"institut de recherche pour le développement, umr 226 isem (um, cnrs, ird, ephe), université de montpellier, place eugène bataillon, cc 065, montpellier cedex 05, 34095, france"	0.1535	0.9221	84	4	4	1	3	3.1139	2019	3	3.1139
+1919	"institut des sciences de la terre (iste), université de lausanne, geopolis, lausanne, ch-1015, switzerland"	-0.744	-0.4924	11	10	10	1	4	4.1518	2019	4	4.1518
+1923	"institut für theoretische physik, universität zu köln, zülpicher str. 77a, köln, d-50937, germany"	-0.3573	0.4461	88	4	4	1	5	5.1898	2019	5	5.1898
+1933	"institut teknologi bandung, bandung, 40132, indonesia"	-0.0541	-0.8446	132	0	0	3	23	23.8731	2019	7.6667	7.9577
+1934	"institut teknologi bandung, bandung, indonesia"	-0.1972	-0.0468	4	15	17	26	52	53.974	2019	2	2.0759
+1940	"institut teknologi bandung, department of engineering physics, bandung, indonesia"	-0.0444	-0.1971	8	1	7	8	0	0	2019	0	0
+1961	"institut teknologi bandung, faculty of mechanical and aerospace engineering, bandung, indonesia"	-0.0661	-0.1999	8	2	2	4	0	0	2019	0	0
+1966	"institut teknologi bandung, indonesia"	0.4591	-0.8044	94	4	4	15	2	2.0759	2019	0.1333	0.1384
+1967	"institut teknologi bandung, industrial design department, bandung, indonesia"	-0.6703	0.6924	105	2	3	2	0	0	2019	0	0
+1990	"institut teknologi bandung, pt. pln (persero), school of electrical engineering and informatics, bandung, indonesia"	-0.1923	-0.0696	4	2	3	2	0	0	2019	0	0
+1995	"institut teknologi bandung, radio telecomm. and microwave lab., school of electrical eng. and informatics, bandung, indonesia"	-0.6658	0.6195	37	2	4	4	0	0	2019	0	0
+1996	"institut teknologi bandung, radio telecommunication and microwave laboratory school of electrical engineering and informatics, bandung, indonesia"	-0.7427	0.5842	108	2	2	2	0	0	2019	0	0
+2002	"institut teknologi bandung, research center for nanosciences and nanotechnology (rcnn), bandung, indonesia"	-0.1054	0.4317	18	5	5	1	0	0	2019	0	0
+2008	"institut teknologi bandung, school of electrical engineering and informatics, bandung, indonesia"	-0.1922	-0.0705	4	10	16	63	0	0	2019	0	0
+2010	"institut teknologi bandung, school of electrical engineering and informatics, indonesia"	0.1635	0.2568	133	0	0	6	0	0	2019	0	0
+2015	"institut teknologi bandung, sekolah teknik elektro dan informatika, bandung, indonesia"	0.3645	-0.8834	113	1	1	5	0	0	2019	0	0
+2031	"institut teknologi, radio telecommunication and microwave laboratory, school of electrical engineering and informatics, bandung, indonesia"	-0.1628	-0.2171	27	2	2	3	0	0	2019	0	0
+2036	"institute for marine and antarctic science, university of tasmania, hobart, tas, australia"	-0.3108	-0.6054	5	18	36	2	9	9.3417	2019	4.5	4.6708
+2038	"institute for materials chemistry and engineering, kyushu university, 6-1 kasuga koen, kasuga, 816-8580, japan"	0.9269	0.1965	77	4	4	1	2	2.0759	2019	2	2.0759
+2039	"institute for space-earth environmental research, nagoya university, nagoya, japan"	-0.7068	-0.1404	48	5	5	1	5	5.1898	2019	5	5.1898
+2040	"institute for superconducting and electronic materials (isem), university of wollongong, wollongong, nsw 2525, australia"	0.8562	-0.4009	69	4	4	1	3	3.1139	2019	3	3.1139
+2042	"institute of bioproduct development (ibd), universiti teknologi malaysia (utm), skudai, 81130, malaysia"	0.251	-0.8688	13	6	6	1	0	0	2019	0	0
+2043	"institute of bioproduct development (ibd), universiti teknologi malaysia (utm), utm, skudai, 81130, malaysia"	0.2505	-0.8693	13	4	4	1	0	0	2019	0	0
+2044	"institute of bioproduct development, universiti teknologi malaysia (utm), skudai, johor bahru, malaysia"	0.248	-0.8716	13	8	9	2	2	2.0759	2019	1	1.038
+2045	"institute of clinical hygiene, medical microbiology and infectiology, klinikum nürnberg, paracelsus medical university, nuremberg, germany"	0.5413	-0.5009	46	6	6	1	18	18.6833	2019	18	18.6833
+2047	"institute of earth surface dynamics, geopolis, university of lausanne, lausanne, switzerland"	-0.744	-0.4925	11	10	10	1	4	4.1518	2019	4	4.1518
+2049	"institute of energy and power engineering, zhejiang university of technology, hangzhou, china"	0.3601	0.7416	17	4	4	1	3	3.1139	2019	3	3.1139
+2052	"institute of experimental virology, twincore - centre for experimental and clinical infection research, a joint venture between the medical school hannover, helmholtz centre for infection research, hanover, germany"	0.5412	-0.5009	46	6	6	1	18	18.6833	2019	18	18.6833
+2054	"institute of fluid science, tohoku university, sendai, japan"	-0.0775	-0.2013	8	1	3	3	3	3.1139	2019	1	1.038
+2055	"institute of geography, russian academy of sciences, moscow, 119017, russian federation"	0.7971	0.4594	21	11	11	1	2	2.0759	2019	2	2.0759
+2058	"institute of geological sciences & oeschger centre for climate change research, university of bern, switzerland"	-0.1629	0.928	55	5	5	1	3	3.1139	2019	3	3.1139
+2059	"institute of geological sciences and oeschger centre for climate change research, university of bern, baltzerstr. 1+3, bern, 3012, switzerland"	0.9202	0.101	76	4	4	1	9	9.3417	2019	9	9.3417
+2060	"institute of geological sciences and oeschger centre for climate change research, university of bern, baltzerstrasse 1-3, bern, 3012, switzerland"	-0.6581	-0.6853	23	10	10	1	9	9.3417	2019	9	9.3417
+2061	"institute of geological sciences and oeschger centre for climate change research, university of bern, bern, 3012, switzerland"	-0.7443	-0.4925	11	11	14	2	10	10.3796	2019	5	5.1898
+2062	"institute of geology and mineralogy, university of cologne, germany"	-0.163	0.928	55	5	5	1	3	3.1139	2019	3	3.1139
+2063	"institute of geology and mineralogy, university of cologne, zülpicher str. 49a, cologne, 50674, germany"	0.9202	0.1009	76	4	4	1	9	9.3417	2019	9	9.3417
+2065	"institute of industrial science, the university of tokyo, 4-6-1 komaba meguro-ku, tokyo, 153-8505, japan"	-0.2945	0.7255	38	4	4	1	6	6.2278	2019	6	6.2278
+2067	"institute of innovative research, tokyo institute of technology, 2-12-1 ookayama, meguro-ku, tokyo, 152-8550, japan"	-0.2947	0.7253	38	4	4	1	6	6.2278	2019	6	6.2278
+2068	"institute of materials research and engineering (imre), a*star (agency for science, technology and research), 2 fusionopolis way, innovis #08-03138634, singapore"	-0.6175	0.0585	42	6	6	1	14	14.5315	2019	14	14.5315
+2070	"institute of medical microbiology, university hospital essen, university of duisburg-essen, essen, germany"	0.5413	-0.5009	46	6	6	1	18	18.6833	2019	18	18.6833
+2071	"institute of mineralogy and geology, university of cologne, cologne, 50674, germany"	-0.7439	-0.4928	11	4	4	1	6	6.2278	2019	6	6.2278
+2072	"institute of molecular plus, tianjin university, nankai district, tianjin, 300072, china"	0.6019	0.6791	1	9	9	1	19	19.7213	2019	19	19.7213
+2073	"institute of molecular plus, tianjin university, no. 92 weijin road, nankai district, tianjin, 300072, china"	0.591	0.679	1	6	6	1	3	3.1139	2019	3	3.1139
+2074	"institute of molecular plus, tianjin university, tianjin, 300072, china"	0.5925	0.6735	1	7	7	1	4	4.1518	2019	4	4.1518
+2076	"institute of nature and environmental technology, kanazawa university, kanazawa, ishikawa 920-1192, japan"	0.3702	-0.7631	64	4	4	1	2	2.0759	2019	2	2.0759
+2078	"institute of physics, vietnam academy of science and technology, 10 dao tan, ba dinh, hanoi, viet nam"	0.0834	0.934	67	4	4	1	6	6.2278	2019	6	6.2278
+2082	"institute of space and earth information science, chinese university of hong kong, shatin, hong kong"	-0.738	-0.0386	65	4	4	1	1	1.038	2019	1	1.038
+2083	"institute of space and earth information science, the chinese university of hong kong, hong kong, china"	-0.5809	0.7144	20	4	4	1	2	2.0759	2019	2	2.0759
+2104	"instituto de astrofísica de andalucia — csic, glorieta de la astronomia, granada, spain"	-0.4647	0.7866	33	8	8	1	2	2.0759	2019	2	2.0759
+2118	"instrumentation and control research group, institut teknologi bandung, bandung, indonesia"	-0.4178	0.2902	134	0	0	6	0	0	2019	0	0
+2121	"instrumentation and control research group, institut teknologi bandung, indonesia"	-0.0497	-0.1977	8	3	4	2	0	0	2019	0	0
+2127	"instrumentation control research group, institut teknologi bandung, bandung, indonesia"	-0.0444	-0.197	8	1	1	4	2	2.0759	2019	0.5	0.519
+2129	"instut teknologi bandung, school of life science and technology, bandung, indonesia"	0.1535	0.9221	84	4	4	1	3	3.1139	2019	3	3.1139
+2130	"integrated materials design laboratory, research school of physics and engineering, australian national university, canberra, act 2601, australia"	0.7852	-0.2839	26	4	4	1	11	11.4176	2019	11	11.4176
+2131	"integrated materials design laboratory, research school of physics and engineering, the australian national university, canberra, act 2601, australia"	0.7855	-0.2834	26	5	5	1	3	3.1139	2019	3	3.1139
+2134	"international center for materials nanoarchitectonics (wpi-mana), and international center for young scientists (icys), national institute for materials science (nims), 1-1 namiki, tsukuba, ibaraki 305-0044, japan"	-0.0281	-0.9341	30	9	9	1	2	2.0759	2019	2	2.0759
+2135	"international center for materials nanoarchitectonics (wpi-mana), national institute for materials science (nims), 1-1 namiki, tsukuba ibaraki, 305-0044, japan"	0.5909	0.6792	1	6	6	1	3	3.1139	2019	3	3.1139
+2136	"international center for materials nanoarchitectonics (wpi-mana), national institute for materials science (nims), 1-1 namiki, tsukuba, ibaraki 305-0044, japan"	0.5705	0.6916	1	9	9	1	19	19.7213	2019	19	19.7213
+2139	"international research center for materials nanoarchitectonics (wpi-mana), national institute for materials science (nims), 1-1 namiki, tsukuba ibaraki, 305-0044, japan"	0.58	0.6863	1	6	6	1	6	6.2278	2019	6	6.2278
+2140	"international research center for materials nanoarchitectonics (wpi-mana), national institute for materials science (nims), 1-1 namiki, tsukuba, ibaraki 305-0044, japan"	0.6019	0.6792	1	9	9	1	19	19.7213	2019	19	19.7213
+2141	"international research center for materials nanoarchitectonics (wpi-mana), national institute for materials science (nims), 1-1 namiki, tsukuba, ibaraki, 305-0044, japan"	0.5925	0.6735	1	7	7	1	4	4.1518	2019	4	4.1518
+2142	"international research center for materials nanoarchitectonics (wpi-mana), national institute for materials science (nims), 1–1 namiki, tsukuba, ibaraki 305-0044, japan"	-0.5675	-0.7478	62	4	4	1	7	7.2657	2019	7	7.2657
+2144	"isterre, ird r219, cnrs, université de savoie mont blanc, le bourget-du-lac, france"	-0.9288	-0.0871	32	8	8	1	1	1.038	2019	1	1.038
+2152	"itera astronomical observatory, lampung, indonesia"	-0.2078	-0.8765	135	0	0	2	1	1.038	2019	0.5	0.519
+2153	"jakarta city health office, jakarta, 10160, indonesia"	0.5533	0.3412	10	4	4	1	0	0	2019	0	0
+2158	"jalan ganesha 10, bandung, 40132, indonesia"	0.9242	0.0287	40	7	7	1	0	0	2019	0	0
+2159	"japan agency for marine-earth science and technology (jamstec), natsushima 2-15, kanagawa, yokosuka, japan"	0.5411	-0.6525	47	5	5	1	0	0	2019	0	0
+2160	"japan atomic energy agency (jaea), 4002 narita, oarai, higashi-ibaraki, ibaraki 311-1393, japan"	-0.0288	-0.9341	30	9	9	1	2	2.0759	2019	2	2.0759
+2162	"joint alma observatory, alonso de cordova, vitacura, santiago, chile"	-0.4647	0.7865	33	8	8	1	2	2.0759	2019	2	2.0759
+2164	"jülich centre for neutron science (jcns), heinz maier-leibnitz zentrum (mlz), forschungszentrum jülich gmbh, lichtenbergstraße 1, garching, 85748, germany"	-0.3572	0.4461	88	4	4	1	5	5.1898	2019	5	5.1898
+2165	"kagami memorial laboratory for materials science and technology, waseda university, 2-8-26 nishiwaseda, shinjuku, tokyo, 169-0051, japan"	0.6021	0.6792	1	9	9	1	19	19.7213	2019	19	19.7213
+2168	"kawantech, 6 rue françoise d'eaubonne, toulouse, 31200, france"	0.9498	-0.0444	97	3	5	2	0	0	2019	0	0
+2171	"key laboratory of eco-chemical engineering, college of chemistry and molecular engineering, qingdao university of science and technology (qust), qingdao, 266042, china"	0.5909	0.6794	1	6	6	1	3	3.1139	2019	3	3.1139
+2172	"key laboratory of eco-chemical engineering, college of chemistry and molecular engineering, qingdao university of science and technology, qingdao, 266042, china"	0.6023	0.6785	1	9	9	1	19	19.7213	2019	19	19.7213
+2173	"key laboratory of marine chemistry theory and technology, ministry of education, college of chemistry and chemical engineering, ocean university of china, no. 238 songling road, qingdao, 266100, china"	0.7757	0.5455	89	4	4	1	2	2.0759	2019	2	2.0759
+2174	"key laboratory of marine science and numerical modeling, first institute of oceanography, ministry of natural resources, qingdao, 266061, china"	-0.5819	0.7151	20	5	5	1	3	3.1139	2019	3	3.1139
+2175	"key laboratory of ocean circulation and waves, institute of oceanology, center for ocean mega-science, chinese academy of sciences, qingdao, china"	-0.3113	-0.6058	5	18	36	2	9	9.3417	2019	4.5	4.6708
+2176	"key laboratory of sensor analysis of tumor marker (ministry of education), shandong key laboratory of biochemical analysis, key laboratory of analytical chemistry for life science, universities of shandong college of chemistry and molecular engineering, qingdao university of science and technology (qust), qingdao, 266042, china"	-0.5675	-0.7478	62	4	4	1	7	7.2657	2019	7	7.2657
+2179	"king abdullah university of science and technology, thuwal, saudi arabia"	-0.2257	-0.4306	3	9	9	1	6	6.2278	2019	6	6.2278
+2182	"klinik hayandra, yayasan hayandra peduli, jakarta, indonesia"	-0.1985	-0.0416	4	6	6	1	2	2.0759	2019	2	2.0759
+2184	"korea research institute of standards and science, daejeon, 34113, south korea"	0.3861	0.0038	7	19	61	4	26	26.987	2019	6.5	6.7467
+2185	"korea research institute of standards and science, daejeon, south korea"	-0.8827	-0.2425	9	18	18	1	4	4.1518	2019	4	4.1518
+2186	"krida wacana christian university, jakarta, 11470, indonesia"	0.1012	0.6822	2	11	11	1	8	8.3037	2019	8	8.3037
+2187	"ks-gjt kelompok study geology jawa tengah, indonesia"	0.3021	-0.5125	91	4	4	1	0	0	2019	0	0
+2191	"kumamoto university, kurokami 2-39-1, chuo-ku, kumamoto, japan"	0.5412	-0.6523	47	5	5	1	0	0	2019	0	0
+2199	"lab of pharmacognosy-phytochemistry, faculty of pharmacy, pancasila university, jakarta, 12640, indonesia"	0.8457	0.3521	34	8	8	1	2	2.0759	2019	2	2.0759
+2202	"laboratoire léon brillouin, cea, cnrs, gif-sur-yvette, cedex, f-91191, france"	-0.3573	0.4461	88	4	4	1	5	5.1898	2019	5	5.1898
+2204	"laboratory for regional oceanography and numerical modeling, pilot national laboratory for marine science and technology (qingdao), qingdao, 266237, china"	-0.5814	0.7153	20	7	9	2	9	9.3417	2019	4.5	4.6708
+2210	"laboratory of entomology, zoology division, research center for biology, indonesian institute of sciences (lipi), cibinong, indonesia"	-0.2061	-0.5187	12	4	4	1	0	0	2019	0	0
+2211	"laboratory of food processing technology, department of food industrial technology, faculty of agro-industrial technology, universitas padjadjaran, sumedang, indonesia"	-0.2568	-0.4391	3	9	9	1	3	3.1139	2019	3	3.1139
+2212	"laboratory of human physiology, faculty of medicine, universitas brawijaya, malang, indonesia"	0.2669	0.8952	25	10	10	1	10	10.3796	2019	10	10.3796
+2214	"laboratory of micro-ct, faculty of mathematics and natural sciences, institut teknologi bandung, bandung, indonesia"	-0.9444	0.0536	101	2	4	2	0	0	2019	0	0
+2217	"laboratory of porous medium and fluid dynamics, physics of earth and complex systems, faculty of mathematics and natural sciences, institut teknologi bandung, bandung, indonesia"	-0.9444	0.0535	101	2	4	2	0	0	2019	0	0
+2219	"laboratory of studies on spatial geophysics and oceanography (legos), toulouse, france"	-0.3114	-0.6066	5	18	36	2	9	9.3417	2019	4.5	4.6708
+2220	"laboratory of virology, department of microbiology and immunology, faculty of veterinary medicine, universitas airlangga, surabaya, indonesia"	0.267	0.8954	25	10	10	1	10	10.3796	2019	10	10.3796
+2223	"lamont doherty earth observatory of columbia university, palisades, ny, united states"	-0.3121	-0.6064	5	18	36	2	9	9.3417	2019	4.5	4.6708
+2224	"lamont-doherty earth observatory, columbia university, palisades, ny, united states"	-0.2322	-0.4942	3	4	6	3	25	25.949	2019	8.3333	8.6497
+2225	"lampung astronomical observatory, institut teknologi sumatera, way hui, lampung, indonesia"	0.7047	0.1277	114	1	2	2	0	0	2019	0	0
+2229	"laptiab bppt gedung 611, kawasan puspitek, tangerang selatan, 15314, indonesia"	0.2475	-0.8719	13	5	5	1	0	0	2019	0	0
+2231	"laser matter interaction lab., department of physics, faculty of sciences, university of agriculture faisalabad, faisalabad, 38040, pakistan"	0.0943	0.6842	2	12	12	1	0	0	2019	0	0
+2233	"leichtweiβ institute for hydraulic engineering and water resources, technische universität braunschweig, brunswick, germany"	-0.2058	-0.0047	4	10	10	1	15	15.5694	2019	15	15.5694
+2235	"lembaga pengembangan pendidikan masjid salman, institut teknologi bandung, bandung, indonesia"	-0.2566	-0.439	3	9	9	1	3	3.1139	2019	3	3.1139
+2236	"lesia, observatoire de paris, université psl, cnrs, sorbonne université, université paris diderot, sorbonne paris cité, meudon, france"	-0.4647	0.7865	33	8	8	1	2	2.0759	2019	2	2.0759
+2240	"ludwig-maximilians-universität münchen, department of earth & environmental sciences, paleontology & geobiology, munich, 80333, germany"	-0.7441	-0.4924	11	10	10	1	4	4.1518	2019	4	4.1518
+2248	"marine science and fisheries faculty – raja ali haji maritime university, jl. politeknik senggarang-tanjungpinangriau islands province 29100, indonesia"	-0.1792	0.6695	50	5	5	1	1	1.038	2019	1	1.038
+2259	"master program in physics, faculty of mathematics and natural sciences, institut teknologi bandung, indonesia"	-0.8443	-0.4812	115	1	2	2	2	2.0759	2019	1	1.038
+2262	"master program of earth sciences, faculty of earth sciences and technology, institut teknologi bandung, indonesia"	-0.1426	-0.9309	36	5	5	1	11	11.4176	2019	11	11.4176
+2264	"master program of geophysical engineering, faculty of mining and petroleum engineering, institut teknologi bandung, ganesha 10, bandung, 40132, indonesia"	-0.7339	-0.2389	136	0	0	4	0	0	2019	0	0
+2272	"material science and engineering research group faculty of mechanical and aerospace engineering, institut teknologi bandung, jl. ganesha 10, bandung, 40132, indonesia"	-0.6175	0.0585	42	6	6	1	14	14.5315	2019	14	14.5315
+2281	"materials engineering program, institut teknologi sumatera, terusan ryacudu, way hui, jati agung, lampung, 35365, indonesia"	0.6584	-0.671	35	8	10	3	2	2.0759	2019	0.6667	0.692
+2284	"materials engineering study program, institut teknologi bandung, bandung, 40132, indonesia"	0.4542	0.3478	6	5	5	1	0	0	2019	0	0
+2287	"materials science and engineering department, faculty of mechanical and aerospace engineering, institut teknologi bandung, bandung, indonesia"	0.5935	-0.1105	118	1	2	2	3	3.1139	2019	1.5	1.5569
+2298	"mathematical institute, university of koblenz-landau, koblenz, 56070, germany"	0.5533	0.3412	10	4	4	1	0	0	2019	0	0
+2307	"max planck institute for chemical physics of solids, nöthnitzer strasse 40, dresden, 01187, germany"	0.7757	0.5453	89	4	4	1	2	2.0759	2019	2	2.0759
+2327	"mechanical engineering, department universitas diponegoro, indonesia"	-0.146	0.8193	58	5	5	1	0	0	2019	0	0
+2333	"medical oncology and hematology, department of medicine, princess margaret cancer centre-university health network and university of toronto, toronto, on m5s, canada"	-0.914	0.171	14	14	14	1	4	4.1518	2019	4	4.1518
+2336	"mercator-océan, ramonville-saint-agne, france"	-0.312	-0.6059	5	18	36	2	9	9.3417	2019	4.5	4.6708
+2338	"merlin group, school of chemical engineering, the university of new south wales, sydney, nsw 2052, australia"	0.7855	-0.2833	26	5	5	1	3	3.1139	2019	3	3.1139
+2344	"meteorological climatological and geophysical agency (bmkg) bengkulu, jl. raya bandara fatmawati soekarno, bengkulu, indonesia"	0.5411	-0.6525	47	5	5	1	0	0	2019	0	0
+2347	"meteorological, climatological, and geophysical agency (mcga), denpasar, indonesia"	-0.1423	-0.931	36	5	5	1	11	11.4176	2019	11	11.4176
+2351	"meteorology, climatology, and geophysical agency (bmkg), jakarta, indonesia"	-0.3116	-0.605	5	18	36	2	9	9.3417	2019	4.5	4.6708
+2353	"micro-ct laboratory, faculty of mathematics and natural sciences, institut teknologi bandung, bandung, indonesia"	0.2674	0.896	25	10	10	1	10	10.3796	2019	10	10.3796
+2359	"mindmatic sdn., bhd., c9-c11, jalan taman kajang sentral 2, kajang, selangor, 43000, malaysia"	-0.1465	0.8191	58	5	5	1	0	0	2019	0	0
+2365	"ministry of energy and mineral resources, aceh, indonesia"	-0.628	-0.5995	59	5	5	1	1	1.038	2019	1	1.038
+2367	"ministry of marine affairs and fisheries of the republic of indonesia, jakarta, indonesia"	-0.3112	-0.6054	5	18	36	2	9	9.3417	2019	4.5	4.6708
+2368	"ministry of marine affairs and fisheries, jakarta, indonesia"	-0.2266	-0.4504	3	12	12	2	19	19.7213	2019	9.5	9.8606
+2370	"muhammadiyah tangerang college of pharmacy, tangerang, 15118, indonesia"	-0.4167	0.8495	80	4	4	1	0	0	2019	0	0
+2371	"museum für naturkunde, leibniz institut für evolutions- und biodiversitätsforschung, berlin, germany"	0.7399	-0.0916	15	13	13	1	4	4.1518	2019	4	4.1518
+2372	"museum für naturkunde, leibniz-institut für evolutions und biodiversitätsforschung an der humboldt-universität zu berlin, invalidenstrasse 43, berlin, 10115, germany"	0.1535	0.9218	84	4	4	1	3	3.1139	2019	3	3.1139
+2373	"museum of natural science, louisiana state university, baton rouge, la, united states"	0.7398	-0.0915	15	13	13	1	4	4.1518	2019	4	4.1518
+2374	"museum of vertebrate zoology and department of integrative biology, university of california berkeley, berkeley, ca, united states"	0.7397	-0.0916	15	13	13	1	4	4.1518	2019	4	4.1518
+2375	"museum of vertebrate zoology and department of integrative biology, university of california, 3101 valley life sciences building, berkeley, ca 94720-3160, united states"	0.1093	-0.9461	79	4	4	1	9	9.3417	2019	9	9.3417
+2379	"museum zoologicum bogoriense, indonesian institute of sciences (lipi), jalan raya bogor-jakarta km. 46, cibinong, 16911, indonesia"	0.1095	-0.946	79	4	4	1	9	9.3417	2019	9	9.3417
+2381	"museum zoologicum bogoriense, research centre for biology, indonesian institute of sciences, gd. widyasatwaloka, jl. raya jakarta-bogor km 46, cibinong, west java, indonesia"	-0.4042	-0.8628	61	5	5	1	3	3.1139	2019	3	3.1139
+2382	"nanjing university of information science and technology nanjing, nanjing, 210044, china"	-0.738	-0.0383	65	4	4	1	1	1.038	2019	1	1.038
+2385	"nanotechnology and graphene research center, universitas padjadjaran, jl. raya bandung-sumedang, jatinangor, jawa barat, 45363, indonesia"	-0.0869	0.9361	83	4	4	1	0	0	2019	0	0
+2388	"national center for earthquake studies & institut teknologi bandung, indonesia"	0.5484	-0.7715	70	4	4	1	1	1.038	2019	1	1.038
+2389	"national center for earthquake studies (pusgen), jalan turangga no. 3-5, bandung, 40263, indonesia"	-0.4269	0.6672	92	4	4	1	2	2.0759	2019	2	2.0759
+2390	"national center for sustainable technology, institut teknologi bandung, crcs building lv.2 ganesha 10, bandung, indonesia"	-0.1465	0.8191	58	5	5	1	0	0	2019	0	0
+2393	"national center for sustainable transportation technology (ncstt) institut teknologi bandung, department of physics, bandung, indonesia"	-0.1054	0.4316	18	5	5	1	0	0	2019	0	0
+2398	"national center for sustainable transportation technology, bandung, indonesia"	-0.0452	-0.1972	8	4	10	11	0	0	2019	0	0
+2401	"national center for sustainable transportation technology, indonesia"	-0.0571	-0.1989	8	8	10	6	1	1.038	2019	0.1667	0.173
+2402	"national center for sustainable transportation technology, institut teknologi bandung, bandung, indonesia"	-0.07	-0.2004	8	3	4	5	8	8.3037	2019	1.6	1.6607
+2406	"national center for sustainable transportation technology, institut teknologi bandung, jl. ganesha no.10, bandung, west java, 40132, indonesia"	-0.8641	-0.3818	75	4	4	1	11	11.4176	2019	11	11.4176
+2409	"national center for sustainable, tranportation technology, bandung, indonesia"	-0.0608	-0.1993	8	4	4	1	1	1.038	2019	1	1.038
+2412	"national centre for sustainable transportation technology (ncstt), jl. ganesha 10, bandung, 40132, indonesia"	-0.6175	0.0586	42	6	6	1	14	14.5315	2019	14	14.5315
+2423	"national radio astronomical observatory, socorro, nm, united states"	-0.4647	0.7863	33	8	8	1	2	2.0759	2019	2	2.0759
+2424	"national synchrotron radiation research center, 101 hsin-ann road, hsinchu, 30076, taiwan"	0.7757	0.5455	89	4	4	1	2	2.0759	2019	2	2.0759
+2426	"national taiwan university, department of electrical engineering, taipei, taiwan"	-0.1867	-0.0933	19	3	3	2	0	0	2019	0	0
+2433	"naturalis biodiversity center, p.o. box 9517, leiden, netherlands"	0.0738	0.3136	86	4	4	1	3	3.1139	2019	3	3.1139
+2436	"nephrology research unit, hospital infantil de méxico federico gómez, mexico city, 06720, mexico"	-0.914	0.1712	14	14	14	1	4	4.1518	2019	4	4.1518
+2438	"noaa pacific marine environmental laboratory, seattle, wa, united states"	-0.231	-0.4926	3	4	5	2	22	22.8352	2019	11	11.4176
+2439	"normandie univ, unirouen, unicaen, cnrs, m2c, rouen, 76000, france"	-0.7441	-0.4924	11	10	10	1	4	4.1518	2019	4	4.1518
+2445	"nuclear magnetic resonance unit, mark wainwright analytical center, the university of new south wales, sydney, nsw 2052, australia"	0.7855	-0.2832	26	5	5	1	3	3.1139	2019	3	3.1139
+2452	"nuclear physics and biophysics research division, faculty of mathematics and natural sciences, bandung institute of technology, bandung, indonesia"	0.7077	0.0582	137	0	0	2	0	0	2019	0	0
+2454	"nuclear physics and biophysics research division, faculty of mathematics and natural sciences, institut teknologi bandung, indonesia"	-0.8443	-0.481	115	1	2	3	2	2.0759	2019	0.6667	0.692
+2457	"nuclear physics and biophysics research division, institut teknologi bandung, jalan ganesha 10, bandung, 40132, indonesia"	0.5925	-0.7297	102	2	4	2	1	1.038	2019	0.5	0.519
+2470	"nus graduate school for integrative sciences and engineering, national university of singapore117456, singapore"	0.6582	-0.6708	35	8	8	1	1	1.038	2019	1	1.038
+2472	"nusnni-nanocore, national university of singapore117576, singapore"	0.6581	-0.6708	35	8	8	1	1	1.038	2019	1	1.038
+2485	"oral science laboratory, department of dentistry, university of indonesia, jl. salemba rayacentral jakarta 10430, indonesia"	-0.6858	0.4323	22	11	11	1	7	7.2657	2019	7	7.2657
+2486	"oral science laboratory, department of oral biology, faculty of dentistry, universitas indonesia, jakarta, indonesia"	0.7924	-0.489	29	9	9	1	4	4.1518	2019	4	4.1518
+2495	"organic synthesis, electrochemistry and natural product research unit, department of chemistry, faculty of science, king mongkut's university of technology thonburi (kmutt), 126 prachautid road, thungkru, bangkok, 10140, thailand"	-0.2369	-0.9153	73	4	4	1	0	0	2019	0	0
+2500	"particles and catalysis research group school of chemical engineering, the university of new south wales, sydney, nsw 2052, australia"	0.8564	-0.4008	69	4	4	1	3	3.1139	2019	3	3.1139
+2501	"particles and catalysis research group, school of chemical engineering, the university of new south wales, sydney, nsw 2052, australia"	0.7856	-0.2832	26	5	5	1	3	3.1139	2019	3	3.1139
+2502	"particles and catalysis research group, school of chemical engineering, unsw, sydney, nsw 2052, australia"	0.7851	-0.2842	26	4	4	1	11	11.4176	2019	11	11.4176
+2504	"people (soft skill) development program, bogor, indonesia"	-0.2568	-0.4391	3	9	9	1	3	3.1139	2019	3	3.1139
+2506	"pertamina exploration and production, indonesia"	0.9242	0.0285	40	7	7	1	0	0	2019	0	0
+2509	"pertamina upstream research & technology, indonesia"	0.9242	0.0286	40	7	7	1	0	0	2019	0	0
+2510	"pertamina upstream technical center, indonesia"	0.9242	0.0285	40	7	7	1	0	0	2019	0	0
+2526	"petroleum engineering study program, bandung institute of technology, indonesia"	0.9242	0.0285	40	7	7	1	0	0	2019	0	0
+2528	"petroleum engineering, ftke, universitas trisakti, jakarta, indonesia"	-0.7582	0.1612	99	2	4	2	0	0	2019	0	0
+2529	"petroleum engineering, fttm, institut teknologi bandung, bandung, indonesia"	-0.7582	0.1612	99	2	4	2	0	0	2019	0	0
+2531	"petrology, volcanology and geochemistry research group, faculty of earth science and technology, bandung institute of technology, bandung, indonesia"	0.7305	-0.5883	90	4	4	1	0	0	2019	0	0
+2536	"pharmaceutical biology researched group, school of pharmacy, bandung institute of technology, bandung, 40132, indonesia"	-0.4165	0.8495	80	4	4	1	0	0	2019	0	0
+2537	"pharmaceutical outcomes programme, bc children’s hospital, vancouver, bc v6h 3n1, canada"	-0.9138	0.1711	14	14	14	1	4	4.1518	2019	4	4.1518
+2548	"physical science and engineering, king abdullah university of science and technology, thuwal, saudi arabia"	-0.3194	-0.8967	45	6	6	1	0	0	2019	0	0
+2551	"physics department, faculty of mathematical and natural sciences, institut teknologi bandung, bandung, indonesia"	0.8875	-0.0598	116	1	2	2	0	0	2019	0	0
+2552	"physics department, faculty of mathematical and natural sciences, universitas jember, jember, indonesia"	0.8874	-0.0597	116	1	2	2	0	0	2019	0	0
+2560	"physics department, faculty of mathematics and natural sciences, syiah kuala university, darussalam, banda aceh, 23111 nad, indonesia"	0.0928	0.6904	2	11	11	1	1	1.038	2019	1	1.038
+2568	"physics department, syiah kuala university, indonesia"	-0.628	-0.5995	59	5	5	1	1	1.038	2019	1	1.038
+2584	"physics institute, university of são paulo, são paulo, 05508-090, brazil"	0.3864	0.0046	7	19	61	4	26	26.987	2019	6.5	6.7467
+2585	"physics institute, university of são paulo, são paulo, brazil"	-0.8826	-0.2422	9	18	18	1	4	4.1518	2019	4	4.1518
+2597	"physics of electronic materials division, physics study program, institut teknologi bandung, bandung, 40132, indonesia"	0.4543	0.3478	6	5	5	1	0	0	2019	0	0
+2600	"physics of magnetism and photonics group, faculty of mathematics and natural sciences, bandung institute of technology, 10 ganesha, bandung, 40132, indonesia"	0.0962	0.6851	2	34	41	4	13	13.4935	2019	3.25	3.3734
+2614	"physics program, faculty of science and technology, muban chombueng rajabhat university, ratchaburi, 70150, thailand"	0.5443	0.3414	10	6	6	1	5	5.1898	2019	5	5.1898
+2615	"physics program, faculty of science and technology, nakhon pathom rajabhat university, nakhon pathom, 73000, thailand"	0.5439	0.3411	10	6	6	1	5	5.1898	2019	5	5.1898
+2616	"physics study program, department of science, institut teknologi sumatera, lampung, 35365, indonesia"	0.544	0.341	10	6	6	1	5	5.1898	2019	5	5.1898
+2618	"planetary science institute, united states"	-0.1626	0.9281	55	5	5	1	3	3.1139	2019	3	3.1139
+2631	"princess margaret cancer centre, university of toronto, toronto, on m5s, canada"	-0.914	0.1711	14	14	14	1	4	4.1518	2019	4	4.1518
+2632	"princeton university, united states"	0.7732	0.2371	49	5	5	1	2	2.0759	2019	2	2.0759
+2633	"priority organization for innovation and excellence, kumamoto university, 2-39-1 kurokami, kumomoto, 860-8555, japan"	-0.6356	0.1968	60	5	5	1	18	18.6833	2019	18	18.6833
+2638	"program studi fisika, fakultas pendidikan matematika dan ilmu pengetahuan alam, universitas pendidikan indonesia, jl. dr. setiabudhi no. 229, bandung, 40154, indonesia"	-0.7409	-0.3248	106	2	4	2	5	5.1898	2019	2.5	2.5949
+2641	"program studi pendidikan fisika, fakultas keguruan dan ilmu pendidikan, universitas khairun, jl. pertamina kampus ii, gambesi, 97719, indonesia"	-0.7409	-0.3248	106	2	4	2	5	5.1898	2019	2.5	2.5949
+2642	"program studi pendidikan ilmu pengetahuan alam, sekolah pascasarjana, universitas pendidikan indonesia, jl. dr. setiabudhi no. 229, bandung, 40154, indonesia"	-0.7408	-0.3248	106	2	4	2	5	5.1898	2019	2.5	2.5949
+2643	"program studi sistem telekomunikasi, universitas pendidikan indonesia, indonesia"	-0.1585	-0.2131	27	1	1	3	2	2.0759	2019	0.6667	0.692
+2645	"program studi teknik informatika, upn “veteran” yogyakarta, yogyakarta, 55281, indonesia"	0.9164	-0.1561	24	10	10	1	0	0	2019	0	0
+2660	"pt pln (persero) indonesia, jakarta, indonesia"	-0.1924	-0.0692	4	2	4	2	0	0	2019	0	0
+2663	"pt pln (persero), jakarta, indonesia"	-0.1833	-0.1082	19	7	11	9	3	3.1139	2019	0.3333	0.346
+2664	"pt pln (persero), jl. trunojoyo blok m i/135 kebayoran baru, jakarta, 12160, indonesia"	0.9498	-0.0444	97	3	7	3	1	1.038	2019	0.3333	0.346
+2674	"pt. perusahaan listrik negara (persero), jakarta, indonesia"	-0.195	-0.0577	4	4	4	1	0	0	2019	0	0
+2679	"pt. pln (persero), jakarta, indonesia"	0.3644	-0.8834	113	1	1	2	0	0	2019	0	0
+2685	"public works and spatial planning agency, jl. ks. tubun no. 96, tangerang, indonesia"	-0.4588	0.3881	66	4	4	1	0	0	2019	0	0
+2694	"qingdao industrial energy storage research institute, qingdao institute of bioenergy and bioprocess technology, chinese academy of sciences, no. 189 songling road, qingdao, 266101, china"	0.7757	0.5452	89	4	4	1	2	2.0759	2019	2	2.0759
+2695	"qingdao national laboratory for marine science and technology, qingdao, china"	-0.3113	-0.6065	5	18	36	2	9	9.3417	2019	4.5	4.6708
+2699	"radio telecomm. and microwave lab., school of electrical eng. and informatics, institut teknologi bandung, bandung, indonesia"	0.1668	0.2989	138	0	0	2	0	0	2019	0	0
+2709	"radio telecommunication and microwave laboratory, school of electrical engineering and informatics, institut teknologi bandung, bandung, indonesia"	-0.6654	0.6208	37	4	6	9	7	7.2657	2019	0.7778	0.8073
+2711	"radio telecommunication and microwave laboratory, school of electrical engineering and informatics, institut teknologi, bandung, indonesia"	-0.1617	-0.216	27	1	2	6	5	5.1898	2019	0.8333	0.865
+2712	"radio telecommunication and microwave laboratory, school of electrical engineering and informatics, itb, bandung, indonesia"	-0.6654	0.621	37	2	2	4	4	4.1518	2019	1	1.038
+2714	"randd division, yoshino denka kogyo inc., saitama, 342-0008, japan"	0.5927	0.6736	1	7	7	1	4	4.1518	2019	4	4.1518
+2724	"research & technology center, pt pertamina (persero), jakarta, 10110, indonesia"	-0.7807	0.5302	87	4	4	1	0	0	2019	0	0
+2733	"research center for biology, indonesian institute of sciences, cibinong, indonesia"	0.7394	-0.092	15	13	13	1	4	4.1518	2019	4	4.1518
+2738	"research center for biosciences and biotechnology, institute for research and community services, institut teknologi bandung, jalan ganesa 10, bandung, 40132, indonesia"	0.2585	-0.705	107	2	6	5	15	15.5694	2019	3	3.1139
+2739	"research center for biotechnology, indonesian institute of science, cibinong, indonesia"	0.5411	-0.5012	46	6	6	1	18	18.6833	2019	18	18.6833
+2741	"research center for computational quantum engineering, faculty of science and technology, universitas airlangga, surabaya, indonesia"	0.3601	0.7437	17	6	6	1	1	1.038	2019	1	1.038
+2742	"research center for disaster mitigation, institut teknologi bandung, bandung, indonesia"	0.6662	-0.5207	93	4	4	2	0	0	2019	0	0
+2743	"research center for disaster mitigation, institut teknologi bandung, jalan ganesa no. 10, bandung, 40132, indonesia"	-0.9288	-0.0871	32	8	8	1	1	1.038	2019	1	1.038
+2753	"research center for electronics and telecommunication, indonesian institute of sciences, bandung, indonesia"	-0.1595	-0.2143	27	2	2	3	1	1.038	2019	0.3333	0.346
+2757	"research center for geotechnology, indonesian institute of science (lipi), jakarta, indonesia"	-0.2256	-0.4304	3	9	9	1	6	6.2278	2019	6	6.2278
+2759	"research center for geotechnology, indonesian institute of sciences, bandung, indonesia"	0.6662	-0.5207	93	1	1	2	11	11.4176	2019	5.5	5.7088
+2760	"research center for integrated disaster risk management (cigiden), santiago, chile"	-0.2037	-0.0153	4	14	14	2	40	41.5185	2019	20	20.7592
+2761	"research center for limnology, indonesian institute of sciences (lipi), jl. raya bogor, cibinong, bogor, west java 16911, indonesia"	-0.7441	-0.4924	11	10	10	1	4	4.1518	2019	4	4.1518
+2762	"research center for limnology, indonesian institute of sciences (lipi), jl. raya bogor, cibinong, bogor, west java, 16911, indonesia"	-0.6581	-0.6853	23	10	10	1	9	9.3417	2019	9	9.3417
+2764	"research center for nanoscience and nanotechnology (rcnn), institute of technology bandung, ganesha 10, bandung, 40132, indonesia"	0.58	0.6863	1	6	6	1	6	6.2278	2019	6	6.2278
+2766	"research center for nanoscience and nanotechnology, institut teknologi bandung, bandung, 40132, indonesia"	0.446	0.3493	6	8	8	2	2	2.0759	2019	1	1.038
+2767	"research center for nanoscience and nanotechnology, institut teknologi bandung, bandung, indonesia"	0.3599	0.7437	17	6	6	2	1	1.038	2019	0.5	0.519
+2768	"research center for nanoscience and nanotechnology, institut teknologi bandung, indonesia"	0	-0.8283	117	1	2	3	0	0	2019	0	0
+2769	"research center for nanoscience and nanotechnology, institut teknologi bandung, jl. ganesha 10, bandung, 40132, indonesia"	0.3791	-0.3482	16	5	5	1	2	2.0759	2019	2	2.0759
+2773	"research center for nanosciences and nanotechnology (rcnn), institut teknologi bandung, bandung, indonesia"	-0.1064	0.4331	18	7	12	4	2	2.0759	2019	0.5	0.519
+2774	"research center for nanosciences and nanotechnology (rcnn), institut teknologi bandung, jalan ganesha 10, bandung, 40132, indonesia"	-0.3166	0.8395	44	2	3	2	5	5.1898	2019	2.5	2.5949
+2776	"research center for nanosciences and nanotechnology (rcnn), institut teknologi bandung, jl. ganesha 10, bandung, 40132, indonesia"	-0.3171	0.8398	44	4	4	1	1	1.038	2019	1	1.038
+2777	"research center for nanosciences and nanotechnology, bandung institute of technology, bandung, indonesia"	0.5412	-0.501	46	6	6	1	18	18.6833	2019	18	18.6833
+2778	"research center for nanosciences and nanotechnology, bandung institute of technology, ganesa 10, bandung, 40132, indonesia"	0.2205	-0.6294	81	4	4	1	5	5.1898	2019	5	5.1898
+2781	"research center for nanosciences and nanotechnology, institut teknologi bandung (itb), bandung, 40132, indonesia"	-0.2369	-0.9153	73	4	4	1	0	0	2019	0	0
+2782	"research center for nanosciences and nanotechnology, institut teknologi bandung jl. ganesha 10, bandung, 40132, indonesia"	0.3925	-0.6353	41	6	6	1	1	1.038	2019	1	1.038
+2783	"research center for nanosciences and nanotechnology, institut teknologi bandung, bandung, 40132, indonesia"	0.4598	0.3468	6	14	14	8	19	19.7213	2019	2.375	2.4652
+2784	"research center for nanosciences and nanotechnology, institut teknologi bandung, bandung, indonesia"	0.3602	0.7422	17	2	2	3	10	10.3796	2019	3.3333	3.4599
+2786	"research center for nanosciences and nanotechnology, institut teknologi bandung, jalan ganesha no. 10, bandung, 40132, indonesia"	-0.6444	-0.0375	139	0	0	2	8	8.3037	2019	4	4.1518
+2788	"research center for nanosciences and nanotechnology, institut teknologi bandung, jl. ganesha 10, bandung, 40132, indonesia"	0.3858	-0.3529	16	7	21	17	104	107.948	2019	6.1176	6.3499
+2790	"research center for nanosciences and nanotechnology, institut teknologi bandung, jl. ganesha no. 10, bandung, 40132, indonesia"	-0.848	0.0273	28	3	5	5	15	15.5694	2019	3	3.1139
+2791	"research center for nanosciences and nanotechnology, institute for research and community services, institut teknologi bandung, jalan ganesa 10, bandung, 40132, indonesia"	0.2584	-0.705	107	2	4	2	12	12.4555	2019	6	6.2278
+2793	"research center for nanosciences and nanotechnology, jalan ganesha 10, bandung, 40132, indonesia"	0.5925	-0.7297	102	2	4	2	1	1.038	2019	0.5	0.519
+2795	"research center for oceanography, indonesian institute of sciences (lipi), jakarta, indonesia"	-0.3118	-0.6051	5	18	36	2	9	9.3417	2019	4.5	4.6708
+2797	"research center for physics, indonesia institute of sciences, kawasan puspiptek, serpong, tangerang selatan, 15314, indonesia"	0.0968	0.6832	2	7	7	1	4	4.1518	2019	4	4.1518
+2798	"research center for physics, indonesian institute of science (lipi), puspiptek area, tangerang selatan, 15314, indonesia"	-0.6859	0.4323	22	11	11	1	7	7.2657	2019	7	7.2657
+2799	"research center for physics, indonesian institute of science lipi, tangerang selatan, indonesia"	0.7925	-0.489	29	9	9	1	4	4.1518	2019	4	4.1518
+2800	"research center for physics, indonesian institute of science, kompleks puspiptek, tangerang selatan, 15314, indonesia"	0.0927	0.6903	2	11	11	1	1	1.038	2019	1	1.038
+2803	"research center for physics, indonesian institute of sciences, tangerang selatan, 15314, indonesia"	-0.7802	0.5303	87	4	4	1	0	0	2019	0	0
+2805	"research center for quantum engineering design, airlangga university, surabaya, 60115, indonesia"	0.3925	-0.6353	41	6	6	1	1	1.038	2019	1	1.038
+2806	"research center for quantum engineering design, faculty of science and technology, universitas airlangga, jl. mulyorejo, surabaya, 60115, indonesia"	-0.7748	0.2869	39	7	7	1	1	1.038	2019	1	1.038
+2809	"research center for water resources, ministry of public work and housing, juanda 193, bandung, 40135, indonesia"	-0.6354	0.197	60	5	5	1	18	18.6833	2019	18	18.6833
+2811	"research center of maju makmur mandiri foundation, 40/80 srengseng raya, jakarta, 11630, indonesia"	0.0964	0.6852	2	34	41	4	13	13.4935	2019	3.25	3.3734
+2813	"research centre for biomedical engineering, faculty of engineering, universitas indonesia, campus ui depokwest java 16425, indonesia"	0.8456	0.3521	34	8	8	1	2	2.0759	2019	2	2.0759
+2824	"research ctr for geotechnology, indonesian institute of sciences, bandung, 40135, indonesia"	-0.7802	0.5303	87	4	4	1	0	0	2019	0	0
+2836	"research group of pharmaceutics - school of pharmacy, bandung institute of technology, ganesa 10, bandung, 40132, indonesia"	0.2204	-0.6295	81	4	4	1	5	5.1898	2019	5	5.1898
+2841	"research institute for housing and human settlements, ministry of public works and housing, jalan panyaungan, cileunyi wetan, kabupaten bandung, 40393, indonesia"	-0.4269	0.6672	92	4	4	1	2	2.0759	2019	2	2.0759
+2842	"research institute for human settlement, ministry of public works & housing, indonesia"	0.548	-0.7717	70	4	4	1	1	1.038	2019	1	1.038
+2844	"research laboratory of hydrography, faculty of earth sciences and technology, institut teknologi bandung, bandung, indonesia"	0.6662	-0.5207	93	3	7	3	0	0	2019	0	0
+2846	"research school of biology, australian national university, canberra, australia"	0.7399	-0.0916	15	13	13	1	4	4.1518	2019	4	4.1518
+2848	"research school of earth sciences, australian national university, canberra, act 2601, australia"	-0.427	0.6672	92	4	4	1	2	2.0759	2019	2	2.0759
+2860	"samsung research america, united states"	0.7732	0.237	49	5	5	1	2	2.0759	2019	2	2.0759
+2864	"school of applied science, telkom university, bandung, indonesia"	-0.1617	-0.2161	27	1	11	11	16	16.6074	2019	1.4545	1.5098
+2873	"school of architecture, planning and policy development, institut teknologi bandung, indonesia"	-0.1996	-0.5255	12	1	1	2	1	1.038	2019	0.5	0.519
+2879	"school of biological sciences, university of auckland, auckland, new zealand"	0.7398	-0.0916	15	13	13	1	4	4.1518	2019	4	4.1518
+2880	"school of biological sciences, university of northern colorado, 501 20th street, cb 92, greeley, co 80639-0017, united states"	0.1095	-0.946	79	4	4	1	9	9.3417	2019	9	9.3417
+2887	"school of business and management, bandung institute of technology, bandung, indonesia"	-0.2002	-0.5251	12	2	2	7	6	6.2278	2019	0.8571	0.8897
+2894	"school of business and management, institut teknologi bandung, bandung, indonesia"	-0.1997	-0.5254	12	2	2	5	2	2.0759	2019	0.4	0.4152
+2908	"school of chemical engineering and australian institute for bioengineering and nanotechnology (aibn), university of queensland, brisbane, qld 4072, australia"	0.5752	0.6885	1	15	15	2	25	25.949	2019	12.5	12.9745
+2909	"school of chemical engineering and australian institute for bioengineering and nanotechnology, the university of queensland, brisbane, qld 4072, australia"	0.602	0.6792	1	9	9	1	19	19.7213	2019	19	19.7213
+2910	"school of chemical engineering and school of mechanical & mining engineering, faculty of engineering, architecture and information technology (eait), the university of queensland, brisbane, qld 4072, australia"	-0.5675	-0.7478	62	4	4	1	7	7.2657	2019	7	7.2657
+2911	"school of chemical engineering and, australian institute for bioengineering and nanotechnology (aibn), the university of queensland, brisbane, qld 4072, australia"	-0.0287	-0.9342	30	9	9	1	2	2.0759	2019	2	2.0759
+2912	"school of chemical engineering, australian institute for bioengineering and nanotechnology (aibn), university of queensland, brisbane, qld 4072, australia"	0.5919	0.6758	1	13	13	2	7	7.2657	2019	3.5	3.6329
+2916	"school of chemistry, physics, and mechanical engineering, science and engineering faculty, queensland university of technology, brisbane, qld 4000, australia"	0.5705	0.6917	1	9	9	1	19	19.7213	2019	19	19.7213
+2917	"school of chemistry, rmit, melbourne, victoria 3000, australia"	0.7852	-0.2838	26	8	9	2	14	14.5315	2019	7	7.2657
+2928	"school of earth and environment, university of leeds, leeds, ls2 9jt, united kingdom"	-0.6581	-0.6853	23	10	10	1	9	9.3417	2019	9	9.3417
+2929	"school of earth sciences, ohio state university, columbus, oh 43210, united states"	0.7963	0.4592	21	11	11	1	2	2.0759	2019	2	2.0759
+2931	"school of economics and business, telkom university, bandung, indonesia"	-0.2009	-0.5245	12	2	2	3	1	1.038	2019	0.3333	0.346
+2933	"school of electrical and electronic engineering, nanyang technological university, singapore, 639798, singapore"	0.5399	0.3406	10	7	7	1	11	11.4176	2019	11	11.4176
+2956	"school of electrical engineering and informatics, bandung institute of technology, bandung, indonesia"	-0.1838	-0.1066	19	6	7	41	17	17.6453	2019	0.4146	0.4304
+2958	"school of electrical engineering and informatics, bandung institute of technology, indonesia"	0.1942	0.2032	140	0	0	4	0	0	2019	0	0
+2959	"school of electrical engineering and informatics, bandung institute of technology, jalan ganesha 10, bandung, 40133, indonesia"	0.9498	-0.0444	97	3	7	3	1	1.038	2019	0.3333	0.346
+2975	"school of electrical engineering and informatics, institut teknologi bandung, bandung, 40132, indonesia"	0.821	0.1641	141	0	0	5	7	7.2657	2019	1.4	1.4531
+2976	"school of electrical engineering and informatics, institut teknologi bandung, bandung, indonesia"	-0.1576	-0.2124	27	5	11	79	27	28.025	2019	0.3418	0.3547
+2986	"school of electrical engineering and informatics, institut teknologi bandung, indonesia"	-0.2569	0.4157	142	0	0	16	9	9.3417	2019	0.5625	0.5839
+2999	"school of electrical engineering and informatics, institute of technology bandung, bandung, indonesia"	-0.1836	-0.107	19	1	1	4	2	2.0759	2019	0.5	0.519
+3012	"school of electrical engineering, chungbuk national university, cheongju, south korea"	-0.1836	-0.107	19	3	3	2	0	0	2019	0	0
+3020	"school of electrical engineering, telkom university, bandung, indonesia"	-0.1615	-0.2159	27	5	18	68	40	41.5185	2019	0.5882	0.6106
+3035	"school of electrical engineering, universiti teknologi malaysia, johor bahru, indonesia"	-0.1465	0.8191	58	5	5	1	0	0	2019	0	0
+3038	"school of electronics engineering and informatics, institut teknologi bandung, indonesia"	-0.5303	0.5255	71	4	4	1	0	0	2019	0	0
+3041	"school of energy and environment, city university of hong kong kowloon, hong kong"	0.8563	-0.4009	69	4	4	1	3	3.1139	2019	3	3.1139
+3044	"school of engineering and information technology, murdoch university, 90 south street, murdoch, wa 6150, australia"	0.9269	0.1965	77	4	4	1	2	2.0759	2019	2	2.0759
+3045	"school of environment and science and queensland micro- and nanotechnology centre, griffith university (nathan campus)qld 4111, australia"	0.5704	0.6916	1	9	9	1	19	19.7213	2019	19	19.7213
+3048	"school of geography, earth and environmental sciences, university of birmingham (ub), birmingham, united kingdom"	-0.2036	-0.5224	12	7	7	1	23	23.8731	2019	23	23.8731
+3054	"school of information science, jaist (japan advanced institute of science and technology), asahidai 1-1, nomi, ishikawa, 923-1292, japan"	0.444	0.3499	6	6	6	1	0	0	2019	0	0
+3057	"school of ipb university, bogor, 16144, indonesia"	-0.4891	-0.8248	63	4	4	1	0	0	2019	0	0
+3059	"school of life science and technology, bandung institute of technology, bandung, indonesia"	0.7924	-0.4895	29	9	9	1	4	4.1518	2019	4	4.1518
+3063	"school of life science and technology, institut teknologi bandung, bandung, indonesia"	0.5936	-0.1106	118	1	2	2	3	3.1139	2019	1.5	1.5569
+3068	"school of life science and technology, institut teknologi bandung, labtex xi building, 10 jalan ganesa, bandung, west java, 40132, indonesia"	-0.4044	-0.863	61	5	5	1	3	3.1139	2019	3	3.1139
+3072	"school of life sciences and technology, bandung institute of technology, bandung, 40116, indonesia"	-0.4891	-0.8248	63	4	4	1	0	0	2019	0	0
+3073	"school of life sciences and technology, bandung institute of technology, jalan ganesha 10, bandung, 40132, indonesia"	-0.8362	0.4049	56	5	5	1	1	1.038	2019	1	1.038
+3079	"school of life sciences and technology, institut teknologi bandung, 10, jalan ganesa, bandung java, 40132, indonesia"	0.1093	-0.9461	79	4	4	1	9	9.3417	2019	9	9.3417
+3080	"school of life sciences and technology, institut teknologi bandung, bandung, 40132, indonesia"	0.4491	0.3489	6	2	2	4	2	2.0759	2019	0.5	0.519
+3081	"school of life sciences and technology, institut teknologi bandung, bandung, indonesia"	-0.2513	-0.4402	3	14	14	7	9	9.3417	2019	1.2857	1.3345
+3082	"school of life sciences and technology, institut teknologi bandung, bandung, west java, indonesia"	-0.4505	0.26	143	0	0	2	2	2.0759	2019	1	1.038
+3085	"school of life sciences and technology, institut teknologi bandung, jalan ganesha 10, bandung, 40132, indonesia"	0.4069	-0.515	144	0	0	4	7	7.2657	2019	1.75	1.8164
+3091	"school of life sciences and technology, institut teknologi, bandung, indonesia"	0.7394	-0.0916	15	13	13	1	4	4.1518	2019	4	4.1518
+3095	"school of materials science and engineering, nanyang technological university, 50 nanyang avenue, blk n4.1639798, singapore"	-0.6175	0.0585	42	6	6	1	14	14.5315	2019	14	14.5315
+3097	"school of materials science and engineering, unsw, sydney, nsw 2052, australia"	0.7852	-0.2839	26	4	4	1	11	11.4176	2019	11	11.4176
+3101	"school of mechanical and aerospace engineering, nanyang technological university, 50 nanyang avenue639798, singapore"	0.9056	0.2824	52	5	5	1	6	6.2278	2019	6	6.2278
+3102	"school of pharmacy, bandung institute of technology, bandung, indonesia"	0.5411	-0.5012	46	6	6	4	25	25.949	2019	6.25	6.4873
+3107	"school of pharmacy, institut teknologi bandung, bandung, 40132, indonesia"	0.4542	0.3478	6	5	5	1	0	0	2019	0	0
+3108	"school of pharmacy, institut teknologi bandung, bandung, indonesia"	0.3602	0.7431	17	6	6	3	1	1.038	2019	0.3333	0.346
+3116	"school of science and technology, kwansei gakuin university, sanda, japan"	0.4029	-0.8475	100	2	3	2	3	3.1139	2019	1.5	1.5569
+3119	"science and technology faculty– jakarta islamic state university (uin), ciputat, jakarta. jl. ir. h. juanda no. 95 ciputat, tangerang, selatan 15412, indonesia"	-0.1792	0.6695	50	5	5	1	1	1.038	2019	1	1.038
+3121	"scripps institution of oceanography, university of california san diego, la jolla, ca, united states"	-0.3016	-0.5875	5	8	8	1	2	2.0759	2019	2	2.0759
+3122	"scripps institution of oceanography, university of california, san diego, la jolla, ca, united states"	-0.3123	-0.6059	5	18	36	2	9	9.3417	2019	4.5	4.6708
+3123	"sealand coastal consultancy, van baerlestraat 140, amsterdam, netherlands"	0.0739	0.3135	86	4	4	1	3	3.1139	2019	3	3.1139
+3125	"seismology, exploration and engineering research group, faculty of mining and petroleum engineering, institut teknologi bandung, indonesia"	-0.1433	-0.93	36	2	4	3	0	0	2019	0	0
+3134	"shanghai urban construction design and research institute, shanghai, china"	0.3601	0.7416	17	4	4	1	3	3.1139	2019	3	3.1139
+3136	"shenzhen research institute, chinese university of hong kong, shenzhen, 518057, china"	-0.738	-0.0387	65	4	4	1	1	1.038	2019	1	1.038
+3137	"shenzhen research institute, the chinese university of hong kong, shenzhen, guangdong, 518172, china"	-0.5809	0.7144	20	4	4	1	2	2.0759	2019	2	2.0759
+3138	"shibaura institute of technology, shibaura 3-9-14, minato-ku, tokyo, japan"	0.5412	-0.6524	47	5	5	1	0	0	2019	0	0
+3142	"singapore synchrotron light source, national university of singapore117603, singapore"	0.6581	-0.6708	35	8	8	1	1	1.038	2019	1	1.038
+3143	"singapore-huj alliance for research and enterprise (share) nanomaterials for energy and water nexus (new), campus for research excellence and technological enterprise (create)138602, singapore"	-0.6176	0.0585	42	6	6	1	14	14.5315	2019	14	14.5315
+3145	"sofia/usra, nasa ames research center, moffett field, ca, united states"	-0.4647	0.7866	33	8	8	1	2	2.0759	2019	2	2.0759
+3153	"state institute for islamic studies palu (iain palu), palu, indonesia"	-0.2058	-0.0048	4	10	10	1	15	15.5694	2019	15	15.5694
+3155	"state key laboratory of clean energy utilization, zhejiang university, hangzhou, china"	0.3602	0.7416	17	4	4	1	3	3.1139	2019	3	3.1139
+3156	"state key laboratory of marine environmental science, and department of physical oceanography, college of ocean and earth sciences, xiamen university, xiamen, china"	-0.3016	-0.5876	5	8	8	1	2	2.0759	2019	2	2.0759
+3159	"state polytechnic of malang, school of electrical engineering and informatics, institut teknologi bandung, department of electrical engineering, bandung, indonesia"	-0.1923	-0.0696	4	2	3	2	0	0	2019	0	0
+3169	"stem cells research and development center, campus c, universitas airlangga surabaya, jl. ir h. soekarno, mulyosari, surabaya, indonesia"	0.2673	0.8959	25	10	10	1	10	10.3796	2019	10	10.3796
+3176	"study group of wildlife and habitat conservation (green community), department biology, faculty of mathematic and natural sciences, semarang state university, semarang, central java, indonesia"	-0.4042	-0.8628	61	5	5	1	3	3.1139	2019	3	3.1139
+3177	"study program of earth science, faculty of earth sciences and technology, institut teknologi bandung, jalan ganesa no. 10, bandung, 40132, indonesia"	-0.9288	-0.0871	32	8	8	1	1	1.038	2019	1	1.038
+3178	"study program of geodesy and geomatics engineering, faculty of earth sciences and technology, institut teknologi bandung, bandung, indonesia"	0.6662	-0.5207	93	3	7	3	0	0	2019	0	0
+3185	"surya university, indonesia"	0.7732	0.237	49	5	5	1	2	2.0759	2019	2	2.0759
+3186	"swadaya petani indonesia, bandung, indonesia"	-0.2569	-0.4391	3	9	9	1	3	3.1139	2019	3	3.1139
+3200	"telkom university, bandung, indonesia"	0.4213	-0.1973	145	0	0	3	3	3.1139	2019	1	1.038
+3216	"telkom university, school of electrical engineering, bandung, indonesia"	-0.1865	-0.0952	19	1	1	28	4	4.1518	2019	0.1429	0.1483
+3222	"the national research center of archaeology, jl. condet pejaten no. 4, jakarta, 12510, indonesia"	-0.8464	0.0262	28	6	6	1	3	3.1139	2019	3	3.1139
+3228	"theoretical high energy physics and instrumentations research group, institut teknologi bandung jl. ganesha 10, bandung, 40132, indonesia"	0.3928	-0.6352	41	6	6	1	1	1.038	2019	1	1.038
+3235	"theoretical physics laboratory, faculty of mathematics and natural sciences, institut teknologi bandung, jl. ganesha no. 10, bandung, 40132, indonesia"	-0.4393	0.5603	104	1	2	4	0	0	2019	0	0
+3236	"theoretical physics laboratory, faculty of mathematics and natural sciences, institut teknologi bandung, jl. ganesha, indonesia"	-0.4394	0.5603	104	1	3	3	1	1.038	2019	0.3333	0.346
+3237	"theoretical physics laboratory, theoretical high energy physics and instrumentation research group, faculty of mathematics and natural sciences, institut teknologi bandung, bandung, 40132, indonesia"	-0.7211	-0.6175	119	1	1	2	1	1.038	2019	0.5	0.519
+3247	"theoretical physics research group, department of physics, faculty of science and technology, surabaya, 60115, indonesia"	0.3928	-0.6352	41	6	6	1	1	1.038	2019	1	1.038
+3248	"theoretical physics research group, department of physics, universitas airlangga, surabaya, indonesia"	0.3602	0.744	17	6	6	1	1	1.038	2019	1	1.038
+3251	"tokyo institute of technology, tokyo, japan"	-0.2012	-0.0277	4	4	4	1	25	25.949	2019	25	25.949
+3252	"toyohashi university of technology, department of electrical and electronic information engineering, toyohashi, japan"	-0.195	-0.0577	4	4	4	1	0	0	2019	0	0
+3253	"toyohashi university of technology, toyohashi, japan"	-0.195	-0.0578	4	4	4	1	0	0	2019	0	0
+3254	"transdisciplinary research and education center of green technology, kyushu university, kasuga, 816-8580, japan"	0.9269	0.1965	77	4	4	1	2	2.0759	2019	2	2.0759
+3255	"transportation technology (ncstt) institut teknologi bandung, department of physics, bandung, indonesia"	-0.1053	0.4316	18	5	5	1	0	0	2019	0	0
+3256	"tsunami and disaster mitigation research center, syiah kuala university, indonesia"	-0.6279	-0.5995	59	5	5	1	1	1.038	2019	1	1.038
+3258	"u.s. geological survey, florence bascom geoscience center, 12201 sunrise valley dr., ms926a, reston, va 20192, united states"	-0.5512	0.3124	82	4	4	1	1	1.038	2019	1	1.038
+3259	"u.s. geological survey, volcano disaster assistance program, 1300 se cardinal court, vancouver, wa 98683, united states"	-0.1423	-0.931	36	5	5	1	11	11.4176	2019	11	11.4176
+3260	"u.s. geological survey, western ecological research center, san diego, ca, united states"	0.7396	-0.0916	15	13	13	1	4	4.1518	2019	4	4.1518
+3261	"u.s. geological survey, western ecological research center, santa ana, ca, united states"	0.7397	-0.0917	15	13	13	1	4	4.1518	2019	4	4.1518
+3269	"uin sunan gunung djati, department of electrical engineering, faculty of science and technology, bandung, indonesia"	-0.6658	0.6198	37	3	5	5	2	2.0759	2019	0.4	0.4152
+3272	"umr 7208 borea (mnhn-cnrs-upmc-ird-ucbn), muséum national d’histoire naturelle, 43 rue cuvier, paris cedex 05, 75231, france"	0.1534	0.9221	84	4	4	1	3	3.1139	2019	3	3.1139
+3276	"undergraduate program of geophysical engineering, institut teknologi bandung, indonesia"	-0.5435	-0.7962	112	1	1	3	2	2.0759	2019	0.6667	0.692
+3279	"univ. grenoble alpes, cnrs, grenoble inp, g2elab, grenoble, 38000, france"	-0.1576	-0.2124	27	1	2	2	0	0	2019	0	0
+3280	"universidad católica de la santísima concepción, concepción, chile"	-0.2011	-0.0277	4	4	4	1	25	25.949	2019	25	25.949
+3281	"universitas al azhar indonesia, jakarta, indonesia"	-0.1985	-0.0416	4	6	6	1	2	2.0759	2019	2	2.0759
+3284	"universitas diponegoro, electrical engineering department, semarang, indonesia"	-0.057	-0.1989	8	4	4	1	0	0	2019	0	0
+3285	"universitas diponegoro, mechanical engineering department, semarang, indonesia"	-0.0567	-0.1987	8	5	6	2	0	0	2019	0	0
+3286	"universitas diponegoro, naval architecture department, semarang, indonesia"	-0.0569	-0.1988	8	4	4	1	0	0	2019	0	0
+3287	"universitas gadjah mada, department of electrical and information engineering, yogyakarta, indonesia"	-0.1616	-0.216	27	1	3	3	4	4.1518	2019	1.3333	1.3839
+3304	"universitas negeri jakarta culture collection (unjcc), campus a, hasyim ashari building, jl. rawamangun muka east java, indonesia"	0.2486	-0.8711	13	4	4	1	2	2.0759	2019	2	2.0759
+3305	"universitas negeri jakarta culture collection, 9th floor hasyim ashari building, faculty of mathematics and natural sciences, universitas negeri jakarta, jakarta, indonesia"	0.251	-0.8688	13	6	6	1	0	0	2019	0	0
+3306	"universitas negeri jakarta culture collection, hasyim ashari building, faculty of mathematics and natural sciences, universitas negeri jakarta, jakarta, indonesia"	0.2502	-0.8696	13	4	4	1	0	0	2019	0	0
+3307	"universitas negeri padang, physics department, padang, indonesia"	-0.6655	0.6208	37	2	2	1	1	1.038	2019	1	1.038
+3310	"universitas pakuan, department of electrical engineering faculty of engineering, bogor, indonesia"	-0.7425	0.5842	108	2	3	2	0	0	2019	0	0
+3315	"universitas pertamina, department of chemistry, jakarta, indonesia"	-0.1053	0.4315	18	5	5	1	0	0	2019	0	0
+3317	"universitas pertamina, jakarta, indonesia"	0.0589	-0.9501	146	0	0	1	16	16.6074	2019	16	16.6074
+3320	"universitas sangga buana, department of electrical engineering faculty of engineering, bandung, indonesia"	-0.7425	0.5842	108	2	3	2	0	0	2019	0	0
+3323	"universitas sangga, department of electrical engineering, buana, indonesia"	-0.1628	-0.217	27	1	1	1	0	0	2019	0	0
+3324	"universitas sebelas maret, indonesia"	0.4588	-0.8046	94	3	3	1	1	1.038	2019	1	1.038
+3325	"universitas tanjungpura, department of chemistry, pontianak, indonesia"	-0.1054	0.4316	18	5	5	1	0	0	2019	0	0
+3327	"universiti kuala lumpur, kuala lumpur, malaysia"	-0.2069	-0.5173	12	2	2	1	2	2.0759	2019	2	2.0759
+3329	"universiti tun abdul razak, kuala lumpur, malaysia"	-0.2069	-0.5172	12	2	2	1	2	2.0759	2019	2	2.0759
+3334	"university center of excellence on microelectronics, institut teknologi bandung, bandung, indonesia"	-0.1586	-0.2135	27	3	7	10	1	1.038	2019	0.1	0.1038
+3339	"university center of excellence on microelectronics, itb, bandung, 40132, indonesia"	0.4038	-0.8762	147	0	0	1	3	3.1139	2019	3	3.1139
+3341	"university college london (ucl), london, united kingdom"	-0.2035	-0.5222	12	7	7	1	23	23.8731	2019	23	23.8731
+3343	"university of bologna, dei, bologna, italy"	0.4509	-0.5514	148	0	0	2	0	0	2019	0	0
+3344	"university of california santa cruz (ucsc), santa cruz, ca, united states"	-0.2036	-0.5223	12	7	7	1	23	23.8731	2019	23	23.8731
+3345	"university of chicago, united states"	0.7732	0.2371	49	5	5	1	2	2.0759	2019	2	2.0759
+3346	"university of groningen, netherlands"	0.4592	-0.8045	94	3	3	1	1	1.038	2019	1	1.038
+3347	"university of minnesota, united states"	-0.6582	-0.6853	23	10	10	1	9	9.3417	2019	9	9.3417
+3349	"university of nantes, polytech, imn - cnrs, umr 6502, nantes, 44322, france"	-0.1792	0.6694	50	5	5	1	1	1.038	2019	1	1.038
+3350	"university of pakuan, department of electrical engineering, faculty of engineering, bogor, indonesia"	-0.6659	0.6198	37	2	4	2	0	0	2019	0	0
+3351	"university of pelita harapan, 1100 m.h. thamrin boulevard, lippo village, tangerang, 15811, indonesia"	0.1013	0.6821	2	11	11	1	8	8.3037	2019	8	8.3037
+3356	"university of westminster, united kingdom"	0.4591	-0.8043	94	3	3	1	1	1.038	2019	1	1.038
+3357	"université de toulouse, laplace, umr 5213 (cnrs, inpt, ups), 118 rte de narbonne, toulouse, 31062, france"	0.9498	-0.0444	97	3	5	2	1	1.038	2019	0.5	0.519
+3358	"université grenoble alpes, grenoble inp, lcis, valence, 26000, france"	0.3533	-0.1931	149	0	0	1	0	0	2019	0	0
+3362	"visiting researcher at precision sciences & technology and applied physics, graduate school of engineering, osaka university, suita, 565-0871, japan"	-0.775	0.2867	39	7	7	1	1	1.038	2019	1	1.038
+3363	"volcano disaster assistance program, u.s. geological survey, 1300 se cardinal court, vancouver, wa 98683, united states"	0.6017	0.0205	150	0	0	1	5	5.1898	2019	5	5.1898
+3365	"waseda university, tokyo, japan"	-0.2011	-0.0276	4	4	4	1	25	25.949	2019	25	25.949
+3366	"water and waste management, resilience development initiative, bandung, indonesia"	-0.2072	-0.5165	12	1	1	1	0	0	2019	0	0
+3369	"water and wastewater engineering research group, institute of technology bandung, indonesia"	0.0267	0.953	98	2	4	2	2	2.0759	2019	1	1.038
+3372	"weather and climate prediction laboratory, faculty of earth sciences and technology, institut teknologi bandung, indonesia"	0.8632	0.1539	120	1	2	2	0	0	2019	0	0
+3373	"weather and climate prediction laboratory, indonesia"	0.4587	-0.805	94	1	1	1	0	0	2019	0	0
+3377	"yeoju technical institute in tashkent, 156 usmon nosir street, tashkent, 100056, uzbekistan"	0.3831	0.8697	54	5	5	1	1	1.038	2019	1	1.038
+3380	"zernike institute for advanced materials, university of groningen, nijenborgh 4, groningen, ag 9747, netherlands"	0.3792	-0.3483	16	5	5	1	2	2.0759	2019	2	2.0759
+3381	"zoological institute, technische universität braunschweig, braunschweig, germany"	0.7398	-0.0918	15	13	13	1	4	4.1518	2019	4	4.1518

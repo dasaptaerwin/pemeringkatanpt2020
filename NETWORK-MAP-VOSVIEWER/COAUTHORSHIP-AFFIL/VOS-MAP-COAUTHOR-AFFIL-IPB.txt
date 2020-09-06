@@ -1,0 +1,1001 @@
+﻿id	label	x	y	cluster	weight<Links>	weight<Total link strength>	weight<Documents>	weight<Citations>	weight<Norm. citations>	score<Avg. pub. year>	score<Avg. citations>	score<Avg. norm. citations>
+1	"5 shackleton court, 2 maritime quay, isle of dogs, london, e14 3qf, united kingdom"	-0.5329	-0.272	21	7	7	1	1	1.356	2019	1	1.356
+2	"a.n. severtsov institute of ecology and evolution, russian academy of sciences, moscow, russian federation"	-0.3843	0.8582	114	3	5	2	7	9.4922	2019	3.5	4.7461
+3	"academy of emerging science, chubu university, kasugai, japan"	0.302	-0.8793	52	5	5	1	1	1.356	2019	1	1.356
+6	"acarology laboratory, ohio state university, 1315 kinnear rd., columbus, oh 43212, united states"	0.243	0.9032	53	5	5	1	1	1.356	2019	1	1.356
+9	"advanced functional materials laboratory, department of engineering physics, faculty of industry technology, institut teknologi bandung, bandung, indonesia"	-0.3509	0.5662	54	5	8	2	2	2.7121	2019	1	1.356
+12	"agency for meteorology, climatology and geophysics, center for climate change information, jakarta, indonesia"	-0.3165	0.3253	9	17	17	1	5	6.7802	2019	5	6.7802
+13	"agency for research and human resources of marine affairs and fisheries, ministry of marine affairs and fisheries, jakarta, indonesia"	-0.4072	-0.6361	22	7	7	1	7	9.4922	2019	7	9.4922
+14	"agency for the assessment and application of technology (bppt), indonesia"	0.4448	0.8375	145	1	1	2	0	0	2019	0	0
+32	"agricultural research for development (cirad), university of montpellier, france"	-0.3332	-0.2686	51	5	5	1	19	25.7646	2019	19	25.7646
+35	"agriculture and agri-food canada, ottawa research and development centre, canadian national collection of insects, arachnids and nematodes, 960 carling ave, ottawa, on k1a 0c6, canada"	0.2431	0.9033	53	5	5	1	1	1.356	2019	1	1.356
+41	"agroindustry technology center, agency for the assessment and application of technology, puspitek, serpong, indonesia"	0.3075	0.6693	6	2	4	2	9	12.2043	2019	4.5	6.1021
+57	"algae biomass and energy system r&d center, university of tsukuba, tsukuba, ibaraki 305-8572, japan"	0.3129	0.6655	6	6	6	1	6	8.1362	2019	6	8.1362
+65	"anatomic pathology laboratory, persahabatan hospital, jakarta, indonesia"	0.4974	-0.4783	55	5	5	1	0	0	2019	0	0
+67	"andalas university (unand), limau manis, padang, indonesia"	-0.2964	0.8673	11	10	10	1	3	4.0681	2019	3	4.0681
+69	"andi djemma university, department of fisheries, 13/15 sultan hasanuddin street, palopo, 91911, indonesia"	-0.006	-0.3958	38	6	6	1	0	0	2019	0	0
+73	"animal hospital faculty of veterinary medicine, bogor agricultural institute, bogor, indonesia"	0.5746	0.7177	39	6	6	1	2	2.7121	2019	2	2.7121
+78	"applied climatology, graduate school of bogor agricultural university, bogor, 16680, indonesia"	0.3536	0.8767	19	8	9	3	0	0	2019	0	0
+89	"aquatic megafauna research unit, centre for sustainable aquatic ecosystems, harry butler institute, murdoch university, perth, wa, australia"	0.527	0.5264	35	7	7	1	2	2.7121	2019	2	2.7121
+101	"arc centre of excellence for coral reef studies, james cook university, townsville, australia"	0.8743	0.0397	3	24	24	2	2	2.7121	2019	1	1.356
+102	"arc centre of excellence for coral reef studies, school of biological sciences, the university of queensland, st. lucia, qld, australia"	0.8744	0.0481	3	23	23	1	1	1.356	2019	1	1.356
+103	"arc centre of excellence for environmental decisions, school of biological sciences, the university of queensland, brisbane, qld, australia"	0.8746	0.0481	3	23	23	1	1	1.356	2019	1	1.356
+105	"asia research centre, murdoch university, murdochwestern australia 6150, australia"	-0.4072	-0.6362	22	7	7	1	7	9.4922	2019	7	9.4922
+107	"asian tropical foundation, filinvest corporate city, research institute for tropical medicine compound, muntinlupa, philippines"	-0.475	0.7499	7	22	28	2	0	0	2019	0	0
+111	"auckland war memorial museum, tāmaki paenga hira, auckland, new zealand"	0.8748	0.0493	3	23	23	1	1	1.356	2019	1	1.356
+112	"australian institute of marine science, perth, wa 6009, australia"	0.8664	0.3519	23	7	7	1	3	4.0681	2019	3	4.0681
+113	"australian institute of tropical health and medicine, james cook university, townsville, qld, australia"	0.3121	0.6801	6	9	10	2	12	16.2724	2019	6	8.1362
+114	"australian museum research institute, australian museum, sydney, nsw, australia"	0.8746	0.0489	3	23	23	1	1	1.356	2019	1	1.356
+124	"balai veteriner subang (dic subang), jl. terusan garuda 33/11 blok werasari dangdeur, subang, jawa barat 41212, indonesia"	0.3103	-0.7533	56	5	5	1	5	6.7802	2019	5	6.7802
+130	"bio21 mass spectrometry and proteomics facility, the bio21 molecular science and biotechnology institute, the university of melbourne, melbourne, vic, australia"	0.3126	0.6815	6	8	8	1	10	13.5603	2019	10	13.5603
+131	"biochemistry & molecular biology department, faculty of medicine, universitas indonesia, jakarta, indonesia"	-0.1008	-0.5803	40	6	6	1	2	2.7121	2019	2	2.7121
+137	"biodiversity, macroecology and biogeography, university of göttingen, büsgenweg 1, göttingen, 37077, germany"	0.5068	0.7873	24	7	7	1	1	1.356	2019	1	1.356
+138	"biodiversity, macroecology, and biogeography research group, georg-august university, göttingen, germany"	-0.0745	-0.9281	41	6	6	1	3	4.0681	2019	3	4.0681
+153	"biotechnology research center, indonesian research institute (lipi), cibinong, indonesia"	0.4974	-0.4783	55	5	5	1	0	0	2019	0	0
+160	"bogor agricultural university (ipb), darmaga, bogor, indonesia"	-0.2963	0.8673	11	10	10	1	3	4.0681	2019	3	4.0681
+163	"bogor agricultural university (ipb), jl. agatis, kampus ipb, bogor, indonesia"	-0.4749	0.7502	7	22	28	2	0	0	2019	0	0
+167	"bogor agricultural university, bogor, indonesia"	0.8656	-0.1241	2	19	19	21	12	16.2724	2019	0.5714	0.7749
+172	"bogor agricultural university, department of forest management, kampus ipb darmaga, bogor, 16680, indonesia"	-0.5503	0.2774	72	5	5	1	5	6.7802	2019	5	6.7802
+178	"bogor agricultural university, faculty of fisheries and marine sciences, department of aquatic products technology, darmaga, kampus ipb, lingk, ar akademik street, bogor, 16680, indonesia"	-0.006	-0.3958	38	6	6	1	0	0	2019	0	0
+179	"bogor agricultural university, faculty of fisheries and marine sciences, department of fisheries resources utilization, darmaga, kampus ipb, lingkar akademik street, bogor, 16680, indonesia"	-0.0061	-0.3959	38	6	6	1	0	0	2019	0	0
+183	"bogor agricultural university, forest management, indonesia"	-0.3164	0.3251	9	17	17	1	5	6.7802	2019	5	6.7802
+185	"bogor agricultural university, indonesia"	-0.3334	-0.2686	51	6	6	10	27	36.6128	2019	2.7	3.6613
+197	"bogor agricultural university, kampus ipb dramaga, jl. raya dramaga, babakan, dramaga, babakan, dramaga, west java, bogor, 16680, indonesia"	-0.1774	-0.9226	57	5	5	1	0	0	2019	0	0
+204	"bogor botanical garden, lembaga ilmu pengetahuan indonesia, bogor, indonesia"	-0.0745	-0.9281	41	6	6	1	3	4.0681	2019	3	4.0681
+208	"borneo orangutan survival foundation (bosf), palangkaraya, indonesia"	0.7107	0.6008	42	6	6	1	0	0	2019	0	0
+209	"botanical garden of the university of bern, bern, switzerland"	-0.0744	-0.9282	41	6	6	1	3	4.0681	2019	3	4.0681
+219	"business unit bioscience, wageningen university and research, p.o. box 619, wageningen, 6700 ap, netherlands"	0.0257	-0.9334	43	6	6	1	4	5.4241	2019	4	5.4241
+220	"campus for research excellence and technological enterprise (create) program, singapore, 138602, singapore"	0.4034	-0.1137	12	10	10	1	5	6.7802	2019	5	6.7802
+221	"cancer chemoprevention research center, faculty of pharmacy, universitas gadjah mada, yogyakarta, indonesia"	-0.1872	0.7538	14	7	7	1	1	1.356	2019	1	1.356
+222	"cancer diagnostic research, stem cell and cancer institute, jakarta, indonesia"	0.4974	-0.4783	55	5	5	1	0	0	2019	0	0
+226	"cell physiology and molecular image research center, wan fang hospital, taipei medical university, taipei city, 116, taiwan"	-0.745	0.559	25	7	7	1	0	0	2019	0	0
+239	"center for coastal and marine resources studies (ccmrs), bogor agricultural"	-0.5753	-0.7321	26	7	7	1	0	0	2019	0	0
+249	"center for coastal and marine resources studies, bogor agricultural university, indonesia"	0.1311	0.3141	149	0	0	5	0	0	2019	0	0
+258	"center for coastal and marine resources studies, lppm ipb (ccmrs lppm ipb), indonesia"	0.5566	-0.6779	73	4	4	4	1	1.356	2019	0.25	0.339
+265	"center for disaster science, riau university, pekanbaru, indonesia"	0.7106	0.6008	42	6	6	1	0	0	2019	0	0
+279	"center for fisheries research, indonesia ministry of marine affairs and fisheries, jakarta, indonesia"	-0.8015	-0.167	48	2	2	2	0	0	2019	0	0
+281	"center for integrated breeding research, university of göttingen, albrecht-thaer-weg 3, göttingen, 37075, germany"	0.5068	0.7873	24	7	7	1	1	1.356	2019	1	1.356
+283	"center for international forestry research (cifor), bogor, indonesia"	0.4331	-0.1475	1	9	9	3	9	12.2043	2019	3	4.0681
+284	"center for international forestry research (cifor), bogor, jawa barat, 16115, indonesia"	0.4587	-0.1743	1	15	15	1	2	2.7121	2019	2	2.7121
+288	"center for international forestry research (cifor), jl. cifor, situ gede, bogor, indonesia"	0.4472	-0.1659	1	8	8	1	5	6.7802	2019	5	6.7802
+292	"center for international forestry research, indonesia"	-0.3332	-0.2686	51	5	5	1	19	25.7646	2019	19	25.7646
+299	"center for perhutani research and development, indonesia"	0.718	-0.3464	69	5	5	1	1	1.356	2019	1	1.356
+302	"center for regional system analysis, planning, and development, bogor agricultural university, bogor, 16153, indonesia"	0.6621	-0.4584	33	7	7	1	14	18.9844	2019	14	18.9844
+305	"center for remote sensing, institut teknologi bandung, bandung, 40132, indonesia"	-0.8897	0.2926	58	5	5	1	1	1.356	2019	1	1.356
+313	"center for southeast asian studies, kyoto university, kyoto, japan"	0.4034	-0.1136	12	10	10	1	5	6.7802	2019	5	6.7802
+318	"center for tropical animal studies, institute of research and community empowerment, bogor agricultural university, bogor, 16129, indonesia"	-0.9264	-0.1208	27	7	7	1	0	0	2019	0	0
+322	"center for tropical horticulture studies, bogor agricultural university, kampus ipb baranangsiang jalan pajajaran bogor, bogor, 16144, indonesia"	0.0256	-0.9334	43	6	6	1	4	5.4241	2019	4	5.4241
+324	"center for tropical horticulture studies, ipb, bogor, indonesia"	0.1586	0.1684	150	0	0	2	8	10.8482	2019	4	5.4241
+328	"center of environment studies, sanata dharma university, yogyakarta, indonesia"	-0.4474	0.0019	4	23	23	1	1	1.356	2019	1	1.356
+331	"center of hypoxia and oxidative stress studies (choss), faculty of medicine, universitas indonesia, jakarta, indonesia"	-0.1007	-0.5803	40	6	6	1	2	2.7121	2019	2	2.7121
+334	"center of tropical horticulture studies, bogor agricultural university, indonesia"	-0.0526	-0.7798	50	2	5	4	0	0	2019	0	0
+335	"center of veterinary research, bogor, indonesia"	-0.1232	0.4743	74	4	4	2	1	1.356	2019	0.5	0.678
+339	"central european institute of technology, masaryk university, kamenice 5, brno, 625 00, czech republic"	-0.2274	0.6063	65	5	5	1	1	1.356	2019	1	1.356
+341	"centre for agri-environmental research, school of agriculture, policy and development, reading university, reading, united kingdom"	-0.0401	-0.0895	5	23	46	2	17	23.0525	2019	8.5	11.5263
+342	"centre for biosystem genomics, p.o. box 98, wageningen, 6700 ab, netherlands"	0.0256	-0.9335	43	6	6	1	4	5.4241	2019	4	5.4241
+343	"centre for climate risk and opportunity management, bogor agricultural university, bogor, indonesia"	0.1582	0.9021	44	6	6	1	9	12.2043	2019	9	12.2043
+345	"centre for diagnostic standard of indonesian agricultural quarantine agency, ministry of agriculture, jakarta, 13220, indonesia"	-0.9265	-0.1208	27	7	7	1	0	0	2019	0	0
+346	"centre for ecology, environment and conservation, oxford brookes university, gipsy lane, oxford, ox3 0bp, united kingdom"	-0.5329	-0.272	21	7	7	1	1	1.356	2019	1	1.356
+347	"centre for econics and ecosystem management, faculty of forest and environment, eberswalde university for sustainable development, eberswalde, d-16225, germany"	0.4587	-0.1744	1	15	15	1	2	2.7121	2019	2	2.7121
+348	"centre for environmental data recording, national museums of northern ireland, 153 bangor road, holywood, county down, bt18 oeu, united kingdom"	-0.5329	-0.272	21	7	7	1	1	1.356	2019	1	1.356
+350	"centre for food and allergy research, murdoch children's research institute, melbourne, vic, australia"	0.3121	0.6801	6	9	10	2	12	16.2724	2019	6	8.1362
+357	"centre for sustainable aquatic ecosystems, murdoch university, murdoch, western australia 6150, australia"	-0.4072	-0.6362	22	7	7	1	7	9.4922	2019	7	9.4922
+358	"centre for sustainable tropical fisheries and aquaculture, james cook university, townsville, qld 4811, australia"	0.8665	0.3518	23	7	7	1	3	4.0681	2019	3	4.0681
+360	"centre of biodiversity and sustainable land use, göttingen, germany"	-0.3843	0.8582	114	3	6	3	7	9.4922	2019	2.3333	3.1641
+362	"centre of diagnostic standard indonesian agricultural quarantine agency, indonesian ministry of agriculture, indonesia"	0.8647	-0.1205	2	10	10	1	4	5.4241	2019	4	5.4241
+365	"centro de ciencia do sistema terrestre inpe, são josé dos campos, são paulo, brazil"	0.4585	-0.1747	1	15	15	1	2	2.7121	2019	2	2.7121
+368	"chemical education department, universitas syiah kuala, jln. tgk. daud beureueh darussalam, banda aceh, indonesia"	-0.0206	0.8466	16	5	5	1	1	1.356	2019	1	1.356
+369	"chemical education department, universitas syiah kuala, jln. tgk. daud beureueh, darussalam banda aceh, 23311, indonesia"	0.5433	0.2933	8	5	5	1	10	13.5603	2019	10	13.5603
+370	"chemical engineering department, universitas syiah kuala, darussalam, banda aceh, 23111, indonesia"	0.5434	0.2933	8	5	5	1	10	13.5603	2019	10	13.5603
+373	"chemistry institute, federal university of uberlandia-ufu, campus santa monica-bloco1d-cp 593, uberlandia, 38400-902, brazil"	0.5466	0.2941	8	7	7	1	10	13.5603	2019	10	13.5603
+378	chinese center for tropical diseases research	-0.4753	0.7488	7	13	13	1	0	0	2019	0	0
+379	"chinese center for tropical diseases research, shanghai, china"	-0.4743	0.7514	7	15	15	1	0	0	2019	0	0
+382	"cipto mangunkusumo hospital, jakarta, indonesia"	-0.3432	-0.7821	59	5	5	1	0	0	2019	0	0
+386	"cires, university of colorado, boulder, co, united states"	0.4036	-0.1138	12	10	10	1	5	6.7802	2019	5	6.7802
+395	"cognitive genomics research group, exploratory research center on life and living systems (excells), national institutes of natural sciences, okazaki, japan"	0.1782	-0.7682	17	8	8	1	0	0	2019	0	0
+398	"college of agriculture, ibaraki university, japan"	-0.0524	-0.7795	50	4	7	3	6	8.1362	2019	2	2.7121
+402	"college of science and engineering, james cook university, townsville, qld 4811, australia"	0.8665	0.3518	23	7	7	1	3	4.0681	2019	3	4.0681
+403	"college of science and engineering, james cook university, townsville, qld, australia"	0.8753	0.0486	3	23	23	1	1	1.356	2019	1	1.356
+414	"cooperative institute for research in the environmental sciences, university of colorado, boulder, co 80303, united states"	-0.6216	0.5785	45	6	6	1	6	8.1362	2019	6	8.1362
+415	"copernicus institute of sustainable development, utrecht university, utrecht, netherlands"	0.4585	-0.1745	1	15	15	1	2	2.7121	2019	2	2.7121
+419	"csiro land and water, cairns, qld, australia"	-0.0398	-0.0879	5	23	46	2	17	23.0525	2019	8.5	11.5263
+420	"csiro land and water, townsville, qld, australia"	-0.0401	-0.0882	5	23	46	2	17	23.0525	2019	8.5	11.5263
+422	"departamento de biología, laboratorio de investigaciones en abejas, universidad nacional de colombia, bogotá, colombia"	-0.0403	-0.0886	5	23	46	2	17	23.0525	2019	8.5	11.5263
+455	"departement of aquaculture, faculty of fisheries and marine sciences, bogor agricultural university (ipb university), bogor, indonesia"	-0.6	0.7469	136	1	2	3	0	0	2019	0	0
+462	"departement of aquatic resources management, bogor agrucultural university, bogor, 16680, indonesia"	-0.5754	-0.7322	26	7	7	1	0	0	2019	0	0
+474	"departement of biology, faculty of teacher training and education syiah, kuala university, banda aceh, 23111, indonesia"	-0.6876	0.413	20	6	6	1	0	0	2019	0	0
+475	"departement of biology, faculty of teacher training and education, jabal ghafur university, sigli, 24171, indonesia"	-0.6878	0.413	20	8	9	2	0	0	2019	0	0
+495	"departement of geophysics and meteorology, faculty of mathematics and natural science, ipb university, darmaga campus, bogor, 16680, indonesia"	-0.0056	0.6143	13	5	5	1	0	0	2019	0	0
+497	"departement of marine science and technology, bogor agrucultural university, bogor, 16680, indonesia"	-0.5753	-0.7322	26	7	7	1	0	0	2019	0	0
+527	"departement of water resources management, faculty of fisheries and marine sciences, bogor agricultural university, bogor, 16680, indonesia"	-0.6878	0.413	20	8	9	2	0	0	2019	0	0
+529	"department agro-environmental sciences, graduate school of bioresource and bioenvironmental sciences, faculty of agriculture, kyushu university, 744 motooka, nishi-ku, fukuoka, 819-0395, japan"	-0.6816	0.103	61	5	5	1	1	1.356	2019	1	1.356
+536	"department fishing technology, faculty fishing technology, jakarta fisheries university, jakarta, indonesia"	-0.1878	-0.4019	46	6	6	1	0	0	2019	0	0
+542	"department nutrition, faculty of medicine, halu oleo university, kendari, indonesia"	-0.712	0.2541	28	7	7	1	0	0	2019	0	0
+552	"department of agribusiness, university of bengkulu, bengkulu, 38371, indonesia"	0.1044	-0.2788	151	0	0	2	4	5.4241	2019	2	2.7121
+563	"department of agricultural economics and rural development, university of goettingen, göttingen, germany"	0.8234	-0.3886	60	5	5	1	9	12.2043	2019	9	12.2043
+588	"department of agriculture and resource economics, university of connecticut, groton, ct 06340, united states"	-0.4071	-0.6361	22	7	7	1	7	9.4922	2019	7	9.4922
+596	"department of agro-industrial technology, faculty of agricultural technology, ipb university, indonesia"	-0.4206	-0.8424	67	5	5	1	0	0	2019	0	0
+601	"department of agroecotechnology, faculty of agriculture, jambi university, jambi, indonesia"	0.7106	0.6008	42	6	6	1	0	0	2019	0	0
+604	"department of agroindustrial technology, bogor agricultural university, bogor, indonesia"	-0.1281	0.2151	152	0	0	6	3	4.0681	2019	0.5	0.678
+610	"department of agroindustrial technology, faculty of agricultural engineering and technology, bogor agricultural university, bogor, indonesia"	0.8815	-0.1426	2	1	1	6	6	8.1362	2019	1	1.356
+614	"department of agroindustrial technology, faculty of agricultural engineering and technology, ipb university, bogor agricultural university), gedung fateta, kampus ipb dramaga, bogor, indonesia"	-0.5151	-0.4752	15	9	9	1	1	1	2020	1	1
+623	"department of agroindustrial technology, institut teknologi sumatera, jalan terusan ryacudu, way hui jati agung, lampung selatan, indonesia"	-0.5151	-0.4752	15	9	9	1	1	1	2020	1	1
+634	"department of agronomy and horticulture, bogor agricultural university, indonesia"	-0.0525	-0.7797	50	4	7	5	5	6.7802	2019	1	1.356
+635	"department of agronomy and horticulture, bogor agricultural university, jalan raya darmaga, bogor, 16680, indonesia"	0.0256	-0.9334	43	6	6	1	4	5.4241	2019	4	5.4241
+645	"department of agronomy and horticulture, faculty of agriculture, bogor agricultural university, bogor, indonesia"	0.1916	-0.9177	68	5	5	2	7	9.4922	2019	3.5	4.7461
+649	"department of agronomy and horticulture, faculty of agriculture, bogor agricultural university, indonesia"	-0.0523	-0.7794	50	3	3	4	1	1.356	2019	0.25	0.339
+687	"department of agrotechnology, faculty of agriculture, tadulako university, palu, indonesia"	0.8234	-0.3886	60	5	5	1	9	12.2043	2019	9	12.2043
+692	"department of allergy and immunology, children's hospital at westmead, sydney, nsw, australia"	0.3125	0.6815	6	8	8	1	10	13.5603	2019	10	13.5603
+693	"department of allergy and immunology, royal children's hospital melbourne, melbourne, vic, australia"	0.3125	0.6814	6	8	8	1	10	13.5603	2019	10	13.5603
+699	"department of anatomy, ipb university, bogor, indonesia"	-0.2111	-0.7363	29	7	7	1	0	0	2019	0	0
+714	"department of animal diseases and veterinary public health, faculty of veterinary medicine, bogor agricultural university, bogor, indonesia"	0.5244	-0.7784	75	4	4	1	1	1.356	2019	1	1.356
+715	"department of animal diseases and veterinary public health, faculty of veterinary medicine, bogor agricultural university, indonesia"	-0.1231	0.4743	74	4	4	1	0	0	2019	0	0
+720	"department of animal husbandry, faculty of animal husbandry, state polytechnic of lampung, indonesia"	-0.1231	0.4743	74	4	4	1	0	0	2019	0	0
+724	"department of animal infectious diseases and veterinary public health, faculty of veterinary medicine, ipb university, jl. agatis, kampus ipb dramaga, bogor, jawa barat 16680, indonesia"	0.3103	-0.7533	56	5	5	1	5	6.7802	2019	5	6.7802
+728	"department of animal nutrition and feed technology, faculty of animal science, bogor agricultural university, bogor, 16680, indonesia"	-0.3125	-0.8895	115	2	2	1	4	5.4241	2019	4	5.4241
+745	"department of animal production and technology, ipb university, indonesia"	-0.2153	0.9174	116	1	1	2	0	0	2019	0	0
+755	"department of anthropology, kent state university, kent, oh, united states"	0.1781	-0.7682	17	8	8	1	0	0	2019	0	0
+756	"department of anthropology, university of chicago, chicago, il, united states"	-0.0394	-0.0901	5	23	46	2	17	23.0525	2019	8.5	11.5263
+757	"department of anthropology, university of são paulo, são paulo, brazil"	-0.0399	-0.0899	5	23	46	2	17	23.0525	2019	8.5	11.5263
+758	"department of anthropology, university of washington, seattle, wa, united states"	-0.0403	-0.0891	5	23	46	2	17	23.0525	2019	8.5	11.5263
+760	"department of applied chemistry, graduate school of engineering, faculty of engineering, kyushu university, 744 motooka, nishi-ku, fukuoka, 819-0395, japan"	-0.6817	0.1031	61	5	5	1	1	1.356	2019	1	1.356
+761	"department of applied chemistry, graduate school of engineering, kyusu university motooka, nishi-ku, fukuoka, japan"	0.3103	0.6677	6	3	3	1	0	0	2019	0	0
+762	"department of applied mathematics, computer science, statistics ghent university, krijgslaan 281-s9, gent, 9000, belgium"	0.8489	0.2462	76	4	4	1	6	8.1362	2019	6	8.1362
+766	"department of aquaculture, bogor agricultural university, bogor, indonesia"	0.3009	0.6616	37	5	5	2	0	0	2019	0	0
+768	"department of aquaculture, faculty of agriculture, almuslim university, indonesia"	0.0541	-0.8268	95	3	3	1	2	2.7121	2019	2	2.7121
+773	"department of aquaculture, faculty of fisheries and marine science, bogor agricultural university (ipb university), bogor, 16680, indonesia"	0.7292	-0.5972	96	3	3	1	2	2.7121	2019	2	2.7121
+775	"department of aquaculture, faculty of fisheries and marine science, bogor agricultural university, bogor, indonesia"	0.6422	0.0962	153	0	0	4	5	6.7802	2019	1.25	1.695
+779	"department of aquaculture, faculty of fisheries and marine science, bogor agricultural university, indonesia"	-0.1076	0.1729	154	0	0	2	10	13.5603	2019	5	6.7802
+795	"department of aquaculture, faculty of marine and fisheries, universitas syiah kuala, indonesia"	0.3731	0.1748	97	3	3	1	0	0	2019	0	0
+799	"department of aquatic product technology, bogor agricultural university, bogor, indonesia"	0.3088	0.6688	6	8	8	6	7	9.4922	2019	1.1667	1.582
+800	"department of aquatic product technology, bogor agricultural university, bogor, jawa barat, indonesia"	0.3125	0.6815	6	8	8	1	10	13.5603	2019	10	13.5603
+804	"department of aquatic product technology, faculty of fisheries and marine science, bogor agricultural university, bogor, indonesia"	0.3077	0.6693	6	3	5	5	11	14.9163	2019	2.2	2.9833
+806	"department of aquatic product technology, faculty of fisheries and marine sciences, bogor agricultural university (ipb university), bogor, indonesia"	0.1702	0.0537	155	0	0	6	2	2.7121	2019	0.3333	0.452
+809	"department of aquatic product technology, faculty of fisheries and marine sciences, bogor agricultural university, bogor, west java 16680, indonesia"	0.6285	-0.5801	82	4	4	1	3	4.0681	2019	3	4.0681
+819	"department of aquatic products technology, faculty of fisheries and marine sciences, bogor agricultural university, darmaga, bogor, indonesia"	-0.0059	-0.3958	38	6	6	1	0	0	2019	0	0
+823	"department of aquatic products technology, faculty of fisheries and marine sciences, bogor agricultural university, jalan raya dramaga, bogor, west java, 16680, indonesia"	-0.6816	0.1031	61	5	5	1	1	1.356	2019	1	1.356
+828	"department of aquatic resource management, faculty of fisheries and marine sciences, bogor agricultural university, indonesia"	-0.0996	0.9308	62	3	3	1	1	1.356	2019	1	1.356
+829	"department of aquatic resource management, faculty of fishery, lambung mangkurat university, banjarmasin, 70123, indonesia"	0.4987	-0.5966	98	3	3	1	0	0	2019	0	0
+831	"department of aquatic resources management, bogor agricultural university, bogor, indonesia"	0.3	0.6608	37	4	4	1	0	0	2019	0	0
+837	"department of aquatic resources management, faculty of fisheries and marine science, bogor agricultural university, bogor, indonesia"	0.3081	0.6692	6	2	2	2	1	1.356	2019	0.5	0.678
+838	"department of aquatic resources management, faculty of fisheries and marine science, bogor agricultural university, indonesia"	0.0894	0.1454	156	0	0	4	1	1.356	2019	0.25	0.339
+840	"department of aquatic resources management, faculty of fisheries and marine science, bogor agricultural university, west java, 16680, indonesia"	-0.6843	0.6519	77	4	4	1	4	5.4241	2019	4	5.4241
+844	"department of aquatic resources management, faculty of fisheries and marine science, ipb university, indonesia"	0.373	0.1748	97	3	3	2	0	0	2019	0	0
+847	"department of aquatic resources management, faculty of fisheries and marine sciences, bogor agricultural university (ipb university), bogor, indonesia"	0.1443	-0.503	36	1	2	4	0	0	2019	0	0
+849	"department of aquatic resources management, faculty of fisheries and marine sciences, bogor agricultural university, bogor, indonesia"	0.1444	-0.5027	36	1	1	3	0	0	2019	0	0
+850	"department of aquatic resources management, faculty of fisheries and marine sciences, bogor agricultural university, indonesia"	0.5566	-0.6779	73	4	4	3	1	1.356	2019	0.3333	0.452
+853	"department of aquatic resources management, faculty of fisheries and marine sciences, ipb university (bogor agricultural university), bogor, indonesia"	0.1443	-0.5028	36	5	5	1	0	0	2019	0	0
+864	"department of basic biomedicine, faculty of medicine, universitas kristen indonesia, jakarta, indonesia"	0.5747	0.7177	39	6	6	1	2	2.7121	2019	2	2.7121
+865	"department of biochemistry and molecular biology, faculty of medicine, universitas indonesia, jl salemba raya no 6, senen, central jakarta, 10430, indonesia"	0.0552	-0.6535	47	6	6	1	0	0	2019	0	0
+869	"department of biochemistry, bogor agricultural university (ipb)west java, indonesia"	-0.712	0.2541	28	7	7	1	0	0	2019	0	0
+884	"department of biochemistry, faculty of mathematics and natural sciences, ipb university (bogor agricultural university), bogor, indonesia"	0.5981	0.6119	117	2	2	1	0	0	2019	0	0
+887	"department of biochemistry, faculty of medicine, hasanuddin university, makassar, indonesia"	-0.712	0.2541	28	7	7	1	0	0	2019	0	0
+888	"department of biochemistry, faculty of science, masaryk university, kotlářská 2, brno, 611 37, czech republic"	-0.2274	0.6063	65	5	5	1	1	1.356	2019	1	1.356
+894	"department of biological sciences, faculty of science, king abdul aziz university, -jeddah, 21589, saudi arabia"	-0.8072	-0.4345	10	6	6	1	8	10.8482	2019	8	10.8482
+895	"department of biological sciences, faculty of science, king abdul aziz university, jeddah, 21589, saudi arabia"	-0.8079	-0.433	10	6	6	1	1	1.356	2019	1	1.356
+896	"department of biological sciences, macquarie university, sydney, australia"	-0.447	0.0013	4	23	23	1	1	1.356	2019	1	1.356
+898	"department of biology education, faculty of education and teaching training, universitas syiah kuala, banda aceh, 23111, indonesia"	0.0881	0.7803	78	4	4	1	0	0	2019	0	0
+902	"department of biology education, universitas islam negeri sunan gunung djati bandung, jl. ah. nasution 105, bandung, west java, 40614, indonesia"	0.2039	0.0947	157	0	0	2	0	0	2019	0	0
+905	"department of biology, bogor agricultural university, bogor, indonesia"	0.3021	-0.8792	52	5	5	2	1	1.356	2019	0.5	0.678
+907	"department of biology, bogor agricultural university, indonesia"	-0.5782	-0.616	79	4	4	1	1	1.356	2019	1	1.356
+923	"department of biology, faculty of mathematics and natural sciences, bogor agricultural university, bogor, 16680, indonesia"	0.3209	0.362	70	5	5	3	1	1.356	2019	0.3333	0.452
+924	"department of biology, faculty of mathematics and natural sciences, bogor agricultural university, bogor, indonesia"	0.8813	-0.1424	2	5	5	4	0	0	2019	0	0
+926	"department of biology, faculty of mathematics and natural sciences, bogor agricultural university, darmaga campus, bogor, indonesia"	-0.0475	0.335	63	5	5	1	0	0	2019	0	0
+928	"department of biology, faculty of mathematics and natural sciences, bogor agricultural university, indonesia"	0.1744	0.4132	158	0	0	3	5	6.7802	2019	1.6667	2.2601
+932	"department of biology, faculty of mathematics and natural sciences, halu oleo university of kendari, southeast sulawesi, indonesia"	-0.5329	-0.2719	21	7	7	1	1	1.356	2019	1	1.356
+936	"department of biology, faculty of mathematics and natural sciences, institut pertanian bogor, jl raya dramaga, dramaga, bogor, indonesia"	0.0553	-0.6535	47	6	6	1	0	0	2019	0	0
+944	"department of biology, faculty of mathematics and natural sciences, institut pertanian bogor, jl. raya dramaga, bogor, west java 16680, indonesia"	0.2299	0.1385	159	0	0	10	2	2.7121	2019	0.2	0.2712
+949	"department of biology, faculty of mathematics and natural sciences, ipb university (bogor agricultural university), indonesia"	0.2081	0.2896	160	0	0	2	5	6.7802	2019	2.5	3.3901
+950	"department of biology, faculty of mathematics and natural sciences, ipb university, bogor, indonesia"	0.018	0.9484	87	1	2	4	3	4.0681	2019	0.75	1.017
+963	"department of biology, faculty of medicine universitas indonesia, jakarta, indonesia"	-0.2111	-0.7362	29	7	7	1	0	0	2019	0	0
+964	"department of biology, faculty of science and technology, ar-raniry islamic state university, indonesia"	0.0541	-0.8268	95	3	3	1	2	2.7121	2019	2	2.7121
+969	"department of biology, ipb university, bogor, 16680, indonesia"	0.5887	-0.743	118	1	1	5	2	2.7121	2019	0.4	0.5424
+972	"department of biology, san francisco state university, san francisco, united states"	-0.0388	-0.0884	5	23	46	2	17	23.0525	2019	8.5	11.5263
+973	"department of biology, tadulako university, palu, indonesia"	0.3021	-0.8793	52	5	5	1	1	1.356	2019	1	1.356
+975	"department of biology, universitas airlangga, surabaya, 60286, indonesia"	-0.8897	0.2926	58	5	5	1	1	1.356	2019	1	1.356
+977	"department of biology, university of central florida, genomics and bioinformatics cluster, orlando, fl, united states"	0.875	0.0482	3	23	23	1	1	1.356	2019	1	1.356
+980	"department of biomedical sciences, division of pharmacology and therapy, faculty of medicine, universitas padjadjaran, bandung, indonesia"	-0.1871	0.7538	14	7	7	1	1	1.356	2019	1	1.356
+981	"department of biomedical sciences, division of physiology, faculty of medicine, universitas padjadjaran, bandung, indonesia"	-0.1872	0.7538	14	7	7	1	1	1.356	2019	1	1.356
+982	"department of biomedical sciences, oncology and stem cell working group, faculty of medicine, universitas padjadjaran, indonesia"	-0.1871	0.7544	14	4	4	1	0	0	2019	0	0
+984	"department of biotechnology and microbiology, tilak college of science and commerce, university of mumbai, mumbai, india"	-0.0209	0.8463	16	5	5	1	0	0	2019	0	0
+985	"department of biotechnology, bogor agricultural university, bogor, west java, indonesia"	-0.3432	-0.7821	59	5	5	1	0	0	2019	0	0
+987	"department of biotechnology, graduate school of engineering, osaka university, osaka, japan"	0.8811	-0.1422	2	4	4	1	0	0	2019	0	0
+989	"department of biotechnology, institut pertanian bogor, bogor, indonesia"	0.4973	-0.4783	55	5	5	1	0	0	2019	0	0
+990	"department of biotechnology, universitas esa unggul, jakarta, indonesia"	-0.1007	-0.5802	40	6	6	1	2	2.7121	2019	2	2.7121
+992	"department of cell physiology, graduate school of medicine, nagoya university, nagoya, japan"	0.1782	-0.7682	17	8	8	1	0	0	2019	0	0
+993	"department of chemical analysis, faculty of mathematics and natural sciences, universitas pendidikan ganesha, jl. udayana no. 11 singaraja, bali, 81116, indonesia"	0.842	-0.1419	32	3	3	1	1	1.356	2019	1	1.356
+994	"department of chemical engineering, faculty of engineering, syiah kuala university, banda aceh, 23111, indonesia"	-0.6876	0.413	20	6	6	1	0	0	2019	0	0
+996	"department of chemical engineering, faculty of engineering, universitas syiah kuala, banda aceh, 23111, indonesia"	-0.688	0.413	20	3	3	1	0	0	2019	0	0
+997	"department of chemical engineering, faculty of engineering, university of jember, jalan kalimantan, kampus tegal boto, jember, east java, 68121, indonesia"	-0.6816	0.1031	61	5	5	1	1	1.356	2019	1	1.356
+999	"department of chemical engineering, universitas syiah kuala, banda aceh, 23111, indonesia"	0.5423	0.2934	8	7	7	1	0	0	2019	0	0
+1000	"department of chemical engineering, universitas syiah kuala, banda aceh, indonesia"	-0.0208	0.8464	16	9	10	2	1	1.356	2019	0.5	0.678
+1002	"department of chemistry and chemical engineering, chalmers university of technology, kemigården 4, göteborg, 412 96, sweden"	0.5466	0.2941	8	7	7	1	10	13.5603	2019	10	13.5603
+1005	"department of chemistry, biology and marine science, university of the ryukyus, okinawa, 903-0213, japan"	-0.8362	0.3561	64	5	5	1	0	0	2019	0	0
+1007	"department of chemistry, bogor agricultural university, bogor, 16680, indonesia"	-0.8362	0.3561	64	5	5	1	0	0	2019	0	0
+1014	"department of chemistry, bogor agricultural university, west java, bogor, indonesia"	0.3702	-0.865	120	2	4	2	0	0	2019	0	0
+1020	"department of chemistry, faculty of mathematics and natural sciences, bogor agricultural university, bogor, indonesia"	0.8811	-0.1422	2	4	5	3	0	0	2019	0	0
+1022	"department of chemistry, faculty of mathematics and natural sciences, bogor agricultural university, bogor, west java, indonesia"	-0.2273	0.6063	65	5	9	5	19	25.7646	2019	3.8	5.1529
+1027	"department of chemistry, faculty of mathematics and natural sciences, bogor agricultural university, kampus ipb dramaga, bogor, indonesia"	0.6498	-0.6814	80	4	4	1	2	2.7121	2019	2	2.7121
+1030	"department of chemistry, faculty of mathematics and natural sciences, institut teknologi bandung, jalan ganesha no 10, bandung, indonesia"	-0.5151	-0.475	15	9	9	1	1	1	2020	1	1
+1032	"department of chemistry, faculty of mathematics and natural sciences, ipb university (bogor agricultural university), bogor, indonesia"	0.5981	0.612	117	2	2	1	0	0	2019	0	0
+1034	"department of chemistry, faculty of mathematics and natural sciences, ipb university, bogor agricultural university, jl. meranti, kampus ipb dramaga, bogor, indonesia"	-0.515	-0.475	15	9	9	1	1	1	2020	1	1
+1036	"department of chemistry, faculty of mathematics and natural sciences, ipb university, indonesia"	0.7336	0.52	119	2	2	1	0	0	2019	0	0
+1037	"department of chemistry, faculty of mathematics and natural sciences, ipb university, jalan tanjung kampus ipb dramaga, bogor, 16680, indonesia"	-0.7633	-0.009	81	4	4	1	0	0	2019	0	0
+1041	"department of chemistry, faculty of mathematics and sci., post graduate program, syiah kuala univ., banda aceh, 23111, indonesia"	-0.6876	0.413	20	6	6	1	0	0	2019	0	0
+1042	"department of chemistry, faculty of mathematics and science, post graduate program, syiah kuala university, banda aceh, 23111, indonesia"	-0.6877	0.413	20	6	6	1	0	0	2019	0	0
+1043	"department of chemistry, faculty of mathematics and science, universitas gadjah mada, yogyakarta, 55281, indonesia"	0.7425	0.2629	30	7	7	1	1	1.356	2019	1	1.356
+1044	"department of chemistry, faculty of mathematics and sciences, bogor agricultural university, bogor, west java 16680, indonesia"	0.6286	-0.5802	82	4	4	1	3	4.0681	2019	3	4.0681
+1046	"department of chemistry, graduate school of science, osaka university, osaka, japan"	-0.9061	-0.0213	31	7	7	1	7	9.4922	2019	7	9.4922
+1048	"department of chemistry, ipb university, bogor, 16680, indonesia"	0.5887	-0.743	118	2	2	4	1	1.356	2019	0.25	0.339
+1049	"department of chemistry, lampung university, bandar lampung, 35145, indonesia"	-0.8362	0.3561	64	5	5	1	0	0	2019	0	0
+1052	"department of chemistry, universitas airlangga, surabaya, indonesia"	-0.3508	0.5662	54	5	8	3	2	2.7121	2019	0.6667	0.904
+1054	"department of chemistry, university of bath, claverton down, bath, ba2 7ay, united kingdom"	-0.2274	0.6062	65	5	9	4	19	25.7646	2019	4.75	6.4411
+1055	"department of chemistry, university of cambridge, cambridge, united kingdom"	0.4036	-0.1137	12	10	10	1	5	6.7802	2019	5	6.7802
+1056	"department of chemistry, university of malaya, kuala lumpur, malaysia"	0.4034	-0.1138	12	10	10	1	5	6.7802	2019	5	6.7802
+1057	"department of civil and environmental engineering, bogor agricultural university, bogor, 16680, indonesia"	0.8448	-0.1397	32	4	4	2	3	4.0681	2019	1.5	2.034
+1060	"department of civil and environmental engineering, faculty of agricultural engineering, ipb university, bogor, 16144, indonesia"	-0.6506	-0.6753	99	3	3	1	0	0	2019	0	0
+1064	"department of civil and environmental engineering, faculty of agricultural technology, institut pertanian bogor, jl. lingkar akademik, bogor, west java 16680, indonesia"	-0.8135	0.1727	100	3	3	1	0	0	2019	0	0
+1071	"department of civil and environmental engineering, yamaguchi university, ube, japan"	0.8453	-0.1393	32	3	3	1	0	0	2019	0	0
+1073	"department of civil engineering, technology cluster construction, structural mechanics and building materials, ku leuven, ghent, b-9000, belgium"	0.8489	0.2462	76	4	4	1	6	8.1362	2019	6	8.1362
+1074	"department of civil engineering, the university of tokyo, tokyo, 113-8656, japan"	-0.9181	0.1313	90	4	4	1	1	1.356	2019	1	1.356
+1076	"department of civil law, universitas pancasakti, tegal, indonesia"	-0.6926	-0.2759	66	5	5	1	3	4.0681	2019	3	4.0681
+1077	"department of climatology and climate protection, faculty of life sciences and engineering, university of applied sciences, bingen am rhein, germany"	-0.6184	0.687	110	3	3	1	0	0	2019	0	0
+1081	"department of clinic, reproduction and pathology, faculty of veterinary medicine, ipb university, (bogor agricultural university), jl. agatis, kampus ipb dramaga, bogor, indonesia"	-0.5151	-0.475	15	9	9	1	1	1	2020	1	1
+1087	"department of communication and community development sciences, faculty of human ecology ipb, jalan kamper babakan dramaga, bogor, 16680, indonesia"	0.8664	0.3518	23	7	7	1	3	4.0681	2019	3	4.0681
+1098	"department of communication science and community development, faculty of human ecology, ipb university, west java, 16680, indonesia"	-0.1602	0.1443	161	0	0	2	1	1.356	2019	0.5	0.678
+1111	"department of community nutrition, faculty of human ecology, ipb university, bogor, indonesia"	-0.6796	-0.116	88	4	4	1	0	0	2019	0	0
+1114	"department of computer science and engineering, toyohashi university of technology, japan"	-0.5782	-0.6159	79	4	4	1	1	1.356	2019	1	1.356
+1119	"department of computer science, bogor agricultural university, indonesia, jln. meranti, kampus ipb darmaga, bogor, 16680, indonesia"	0.8489	0.2462	76	4	4	1	6	8.1362	2019	6	8.1362
+1120	"department of computer science, bogor agricultural university, west java, bogor, indonesia"	0.3702	-0.865	120	2	4	2	0	0	2019	0	0
+1132	"department of comunity nutrition, bogor agricultural university, indonesia"	-0.9252	0.1973	121	2	2	1	0	0	2019	0	0
+1133	"department of conservation biology and entomology, university of cape coast, cape coast, ghana"	-0.0385	-0.09	5	23	46	2	17	23.0525	2019	8.5	11.5263
+1136	"department of crop protection, faculty of agriculture, bogor agricultural university, bogor, indonesia"	0.1916	-0.9176	68	3	3	1	0	0	2019	0	0
+1138	"department of crop sciences, university of goettingen, goettingen, germany"	-0.909	-0.2106	101	3	3	1	1	1.356	2019	1	1.356
+1141	"department of earth science and engineering, imperial college london, united kingdom"	0.7292	-0.5972	96	3	3	2	2	2.7121	2019	1	1.356
+1142	"department of ecology & evolutionary biology, university of california los angeles, los angeles, ca, united states"	0.8742	0.049	3	23	23	1	1	1.356	2019	1	1.356
+1143	"department of ecology and evolutionary biology, university of california los angeles, 621 charles e. young drive south, los angeles, ca 90095, united states"	0.662	-0.4584	33	7	7	1	14	18.9844	2019	14	18.9844
+1153	"department of ecophysiology and vegetation ecology, julius-von-sachs-institute for biological sciences, university of wuerzburg, julius-von-sachs-platz 3, wuerzburg, germany"	-0.0475	0.335	63	5	5	1	0	0	2019	0	0
+1154	"department of ecosystem science and management, texas a&m university, college station, tx 77843-2138, united states"	0.5068	0.7874	24	7	7	1	1	1.356	2019	1	1.356
+1158	"department of engineering physics, faculty of industrial engineering, institut teknologi bandung, bandung, 40132, indonesia"	0.7425	0.2628	30	7	7	1	1	1.356	2019	1	1.356
+1159	"department of entomology, muhammad nawaz shareef university of agriculture, multan, pakistan"	-0.0382	-0.0881	5	23	46	2	17	23.0525	2019	8.5	11.5263
+1165	"department of environmental science, faculty of forestry and environmental science, halu oleo university, kendari, indonesia"	-0.8823	-0.3401	105	3	3	1	1	1.356	2019	1	1.356
+1166	"department of environmental science, forestry and environmental science faculty, halu oleo university, indonesia"	-0.0056	0.6142	13	5	5	1	0	0	2019	0	0
+1168	"department of evolutionary studies of biosystems, the graduate university for advanced studies, hayama, japan"	0.3021	-0.8793	52	5	5	1	1	1.356	2019	1	1.356
+1169	"department of exercise and health science, national taipei university of nursing and health sciences, taipei city, 112, taiwan"	-0.7449	0.559	25	7	7	1	0	0	2019	0	0
+1170	"department of family and consumer sciences, bogor agricultural university, bogor, indonesia"	-0.3502	-0.8735	137	1	2	2	1	1.356	2019	0.5	0.678
+1174	"department of farm animal health, faculty of veterinary medicine, utrecht university, utrecht, 3584 cl, netherlands"	-0.9265	-0.1208	27	7	7	1	0	0	2019	0	0
+1175	"department of farm animal health, faculty of veterinary medicine, utrecht university, utrecht, netherlands"	0.8649	-0.1204	2	10	10	1	4	5.4241	2019	4	5.4241
+1178	"department of fisheries and wildlife, oregon state university, 104 nash hall, corvallis, or 97331, united states"	0.911	0.2436	94	4	4	2	22	29.8327	2019	11	14.9163
+1179	"department of fisheries and wildlife, oregon state universityor, united states"	0.8655	-0.1248	2	3	3	1	2	2.7121	2019	2	2.7121
+1180	"department of fisheries management, bangladesh agricultural university, bangladesh"	0.0541	-0.8267	95	3	3	1	2	2.7121	2019	2	2.7121
+1187	"department of fisheries resources utilization, faculty of fisheries and marine sciences, bogor agricultural university, darmaga, bogor, indonesia"	-0.0059	-0.3958	38	6	6	1	0	0	2019	0	0
+1188	"department of fisheries resources utilization, faculty of fisheries and marine sciences, bogor agricultural university, jl. raya dramaga kampus ipb dramaga bogor, west java, 16680, indonesia"	-0.6217	0.5785	45	6	6	1	6	8.1362	2019	6	8.1362
+1189	"department of fisheries, andi djemma university, palopo, indonesia"	-0.006	-0.3958	38	6	6	1	0	0	2019	0	0
+1190	"department of fisheries, animal and veterinary science, the university of rhode island, kingston, ri, united states"	-0.8013	-0.1668	48	4	4	1	1	1.356	2019	1	1.356
+1191	"department of fisheries, faculty of agriculture, university of sultan ageng tirtayasa, banten, 42124, indonesia"	-0.6216	0.5785	45	6	6	1	6	8.1362	2019	6	8.1362
+1197	"department of fishery products processing technology, faculty of fisheries and marine science, bogor agricultural university, darmaga, bogor, indonesia"	-0.0059	-0.3959	38	6	6	1	0	0	2019	0	0
+1198	"department of fishery resources utilization, faculty of fisheries and marine sciences, bogor agricultural university, bogor, indonesia"	-0.4072	-0.6362	22	7	7	1	7	9.4922	2019	7	9.4922
+1202	"department of food science and technology, bogor agricultural university, bogor, indonesia"	0.3088	0.6689	6	1	1	4	7	9.4922	2019	1.75	2.3731
+1206	"department of food science and technology, bogor agricultural university, indonesia"	-0.006	0.2127	162	0	0	2	0	0	2019	0	0
+1210	"department of food science and technology, faculty of agricultural engineering and technology, bogor agricultural university (ipb), ipb dramaga campus, bogor, 16680, indonesia"	0.1089	-0.9026	135	2	4	2	11	14.9163	2019	5.5	7.4582
+1228	"department of food science, faculty of agricultural technology ipb university, indonesia"	0.7336	0.52	119	2	2	1	0	0	2019	0	0
+1237	"department of forest biomaterials engineering, college of forest and environmental science, kangwon national university, chuncheon, 200-701, south korea"	0.3662	-0.6318	49	1	2	2	3	4.0681	2019	1.5	2.034
+1238	"department of forest biomaterials engineering, college of forest and environmental science, kangwon national university, chuncheon, 24341, south korea"	0.3663	-0.6317	49	5	5	2	2	2.7121	2019	1	1.356
+1241	"department of forest ecology and management, swedish university of agricultural sciences (slu), umeå, 901 83, sweden"	0.4588	-0.1746	1	15	15	1	2	2.7121	2019	2	2.7121
+1242	"department of forest genetic and forest tree breeding, forestry faculty, buesgen institute, university of goettingen, buesgenweg 2, goettingen, germany"	-0.0475	0.335	63	5	5	1	0	0	2019	0	0
+1243	"department of forest genetics and forest tree breeding, georg-august university, göttingen, germany"	-0.0745	-0.9281	41	6	6	1	3	4.0681	2019	3	4.0681
+1244	"department of forest genetics and forest tree breeding, university of göttingen, büsgenweg 2, göttingen, 37077, germany"	0.5068	0.7874	24	7	7	1	1	1.356	2019	1	1.356
+1247	"department of forest management, bogor agricultural university, indonesia"	-0.3483	-0.4419	83	4	4	2	1	1.356	2019	0.5	0.678
+1250	"department of forest management, faculty of forestry, bogor agricultural university (ipb university), bogor, 16680, indonesia"	0.7292	-0.5972	96	3	3	1	2	2.7121	2019	2	2.7121
+1254	"department of forest management, faculty of forestry, bogor agricultural university, bogor, indonesia"	0.3002	-0.4882	34	7	7	1	2	2.7121	2019	2	2.7121
+1264	"department of forest management, faculty of forestry, ipb university, dramaga campus, bogor, 16680, indonesia"	0.6335	0.123	163	0	0	4	0	0	2019	0	0
+1268	"department of forest product technology, bogor agricultural university, indonesia"	-0.3483	-0.4419	83	4	4	1	1	1.356	2019	1	1.356
+1271	"department of forest product, faculty of forestry, bogor agricultural university (ipb), indonesia"	-0.4736	-0.7463	84	4	4	1	0	0	2019	0	0
+1276	"department of forest product, faculty of forestry, kampus ipb, darmaga, bogor agricultural university, bogor, west java, 16001, indonesia"	0.5428	0.2934	8	11	12	2	10	13.5603	2019	5	6.7802
+1277	"department of forest product, faculty of forestry, universitas sumatera utara, padang bulan, medan, 20155, indonesia"	-0.4736	-0.7463	84	4	4	2	1	1.356	2019	0.5	0.678
+1278	"department of forest product, faculty of forestry, universitas sumatera utara, padang-bulan, medan, 20155, indonesia"	0.8101	0.4691	85	4	4	1	0	0	2019	0	0
+1279	"department of forest product, faculty of forestry, universitas sumatera, utara, medan, sumatera utara, indonesia"	-0.8261	-0.294	86	4	4	1	1	1.356	2019	1	1.356
+1286	"department of forest products, faculty of forestry, bogor agricultural university, bogor, 16680, indonesia"	0.0746	0.2131	164	0	0	2	2	2.7121	2019	1	1.356
+1290	"department of forest products, faculty of forestry, bogor agricultural university, ipb dramaga campus, bogor, 16680, indonesia"	0.3663	-0.6317	49	6	7	4	7	9.4922	2019	1.75	2.3731
+1292	"department of forest products, faculty of forestry, institut pertanian bogor, jl. raya dramaga, kampus ipb dramaga, bogor, west java 16680, indonesia"	0.8269	-0.4585	104	3	3	1	1	1.356	2019	1	1.356
+1294	"department of forest products, faculty of forestry, ipb university, indonesia"	-0.4206	-0.8424	67	5	5	1	0	0	2019	0	0
+1303	"department of forest resource conservation and ecotourism, faculty of forestry, ipb university, bogor, 16680, indonesia"	-0.0055	0.6131	13	3	5	2	0	0	2019	0	0
+1306	"department of forest resources conservation & ecotourism, faculty of forestry, bogor agricultural university, darmaga campus, bogor, indonesia"	-0.447	0.0017	4	23	23	1	1	1.356	2019	1	1.356
+1311	"department of forest resources conservation and ecotourism, faculty of forestry, bogor agricultural university, dramaga campus, bogor, 16680, indonesia"	0.4987	-0.5966	98	3	3	2	0	0	2019	0	0
+1313	"department of forest resources conservation and ecotourism, faculty of forestry, bogor agricultural university, indonesia"	0.7298	0.4123	126	1	1	3	1	1.356	2019	0.3333	0.452
+1316	"department of forest resources conservation and ecotourism, faculty of forestry, institut pertanian bogor, jl. lingkar akademik, kampus ipb dramaga,, bogor, west java 16680, indonesia"	0.642	0.7021	148	1	1	1	0	0	2019	0	0
+1318	"department of forest resources conservation and ecotourism, faculty of forestry, ipb university, bogor, 16680, indonesia"	-0.0056	0.6143	13	5	5	1	0	0	2019	0	0
+1319	"department of forest resources conservation and ecotourism, faculty of forestry, ipb university, bogor, indonesia"	0.018	0.9484	87	4	5	3	3	4.0681	2019	1	1.356
+1320	"department of forest resources conservation and ecotourism, faculty of forestry, ipb university, indonesia"	0.0238	0.1618	165	0	0	2	10	13.5603	2019	5	6.7802
+1321	"department of forest resources conservation and ecotourism, faculty of forestry, ipb, bogor, 16680, indonesia"	0.4416	-0.749	93	4	6	2	2	2.7121	2019	1	1.356
+1327	"department of forest resources, conservation, and ecotourism, faculty of forestry, bogor agricultural university, bogor, jawa barat, indonesia"	-0.5329	-0.272	21	7	7	1	1	1.356	2019	1	1.356
+1328	"department of forest sciences and helsinki institute of sustainability science (helsus), university of helsinki, finland"	-0.3332	-0.2687	51	5	5	1	19	25.7646	2019	19	25.7646
+1330	"department of forestry, bogor agricultural university, kampus ipb, darmaga, bogor, west java, indonesia"	-0.0209	0.8463	16	5	5	1	0	0	2019	0	0
+1331	"department of forestry, faculty of agriculture and forestry, universitas sulawesi barat, majene, indonesia"	0.018	0.9483	87	3	3	1	0	0	2019	0	0
+1332	"department of forestry, faculty of agriculture, lampung university, jalan sumantri brojonegoro 1, bandar lampung, 35145, indonesia"	0.3663	-0.6317	49	5	5	1	1	1.356	2019	1	1.356
+1338	"department of forestry, kampus ipb, darmaga, bogor agricultural university, bogor, west java, 16001, indonesia"	0.5466	0.2941	8	7	7	1	10	13.5603	2019	10	13.5603
+1339	"department of forestry, kampus ipb, darmaga, bogor agricultural university, bogor, west java, indonesia"	-0.0206	0.8466	16	5	5	1	1	1.356	2019	1	1.356
+1341	"department of forestry, university of jambi, jambi, indonesia"	0.8234	-0.3886	60	5	5	1	9	12.2043	2019	9	12.2043
+1343	"department of geodesy and geomatics, remote sensing and geographic information science research group, faculty of earth science and technology, institut teknologi bandung, bandung, 40132, indonesia"	-0.8896	0.2926	58	5	5	1	1	1.356	2019	1	1.356
+1344	"department of geographic information science, faculty of geography, universitas gadjah mada, yogyakarta, 55281, indonesia"	-0.8896	0.2926	58	5	5	1	1	1.356	2019	1	1.356
+1347	"department of geography, national university of singapore, singapore, singapore"	0.4366	-0.1515	1	4	4	1	8	10.8482	2019	8	10.8482
+1353	"department of geophysics and meteorology, bogor agricultural university, bogor, 16680, indonesia"	0.8425	-0.1416	32	4	4	7	22	29.8327	2019	3.1429	4.2618
+1354	"department of geophysics and meteorology, bogor agricultural university, bogor, indonesia"	0.448	-0.1643	1	27	27	4	16	21.6965	2019	4	5.4241
+1355	"department of geophysics and meteorology, bogor agricultural university, kampus darmaga, bogor, 16680, indonesia"	0.911	0.2436	94	2	2	1	18	24.4086	2019	18	24.4086
+1357	"department of geophysics and meteorology, faculty of mathematic and natural sciences, bogor agricultural university, bogor, indonesia"	0.1916	-0.9176	68	3	3	1	0	0	2019	0	0
+1367	"department of geosciences and environment, universidad nacional de colombia, medellín, colombia"	0.4586	-0.1746	1	15	15	1	2	2.7121	2019	2	2.7121
+1370	"department of graduate science education, universitas lampunglampung, indonesia"	-0.9061	-0.0214	31	7	7	1	7	9.4922	2019	7	9.4922
+1371	"department of health promotion and behavioral science, faculty of public health, universitas airlangga, surabaya, indonesia"	-0.6796	-0.116	88	4	4	1	0	0	2019	0	0
+1372	"department of histology, faculty of medicine universitas indonesia, jakarta, indonesia"	-0.2111	-0.7362	29	7	7	1	0	0	2019	0	0
+1373	"department of histology, faculty of medicine, universitas indonesia, jakarta, indonesia"	-0.1007	-0.5802	40	6	6	1	2	2.7121	2019	2	2.7121
+1374	"department of histology, faculty of medicine, universitas indonesia, jl salemba raya no 6, senen, central jakarta, 10430, indonesia"	0.0552	-0.6535	47	6	6	1	0	0	2019	0	0
+1381	"department of information technology for natural resources management, ipb university, bogor, indonesia"	-0.9054	-0.2694	122	2	2	1	0	0	2019	0	0
+1383	"department of innovative science and technology for bio-industry, graduate school of bioresource and bioenvironmental sciences, faculty of agriculture, kyushu university, 744 motooka, nishi-ku, fukuoka, 819-0395, japan"	-0.6816	0.1031	61	5	5	1	1	1.356	2019	1	1.356
+1384	"department of integrated coastal resources management, graduate program, universitas syiah kuala, banda aceh, indonesia"	-0.9416	0.0582	89	4	4	1	0	0	2019	0	0
+1385	"department of internal medicine and infectious diseases, faculty of veterinary medicine, mansoura university, mansoura, 35516, egypt"	0.3102	-0.7533	56	5	5	1	5	6.7802	2019	5	6.7802
+1396	"department of magister pendidikan ipa, program pascasarjana, university of mataram, kota mataram, 83125, indonesia"	-0.6843	0.6519	77	4	4	1	4	5.4241	2019	4	5.4241
+1403	"department of marine biotechnology and resources, national sun yat-sen university, kaohsiung, taiwan"	0.8746	0.0486	3	23	23	1	1	1.356	2019	1	1.356
+1407	"department of marine science and technology, bogor agricultural university, bogor, indonesia"	0.2992	0.6601	37	7	8	4	1	1.356	2019	0.25	0.339
+1410	"department of marine science and technology, faculty of fisheries and marine science, bogor agricultural university, bogor, 16680, indonesia"	-0.0545	0.1761	166	0	0	2	5	6.7802	2019	2.5	3.3901
+1412	"department of marine science and technology, faculty of fisheries and marine science, bogor agricultural university, west java, 16680, indonesia"	-0.6843	0.6519	77	4	4	1	4	5.4241	2019	4	5.4241
+1420	"department of marine science and technology, faculty of fisheries and marine sciences, bogor agricultural university (ipb), bogor, indonesia"	0.8748	0.0491	3	23	23	1	1	1.356	2019	1	1.356
+1421	"department of marine science and technology, faculty of fisheries and marine sciences, bogor agricultural university, bogor, indonesia"	-0.1871	0.7541	14	10	11	3	1	1.356	2019	0.3333	0.452
+1437	"department of marine science, faculty of marine sciences and fisheries, udayana university, denpasar, indonesia"	0.527	0.5264	35	7	7	1	2	2.7121	2019	2	2.7121
+1441	"department of marine sciences and technology, faculty of fisheries and marine sciences, bogor agricultural university, indonesia"	0.5566	-0.6779	73	4	4	1	0	0	2019	0	0
+1443	"department of marine sciences, ipb university, west java, indonesia"	-0.9415	0.0582	89	4	4	1	0	0	2019	0	0
+1445	"department of math and science education, faculty of teacher training and education, university of mataram, kota mataram, 83125, indonesia"	-0.6843	0.6519	77	4	4	1	4	5.4241	2019	4	5.4241
+1446	"department of mathematic, institute of science and technology national (istn), jakarta, indonesia"	-0.9054	-0.2694	122	2	2	1	0	0	2019	0	0
+1448	"department of mathematics and applied sciences, universitas syiah kuala, darussalam, banda aceh, 23111, indonesia"	-0.5128	0.4869	18	8	8	1	0	0	2019	0	0
+1450	"department of mathematics and statistics, murdoch university, perth, wa, australia"	0.5271	0.5263	35	7	7	1	2	2.7121	2019	2	2.7121
+1451	"department of mathematics education, universitas islam negeri raden intan lampunglampung, indonesia"	-0.906	-0.0213	31	7	7	1	7	9.4922	2019	7	9.4922
+1465	"department of mechanical and biosystem engineering, bogor agricultural university, bogor, indonesia"	0.0801	0.3632	167	0	0	4	0	0	2019	0	0
+1467	"department of mechanical and biosystem engineering, bogor agricultural university, indonesia"	-0.0526	-0.7798	50	2	4	8	0	0	2019	0	0
+1470	"department of mechanical and biosystem engineering, bogor agricultural university, po box 220, bogor, 16002, indonesia"	0.3129	0.6656	6	6	6	1	6	8.1362	2019	6	8.1362
+1482	"department of mechanical and biosystem enguneering, ipb university, bogor, indonesia"	-0.9054	-0.2694	122	2	2	1	0	0	2019	0	0
+1490	"department of mechanical engineering, faculty of engineering, universitas indonesia, kampus ui depok, west java, 16424, indonesia"	0.2449	-0.8996	142	1	2	2	0	0	2019	0	0
+1494	"department of mechanical engineering, universitas syiah kuala, banda aceh, 23111, indonesia"	0.5423	0.2934	8	7	7	1	0	0	2019	0	0
+1495	"department of mechanical engineering, universitas syiah kuala, banda aceh, indonesia"	-0.0208	0.8464	16	9	10	2	1	1.356	2019	0.5	0.678
+1496	"department of medical research, ministry of health & sports, yangon, myanmar"	-0.4745	0.7515	7	15	15	1	0	0	2019	0	0
+1497	"department of medicine, yale university, new haven, ct 06516, united states"	-0.1651	0.919	106	3	3	1	4	5.4241	2019	4	5.4241
+1508	"department of natural resource conservation and ecotourism, faculty of forestry, ipb university, bogor, 16680, indonesia"	-0.8896	0.2926	58	5	5	1	1	1.356	2019	1	1.356
+1510	"department of natural resources and environment management, graduate school, bogor agricultural university, bogor, 16680, indonesia"	-0.0057	0.6143	13	5	5	1	0	0	2019	0	0
+1511	"department of natural resources and environment management, ipb university, bogor, indonesia"	-0.8325	0.0805	123	2	3	2	0	0	2019	0	0
+1516	"department of neurosurgery, faculty of medicine, hasanuddin university, makassar, indonesia"	-0.712	0.2541	28	7	7	1	0	0	2019	0	0
+1517	"department of nuclear engineering and engineering physics, faculty of engineering, universitas gadjah mada, jl. grafika no.2, yogyakarta, indonesia"	-0.8325	0.0804	123	2	3	2	0	0	2019	0	0
+1521	"department of nutrition and feed technology, faculty of animal science, bogor agricultural university, bogor, 16680, indonesia"	0.6939	-0.6376	138	1	1	6	6	8.1362	2019	1	1.356
+1522	"department of nutrition and feed technology, faculty of animal science, bogor agricultural university, bogor, indonesia"	0.748	-0.5518	139	1	1	5	3	4.0681	2019	0.6	0.8136
+1538	"department of nutrition and feed technology, faculty of animal science, ipb university, jl. agatis, dramaga campus, bogor, 16680, indonesia"	0.1161	-0.9445	140	1	2	2	0	0	2019	0	0
+1542	"department of nutrition, faculty of public health, universitas airlangga, campus c mulyorejo, surabaya, east java, 60115, indonesia"	-0.6796	-0.116	88	4	4	1	0	0	2019	0	0
+1546	"department of obstetrics and gynecology, dr. cipto mangunkusumo general hospital, faculty of medicine universitas indonesia, jakarta, indonesia"	-0.2111	-0.7362	29	7	7	1	0	0	2019	0	0
+1547	"department of obstetrics and gynecology, dr. hasan sadikin hospital, faculty of medicine universitas padjajaran, bandung, indonesia"	-0.211	-0.7362	29	7	7	1	0	0	2019	0	0
+1548	"department of obstetrics and gynecology, faculty of medicine, universitas indonesia, jl salemba raya no 6, senen, central jakarta, 10430, indonesia"	0.0553	-0.6535	47	6	6	1	0	0	2019	0	0
+1554	"department of orthopaedic and traumatology, faculty of medicine, universitas indonesia, jl salemba raya no 6, senen, central jakarta, 10430, indonesia"	0.0553	-0.6534	47	6	6	1	0	0	2019	0	0
+1558	"department of parasitology, institute of ecology and biological resources, vietnam academy of science and technology, hanoi, viet nam"	-0.4744	0.7512	7	15	15	1	0	0	2019	0	0
+1559	"department of pathological anatomy, faculty of medicine, universitas indonesia, jl. salemba raya no. 6, jakarta pusat, 10430, indonesia"	0.8767	-0.3532	102	3	3	1	0	0	2019	0	0
+1560	"department of pathological anatomy, faculty of medicine, universitas padjadjaran, indonesia"	-0.1871	0.7544	14	4	4	1	0	0	2019	0	0
+1561	"department of pathology anatomy, faculty of medicine universitas indonesia, jakarta, indonesia"	-0.2111	-0.7362	29	7	7	1	0	0	2019	0	0
+1562	"department of pathology, khon kaen university, khon kaen, thailand"	-0.4748	0.75	7	22	28	2	0	0	2019	0	0
+1566	"department of pharmaceutical analysis and medicinal chemistry, faculty of pharmacy, universitas padjadjaran, sumedang, indonesia"	0.6498	-0.6814	80	4	4	1	2	2.7121	2019	2	2.7121
+1568	"department of pharmaceutical chemistry, faculty of pharmacy, gadjah mada university, yogyakarta, indonesia"	0.6497	-0.6814	80	4	4	1	2	2.7121	2019	2	2.7121
+1569	"department of pharmaceutical chemistry, faculty of pharmacy, universitas gadjah mada, yogyakarta, indonesia"	-0.7633	-0.009	81	4	4	1	0	0	2019	0	0
+1574	"department of pharmacology and therapeutics, faculty of medicine, universitas indonesia, jl. salemba raya no. 6, jakarta pusat, 10430, indonesia"	0.8767	-0.3532	102	3	3	1	0	0	2019	0	0
+1575	"department of pharmacology and therapeutics, faculty of veterinary medicine, damanhour university, al-beheira22511, egypt"	0.3103	-0.7534	56	5	5	1	5	6.7802	2019	5	6.7802
+1578	"department of pharmacy, faculty of pharmacy, university of indonesia, depok, indonesia"	0.3075	0.6693	6	2	4	2	9	12.2043	2019	4.5	6.1021
+1580	"department of physic engineering, faculty of engineering, universitas gadjah mada, yogyakarta, indonesia"	-0.3508	0.5661	54	4	4	1	1	1.356	2019	1	1.356
+1581	"department of physic engineering, faculty of engineering, universitas gadjah mada. yogyakarta, indonesia"	-0.3508	0.5662	54	4	4	1	1	1.356	2019	1	1.356
+1582	"department of physical and sport education, stkip pgri sumenep, sumenep, indonesia"	-0.6796	-0.116	88	4	4	1	0	0	2019	0	0
+1583	"department of physical geography, faculty of geosciences, utrecht university, utrecht, netherlands"	0.4586	-0.1744	1	15	15	1	2	2.7121	2019	2	2.7121
+1585	"department of physics education, universitas islam negeri raden intan lampunglampung, indonesia"	-0.9061	-0.0213	31	7	7	1	7	9.4922	2019	7	9.4922
+1587	"department of physics engineering, faculty of industrial engineering, bandung institute of technology, bandung, indonesia"	0.1493	-0.327	124	2	4	3	5	6.7802	2019	1.6667	2.2601
+1590	"department of physics, bogor agricultural university, bogor, 16680, indonesia"	0.6764	0.6658	141	1	4	9	3	4.0681	2019	0.3333	0.452
+1602	"department of physics, faculty of mathematics and natural science, bogor agricultural university, bogor, indonesia"	0.1493	-0.327	124	2	3	3	6	8.1362	2019	2	2.7121
+1605	"department of physics, faculty of mathematics and natural sciences, bogor agricultural university of indonesia, bogor, indonesia"	-0.3509	0.5662	54	5	8	2	2	2.7121	2019	1	1.356
+1613	"department of physics, faculty of mathematics and natural sciences, gadjah mada university, sekip utara bulaksumur yogyakarta, indonesia"	-0.5151	-0.475	15	9	9	1	1	1	2020	1	1
+1614	"department of physics, faculty of mathematics and natural sciences, ipb university (bogor agricultural university), jl. meranti, kampus ipb dramaga, bogor, indonesia"	-0.5151	-0.4751	15	9	9	1	1	1	2020	1	1
+1616	"department of physics, faculty of mathematics and science, institut pertanian bogor, bogor, 16680, indonesia"	0.7425	0.2628	30	7	7	1	1	1.356	2019	1	1.356
+1617	"department of physics, faculty of science and technology, universitas airlangga, jl. mulyorejo, surabaya, 60115, indonesia"	0.7425	0.2628	30	7	7	1	1	1.356	2019	1	1.356
+1618	"department of physics, faculty of science, national university of singapore, singapore, 117542, singapore"	0.7425	0.2629	30	7	7	1	1	1.356	2019	1	1.356
+1619	"department of physics, institut pertanian bogorwest java, indonesia"	-0.906	-0.0213	31	7	7	1	7	9.4922	2019	7	9.4922
+1620	"department of physics, ipb university, bogor, 16680, indonesia"	0.5887	-0.743	118	1	1	6	1	1.356	2019	0.1667	0.226
+1622	"department of physics, meteorological institute, ludwig maximilian university, munich, germany"	0.4035	-0.1138	12	10	10	1	5	6.7802	2019	5	6.7802
+1627	"department of physics, university of indonesia, depok, 16424, indonesia"	0.6765	0.6659	141	1	4	4	0	0	2019	0	0
+1639	"department of plant protection, biological control laboratory, bogor agricultural university, bogor, indonesia"	-0.0379	-0.0885	5	23	46	2	17	23.0525	2019	8.5	11.5263
+1650	"department of plant protection, faculty of agriculture, bogor agricultural university, west java, indonesia"	-0.6748	-0.4984	133	2	2	1	0	0	2019	0	0
+1657	"department of plant protection, faculty of agriculture, institut pertanian bogor, jl. raya dramaga, kampus ipb darmaga, bogor, west java 16680, indonesia"	-0.1758	-0.2816	168	0	0	3	0	0	2019	0	0
+1658	"department of plant protection, faculty of agriculture, ipb university, bogor, west java, indonesia"	0.6627	0.481	103	3	3	1	0	0	2019	0	0
+1665	"department of political science, college of local management and development, pibulsongkram rajabhat university, phitsanulok, thailand"	-0.6926	-0.2759	66	5	5	1	3	4.0681	2019	3	4.0681
+1666	"department of primary school education, universitas pasundan, bandung, indonesia"	-0.6926	-0.2759	66	5	5	1	3	4.0681	2019	3	4.0681
+1667	"department of psychology, faculty of human sciences, sophia university, tokyo, japan"	-0.5782	-0.616	79	4	4	1	1	1.356	2019	1	1.356
+1668	"department of public health, faculty of medicine universitas indonesia, jakarta, indonesia"	-0.2111	-0.7362	29	7	7	1	0	0	2019	0	0
+1669	"department of pulmonology and respiratory medicine faculty of medicine, universitas indonesia and persahabatan hospital, jakarta, indonesia"	0.4974	-0.4783	55	5	5	1	0	0	2019	0	0
+1680	"department of resource and environmental economics, bogor agricultural university, indonesia"	-0.3483	-0.4419	83	4	4	1	1	1.356	2019	1	1.356
+1685	"department of resources and environmental economics, faculty of economics and management, bogor agricultural university (ipb), bogor, indonesia"	-0.7059	-0.6355	125	2	4	2	3	4.0681	2019	1.5	2.034
+1689	"department of silviculture, bogor agricultural university (ipb), bogor, indonesia"	-0.0745	-0.9281	41	6	6	1	3	4.0681	2019	3	4.0681
+1691	"department of silviculture, faculty of forestry ipb university, bogor, indonesia"	0.7108	0.6007	42	6	6	1	0	0	2019	0	0
+1692	"department of silviculture, faculty of forestry, bogor agricultural university (ipb university), bogor, 16680, indonesia"	0.7292	-0.5972	96	3	3	1	2	2.7121	2019	2	2.7121
+1693	"department of silviculture, faculty of forestry, bogor agricultural university (ipb), bogor, indonesia"	-0.7059	-0.6355	125	2	4	3	4	5.4241	2019	1.3333	1.808
+1698	"department of silviculture, faculty of forestry, bogor agricultural university, dramaga campus, bogor, 16680, indonesia"	0.5068	0.7874	24	7	7	1	1	1.356	2019	1	1.356
+1699	"department of silviculture, faculty of forestry, bogor agricultural university, indonesia"	-0.0523	-0.7794	50	3	3	4	1	1.356	2019	0.25	0.339
+1703	"department of silviculture, faculty of forestry, bogor agriculture university, bogor, indonesia"	0.8234	-0.3887	60	5	5	1	9	12.2043	2019	9	12.2043
+1707	"department of silviculture, faculty of forestry, institut pertanian bogor, jl. raya dramaga, bogor, west java 16680, indonesia"	-0.259	-0.1759	169	0	0	3	5	6.7802	2019	1.6667	2.2601
+1715	"department of silviculture, faculty of forestry, institut pertanian bogor., jl. raya dramaga, kampus ipb dramaga, bogor, west java 16680, indonesia"	0.8269	-0.4585	104	3	3	1	1	1.356	2019	1	1.356
+1719	"department of silviculture, faculty of forestry, ipb university, bogor agricultural university, bogor, indonesia"	0.7298	0.4122	126	1	1	18	0	0	2019	0	0
+1721	"department of silviculture, faculty of forestry, ipb university, bogor, 16144, indonesia"	-0.6506	-0.6753	99	3	3	1	0	0	2019	0	0
+1723	"department of silviculture, faculty of forestry, ipb university, indonesia"	-0.4206	-0.8424	67	5	5	2	0	0	2019	0	0
+1727	"department of silviculture, faculty of forestry, ipb, bogor, 16680, indonesia"	0.4417	-0.749	93	4	6	2	2	2.7121	2019	1	1.356
+1729	"department of silviculture, ipb university, indonesia"	-0.2153	0.9173	116	1	1	2	0	0	2019	0	0
+1733	"department of soil and natural resource management, bogor agricultural university, bogor, indonesia"	-0.8823	-0.3401	105	3	3	1	1	1.356	2019	1	1.356
+1750	"department of soil science and land resources, faculty of agriculture, bogor agricultural university, bogor, indonesia"	0.1916	-0.9176	68	3	3	2	0	0	2019	0	0
+1760	"department of soil science and land resources, faculty of agriculture, ipb university, indonesia"	-0.4206	-0.8424	67	5	5	4	0	0	2019	0	0
+1768	"department of soil science and land resources, institut pertanian bogor., jl. raya dramaga, kampus ipb darmaga, bogor, west java 16680, indonesia"	0.8269	-0.4585	104	3	3	1	1	1.356	2019	1	1.356
+1769	"department of soil science and land resources, ipb university, indonesia"	-0.2153	0.9174	116	2	2	3	0	0	2019	0	0
+1771	"department of soil science of temperate ecosystems, forestry faculty, buesgen institute, university of goettingen, buesgenweg 2, goettingen, germany"	-0.0475	0.335	63	5	5	1	0	0	2019	0	0
+1772	"department of soil science, and magister of environment, tanjungpura university, pontianak, indonesia"	0.8655	-0.1248	2	3	3	1	2	2.7121	2019	2	2.7121
+1773	"department of soil science, faculty of agriculture, universitas halu oleo, kendari, indonesia"	0.018	0.9483	87	3	3	1	0	0	2019	0	0
+1777	"department of soil science, university of jambi, jalan raya jambi muara bulian km 15 mandalo darat, jambi-sumatra, indonesia"	-0.0474	0.335	63	5	5	1	0	0	2019	0	0
+1778	"department of soil sciences and land resources, faculty of agriculture, bogor agricultural university, dramaga campus, bogor, 16680, indonesia"	0.4986	-0.5966	98	3	3	1	0	0	2019	0	0
+1779	"department of soil sciences and land resources, faculty of agriculture, institut pertanian bogor, jl. meranti, bogor, west java 16680, indonesia"	-0.8135	0.1727	100	3	3	1	0	0	2019	0	0
+1781	"department of soil sciences and land resources, institut pertanian bogor (ipb), bogor, indonesia"	-0.3844	0.8582	114	3	5	2	7	9.4922	2019	3.5	4.7461
+1788	"department of statistics, bogor agricultural university, indonesia"	0.2116	0.2153	170	0	0	2	0	0	2019	0	0
+1791	"department of statistics, faculty of mathematics and natural science, bogor agricultural university, indonesia"	-0.8076	-0.4338	10	12	12	2	9	12.2043	2019	4.5	6.1021
+1796	"department of statistics, faculty of mathematics and natural sciences, ipb, bogor, 16680, indonesia"	0.4417	-0.749	93	4	6	2	2	2.7121	2019	1	1.356
+1799	"department of statistics, ipb university, bogor, 16680, indonesia"	0.5975	0.1064	171	0	0	7	2	2.7121	2019	0.2857	0.3874
+1803	"department of system neuroscience, national institute for physiological sciences, okazaki, japan"	0.1782	-0.7681	17	8	8	1	0	0	2019	0	0
+1804	"department of systemic conservation biology, j.f. blumenbach institute for zoology and anthropology, university of goettingen, göttingen, germany"	0.3001	-0.4881	34	7	7	1	2	2.7121	2019	2	2.7121
+1807	"department of tropical apiculture, universidad autonoma de yucatan, mérida, mexico"	-0.0385	-0.0889	5	23	46	2	17	23.0525	2019	8.5	11.5263
+1812	"department of utilization of fishery resources, bogor agricultural university, bogor, indonesia"	0.3	0.6608	37	4	4	1	0	0	2019	0	0
+1815	"department of veterinary clinic reproduction and pathology, bogor agricultural university, bogor, jawa barat 16680, indonesia"	-0.5059	-0.8053	127	2	2	1	8	10.8482	2019	8	10.8482
+1818	"department of veterinary clinic reproduction and pathology, faculty of veterinary medicine, agriculture institute of bogor, bogor, indonesia"	-0.1007	-0.5802	40	6	6	1	2	2.7121	2019	2	2.7121
+1822	"department of veterinary clinic, reproduction and pathology, faculty of veterinary medicine, bogor agricultural university, bogor, indonesia"	0.5244	-0.7785	75	4	4	2	1	1.356	2019	0.5	0.678
+1824	"department of veterinary clinic, reproduction and pathology, faculty of veterinary medicine, ipb university, indonesia"	0.0541	-0.8268	95	3	3	1	2	2.7121	2019	2	2.7121
+1829	"department of veterinary infectious diseases and veterinary public health, faculty of veterinary medicine, ipb university, jl. agatis dramaga, bogor, west java, 16680, indonesia"	-0.5128	0.4869	18	8	8	1	0	0	2019	0	0
+1830	"department of veterinary medicine, faculty of veterinary medicine, ipb university, bogor, indonesia"	0.0882	0.7803	78	4	4	1	0	0	2019	0	0
+1831	"department of veterinary parasitology, faculty of veterinary medicine, airlangga university campus c, jalan mulyorejo, surabaya indonesia, indonesia"	-0.5152	-0.4751	15	9	9	1	1	1	2020	1	1
+1833	"department of water management, faculty of civil engineering and geosciences, delft university of technology, delft, netherlands"	0.4589	-0.1745	1	15	15	1	2	2.7121	2019	2	2.7121
+1838	"department of zoology, pir mehr ali shah arid agriculture university, rawalpindi, 46300, pakistan"	-0.1651	0.919	106	3	3	1	4	5.4241	2019	4	5.4241
+1848	"dept. of forest resources conservation and ecotourism, faculty of forestry, ipb university, bogor, 16680, indonesia"	-0.0055	0.6128	13	3	10	5	0	0	2019	0	0
+1851	"dept. of marine sciences, faculty of fisheries and marine sciences, syiah kuala university, banda aceh, 23111, indonesia"	0.3533	0.8766	19	4	4	1	0	0	2019	0	0
+1852	"dept. of marine sciences, faculty of marine and fisheries, syiah kuala university, banda aceh, 23111, indonesia"	0.3538	0.8769	19	4	5	2	0	0	2019	0	0
+1857	"dept. of physics education, faculty of education and teacher training, syiah kuala university, banda aceh, 23111, indonesia"	0.3533	0.8766	19	4	4	1	0	0	2019	0	0
+1858	"dept. of physics, faculty of math. and natural sciences, syiah kuala university, banda aceh, 23111, indonesia"	0.3533	0.8766	19	4	4	1	0	0	2019	0	0
+1874	"directorate of community and food enterprises empowerment, national agency of drug and food control, jakarta, indonesia"	-0.8787	0.2252	128	2	2	1	0	0	2019	0	0
+1875	"directorate of food product standardization, national agency of drug and food control, jakarta, indonesia"	-0.8788	0.2252	128	2	2	1	0	0	2019	0	0
+1877	"discipline of paediatrics and child health, university of sydney, sydney, nsw, australia"	0.3125	0.6814	6	8	8	1	10	13.5603	2019	10	13.5603
+1878	"division for oceanographic human resources development, indonesian institute of sciences (lipi), jl. raden saleh 43, jakarta pusat, 10330, indonesia"	-0.1774	-0.9225	57	5	5	1	0	0	2019	0	0
+1881	"division of biotechnology, center for future chemistry, kyushu university, motooka, nishi-ku, fukuoka, japan"	0.3102	0.6676	6	3	3	1	0	0	2019	0	0
+1883	"division of inorganic and physical chemistry, institut teknologi bandung, jalan ganesha no. 10, bandung, indonesia"	-0.515	-0.4752	15	9	9	1	1	1	2020	1	1
+1896	"division of pathology, department of veterinary clinic, reproduction, and pathology faculty of veterinary medicine, bogor agricultural university, jl. raya dramaga, babakan, bogor, jawa barat, 16680, indonesia"	0.8767	-0.3532	102	3	3	1	0	0	2019	0	0
+1901	"division of tropical environments and societies, james cook university, cairns, qld, australia"	-0.0389	-0.0877	5	23	46	2	17	23.0525	2019	8.5	11.5263
+1903	"division of veterinary pathology, faculty of veterinary medicine, bogor agricultural university, jl raya dramaga, bogor, west java, 16680, indonesia"	0.2449	-0.8996	142	1	2	2	0	0	2019	0	0
+1909	"doctoral program in biomedical science, faculty of medicine, universitas indonesia, jakarta, indonesia"	-0.1009	-0.5802	40	6	6	1	2	2.7121	2019	2	2.7121
+1910	"doctoral program in mathematics and sciences application (dmas), graduate program, universitas syiah kuala, banda aceh, 23111, indonesia"	0.0881	0.7803	78	4	4	1	0	0	2019	0	0
+1911	"doctoral program in natural resources and environmental management, bogor agricultural university, bogor, indonesia"	-0.8823	-0.3401	105	3	3	1	1	1.356	2019	1	1.356
+1912	"doctoral program of biomedical sciences, faculty of medicine, universitas indonesia, jakarta, indonesia"	0.5746	0.7177	39	6	6	1	2	2.7121	2019	2	2.7121
+1913	"doctoral program of tropical ocean economics, bogor agricultural university, indonesia"	-0.0997	0.9308	62	5	5	2	5	6.7802	2019	2.5	3.3901
+1918	"earth observation group, payne institute, colorado school of mines, 1500 illinois st., golden, co 80401, united states"	-0.6216	0.5785	45	6	6	1	6	8.1362	2019	6	8.1362
+1919	"earth observatory of singapore and asian school of the environment, nanyang technological university, singapore, 639798, singapore"	0.4035	-0.1136	12	10	10	1	5	6.7802	2019	5	6.7802
+1920	"ecole polytechnique fédérale de lausanne, ecological systems laboratory, switzerland"	-0.3163	0.3257	9	17	17	1	5	6.7802	2019	5	6.7802
+1922	"ecology department, biosciences institute, s. paulo university, são paulo, brazil"	-0.0385	-0.0879	5	23	46	2	17	23.0525	2019	8.5	11.5263
+1925	"ecophysiology laboratory for forest conservation, instituto de conservación, biodiversidad y territorio, facultad de ciencias forestales y recursos naturales, universidad austral de chile, campus isla teja, casilla 567, valdivia, chile"	0.6621	-0.4584	33	7	7	1	14	18.9844	2019	14	18.9844
+1928	"eijkman institute for molecular biology, jakarta, 10430, indonesia"	-0.9264	-0.1208	27	7	7	1	0	0	2019	0	0
+1929	"eijkman institute for molecular biology, jakarta, indonesia"	0.8647	-0.1205	2	10	10	1	4	5.4241	2019	4	5.4241
+1933	"electronics-inspired interdisciplinary research institute, toyohashi university of technology, japan"	-0.5782	-0.616	79	4	4	1	1	1.356	2019	1	1.356
+1935	"energy technology centre-bppt, kawasan puspitek serpong, tangerang selatan, 15314, indonesia"	0.8165	0.4115	129	2	2	1	0	0	2019	0	0
+1937	"energy technology research group, faculty of engineering and the environment, university of southampton, southampton, so17 1bj, united kingdom"	-0.2273	0.6063	65	5	7	2	8	10.8482	2019	4	5.4241
+1939	"english language education, universitas indraprasta pgri, jakarta, indonesia"	-0.6926	-0.2759	66	5	5	1	3	4.0681	2019	3	4.0681
+1940	"enhancing marine biodiversity research in indonesia (embrio), bogor agricultural university, bogor, west java 16680, indonesia"	0.6286	-0.5801	82	4	4	1	3	4.0681	2019	3	4.0681
+1941	"enstib-lermab, university of lorraine, epinal, france"	0.1371	0.1045	172	0	0	2	2	2.7121	2019	1	1.356
+1944	"environmental and conservation sciences, murdoch university, perth, wa, australia"	0.5271	0.5263	35	7	7	1	2	2.7121	2019	2	2.7121
+1950	"environmental research center, bogor agricultural university, bogor, indonesia"	-0.8822	-0.3401	105	3	3	1	1	1.356	2019	1	1.356
+1952	"environmental research center, ipb university, bogor, 16680, indonesia"	-0.0055	0.6135	13	9	16	6	0	0	2019	0	0
+1955	"environmental research center, ipb university, ipb dramaga campus, jl. meranti, bogor, 16680, indonesia"	-0.7517	-0.5622	107	3	3	1	0	0	2019	0	0
+1963	"environmental studies, dartmouth collegenh, united states"	-0.3483	-0.4419	83	4	4	1	1	1.356	2019	1	1.356
+1964	"environmental sustainability research centre, brock university, st. catherine's, on l2s 3a1, canada"	0.8665	0.3518	23	7	7	1	3	4.0681	2019	3	4.0681
+1966	"estonian academy of sciences, kohte 6, tallinn, 10130, estonia"	0.6621	-0.4584	33	7	7	1	14	18.9844	2019	14	18.9844
+1969	"facultad de ciencias exactas, físicas y naturales and instituto multidisciplinario de biología vegetal (conicet/unc), universidad nacional de córdoba, córdoba, argentina"	-0.0398	-0.089	5	23	46	2	17	23.0525	2019	8.5	11.5263
+1970	"faculty for sustainability, institute for ethics and transdisciplinary sustainability research, leuphana university, lüneburg, germany"	-0.0394	-0.0896	5	23	46	2	17	23.0525	2019	8.5	11.5263
+1972	"faculty of agricultural engineering and technology, bogor agricultural university, city, 16680, indonesia"	-0.7449	0.5589	25	7	7	1	0	0	2019	0	0
+1982	"faculty of agriculture, bogor agricultural university (ipb), bogor, 16680, indonesia"	-0.9181	0.1313	90	4	4	1	1	1.356	2019	1	1.356
+1985	"faculty of agriculture, djuanda university, west-java-bogor, indonesia"	-0.8502	0.4172	130	2	2	1	1	1.356	2019	1	1.356
+1987	"faculty of agriculture, jenderal soedirman university, jalan dr. soeparno karangwangkal,, purwokerto, indonesia"	0.0948	0.9293	113	3	3	1	0	0	2019	0	0
+1989	"faculty of agriculture, khairun university, ternate city, nort maluku 97721, indonesia"	0.3663	-0.6317	49	5	5	1	1	1.356	2019	1	1.356
+1997	"faculty of agriculture, syiah kuala university, banda aceh, 23111, indonesia"	0.3538	0.8769	19	4	4	1	0	0	2019	0	0
+2000	"faculty of agriculture, universitas darussalam ambon, ambon, maluku, indonesia"	-0.826	-0.294	86	4	4	1	1	1.356	2019	1	1.356
+2002	"faculty of agriculture, universitas pattimura, ambon, maluku, indonesia"	-0.826	-0.294	86	4	4	1	1	1.356	2019	1	1.356
+2004	"faculty of agriculture, universitas sintuwu maroso, jl. pulau timor no.1, poso, central sulawesi 94612, indonesia"	-0.8135	0.1727	100	3	3	1	0	0	2019	0	0
+2006	"faculty of agriculture, universiti putra malaysia, upm serdang, selangor 43400, malaysia"	-0.8072	-0.4346	10	6	6	1	8	10.8482	2019	8	10.8482
+2007	"faculty of agriculture, universiti putra malaysia, upm serdang, selangor, 43400, malaysia"	-0.8079	-0.4331	10	6	6	1	1	1.356	2019	1	1.356
+2008	"faculty of agriculture, university of darussalam ambon, ambon, indonesia"	-0.4736	-0.7463	84	4	4	1	0	0	2019	0	0
+2014	"faculty of animal science, bogor agricultural university, bogor, indonesia"	0.8734	-0.1332	2	2	2	3	1	1.356	2019	0.3333	0.452
+2018	"faculty of animal science, institut pertanian bogor, indonesia"	0.4162	-0.8339	108	3	3	1	0	0	2019	0	0
+2023	"faculty of animal science, universitas gadjah mada, yogyakarta, indonesia"	0.4162	-0.8339	108	3	3	1	0	0	2019	0	0
+2024	"faculty of aricultural, pakuan university, bogor, 16680, indonesia"	-0.5753	-0.7322	26	7	7	1	0	0	2019	0	0
+2025	"faculty of biological sciences, school of biology, university of leeds, leeds, united kingdom"	0.8743	0.0484	3	23	23	1	1	1.356	2019	1	1.356
+2031	"faculty of defense management, indonesian defense university, bogor, indonesia"	-0.1878	-0.402	46	6	6	1	0	0	2019	0	0
+2034	"faculty of economics and business (feb), cenderawasih university, papua, indonesia"	0.7885	-0.5355	147	1	1	1	0	0	2019	0	0
+2035	"faculty of economics and business feb, cenderawasih university, indonesia"	-0.0996	0.9308	62	3	3	1	1	1.356	2019	1	1.356
+2043	"faculty of economics and management, universiti putra malaysia, upm serdang, selangor 43400, malaysia"	-0.8072	-0.4345	10	6	6	1	8	10.8482	2019	8	10.8482
+2044	"faculty of economics and management, universiti putra malaysia, upm serdang, selangor, 43400, malaysia"	-0.8079	-0.4331	10	6	6	1	1	1.356	2019	1	1.356
+2045	"faculty of economics, shiga university, hikone, 522-8522, japan"	-0.9181	0.1313	90	4	4	1	1	1.356	2019	1	1.356
+2048	"faculty of engineering, halu oleo university, kampus bumi tridharma, kendari, 93132, indonesia"	0.8489	0.2462	76	4	4	1	6	8.1362	2019	6	8.1362
+2049	"faculty of engineering, universitas gadjah mada, department of geological engineering, yogyakarta, indonesia"	0.4162	-0.8339	108	3	3	1	0	0	2019	0	0
+2050	"faculty of environmental sciences and natural resource management (mina), norwegian university of life sciences (nmbu), ås, 1432, norway"	0.4585	-0.1748	1	15	15	1	2	2.7121	2019	2	2.7121
+2051	"faculty of fisheries and marine science, bogor agricultural university, bogor, indonesia"	0.527	0.5263	35	7	7	1	2	2.7121	2019	2	2.7121
+2058	"faculty of fisheries and marine science, papua university, manokwari, west papua, indonesia"	0.1443	-0.5028	36	5	5	1	0	0	2019	0	0
+2060	"faculty of fisheries and marine sciences, bogor agricultural university (ipb), bogor, indonesia"	0.771	-0.4926	131	2	2	1	2	2.7121	2019	2	2.7121
+2061	"faculty of fisheries and marine sciences, bogor agricultural university, bogor, indonesia"	-0.8014	-0.1669	48	5	5	4	1	1.356	2019	0.25	0.339
+2076	"faculty of forestry, ambon darussalam university, jl. waehakila puncak, wara ambon, 97128, indonesia"	0.81	0.4692	85	4	4	1	0	0	2019	0	0
+2078	"faculty of forestry, bogor agricultural university (ipb), bogor, 16680, indonesia"	0.718	-0.3464	69	5	5	1	1	1.356	2019	1	1.356
+2079	"faculty of forestry, bogor agricultural university (ipb), bogor, indonesia"	0.4063	-0.1169	12	11	11	2	5	6.7802	2019	2.5	3.3901
+2080	"faculty of forestry, bogor agricultural university (ipb), indonesia"	0.718	-0.3464	69	5	5	1	1	1.356	2019	1	1.356
+2084	"faculty of forestry, bogor agricultural university, darmaga campus, bogor, indonesia"	-0.909	-0.2106	101	3	3	1	1	1.356	2019	1	1.356
+2090	"faculty of forestry, bogor agricultural university, jl. raya dramaga, bogor, 16680, indonesia"	0.81	0.4692	85	4	4	1	0	0	2019	0	0
+2096	"faculty of forestry, ipb university (bogor agricultural university), bogor, indonesia"	0.4325	-0.1468	1	4	4	1	1	1.356	2019	1	1.356
+2097	"faculty of forestry, ipb university, bogor, 16680, indonesia"	-0.6823	-0.5857	109	3	3	1	0	0	2019	0	0
+2101	"faculty of forestry, ipb university, ipb dramaga campus, jl. meranti, bogor, 16680, indonesia"	-0.7517	-0.5622	107	3	3	1	0	0	2019	0	0
+2105	"faculty of forestry, mulawarman university, kampus gunung kelua, jl. panajam, samarinda, kalimantan timur 75123, indonesia"	0.911	0.2436	94	2	2	1	18	24.4086	2019	18	24.4086
+2107	"faculty of forestry, tanjungpura university, jl. prof. hadari nawawi, pontianak, 78121, indonesia"	0.8101	0.4691	85	4	4	1	0	0	2019	0	0
+2108	"faculty of forestry, tanjungpura university, pontianak, indonesia"	-0.4737	-0.7463	84	4	4	1	0	0	2019	0	0
+2116	"faculty of forestry, universitas tanjungpura, kalimantan barat pontianak, indonesia"	-0.826	-0.294	86	4	4	1	1	1.356	2019	1	1.356
+2117	"faculty of forestry, universiti putra malaysia, upm serdang, selangor 43400, malaysia"	-0.8072	-0.4345	10	6	6	1	8	10.8482	2019	8	10.8482
+2118	"faculty of forestry, universiti putra malaysia, upm serdang, selangor, 43400, malaysia"	-0.8079	-0.4331	10	6	6	1	1	1.356	2019	1	1.356
+2119	"faculty of forestry, university of jambi, jambi, indonesia"	0.3002	-0.4881	34	7	7	1	2	2.7121	2019	2	2.7121
+2121	"faculty of geography, moscow state university, moscow, russian federation"	-0.6184	0.687	110	3	3	1	0	0	2019	0	0
+2122	"faculty of human ecology, bogor agricultural university, indonesia"	-0.2648	-0.5788	91	4	4	1	2	2.7121	2019	2	2.7121
+2125	"faculty of law, pakuan university, west-java-bogor, indonesia"	-0.8502	0.4172	130	2	2	1	1	1.356	2019	1	1.356
+2127	"faculty of life and environmental sciences, university of tsukuba, 1-1-1 tennodai, tsukuba, ibaraki, japan"	0.6627	0.481	103	3	3	1	0	0	2019	0	0
+2128	"faculty of life and environmental sciences, university of tsukuba, tsukuba, ibaraki 305-8572, japan"	0.3128	0.6655	6	6	6	1	6	8.1362	2019	6	8.1362
+2130	"faculty of marine and fisheries, syiah kuala university, banda aceh, 23111, indonesia"	0.0882	0.7803	78	4	4	1	0	0	2019	0	0
+2131	"faculty of marine and fisheries, universitas syiah kuala, banda aceh, indonesia"	-0.9416	0.0582	89	4	4	1	0	0	2019	0	0
+2132	"faculty of marine sciences and fishery, udayana university, bali, indonesia"	0.1443	-0.5027	36	6	6	2	0	0	2019	0	0
+2133	"faculty of matheatics and science, institut pertanian bogor, bogor, indonesia"	-0.6926	-0.2759	66	5	5	1	3	4.0681	2019	3	4.0681
+2134	"faculty of mathematic and nature science, bogor agricultural university, bogor, indonesia"	0.8782	-0.1388	2	5	5	1	0	0	2019	0	0
+2138	"faculty of mathematics and natural sciences, ipb university, bogor, 16680, indonesia"	-0.6823	-0.5857	109	3	3	1	0	0	2019	0	0
+2144	"faculty of mathematics and natural sciences, university of indonesia, indonesia"	0.718	-0.3464	69	5	5	1	1	1.356	2019	1	1.356
+2145	"faculty of mathematics and natural sciences, university of pattimura ambon, indonesia"	0.2985	0.6594	37	3	3	1	0	0	2019	0	0
+2147	"faculty of mechanical engineering, university of maribor, maribor, 2000, slovenia"	0.5423	0.2934	8	7	7	1	0	0	2019	0	0
+2148	"faculty of medicine andalas university of padang, indonesia"	-0.6571	-0.404	111	3	3	1	0	0	2019	0	0
+2150	"faculty of medicine, universitas padjadjaran, indonesia"	-0.1871	0.7544	14	4	4	1	0	0	2019	0	0
+2151	"faculty of medicine, university of andalas, padang, indonesia"	-0.6572	-0.4039	111	3	3	1	0	0	2019	0	0
+2152	"faculty of nursing and rehabilitation, chubu gakuin university, seki, japan"	-0.5782	-0.616	79	4	4	1	1	1.356	2019	1	1.356
+2154	"faculty of pharmacy, hasanuddin university, makassar, indonesia"	0.6497	-0.6814	80	4	4	1	2	2.7121	2019	2	2.7121
+2156	"faculty of pharmacy, sanata dharma university, paingan, maguwoharjo, depok, yogyakarta, 55284, indonesia"	0.8767	-0.3532	102	3	3	1	0	0	2019	0	0
+2159	"faculty of public health, hasanuddin university, indonesia"	-0.9252	0.1973	121	2	2	1	0	0	2019	0	0
+2160	"faculty of science and technology, kwansei gakuin universityhyogo, japan"	-0.906	-0.0214	31	7	7	1	7	9.4922	2019	7	9.4922
+2161	"faculty of science and technology, universitas islam negeri sunan ampel surabayaeast java, indonesia"	-0.906	-0.0213	31	7	7	1	7	9.4922	2019	7	9.4922
+2165	"faculty of social sciences and political sciences, airlangga university, indonesia"	-0.2648	-0.5788	91	4	4	1	2	2.7121	2019	2	2.7121
+2166	"faculty of teacher training and education, universitas syiah kuala, banda aceh, indonesia"	-0.9416	0.0582	89	4	4	1	0	0	2019	0	0
+2171	"faculty of veterinary medicine, bogor agricultural university, bogor, 16680, indonesia"	-0.1651	0.919	106	3	3	3	8	10.8482	2019	2.6667	3.6161
+2172	"faculty of veterinary medicine, bogor agricultural university, bogor, indonesia"	0.8765	-0.1368	2	7	8	4	1	1.356	2019	0.25	0.339
+2184	"faculty of veterinary science, bogor agricultural university, bogor, indonesia"	-0.7779	-0.5259	143	1	2	2	7	9.4922	2019	3.5	4.7461
+2189	"faculty of veterinary science, prince of songkla university, songkhla, thailand"	-0.7779	-0.5259	143	1	2	2	7	9.4922	2019	3.5	4.7461
+2193	"fakultas kehutanan, universitas papua, jl. gunung salju, amban, manokwari, papua barat 98314, indonesia"	0.074	0.2795	173	0	0	2	0	0	2019	0	0
+2197	"federal institute of industrial research oshodi, pmb 21023, ikeja lagos, nigeria"	0.5423	0.2935	8	7	7	1	0	0	2019	0	0
+2198	"federal rural university of rio de janeiro, brazil"	-0.3332	-0.2686	51	5	5	1	19	25.7646	2019	19	25.7646
+2199	"federal university of triângulo mineiro – uftm, institute of technological and exact sciences, uberaba, mg 38064-200, brazil"	0.5466	0.2941	8	7	7	1	10	13.5603	2019	10	13.5603
+2200	"feed research institute, chinese academy of agricultural sciences, beijing, 100081, china"	-0.3125	-0.8895	115	2	2	1	4	5.4241	2019	4	5.4241
+2203	"fisheries and marine science department, faculty of agriculture, mataram university, mataram, indonesia"	0.5271	0.5264	35	7	7	1	2	2.7121	2019	2	2.7121
+2209	"fisheries diving club, bogor agricultural university, bogor, indonesia"	0.2998	0.6607	37	4	5	2	0	0	2019	0	0
+2211	"fisheries diving club, faculty of fisheries and marine sciences, bogor agricultural university, indonesia"	-0.2537	-0.8864	92	4	4	1	0	0	2019	0	0
+2215	"fisheries resource utilization department, fpik-ipb, bogor, indonesia"	-0.1878	-0.4019	46	6	6	1	0	0	2019	0	0
+2222	"fishery resources utilization department, faculty of fisheries and marine sciences, jl. agatiskampus ipb dramaga, bogor, 16680, indonesia"	0.6328	0.6486	144	1	1	1	2	2.7121	2019	2	2.7121
+2224	"florida institute of technology, melbourne, fl, united states"	0.8746	0.0493	3	23	23	1	1	1.356	2019	1	1.356
+2226	"food biopolymer research group, food technology division, school of industrial technology, university sains malaysia, penang, 11800, malaysia"	0.5434	0.2933	8	5	5	1	10	13.5603	2019	10	13.5603
+2235	"food technology division, bhabha atomic research centre, trombay, mumbai, india"	-0.0209	0.8463	16	5	5	1	0	0	2019	0	0
+2237	"forest botany and tree physiology, university of goettingen, göttingen, germany"	0.8234	-0.3886	60	5	5	1	9	12.2043	2019	9	12.2043
+2252	"forest products research and development center, research development and innovation agency, ministry of environment and forestry, jalan gunung batu 5, bogor, west java, 16610, indonesia"	-0.6816	0.1031	61	5	5	1	1	1.356	2019	1	1.356
+2260	"forest research and development center, bogor, indonesia"	0.7298	0.4122	126	2	2	2	1	1.356	2019	0.5	0.678
+2269	"forest. and environ. res. development and innovation agency of the government of indonesia (foerdia), indonesia"	-0.3483	-0.4419	83	4	4	1	1	1.356	2019	1	1.356
+2273	"forestry engineering, faculty of production and industrial technology, institut teknologi sumatera (itera), lampung selatan, 35551, indonesia"	0.3663	-0.6317	49	5	5	1	1	1.356	2019	1	1.356
+2277	"forestry research and development bureau, ministry of environmental and forestry, bogor, indonesia"	0.018	0.9483	87	3	3	1	0	0	2019	0	0
+2281	"forests2020 programme, faculty of forestry, ipb university, bogor, 16680, indonesia"	-0.0055	0.6129	13	5	15	7	0	0	2019	0	0
+2287	"gajah mada university, yogyakarta, indonesia"	0.8649	-0.1204	2	10	10	1	4	5.4241	2019	4	5.4241
+2290	"genomic and applied microbiology and göttingen genomics laboratory, university of goettingen, göttingen, germany"	0.8234	-0.3886	60	5	5	1	9	12.2043	2019	9	12.2043
+2291	"geoinformatics of informatics engineering department, faculty of engineering and science, ibn khaldun university, jalan kh soleh iskandar km 2, tanah sereal, bogor, west jawa, indonesia"	-0.0055	0.6131	13	3	3	2	0	0	2019	0	0
+2292	"geological engineering department, faculty of engineering, gadjah mada university, indonesia"	-0.2648	-0.5788	91	4	4	1	2	2.7121	2019	2	2.7121
+2293	"geomatics engineering, department of regional and infrastructure technology, institut teknologi sumatera, lampung selatan, 35365, indonesia"	-0.8896	0.2926	58	5	5	1	1	1.356	2019	1	1.356
+2294	"geophysics and meteorology department, bogor agricultural university, bogor, indonesia"	0.911	0.2436	94	2	2	1	4	5.4241	2019	4	5.4241
+2296	"geosciences faculty, utrecht university, netherlands"	0.0961	0.4557	112	3	3	1	4	5.4241	2019	4	5.4241
+2298	"geospatial health, ingerod, brastad, sweden"	-0.4746	0.75	7	22	28	2	0	0	2019	0	0
+2300	"geospatial information agency of indonesia, jakarta - bogor km 46, cibinong, indonesia"	-0.6823	-0.5857	109	3	3	1	0	0	2019	0	0
+2304	"geospatial information agency, cibinong16918, indonesia"	-0.5754	-0.7321	26	7	7	1	0	0	2019	0	0
+2306	"geospatial information agency, jakarta-bogor main road km. 46, cibinong, west java 16911, indonesia"	0.8657	-0.1241	2	1	1	1	1	1.356	2019	1	1.356
+2309	"global fishing watch, washington, dc 20036, united states"	-0.6216	0.5785	45	6	6	1	6	8.1362	2019	6	8.1362
+2310	"global geophysics research group, faculty of mining and petroleum engineering, bandung institute of technology, indonesia"	-0.2648	-0.5788	91	4	4	1	2	2.7121	2019	2	2.7121
+2311	"gns science, lower hutt, new zealand"	-0.2647	-0.5788	91	4	4	1	2	2.7121	2019	2	2.7121
+2315	"graduate institute of metabolism and obesity sciences, taipei medical university, taipei, 110, taiwan"	-0.7449	0.5589	25	7	7	1	0	0	2019	0	0
+2316	"graduate institute of sports science, national taiwan sport university, taoyuan, 333, taiwan"	-0.745	0.5589	25	7	7	1	0	0	2019	0	0
+2318	"graduate program in marine sciences, ipb university, bogor, indonesia"	0.0881	0.7803	78	4	4	1	0	0	2019	0	0
+2320	"graduate program in plant biology, department of biology, faculty of mathematics and natural sciences, bogor agricultural university, bogor, 16680, indonesia"	0.3208	0.362	70	4	4	1	1	1.356	2019	1	1.356
+2333	"graduate program, faculty of biology, universitas gadjah mada, jl. teknika selatan, sleman, yogyakarta, indonesia"	-0.1535	-0.8478	132	2	2	1	2	2.7121	2019	2	2.7121
+2334	"graduate school (nutrition), ipb university, bogor, indonesia"	-0.6796	-0.1159	88	4	4	1	0	0	2019	0	0
+2336	"graduate school of agricultural engineering, bogor agricultural university, po box 220 kampus darmaga, bogor, 16002, indonesia"	0.8165	0.4115	129	2	2	1	0	0	2019	0	0
+2338	"graduate school of agricultural science, tohoku university, aramaki, aoba, sendai, miyagi 981-8572, japan"	0.6286	-0.5801	82	4	4	1	3	4.0681	2019	3	4.0681
+2339	"graduate school of agricultural science, tohoku university, city, 981-8555, japan"	-0.7449	0.559	25	7	7	1	0	0	2019	0	0
+2342	"graduate school of agriculture and life science, university of tokyo, 1-1-1 yayoi bunkyo ward, tokyo, 113-8657, japan"	0.8164	0.4114	129	2	2	1	0	0	2019	0	0
+2352	"graduate school of coastal and marine resources management, faculty of fisheries and marine sciences, bogor agricultural university, indonesia"	0.5566	-0.6779	73	4	4	1	0	0	2019	0	0
+2356	"graduate school of fisheries resources utilization, faculty of fisheries and marine sciences, bogor agricultural university, jl. agatiskampus ipb dramaga, bogor, 16680, indonesia"	0.6328	0.6486	144	1	1	1	2	2.7121	2019	2	2.7121
+2359	"graduate school of institut pertanian bogor, jl. raya dramaga, bogor, west java 16680, indonesia"	-0.8135	0.1727	100	3	3	1	0	0	2019	0	0
+2362	"graduate school of life and environmental sciences, university of tsukuba, tsukuba, ibaraki 305-8572, japan"	0.3128	0.6656	6	6	6	1	6	8.1362	2019	6	8.1362
+2366	"graduate school of mathematics and applied sciences syiah, kuala university, banda aceh, 23111, indonesia"	-0.6876	0.4129	20	6	6	1	0	0	2019	0	0
+2367	"graduate school of mathematics and applied sciences, universitas syiah kuala, banda aceh, indonesia"	-0.6879	0.413	20	3	3	1	0	0	2019	0	0
+2370	"graduate school of nutrition and feed science, bogor agricultural university, bogor, indonesia"	0.748	-0.5518	139	1	1	2	9	12.2043	2019	4.5	6.1021
+2371	"graduate school of nutrition and feed science, faculty of animal science, bogor agricultural university, bogor, 16680, indonesia"	0.6939	-0.6376	138	1	1	2	1	1.356	2019	0.5	0.678
+2378	"graduate school of nutrition and feed science, faculty of animal science, ipb university, jl. agatis, dramaga campus, bogor, 16680, indonesia"	0.116	-0.9445	140	1	2	2	0	0	2019	0	0
+2379	"graduate school of oceanography, university of rhode island, narragansett, ri, united states"	-0.8013	-0.1668	48	4	4	1	1	1.356	2019	1	1.356
+2384	"graduate school of veterinary public health, bogor agriculture university, bogor, indonesia"	0.5243	-0.7785	75	4	4	1	1	1.356	2019	1	1.356
+2385	"graduate school, bogor agricultural university, bogor, 16680, indonesia"	0.3209	0.362	70	1	1	2	0	0	2019	0	0
+2391	"graduate school, institut pertanian bogor, jl. lingkar akademik, kampus ipb dramaga, bogor, 16680, indonesia"	0.7824	0.5392	134	2	2	1	0	0	2019	0	0
+2407	"graduate student of marine and coastal management program, bogor agricultural university, bogor, 16680, indonesia"	-0.5754	-0.7323	26	7	7	1	0	0	2019	0	0
+2416	"gulf coast research laboratory, university of southern mississippi, ocean springs, ms, united states"	0.8749	0.0488	3	23	23	1	1	1.356	2019	1	1.356
+2418	"halimun salak national park, sukabumi, 43368, indonesia"	-0.0054	0.6127	13	2	4	2	0	0	2019	0	0
+2420	"hasanuddin university, indonesia"	-0.9252	0.1973	121	2	2	1	0	0	2019	0	0
+2421	"hawai’i institute of marine biology, school of ocean and earth science and technology, university of hawai’i at manoa, kaneohe, hi, united states"	0.8742	0.0487	3	23	23	1	1	1.356	2019	1	1.356
+2422	"hayandralab, yayasan hayandra peduli, jakarta, indonesia"	0.5746	0.7177	39	6	6	1	2	2.7121	2019	2	2.7121
+2425	"histology laboratory, faculty of veterinary medicine, universitas syiah kuala, banda aceh, aceh 23111, indonesia"	-0.506	-0.8053	127	2	2	1	8	10.8482	2019	8	10.8482
+2429	"ichthyology section, museum of natural science, department of biological sciences, louisiana state university, baton rouge, la, united states"	0.8752	0.049	3	23	23	1	1	1.356	2019	1	1.356
+2430	"indonesia agricultural quarantine agency, indonesia"	-0.1231	0.4743	74	4	4	1	0	0	2019	0	0
+2431	"indonesia and dean of universitas teuku umar, west aceh, indonesia"	-0.9416	0.0582	89	4	4	1	0	0	2019	0	0
+2433	"indonesia research center for bioresources and biotechnology, bogor agricultural university, bogor, indonesia"	-0.8042	0.4758	71	5	5	1	0	0	2019	0	0
+2437	"indonesia-center of excellence for food security, university of sultan ageng tirtayasa, jalan raya jakarta km 4, panancangan, cipocok jaya, kota serang, banten, 42124, indonesia"	-0.6216	0.5785	45	6	6	1	6	8.1362	2019	6	8.1362
+2445	"indonesian center for agricultural biotechnology and genetic resources research and development (icabiograd), cimanggu, bogor, indonesia"	-0.8041	0.4758	71	5	5	1	0	0	2019	0	0
+2448	"indonesian center for agricultural biotechnology and genetic resources research and development, indonesian agency for agricultural research and development, jalan tentara pelajar 3a, bogor, indonesia"	0.0948	0.9293	113	3	3	1	0	0	2019	0	0
+2469	"indonesian center for rice research, bogor, indonesia"	0.3209	0.3619	70	4	4	1	1	1.356	2019	1	1.356
+2471	"indonesian center for rice research, indonesian agency for agricultural research and development, jalan raya 9 sukamandi, subang, indonesia"	0.0948	0.9293	113	3	3	1	0	0	2019	0	0
+2478	"indonesian defense university, faculty of defense management, ipsc area, bogor, sentul west java 16810, indonesia"	-0.1878	-0.4019	46	6	6	1	0	0	2019	0	0
+2480	"indonesian ichthyological society, indonesian institute of science, cibinong, indonesia"	0.1443	-0.5029	36	6	7	3	0	0	2019	0	0
+2484	"indonesian institute of sciences (lipi) cibinong, bogor, indonesia"	-0.1008	-0.5802	40	6	6	1	2	2.7121	2019	2	2.7121
+2487	"indonesian institute of sciences, research centre for biology, bogor, indonesia"	-0.909	-0.2106	101	3	3	1	1	1.356	2019	1	1.356
+2488	"indonesian medical education and research institute (imeri), faculty of medicine universitas indonesia, jakarta, indonesia"	-0.2112	-0.7361	29	7	7	1	0	0	2019	0	0
+2489	"indonesian ministry of agriculture, jakarta, indonesia"	0.865	-0.1204	2	10	10	1	4	5.4241	2019	4	5.4241
+2492	"indonesian oil palm research institute (iopri), medan, indonesia"	0.3129	0.6655	6	6	6	1	6	8.1362	2019	6	8.1362
+2493	"indonesian oil palm research institute, medan, north sumatra, indonesia"	0.6627	0.481	103	3	3	1	0	0	2019	0	0
+2506	"information system study program, faculty of science and technology, universitas airlangga, jl. mulyorejo, surabaya, 60115, indonesia"	0.7425	0.2628	30	7	7	1	1	1.356	2019	1	1.356
+2507	"inra, plant pathology research unit 407, paca research center, montfavet, 84143, france"	0.4586	-0.1748	1	15	15	1	2	2.7121	2019	2	2.7121
+2511	"institut pertanian bogor, department of soil science and land resources, damarga campus, bogor, 16680, indonesia"	0.243	0.9033	53	5	5	1	1	1.356	2019	1	1.356
+2516	"institut pertanian bogor, jawa barat bogor, indonesia"	-0.826	-0.294	86	4	4	1	1	1.356	2019	1	1.356
+2518	"institut pertanian bogor., jl. raya pajajaran, kampus ipb baranangsiang, bogor, west java 16144, indonesia"	0.8269	-0.4585	104	3	3	1	1	1.356	2019	1	1.356
+2519	"institut teknologi bandung, bandung, indonesia"	0.5746	0.7177	39	6	6	1	2	2.7121	2019	2	2.7121
+2521	"institute for the oceans and fisheries, university of british columbia, vancouver, canada"	-0.4072	-0.636	22	7	7	1	7	9.4922	2019	7	9.4922
+2522	"institute of agricultural and environmental sciences, estonian university of life sciences, kreutzwaldi 1, tartu, 51006, estonia"	0.662	-0.4585	33	7	7	1	14	18.9844	2019	14	18.9844
+2526	"institute of biology, college of science, university of the philippines diliman and university of the east ramon magsaysay graduate school, quezon city, philippines"	-0.4748	0.75	7	22	28	2	0	0	2019	0	0
+2527	"institute of environmental sciences, cml. leiden unviersity, leiden, netherlands"	-0.8362	0.3561	64	5	5	1	0	0	2019	0	0
+2528	"institute of green bio science and technology, seoul national university, pyeongchang, 25354, south korea"	-0.3125	-0.8895	115	2	2	1	4	5.4241	2019	4	5.4241
+2529	"institute of halal industry and systems, universitas gadjah mada, yogyakarta, 55281, indonesia"	-0.7633	-0.009	81	4	4	1	0	0	2019	0	0
+2531	"institute of industrial science, the university of tokyo, tokyo, 153-8505, japan"	-0.9181	0.1313	90	4	4	1	1	1.356	2019	1	1.356
+2534	"institute of natural and mathematical sciences, massey university, auckland, new zealand"	0.8744	0.0491	3	23	23	1	1	1.356	2019	1	1.356
+2535	"institute of tropical forestry and forest product (introp), universiti putra malaysia, upm serdang, selangor 43400, malaysia"	-0.8072	-0.4345	10	6	6	1	8	10.8482	2019	8	10.8482
+2536	"institute of tropical forestry and forest product (introp), universiti putra malaysia, upm serdang, selangor, 43400, malaysia"	-0.808	-0.4331	10	6	6	1	1	1.356	2019	1	1.356
+2537	"institute of tropical forestry and forest products (introp), universiti putra malaysia, serdang, selangor, 43400, malaysia"	0.5424	0.2934	8	7	7	1	0	0	2019	0	0
+2538	"instituto colombiano agropecuario ica, subgerencia de análisis y diagnóstico, grupo red de análisis y diagnóstico fitosanitario, carrera 30 # 65-15, manizales, colombia"	0.243	0.9033	53	5	5	1	1	1.356	2019	1	1.356
+2539	"instituto de investigaciones de la amazonia peruana (iiap), iquitos, peru"	0.4474	-0.1658	1	8	8	1	5	6.7802	2019	5	6.7802
+2540	"integrated service unit of stem cell medical technology (upt tk sel punca), dr. cipto mangunkusumo general hospital (rscm), jl. diponegoro no 71, salemba, jakarta pusat, 10430, indonesia"	0.0553	-0.6535	47	6	6	1	0	0	2019	0	0
+2544	"international institute for halal research and training (inhart), international islamic university malaysia, gombak, kuala lumpur, 50728, malaysia"	-0.7633	-0.009	81	4	4	1	0	0	2019	0	0
+2545	"international maize and wheat improvement center (cimmyt), socioeconomics program, texcoco, mexico"	-0.909	-0.2106	101	3	3	1	1	1.356	2019	1	1.356
+2546	"international maize and wheat improvement center, texcoco, mexico"	0.1916	-0.9178	68	2	2	1	7	9.4922	2019	7	9.4922
+2547	"international rice research institute, dapo box 7777, metro manila, philippines"	0.0948	0.9293	113	3	3	1	0	0	2019	0	0
+2549	"ipb graduate school students, bogor, indonesia"	-0.1879	-0.4019	46	6	6	1	0	0	2019	0	0
+2550	"ipb graduate school, fisheries resource utilization department, fpik-ipb, st. raya dramaga, bogor, 16680, indonesia"	-0.1878	-0.4019	46	6	6	1	0	0	2019	0	0
+2568	"ipb university, indonesia"	0.279	0.1741	174	0	0	8	1	1.356	2019	0.125	0.1695
+2578	"j.f. blumenbach institute of zoology and anthropology, university of göttingen, göttingen, germany"	-0.3843	0.8582	114	3	4	2	6	8.1362	2019	3	4.0681
+2580	"jakarta fisheries university, faculty fishing technology, department fishing technology, st. aup 01, pasar minggu, jakarta, 12520, indonesia"	-0.1879	-0.4018	46	6	6	1	0	0	2019	0	0
+2584	"james cook university, townsville, australia"	-0.4477	0.0018	4	23	23	1	1	1.356	2019	1	1.356
+2586	"japan international research center for agricultural sciences, 1-1 ohwashi, tsukuba, ibaraki, japan"	0.6627	0.481	103	3	3	1	0	0	2019	0	0
+2587	"jember university (unej), tegalboto, jember, indonesia"	-0.2964	0.8673	11	10	10	1	3	4.0681	2019	3	4.0681
+2588	"jenderal soedirman university, faculty of agriculture, indonesia"	-0.3167	0.3253	9	17	17	1	5	6.7802	2019	5	6.7802
+2593	"kalbe genomics laboratoryjakarta, indonesia"	-0.3432	-0.7821	59	5	5	1	0	0	2019	0	0
+2594	"kementerian kelautan dan perikanan, kkp gedung mina bahari i lt 5, jl. medan merdeka timur no. 16, jakarta, 10110, indonesia"	-0.6216	0.5785	45	6	6	1	6	8.1362	2019	6	8.1362
+2596	"kensetsu kogyo co. ltd, hagi, yamaguchi, japan"	0.8453	-0.1393	32	3	3	1	0	0	2019	0	0
+2597	"key laboratory of animal ecology and conservation biology, institute of zoology, the chinese academy of sciences, beijing, china"	-0.4476	0.0019	4	23	23	1	1	1.356	2019	1	1.356
+2598	"key laboratory of parasite and vector biology, ministry of health, china, shanghai, china"	-0.4751	0.7488	7	13	13	1	0	0	2019	0	0
+2599	"key laboratory of parasite and vector biology, ministry of health, shanghai, china"	-0.4747	0.7513	7	15	15	1	0	0	2019	0	0
+2600	"kkd-bp fisheries social economic, marine and fisheries polytechnic of sorong, sorong, west papua, indonesia"	-0.7059	-0.6356	125	2	4	2	3	4.0681	2019	1.5	2.034
+2601	"kki-warsi, jambi, indonesia"	0.7107	0.6008	42	6	6	1	0	0	2019	0	0
+2602	"klinik hayandra, yayasan hayandra peduli, jakarta, indonesia"	0.5747	0.7177	39	6	6	1	2	2.7121	2019	2	2.7121
+2605	"laboratoire d'études en géophysique et océanographie spatiales (legos), toulouse, france"	0.2985	0.6594	37	3	3	1	0	0	2019	0	0
+2608	"laboratory of advanced biomedicine, faculty of medicine, universitas padjadjaran, bandung, indonesia"	-0.1871	0.7541	14	10	11	2	1	1.356	2019	0.5	0.678
+2613	"laboratory of biomedical science, faculty of public health, university of teuku umar, meulaboh, aceh, indonesia"	-0.5129	0.4868	18	8	8	1	0	0	2019	0	0
+2614	"laboratory of biomedicine, faculty of medicine, universitas andalas, padang, indonesia"	-0.1871	0.7539	14	7	7	1	1	1.356	2019	1	1.356
+2620	"laboratory of forest genomics, genome research and education center, institute of fundamental biology and biotechnology, siberian federal university, 50a/2 akademgorodok, krasnoyarsk, 660036, russian federation"	0.5068	0.7873	24	7	7	1	1	1.356	2019	1	1.356
+2623	"laboratory of herpetology, museum zoologicum bogoriense (zoology division), research center for biology, indonesian institute of sciences, cibinong, indonesia"	-0.4473	0.0011	4	23	23	1	1	1.356	2019	1	1.356
+2624	"laboratory of marine biotechnology, institute of bioscience, universiti putra malaysia, upm serdang, selangor 43400, malaysia"	-0.8072	-0.4345	10	6	6	1	8	10.8482	2019	8	10.8482
+2625	"laboratory of marine biotechnology, institute of bioscience, universiti putra malaysia, upm serdang, selangor, 43400, malaysia"	-0.808	-0.4331	10	6	6	1	1	1.356	2019	1	1.356
+2627	"laboratory of microbiology, faculty of veterinary medicine, universitas syiah kuala, banda aceh, aceh, indonesia"	-0.5129	0.4868	18	8	8	1	0	0	2019	0	0
+2630	"laboratory of parasitology, faculty of veterinary medicine, universitas syiah kuala, banda aceh, aceh, indonesia"	-0.5129	0.4868	18	8	8	1	0	0	2019	0	0
+2631	"laboratory of pathology, faculty of veterinary medicine, universitas syiah kuala, banda aceh, aceh, indonesia"	-0.5128	0.4868	18	8	8	1	0	0	2019	0	0
+2632	"laboratory of population genetics, n. i. vavilov institute of general genetics, russian academy of sciences, 3 gubkin str., moscow, 119333, russian federation"	0.5068	0.7873	24	7	7	1	1	1.356	2019	1	1.356
+2634	"laboratory of reproduction, faculty of veterinary medicine, universitas syiah kuala, banda aceh, aceh, indonesia"	-0.5127	0.4868	18	8	8	1	0	0	2019	0	0
+2636	"laboratory of research, faculty of veterinary medicine, universitas syiah kuala, banda aceh, aceh, indonesia"	-0.5127	0.4868	18	8	8	1	0	0	2019	0	0
+2642	"laboratory of veterinary public health, faculty of veterinary medicine, universitas syiah kuala, banda aceh, aceh, indonesia"	-0.5129	0.4868	18	8	8	1	0	0	2019	0	0
+2643	"laboratório de entomologia, embrapa amazônia oriental, belém, brazil"	-0.038	-0.0893	5	23	46	2	17	23.0525	2019	8.5	11.5263
+2645	"lampung veterinary office, animal husbandry and healthiness, agricultural ministry republic of indonesia, lampung, indonesia"	0.5244	-0.7785	75	4	4	1	1	1.356	2019	1	1.356
+2648	"lao tropical and public health institute, vientianne, laos"	-0.4751	0.7501	7	22	28	2	0	0	2019	0	0
+2655	"lermab the university of lorraine, france"	0.718	-0.3464	69	5	5	1	1	1.356	2019	1	1.356
+2656	"life cycle indonesia (lci), kebon jeruk, jakarta, indonesia"	-0.2963	0.8671	11	10	10	1	3	4.0681	2019	3	4.0681
+2657	"linton university college, bandar universiti teknologi legenda (butl), mantin, malaysia"	-0.0206	0.8466	16	5	5	1	1	1.356	2019	1	1.356
+2659	"livelihoods and natural resources management institute, hyderabad, india"	0.1582	0.9021	44	6	6	1	9	12.2043	2019	9	12.2043
+2660	"livestock and animal health agency of district subang, subang, 41214, indonesia"	-0.9264	-0.1208	27	7	7	1	0	0	2019	0	0
+2661	"livestock and animal health agency of district subang, subang, malaysia"	0.8649	-0.1205	2	10	10	1	4	5.4241	2019	4	5.4241
+2663	"loka kawasan konservasi perairan nasional pekanbaru - kkp, tenayan raya, kota pekanbaru, riau, kulim, 28282, indonesia"	-0.1774	-0.9226	57	5	5	1	0	0	2019	0	0
+2664	"lppptk kptk, ministry of education and culture, indonesia"	0.5567	-0.678	73	4	4	1	0	0	2019	0	0
+2667	"macquarie university, biological sciences, australia"	-0.3163	0.3254	9	17	17	1	5	6.7802	2019	5	6.7802
+2669	"maejo university, chiangmai, thailand"	0.1916	-0.9178	68	2	2	1	7	9.4922	2019	7	9.4922
+2672	"magnel laboratory for concrete research, ghent university, tech lane ghent science park, campus a, technologiepark zwijnaarde 904, ghent, b-9052, belgium"	0.8489	0.2462	76	4	4	1	6	8.1362	2019	6	8.1362
+2676	"malaysian palm oil board, 6 persiaran institusi, bandar baru bangi, kajang, selangor, 43000, malaysia"	-0.6748	-0.4984	133	2	2	1	0	0	2019	0	0
+2678	"manaaki whenua - landcare research, lincoln, new zealand"	-0.0393	-0.0878	5	23	46	2	17	23.0525	2019	8.5	11.5263
+2684	"management study program, stie muhammadiyah jakarta, indonesia"	-0.0997	0.9308	62	2	2	1	4	5.4241	2019	4	5.4241
+2688	"marine and fisheries polytechnic, karawang"	0.8655	-0.1242	2	1	1	2	0	0	2019	0	0
+2689	"marine and fisheries research center, universitas syiah kuala, indonesia"	0.3731	0.1748	97	3	3	1	0	0	2019	0	0
+2691	"marine biodiversity and biosystematics laboratory, department of marine science and technology, bogor agricultural university, indonesia"	-0.2537	-0.8864	92	4	4	1	0	0	2019	0	0
+2694	"marine biology, ecology & biodiversity, vrije universiteit brussel (vub), brussels, belgium"	0.8749	0.0482	3	23	23	1	1	1.356	2019	1	1.356
+2697	"marine megafauna foundation, truckee, ca, united states"	0.527	0.5264	35	7	7	1	2	2.7121	2019	2	2.7121
+2698	"marine programs, wildlife conservation society, bogor, indonesia"	-0.8013	-0.1668	48	4	4	1	1	1.356	2019	1	1.356
+2713	"marine science program, cenderawasih university, jayapura99351, indonesia"	-0.5753	-0.7322	26	7	7	1	0	0	2019	0	0
+2718	"marine technology, bogor agricultural university, indonesia"	-0.2537	-0.8864	92	4	4	1	0	0	2019	0	0
+2721	"material and chemical characterisation facility (mc2), university of bath, bath, ba2 7ay, united kingdom"	-0.2273	0.6063	65	5	5	1	1	1.356	2019	1	1.356
+2729	"mechanical engineering department, universitas syiah kuala, darussalam, banda aceh, indonesia"	0.5434	0.2933	8	5	5	1	10	13.5603	2019	10	13.5603
+2730	"mechanical engineering department, universitas syiah kuala, darussalam, banda aceh23111, indonesia"	0.5466	0.2941	8	7	7	1	10	13.5603	2019	10	13.5603
+2733	"medistra health higher school, jakarta, indonesia"	-0.712	0.2541	28	7	7	1	0	0	2019	0	0
+2735	"melbourne veterinary school, university of melbourne, werribee, australia"	-0.4475	0.0008	4	23	23	1	1	1.356	2019	1	1.356
+2739	"michale e keeling center for comparative medicine and research, md anderson cancer center, bastrop, tx, united states"	0.8783	-0.1388	2	5	5	1	0	0	2019	0	0
+2740	"michigan tech research institute, michigan technological university, ann arbor, mi, united states"	0.4473	-0.1658	1	8	8	1	5	6.7802	2019	5	6.7802
+2746	"ministry of agriculture, indonesia"	0.8461	-0.1386	32	4	4	2	0	0	2019	0	0
+2748	"ministry of environment and forestry (moef), manggala wanabakti, jakarta, indonesia"	-0.2963	0.8672	11	10	10	1	3	4.0681	2019	3	4.0681
+2752	"ministry of environment and forestry, manggala wanabakti building, jl. jend. gatot, subroto, jakarta, 10270, indonesia"	0.81	0.4692	85	4	4	1	0	0	2019	0	0
+2754	"ministry of health, south jakarta, indonesia"	-0.4742	0.7513	7	15	15	1	0	0	2019	0	0
+2758	"ministry of village, development of disadvantaged regions, and transmigration, indonesia"	0.4162	-0.8339	108	3	3	1	0	0	2019	0	0
+2759	"molecular allergy research laboratory, college of public health, medical and veterinary sciences, james cook university, townsville, qld, australia"	0.3125	0.6815	6	8	8	1	10	13.5603	2019	10	13.5603
+2760	"molecular biology and immunology laboratory for infectious diseases, faculty of medicine, hasanuddin university, makassar, indonesia"	-0.712	0.2541	28	7	7	1	0	0	2019	0	0
+2761	"molecular genetic testing services, kalbe genomics laboratory jakarta, jakarta, indonesia"	0.4974	-0.4783	55	5	5	1	0	0	2019	0	0
+2764	"muhammadiyah university, purwokerto, indonesia"	0.718	-0.3464	69	5	5	1	1	1.356	2019	1	1.356
+2767	"murni teguh memorial hospital, kota medan, sumatera utara, indonesia"	-0.3432	-0.7821	59	5	5	1	0	0	2019	0	0
+2768	"museum of vertebrate zoology, university of california–berkeley, berkeley, ca, canada"	-0.4478	0.0012	4	23	23	1	1	1.356	2019	1	1.356
+2769	"museum zoologicum bogoriense, research center for biology, indonesian institute of sciences, gd. widyasatwaloka, jl. raya jakarta bogor km 46, cibinong, west java, indonesia"	-0.1534	-0.8478	132	2	2	1	2	2.7121	2019	2	2.7121
+2773	"national center for international research on tropical diseases, china"	-0.475	0.7487	7	13	13	1	0	0	2019	0	0
+2774	"national center for international research on tropical diseases, shanghai, china"	-0.4746	0.7514	7	15	15	1	0	0	2019	0	0
+2775	"national center of scientific research, france national museum of natural history, paris, france"	-0.0388	-0.0895	5	23	46	2	17	23.0525	2019	8.5	11.5263
+2776	"national centre for flood research, southern cross university, lismore, nsw 2480, australia"	0.4585	-0.1746	1	15	15	1	2	2.7121	2019	2	2.7121
+2777	"national helminth control program, national center for parasitology, entomology and malaria control ministry of health, phnom penh, cambodia"	-0.4752	0.7489	7	13	13	1	0	0	2019	0	0
+2778	"national helminth control program, national center for parasitology, entomology and malaria control, ministry of health, phnom penh, cambodia"	-0.4745	0.7513	7	15	15	1	0	0	2019	0	0
+2779	"national institute for environmental studies (nies), 16-2 onogawa, ibaraki, tsukuba, 305-8506, japan"	0.4448	0.8374	145	1	1	2	0	0	2019	0	0
+2780	"national institute of parasitic diseases, chinese center for disease control and prevention"	-0.4751	0.7487	7	13	13	1	0	0	2019	0	0
+2781	"national institute of parasitic diseases, chinese center for disease control and prevention, shanghai, china"	-0.4748	0.7514	7	15	15	1	0	0	2019	0	0
+2782	"national marine science centre, southern cross university, coffs harbour, new south wales 2450, australia"	0.842	-0.1419	32	3	3	1	1	1.356	2019	1	1.356
+2783	"national museum of natural history, smithsonian institution, washington, dc, united states"	0.8751	0.0492	3	23	23	1	1	1.356	2019	1	1.356
+2784	"national museums of kenya, nairobi, kenya"	-0.0392	-0.0889	5	23	46	2	17	23.0525	2019	8.5	11.5263
+2787	"national research center for protozoan diseases, obihiro university of agriculture veterinary medicine, nishi 2 sen-13, inada-cho, obihiro, hokkaido 080-8555, japan"	0.3103	-0.7534	56	5	5	1	5	6.7802	2019	5	6.7802
+2788	"national research center, cairo, 12622, egypt"	-0.1651	0.919	106	3	3	1	4	5.4241	2019	4	5.4241
+2798	"natural resources and environmental management science, ipb university, bogor, indonesia"	-0.2162	0.0883	175	0	0	2	0	0	2019	0	0
+2807	"naturalis biodiversity center, ra, leiden, 2300, netherlands"	-0.8363	0.3561	64	5	5	1	0	0	2019	0	0
+2810	"netherlands metabolomics centre, einsteinweg 55, leiden, 2333 cc, netherlands"	0.0256	-0.9335	43	6	6	1	4	5.4241	2019	4	5.4241
+2817	"nutrition research center, taipei medical university hospital, taipei, 110, taiwan"	-0.745	0.5589	25	7	7	1	0	0	2019	0	0
+2821	"oncology and stem cell working group, faculty of medicine, universitas padjadjaran, bandung, indonesia"	-0.1871	0.7538	14	7	7	1	1	1.356	2019	1	1.356
+2822	"one health center for zoonoses and tropical veterinary medicine, ross university school of veterinary medicine, basseterre, saint kitts and nevis"	-0.4754	0.7488	7	13	13	1	0	0	2019	0	0
+2823	"operation wallacea, wallace house, old bolingbroke, lincolnshire, pe23 4ex, united kingdom"	-0.5329	-0.272	21	7	7	1	1	1.356	2019	1	1.356
+2827	"padang state university, indonesia"	-0.3334	-0.2685	51	1	1	2	3	4.0681	2019	1.5	2.034
+2831	"papua new guinea institute of biological research, goroka, papua new guinea"	-0.448	0.0017	4	23	23	1	1	1.356	2019	1	1.356
+2832	"papua new guinea tree kangaroo conservation program, lae, papua new guinea"	-0.448	0.0011	4	23	23	1	1	1.356	2019	1	1.356
+2835	"parc botanique et zoologique de tsimbazaza, antananarivo, madagascar"	0.1782	-0.7681	17	8	8	1	0	0	2019	0	0
+2836	"parenting and family support centre, the university of queensland, brisbane, australia"	-0.3502	-0.8735	137	1	2	2	1	1.356	2019	0.5	0.678
+2839	"pennsylvania state university–altoona, altoona, pa, united states"	-0.4473	0.0007	4	23	23	1	1	1.356	2019	1	1.356
+2841	"pharmacology and toxicology department, veterinary faculty, bogor agricultural university, bogor, indonesia"	-0.8041	0.4758	71	5	5	1	0	0	2019	0	0
+2843	"physics department of mathematics and science, faculty of syiah kuala university, banda aceh, 23111, indonesia"	0.3538	0.8769	19	4	4	1	0	0	2019	0	0
+2851	"physiology laboratory, faculty of veterinary medicine, universitas syiah kuala, banda aceh, aceh 23111, indonesia"	-0.5059	-0.8053	127	2	2	1	8	10.8482	2019	8	10.8482
+2852	"physiology laboratory, research center for biology, indonesian institute of sciences, jl. raya bogor km. 46, cibinong, bogor, west java 16911, indonesia"	0.7825	0.5391	134	2	2	1	0	0	2019	0	0
+2860	"plant breeding, wageningen university and research, p.o. box 16, wageningen, 6700 aa, netherlands"	0.0256	-0.9334	43	6	6	1	4	5.4241	2019	4	5.4241
+2861	"plant ecology, albrecht von haller institute for plant sciences, university of goettingen, untere karspüle 2, goettingen, germany"	-0.0475	0.335	63	5	5	1	0	0	2019	0	0
+2864	"plant production systems group, wageningen university, droevendaalsesteeg 1, wageningen, pb 6708, netherlands"	0.0961	0.4557	112	3	3	1	4	5.4241	2019	4	5.4241
+2870	"policy bureau, ministry of land, infrastructure, transport and tourism, tokyo, 100-8918, japan"	-0.9181	0.1313	90	4	4	1	1	1.356	2019	1	1.356
+2874	"post graduate program in reproductive biology, faculty of veterinary medicine, ipb university, dramaga campus, bogor, 16680, indonesia"	0.4706	-0.8257	146	1	2	2	0	0	2019	0	0
+2893	"primate animal study center, research institution and community service (lppm), bogor agricultural university, bogor, indonesia"	-0.8041	0.4758	71	5	5	1	0	0	2019	0	0
+2896	"primate research center, bogor agricultural university (ipb), jl. lodaya ii no. 5, bogor, indonesia"	0.1088	-0.9027	135	2	4	2	11	14.9163	2019	5.5	7.4582
+2898	"primate research center, bogor agricultural university, bogor, indonesia"	0.8793	-0.1402	2	9	10	3	1	1.356	2019	0.3333	0.452
+2899	"primate research center, bogor agricultural university, bogor, indonesia;, email:"	0.8782	-0.1388	2	5	5	1	0	0	2019	0	0
+2901	"primate research center, bogor agricultural university, lodaya ii bogor, indonesia"	0.1782	-0.7682	17	8	8	1	0	0	2019	0	0
+2910	"primate research institute, kyoto university, inuyama, aichi, 484-8506, japan"	0.1782	-0.7682	17	8	8	1	0	0	2019	0	0
+2911	"primate research institute, kyoto university, inuyama, japan"	0.3021	-0.8793	52	5	5	1	1	1.356	2019	1	1.356
+2923	"prolab diagnostic laboratory, pt. sierad produce, tbk, bogor, 16340, indonesia"	-0.9265	-0.1208	27	7	7	1	0	0	2019	0	0
+2938	"pt. hima lestari international, taman yasmin, bogor, indonesia"	-0.6823	-0.5857	109	3	3	1	0	0	2019	0	0
+2941	"public administration and policy group, wageningen university, netherlands"	0.4326	-0.1468	1	4	4	1	1	1.356	2019	1	1.356
+2942	"public health faculty of andalas university padang, padang, indonesia"	-0.6571	-0.404	111	3	3	1	0	0	2019	0	0
+2947	"queensland department of environment and science, brisbane, qld 4102, australia"	0.8664	0.3518	23	7	7	1	3	4.0681	2019	3	4.0681
+2948	"rare indonesia, bogor, indonesia"	-0.8013	-0.1668	48	4	4	1	1	1.356	2019	1	1.356
+2951	"regional development planning division, department of soil science and land resource, faculty of agriculture, ipb university, ipb dramaga campus, jl. meranti, bogor, 16680, indonesia"	-0.7517	-0.5622	107	3	3	1	0	0	2019	0	0
+2953	"regional planning science study program, postgraduate school, ipb university, jl. meranti, ipb dramaga campus, bogor, 16680, indonesia"	-0.7517	-0.5622	107	3	3	1	0	0	2019	0	0
+2958	"reproduction and obstetrics division, department of veterinary clinic, reproduction and pathology, faculty of veterinary medicine, ipb university, kampus ipb dramaga, jl. agatis raya, bogor, 16680, indonesia"	0.4706	-0.8258	146	1	2	2	0	0	2019	0	0
+2961	"research and development agency, ministry of marine affairs and fisheries, jakarta, indonesia"	0.2985	0.6594	37	3	3	1	0	0	2019	0	0
+2962	"research and development center for environmental quality and laboratory, indonesia"	-0.0745	-0.9282	41	6	6	1	3	4.0681	2019	3	4.0681
+2966	"research and development center oil and gas, ministry of energy and mineral resources, indonesia"	0.3129	0.6656	6	6	6	1	6	8.1362	2019	6	8.1362
+2973	"research and development division, mekarsari fruit garden, indonesia"	-0.0524	-0.7795	50	4	7	4	6	8.1362	2019	1.5	2.034
+2990	"research center for bioresources and biotechnology, bogor agricultural university, bogor, 16680, indonesia"	0.3208	0.362	70	4	4	1	1	1.356	2019	1	1.356
+2994	"research center for biotechnology, indonesian institute of science (lipi), bogor, indonesia"	-0.8041	0.4758	71	5	5	1	0	0	2019	0	0
+2998	"research center for biotechnology, indonesian institute of sciences, cibinong, indonesia"	0.3209	0.362	70	4	4	1	1	1.356	2019	1	1.356
+3005	"research center for chemistry, indonesian institute of sciences (lipi), south tangerang, 15314, indonesia"	-0.2963	0.8673	11	10	10	1	3	4.0681	2019	3	4.0681
+3006	"research center for chemistry, indonesian institute of sciences (lipi), tangerang selatan, 15314, indonesia"	-0.2087	0.1331	176	0	0	2	0	0	2019	0	0
+3009	"research center for fisheries, agency for marine and fisheries research and human resources, ministry of marine affairs and fisheries of republic indonesia, jakarta, indonesia"	-0.6	0.7469	136	1	2	2	0	0	2019	0	0
+3011	"research center for nanosciences and nanotechnology (rcnn), institut teknologi bandung, bandung, indonesia"	-0.3508	0.5662	54	5	8	2	2	2.7121	2019	1	1.356
+3012	"research center for nanosciences and nanotechnology, institut teknologi bandung, jalan ganesha no. 10, bandung, indonesia"	-0.5152	-0.4751	15	9	9	1	1	1	2020	1	1
+3013	"research center for oceanography - lipi, jl. pasir putih 1, ancol timur, jakarta, 14430, indonesia"	-0.1774	-0.9226	57	5	5	1	0	0	2019	0	0
+3014	"research center for oceanography, indonesian institute of sciences, jakarta, 12710, indonesia"	-0.6843	0.6519	77	4	4	1	4	5.4241	2019	4	5.4241
+3019	"research center for quantum engineering design, faculty of science and technology, universitas airlangga, jl. mulyorejo, surabaya, 60115, indonesia"	0.7425	0.2628	30	7	7	1	1	1.356	2019	1	1.356
+3021	"research center for society and culture, indonesian institute of sciences (lipi), jakarta, indonesia"	0.771	-0.4926	131	2	2	1	2	2.7121	2019	2	2.7121
+3022	"research center for tropical diseases and vector control, college of veterinary medicine, animal resources and biosecurity, makerere university, kampala, 7062, uganda"	0.3102	-0.7533	56	5	5	1	5	6.7802	2019	5	6.7802
+3028	"research centre for biotechnology, indonesian institute of sciences, jl. raya bogor km. 46, cibinong, bogor, 16910, indonesia"	0.0255	-0.9335	43	6	6	1	4	5.4241	2019	4	5.4241
+3034	"research development and innovation agency, ministry of environment and forestry-republic of indonesia, indonesia"	0.4416	-0.749	93	4	4	1	0	0	2019	0	0
+3037	"research group on plant biology under mediterranean conditions, universitat de les illes balears (uib) – instituto de investigaciones agroambientales y de economía del agua (inagea), carretera de valldemossa km 7.5, palma, illes balears 07122, spain"	0.6621	-0.4584	33	7	7	1	14	18.9844	2019	14	18.9844
+3043	"research institute for marine fisheries, ministry of marine affair and fisheries republic of indonesia, cibinong, indonesia"	0.3731	0.1748	97	3	3	1	0	0	2019	0	0
+3047	"research institute for the environment and livelihoods (riel), charles darwin university, darwin, nt, australia"	0.4366	-0.1515	1	4	4	1	8	10.8482	2019	8	10.8482
+3048	"research institute for the environment and livelihoods, charles darwin university, darwin, nt, australia"	0.771	-0.4926	131	2	2	1	2	2.7121	2019	2	2.7121
+3049	"research institute of fiber technology of forest plants, forda, bangkinang, indonesia"	-0.4736	-0.7463	84	4	4	1	0	0	2019	0	0
+3050	"research it, university of manchester, manchester, united kingdom"	0.4035	-0.1136	12	10	10	1	5	6.7802	2019	5	6.7802
+3051	"research unit for natural product technology (bptba), indonesian institute of sciences (lipi), yogyakarta, indonesia"	0.6498	-0.6815	80	4	4	1	2	2.7121	2019	2	2.7121
+3052	"research unit for natural products technology (bptba), indonesian institute of sciences (lipi), yogyakarta, indonesia"	-0.7633	-0.009	81	4	4	1	0	0	2019	0	0
+3053	"research, conservation and education, zoological park organization, bangkok, thailand"	0.1783	-0.7681	17	8	8	1	0	0	2019	0	0
+3055	"research, development and innovation agency, ministry of environment and forestry, indonesia"	-0.4206	-0.8424	67	5	5	1	0	0	2019	0	0
+3062	"rs hermina bekasi, kota bekasi, jawa barat, indonesia"	-0.3432	-0.7821	59	5	5	1	0	0	2019	0	0
+3063	"rural sociology at the department of communication sciences and community development, bogor agricultural university, jl. kamper wing 1, bogor, 16680, indonesia"	0.0961	0.4556	112	3	3	1	4	5.4241	2019	4	5.4241
+3067	"school of agriculture and environment, university of western australia, crawley, wa 6009, australia"	0.8665	0.3519	23	7	7	1	3	4.0681	2019	3	4.0681
+3068	"school of agriculture, utsunomiya university, utsunomiya, 321-8505, japan"	0.1831	0.3527	177	0	0	2	2	2.7121	2019	1	1.356
+3069	"school of biological sciences, the university of queensland, st. lucia, qld, australia"	0.8741	0.0484	3	23	23	1	1	1.356	2019	1	1.356
+3070	"school of biological sciences, university of east anglia, norwich, united kingdom"	-0.0378	-0.0889	5	23	46	2	17	23.0525	2019	8.5	11.5263
+3071	"school of biological sciences, university of tasmania, hobart, tas 7001, australia"	0.6621	-0.4584	33	7	7	1	14	18.9844	2019	14	18.9844
+3072	"school of biosciences, university of melbourne, parkville, australia"	-0.4471	0.0008	4	23	23	1	1	1.356	2019	1	1.356
+3073	"school of biotechnology, bogor agricultural university, bogor, indonesia"	-0.8041	0.4758	71	5	5	1	0	0	2019	0	0
+3080	"school of chemical sciences, mahatma gandhi university, kottayam, kerala, 686560, india"	0.5423	0.2934	8	7	7	1	0	0	2019	0	0
+3081	"school of earth and environment, university of leeds, leeds, ls2 9jt, united kingdom"	0.459	-0.1746	1	15	15	2	3	4.0681	2019	1.5	2.034
+3082	"school of earth and environment, university of leeds, leeds, united kingdom"	0.4034	-0.1137	12	10	10	1	5	6.7802	2019	5	6.7802
+3083	"school of earth and environmental sciences, university of queensland, st. lucia, qld 4072, australia"	0.4588	-0.1747	1	15	15	1	2	2.7121	2019	2	2.7121
+3085	"school of environment, earth, and ecosystem sciences, faculty of science, technology, engineering and mathematics, open university, walton hall, milton keynes, mk7 6aa, united kingdom"	-0.5329	-0.272	21	7	7	1	1	1.356	2019	1	1.356
+3086	"school of environment, science and engineering, southern cross university, lismore, new south wales 2450, australia"	0.842	-0.1419	32	3	3	1	1	1.356	2019	1	1.356
+3087	"school of environmental and life sciences, university of newcastle, callaghan, australia"	-0.4479	0.0009	4	23	23	1	1	1.356	2019	1	1.356
+3088	"school of environmental and natural resource sciences, university kebangsaan malaysia, kuala lumpur, malaysia"	0.4036	-0.1137	12	10	10	1	5	6.7802	2019	5	6.7802
+3090	"school of forest resources and environmental science, michigan technological university, houghton, mi, united states"	0.4472	-0.1658	1	8	8	1	5	6.7802	2019	5	6.7802
+3095	"school of industrial technology, universiti sains malaysia, penang, 11800, malaysia"	0.5442	0.2936	8	18	19	3	20	27.1206	2019	6.6667	9.0402
+3096	"school of industrial technology, universiti sains malaysia, penang, malaysia"	-0.0206	0.8465	16	5	5	1	1	1.356	2019	1	1.356
+3097	"school of industrial technology, universiti sains malaysiapenang, malaysia"	-0.0209	0.8463	16	5	5	1	0	0	2019	0	0
+3099	"school of ipb university, bogor, 16144, indonesia"	-0.6506	-0.6753	99	3	3	1	0	0	2019	0	0
+3101	"school of life and environmental science, deakin university, geelong, vic, australia"	0.8751	0.0485	3	23	23	1	1	1.356	2019	1	1.356
+3104	"school of life sciences and technology, bandung institute of technology, bandung, 40116, indonesia"	-0.6506	-0.6753	99	3	3	1	0	0	2019	0	0
+3105	"school of life sciences and technology, bandung institute of technology, jalan ganesha 10, bandung, 40132, indonesia"	0.3664	-0.6317	49	5	5	1	1	1.356	2019	1	1.356
+3111	"school of mathematics and statistics, victoria university of wellington, wellington, new zealand"	0.5271	0.5264	35	7	7	1	2	2.7121	2019	2	2.7121
+3112	"school of molecular and life sciences, curtin university, perth, wa, australia"	0.8752	0.0484	3	23	23	1	1	1.356	2019	1	1.356
+3113	"school of natural sciences, california state university, monterey bay, seaside, ca, united states"	0.8747	0.0484	3	23	23	1	1	1.356	2019	1	1.356
+3114	"school of natural sciences, trinity college, dublin 2, ireland"	-0.533	-0.2721	21	7	7	1	1	1.356	2019	1	1.356
+3115	"school of nutrition and health sciences, taipei medical university, taipei, 110, taiwan"	-0.7451	0.559	25	7	7	1	0	0	2019	0	0
+3119	"school of post graduate, faculty of medicine, hasanuddin university, makassar, indonesia"	-0.712	0.254	28	7	7	1	0	0	2019	0	0
+3121	"school of science and technology, kwansei gakuin university, sanda, japan"	0.1493	-0.327	124	2	3	2	3	4.0681	2019	1.5	2.034
+3123	"school of veterinary and life sciences, murdoch university, murdoch, western australia 6150, australia"	-0.4072	-0.6362	22	7	7	1	7	9.4922	2019	7	9.4922
+3129	"sciences et technologiques, colleges des sciences et technologiques, universite de bordeauxtalence, france"	-0.906	-0.0213	31	7	7	1	7	9.4922	2019	7	9.4922
+3130	"scientific diving laboratory, department of marine science and technology, bogor agricultural university, indonesia"	-0.2537	-0.8864	92	4	4	1	0	0	2019	0	0
+3138	"senckenberg gesellschaft für naturforschung, biodiversity and climate research centre bik-f, frankfurt, germany"	0.3002	-0.4881	34	7	7	1	2	2.7121	2019	2	2.7121
+3142	"sime darby research, r and d centre - upstream, pulau carey, selangor, 42960, malaysia"	-0.6748	-0.4984	133	2	2	1	0	0	2019	0	0
+3143	"sinar mas agro resource and technology research institute (smartri), libo, riau, indonesia"	-0.2966	0.8673	11	10	10	1	3	4.0681	2019	3	4.0681
+3147	"smithsonian tropical research institute, balboa, panama"	0.8743	0.0487	3	23	23	1	1	1.356	2019	1	1.356
+3148	"social and participatory action research, universidad pablo de olavide and fractal collective, seville, spain"	-0.0389	-0.0901	5	23	46	2	17	23.0525	2019	8.5	11.5263
+3154	"south australian museum, adelaide, australia"	-0.4469	0.0015	4	23	23	1	1	1.356	2019	1	1.356
+3163	"southeast asian food and agricultural science and technology center, bogor agricultural university (ipb), jl. ulin no.1 ipb dramaga campus, bogor, 16680, indonesia"	0.1089	-0.9026	135	2	4	2	11	14.9163	2019	5.5	7.4582
+3167	"southeast asian food and agricultural science and technology centre, bogor, indonesia"	-0.8787	0.2252	128	2	2	1	0	0	2019	0	0
+3169	"southeast asian regional center for tropical biology (seameo biotrop), jalan raya tajur km. 6, bogor, 16144, indonesia"	0.5068	0.7874	24	7	7	1	1	1.356	2019	1	1.356
+3176	"state university padang, indonesia"	-0.6571	-0.404	111	3	3	1	0	0	2019	0	0
+3184	"stem cell and cancer institute, jakarta, indonesia"	-0.3432	-0.7821	59	5	5	1	0	0	2019	0	0
+3186	"stem cells and tissue engineering research cluster, indonesian medical education and research institute (imeri), faculty of medicine, universitas indonesia, jl salemba raya no 6, senen, central jakarta, 10430, indonesia"	0.0553	-0.6535	47	6	6	1	0	0	2019	0	0
+3187	"stiper agricultural institute, yogyakarta, indonesia"	-0.8325	0.0805	123	2	2	1	0	0	2019	0	0
+3193	"stud. of soil agrotechnology study program, graduate school, ipb university, jl. meranti, ipb dramaga campus, bogor, indonesia"	0.2189	0.4122	178	0	0	3	0	0	2019	0	0
+3197	"study natural resources and environmental management science, bogor agricultural university (ipb), bogor, 16144, indonesia"	0.4416	-0.749	93	4	4	1	0	0	2019	0	0
+3202	"study natural resources and environmental management, postgraduate school, ipb university, indonesia"	0.7336	0.52	119	2	2	1	0	0	2019	0	0
+3211	"study program of food technology, lampung state polytechnic, lampung, indonesia"	0.5244	-0.7785	75	4	4	1	1	1.356	2019	1	1.356
+3213	"study program of natural resource and environmental management science, postgraduate school, bogor agricultural university, baranangsiang ipb campus, bogor, 16143, indonesia"	0.2721	0.2445	179	0	0	2	0	0	2019	0	0
+3214	"study program of natural resource and environmental management, ipb university, indonesia"	-0.4206	-0.8424	67	5	5	1	0	0	2019	0	0
+3215	"study program of natural resources and environment management, graduate school, bogor agricultural university, baranangsiang campus, bogor, 16144, indonesia"	0.4987	-0.5966	98	3	3	1	0	0	2019	0	0
+3216	"study program of natural resources and environment management, graduate school, ipb university, baranangsiang campus, bogor, 16144, indonesia"	-0.0056	0.6143	13	5	5	1	0	0	2019	0	0
+3222	"study program of veterinary public health, ipb graduate school, bogor agricultural university, indonesia"	-0.1232	0.4743	74	4	4	1	0	0	2019	0	0
+3229	"surfactant and bioenergy research center, bogor agricultural university, bogor, indonesia"	0.3117	0.6665	6	9	9	3	6	8.1362	2019	2	2.7121
+3230	"surfactant and bioenergy research center, bogor agricultural university, pajajaran road no.1, bogor, 16144, indonesia"	0.1447	0.241	180	0	0	2	1	1.356	2019	0.5	0.678
+3232	"swarna jawa dwipa sjb research team, bali, indonesia"	0.1443	-0.5028	36	5	5	1	0	0	2019	0	0
+3233	"swiss federal institute for forest, snow and landscape research, site lausanne, switzerland"	-0.3165	0.3252	9	17	17	1	5	6.7802	2019	5	6.7802
+3234	"swiss tropical and public health institute, basel, switzerland"	-0.4748	0.7501	7	22	28	2	0	0	2019	0	0
+3235	"swiss-german university (sgu), alam sutera, south tangerang, indonesia"	-0.2964	0.8674	11	10	10	1	3	4.0681	2019	3	4.0681
+3237	"syiah kuala university (unsyiah), darussalam, banda aceh, indonesia"	-0.2965	0.8672	11	10	10	1	3	4.0681	2019	3	4.0681
+3239	"systematics lab, department of environmental studies, university of delhi, delhi, 110 007, india"	-0.1535	-0.8478	132	2	2	1	2	2.7121	2019	2	2.7121
+3241	"tasmanian institute of agriculture, university of tasmania, hobart, tas 7001, australia"	0.6621	-0.4584	33	7	7	1	14	18.9844	2019	14	18.9844
+3243	"technical development and innovation group, national measurement institute, melbourne, vic, australia"	0.3124	0.6814	6	8	8	1	10	13.5603	2019	10	13.5603
+3246	"tenkile conservation alliance, wewak, papua new guinea"	-0.448	0.0015	4	23	23	1	1	1.356	2019	1	1.356
+3247	"texas a&m university corpus christi, corpus christi, tx, united states"	0.8753	0.0489	3	23	23	1	1	1.356	2019	1	1.356
+3249	"the bush school of government and public service, texas a and m university, college station, tx, united states"	0.1583	0.9021	44	6	6	1	9	12.2043	2019	9	12.2043
+3250	"the centre for international forestry research, jalan cifor, situ gede, sindang barang, bogor, 16115, indonesia"	0.0961	0.4556	112	3	3	1	4	5.4241	2019	4	5.4241
+3252	"the institute for plant and food research limited, rangahau ahumara kai, christchurch, new zealand"	-0.0382	-0.0897	5	23	46	2	17	23.0525	2019	8.5	11.5263
+3253	"the kainake project, kainake village, papua new guinea"	-0.4481	0.0013	4	23	23	1	1	1.356	2019	1	1.356
+3254	"the new guinea binatang research centre, madang, papua new guinea"	-0.4476	0.001	4	23	23	1	1	1.356	2019	1	1.356
+3266	"theoretical physics division, petersburg nuclear physics institute, st. petersburg, russian federation"	0.4585	-0.1744	1	15	15	1	2	2.7121	2019	2	2.7121
+3269	"tohoku university, aramaki aza-aoba, aoba-ku, sendai, japan"	0.7825	0.5391	134	2	2	1	0	0	2019	0	0
+3275	"tropical biopharmaca research center of excellence, ipb university (bogor agricultural university), department of biochemistry, faculty of mathematics and natural sciences, bogor, indonesia"	0.5981	0.612	117	2	2	1	0	0	2019	0	0
+3276	"tropical biopharmaca research center, bogor agricultural university, bogor, 16128, indonesia"	-0.8362	0.3561	64	5	5	2	4	5.4241	2019	2	2.7121
+3277	"tropical biopharmaca research center, bogor agricultural university, bogor, indonesia"	0.8811	-0.1422	2	4	5	3	0	0	2019	0	0
+3278	"tropical biopharmaca research center, bogor agricultural university, bogor, west java 16680, indonesia"	0.6285	-0.5802	82	4	4	1	3	4.0681	2019	3	4.0681
+3280	"tropical biopharmaca research center, bogor agricultural university, west java, bogor, indonesia"	0.3702	-0.865	120	2	4	2	0	0	2019	0	0
+3294	"tropical marine resources economics, bogor agricultural university (ipb), west java, bogor, indonesia"	-0.8502	0.4172	130	2	2	1	1	1.356	2019	1	1.356
+3297	"tropical ocean economics, department of resource and environmental economics, faculty of economics and management, bogor agricultural university, indonesia"	-0.0997	0.9308	62	2	2	1	4	5.4241	2019	4	5.4241
+3298	"tropical ocean economics, department of resources and environmental economics, faculty of economics and management, bogor agricultural university, indonesia"	-0.0996	0.9308	62	3	3	1	1	1.356	2019	1	1.356
+3299	"tropical ocean economics, department of resources and environmental economics, ipb university, kampus ipb darmaga, jl. kamper, wing 10 level 4, bogor, 16680, indonesia"	0.7884	-0.5355	147	1	1	1	0	0	2019	0	0
+3305	"tsunami and disaster mitigation research center (tdmrc), syiah kuala university, banda aceh, indonesia"	0.3538	0.8769	19	4	4	1	0	0	2019	0	0
+3306	"tsunami and disaster mitigation research center, syiah kuala university, banda aceh, 23111, indonesia"	0.3533	0.8766	19	4	4	1	0	0	2019	0	0
+3309	"tuna fisheries research loka, brsdmkp, kkp, bali, indonesia"	0.1443	-0.5028	36	5	5	1	0	0	2019	0	0
+3311	"udall centre for studies in public policy, university of arizona, tucson, az, united states"	0.1582	0.9021	44	6	6	1	9	12.2043	2019	9	12.2043
+3315	"undergraduate program, faculty of medicine, universitas padjadjaran, bandung, indonesia"	-0.1871	0.7538	14	7	7	1	1	1.356	2019	1	1.356
+3316	"unit of human-nature interlaced life science, kyoto university research coordination alliance, kyoto, japan"	0.1781	-0.7681	17	8	8	1	0	0	2019	0	0
+3320	"united nations industrial development organization (unido), jakarta, indonesia"	0.4325	-0.1468	1	4	4	1	1	1.356	2019	1	1.356
+3321	"united nations industrial development organization (unido), menara thamrin, jakarta, indonesia"	-0.2964	0.8672	11	10	10	1	3	4.0681	2019	3	4.0681
+3322	"united nations university (unu), dresden, germany"	0.1582	0.902	44	6	6	1	9	12.2043	2019	9	12.2043
+3323	"universidad de granada, departamento de ecología, spain"	-0.3165	0.3256	9	17	17	1	5	6.7802	2019	5	6.7802
+3324	"universidade federal do triângulo mineiro (uftm), av. doutor randolfo borges, 1400, secretaria do icene – sala 109, uberaba, mg, brazil"	0.5467	0.294	8	7	7	1	10	13.5603	2019	10	13.5603
+3325	"universitas al azhar indonesia, jakarta, indonesia"	0.5747	0.7177	39	6	6	1	2	2.7121	2019	2	2.7121
+3334	"universitas sembilanbelas november kolaka, sulawesi tenggara, 93561, indonesia"	-0.6926	-0.2759	66	5	5	1	3	4.0681	2019	3	4.0681
+3335	"universitas tadulako, palu, indonesia"	-0.6184	0.6871	110	3	3	1	0	0	2019	0	0
+3337	"university of arizona, school of natural resources and the environment, united states"	-0.3166	0.3255	9	17	17	1	5	6.7802	2019	5	6.7802
+3338	"university of bern, botanical garden bern, switzerland"	-0.3161	0.3253	9	17	17	1	5	6.7802	2019	5	6.7802
+3340	"university of canberraact, australia"	-0.4473	0.0016	4	23	23	1	1	1.356	2019	1	1.356
+3341	"university of chinese academy of sciences, beijing, 100049, china"	-0.1774	-0.9226	57	5	5	1	0	0	2019	0	0
+3342	"university of goettingen, bioclimatology, germany"	-0.3167	0.3256	9	17	17	1	5	6.7802	2019	5	6.7802
+3343	"university of goettingen, biodiversity, macroecology and biogeography, büsgenweg 1, göttingen, 37077, germany"	-0.5503	0.2774	72	5	5	1	5	6.7802	2019	5	6.7802
+3344	"university of goettingen, biodiversity, macroecology and biogeography, germany"	-0.3161	0.3254	9	17	17	1	5	6.7802	2019	5	6.7802
+3345	"university of goettingen, biodiversity, macroecology and biogeography, göttingen, germany"	0.3002	-0.4882	34	7	7	1	2	2.7121	2019	2	2.7121
+3346	"university of goettingen, centre of biodiversity and sustainable land use, büsgenweg 1, göttingen, 37077, germany"	-0.5503	0.2774	72	5	5	1	5	6.7802	2019	5	6.7802
+3347	"university of goettingen, centre of biodiversity and sustainable land use, germany"	-0.3161	0.3256	9	17	17	1	5	6.7802	2019	5	6.7802
+3348	"university of goettingen, centre of biodiversity and sustainable land use, göttingen, germany"	0.3002	-0.4882	34	7	7	1	2	2.7121	2019	2	2.7121
+3349	"university of goettingen, department of crop sciences, division agronomy, germany"	-0.3162	0.3258	9	17	17	1	5	6.7802	2019	5	6.7802
+3350	"university of goettingen, forest botany and tree physiology, germany"	-0.3167	0.3254	9	17	17	1	5	6.7802	2019	5	6.7802
+3351	"university of goettingen, goettingen, germany"	-0.6184	0.687	110	3	3	1	0	0	2019	0	0
+3352	"university of goettingen, plant ecology and ecosystems research, germany"	-0.3162	0.3252	9	17	17	1	5	6.7802	2019	5	6.7802
+3353	"university of goettingen, silviculture and forest ecology of the temperate zones, büsgenweg 1, göttingen, 37077, germany"	-0.5503	0.2774	72	5	5	1	5	6.7802	2019	5	6.7802
+3354	"university of goettingen, silviculture and forest ecology of the temperate zones, germany"	-0.3165	0.3258	9	17	17	1	5	6.7802	2019	5	6.7802
+3355	"university of goettingen, silviculture and forest ecology of the temperate zones, göttingen, germany"	0.3002	-0.4881	34	7	7	1	2	2.7121	2019	2	2.7121
+3356	"university of goettingen, soil science of temperate ecosystems and agricultural soil science, germany"	-0.316	0.3255	9	17	17	1	5	6.7802	2019	5	6.7802
+3357	"university of goettingen, tropical silviculture and forest ecology, büsgenweg 137077, germany"	-0.5503	0.2773	72	5	5	1	5	6.7802	2019	5	6.7802
+3358	"university of goettingen, tropical silviculture and forest ecology, germany"	-0.3166	0.3257	9	17	17	1	5	6.7802	2019	5	6.7802
+3359	"university of goettingen, tropical silviculture and forest ecology, göttingen, germany"	0.3002	-0.4881	34	7	7	1	2	2.7121	2019	2	2.7121
+3360	"university of göttingen, centre of biodiversity and sustainable land use, von-siebold-str. 8, göttingen, 37075, germany"	0.243	0.9033	53	5	6	2	1	1.356	2019	0.5	0.678
+3362	"university of göttingen, j.f. blumenbach institute of zoology and anthropology, untere karspüle 2, göttingen, 37073, germany"	0.243	0.9033	53	5	6	2	1	1.356	2019	0.5	0.678
+3366	"university of jambi, faculty of forestry, jln raya jambi, jambi, 36361, indonesia"	-0.5503	0.2774	72	5	5	1	5	6.7802	2019	5	6.7802
+3368	"university of kassel, kassel, germany"	-0.0745	-0.9282	41	6	6	1	3	4.0681	2019	3	4.0681
+3369	"university of leeds, sustainability research institute, united kingdom"	-0.3332	-0.2687	51	5	5	1	19	25.7646	2019	19	25.7646
+3370	"university of maryland center for environmental sciences, frostbur, md, united states"	0.7107	0.6008	42	6	6	1	0	0	2019	0	0
+3372	"university of maryland, college park, md, moldova"	-0.4475	0.0014	4	23	23	1	1	1.356	2019	1	1.356
+3373	"university of missouri, united states"	0.4325	-0.1469	1	4	4	1	1	1.356	2019	1	1.356
+3374	"university of new england, armidale, australia"	-0.4469	0.001	4	23	23	1	1	1.356	2019	1	1.356
+3375	"university of south bohemia and institute of entomology, biology center of the academy of sciences of the czech republic, české budějovice, czech republic"	-0.4477	0.0007	4	23	23	1	1	1.356	2019	1	1.356
+3376	"university of são paulo, são paulo, brazil"	0.1582	0.902	44	6	6	1	9	12.2043	2019	9	12.2043
+3377	"university of the sunshine coastqld, australia"	0.7107	0.6009	42	6	6	1	0	0	2019	0	0
+3379	"university, bogor, 16680, indonesia"	-0.5754	-0.7321	26	7	7	1	0	0	2019	0	0
+3380	"université de toulouse, imt mines albi, rapsodee cnrs umr-5302, campus jarlard, f-81013 albi cedex09, france"	0.5467	0.2942	8	7	7	1	10	13.5603	2019	10	13.5603
+3381	"université du québec à montréal – geotop, montreal, qc, canada"	0.4367	-0.1514	1	4	4	1	8	10.8482	2019	8	10.8482
+3382	"us geological survey, oregon cooperative fish and wildlife research unit, department of fisheries and wildlife, oregon state university, 104 nash hall, corvallis, or 97331, united states"	0.9111	0.2436	94	2	2	1	4	5.4241	2019	4	5.4241
+3383	"usaid-funded sustainable ecosystems advanced (sea) project, jakarta, indonesia"	-0.4072	-0.6361	22	7	7	1	7	9.4922	2019	7	9.4922
+3384	"usda forest service, international programs, washington, dc, united states"	0.4472	-0.1659	1	8	8	1	5	6.7802	2019	5	6.7802
+3385	"usda forest service, northern research station, grand rapids, mn, united states"	0.4472	-0.1659	1	8	8	1	5	6.7802	2019	5	6.7802
+3386	"usda forest service, northern research station, houghton, mi, united states"	0.4472	-0.1658	1	8	8	1	5	6.7802	2019	5	6.7802
+3387	"usda forest service, northern research station, madison, wi, united states"	0.4472	-0.1658	1	8	8	1	5	6.7802	2019	5	6.7802
+3388	"utrecht university, utrecht, netherlands"	0.8649	-0.1205	2	10	10	1	4	5.4241	2019	4	5.4241
+3390	"vale institute of technology sustainable development, belém, brazil"	-0.0395	-0.0883	5	23	46	2	17	23.0525	2019	8.5	11.5263
+3391	"veterinary diagnostic laboratory, charles sturt university, wagga wagga, australia"	-0.4472	0.0019	4	23	23	1	1	1.356	2019	1	1.356
+3395	"visiting researcher at precision sciences & technology and applied physics, graduate school of engineering, osaka university, suita, 565-0871, japan"	0.7425	0.2629	30	7	7	1	1	1.356	2019	1	1.356
+3399	"wageningen bioveterinary research, lelystad, 8221 ra, netherlands"	-0.9265	-0.1208	27	7	7	1	0	0	2019	0	0
+3400	"wageningen bioveterinary research, lelystad, netherlands"	0.8648	-0.1203	2	10	10	1	4	5.4241	2019	4	5.4241
+3403	"wake forest school of medicine, winston-salemnc"	0.8782	-0.1388	2	5	5	1	0	0	2019	0	0
+3404	"waste management and sanitation section, urban services branch, un habitat, geneva, switzerland"	0.1582	0.9022	44	6	6	1	9	12.2043	2019	9	12.2043
+3406	"west java province animal health agency, bandung, 40135, indonesia"	-0.9265	-0.1208	27	7	7	1	0	0	2019	0	0
+3407	"west java province animal health agency, bandung, indonesia"	0.8648	-0.1204	2	10	10	1	4	5.4241	2019	4	5.4241
+3408	"west java province animal health laboratory, cikole, indonesia"	0.8649	-0.1205	2	10	10	1	4	5.4241	2019	4	5.4241
+3410	"who collaborating centre for tropical diseases, china"	-0.4753	0.7487	7	13	13	1	0	0	2019	0	0
+3411	"who collaborating centre for tropical diseases, shanghai, china"	-0.4746	0.7512	7	15	15	1	0	0	2019	0	0
+3413	"wildlife conservation society - indonesia program, bogor, indonesia"	-0.8015	-0.167	48	1	1	2	0	0	2019	0	0
+3423	"wildlife research center, kyoto university, kyoto, japan"	0.302	-0.8793	52	5	5	1	1	1.356	2019	1	1.356
+3424	"winrock international, jakarta, indonesia"	0.8655	-0.1248	2	3	3	1	2	2.7121	2019	2	2.7121
+3426	"woodland park zoo, seattle, wa, united states"	-0.4468	0.0013	4	23	23	1	1	1.356	2019	1	1.356
+3427	"working group of sustainable management of batang toru landscape, faculty of forestry, institut pertanian bogor, jl. lingkar akademik, kampus ipb dramaga, bogor, west java 16680, indonesia"	0.6421	0.702	148	1	1	1	0	0	2019	0	0
+3429	"world agroforestry centre (icraf), nairobi, 00100, kenya"	0.4587	-0.1748	1	15	15	1	2	2.7121	2019	2	2.7121
+3431	"wwf indonesia, indonesia"	-0.2537	-0.8864	92	4	4	1	0	0	2019	0	0
+3434	"yaleka-maro school, merauke, papua, indonesia"	-0.712	0.254	28	7	7	1	0	0	2019	0	0
+3441	"yayasan minang bahari (sanari), padang, indonesia"	-0.1774	-0.9226	57	5	5	1	0	0	2019	0	0
+3443	"yogyakarta-magelang polytechnic in agricultural development, ministry of agriculture, jalan kusumanegara no.2, yogyakarta, 55167, indonesia"	0.8665	0.3518	23	7	7	1	3	4.0681	2019	3	4.0681
+3444	"zhejiang university (zju), hangzhou, zhejiang, china"	-0.2963	0.8674	11	10	10	1	3	4.0681	2019	3	4.0681
+3452	"zoos victoria, parkville, australia"	-0.4478	0.0016	4	23	23	1	1	1.356	2019	1	1.356

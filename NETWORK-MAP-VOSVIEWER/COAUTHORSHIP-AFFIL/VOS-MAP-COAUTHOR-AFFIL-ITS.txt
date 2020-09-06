@@ -1,0 +1,1001 @@
+﻿id	label	x	y	cluster	weight<Links>	weight<Total link strength>	weight<Documents>	weight<Citations>	weight<Norm. citations>	score<Avg. pub. year>	score<Avg. citations>	score<Avg. norm. citations>
+1	"adhi tama institute of techhnology surabaya, surabaya, 60111, indonesia"	-0.3034	-0.2755	18	6	23	6	0	0	2019	0	0
+4	"advanced materials and manufacturing centre (ammc), faculty of mechanical and manufacturing engineering, universiti tun hussein onn malaysia, parit raja, batu pahat johor darul takzim, 86400, malaysia"	0.3056	0.8822	23	6	6	1	4	5.8884	2019	4	5.8884
+9	"advanced materials research group, department of physics, institut teknologi sepuluh nopember (its), its campus, keputih, sukolilo, surabaya, 60111, indonesia"	0.7206	0.614	68	3	4	2	0	0	2019	0	0
+10	"advanced materials research group, department of physics, institut teknologi sepuluh nopember, kampus its sukolilo, surabaya, 60111, indonesia"	0.5516	-0.718	4	3	4	3	0	0	2019	0	0
+13	"advanced membrane technology research center (amtec), universiti teknologi malaysia, skudai, johor darul ta'zim 81310 utm, malaysia"	0.0609	0.5474	43	4	4	1	1	1.4721	2019	1	1.4721
+18	"advanced membrane technology research centre (amtec), universiti teknologi malaysia, skudai johor, 81310, malaysia"	0.3054	0.8823	23	6	6	1	4	5.8884	2019	4	5.8884
+19	"advanced meson science laboratory, nishina center, riken, 2-1, hirosawa, wako, saitama, 351-0198, japan"	0.5475	-0.7274	4	5	5	1	0	0	2019	0	0
+23	"aircraft maintenance engineering technology amto147d-010, politeknik penerbangan surabaya, jl. jemur andayani i no.73 wonocolo, surabaya, 60236, indonesia"	0.2227	-0.6738	5	2	4	2	1	1.4721	2019	0.5	0.736
+26	"airlangga university, neurology department, surabaya, indonesia"	-0.754	-0.4324	6	5	5	1	0	0	2019	0	0
+27	"airlangga university, surabaya, indonesia"	-0.7806	0.4984	12	3	3	1	1	1.4721	2019	1	1.4721
+31	"automation engineering study program, surabaya, 60111, indonesia"	-0.3033	-0.2756	18	6	26	7	0	0	2019	0	0
+38	"badan penelitian dan pengembangan pertanian, jl. raya ragunan no. 29, pasar minggu, jakarta, indonesia"	0.9307	0.1573	64	3	3	1	0	0	2019	0	0
+41	"basf/battery materials-ovonic, rochester hills, united states"	-0.521	-0.7807	31	5	5	1	5	7.3605	2019	5	7.3605
+42	"bengkulu university, departement of agricultural socio-economics, indonesia"	0.3083	-0.0721	2	7	7	1	9	13.2489	2019	9	13.2489
+44	"biochemical technology laboratory, department of chemical engineering, faculty of industrial technology, institut teknologi sepuluh nopember, jl. raya its, sukolilo, surabaya, east java 60111, indonesia"	0.0905	-0.9345	65	3	3	1	0	0	2019	0	0
+49	"biology department, institut teknologi sepuluh nopember, surabaya, indonesia"	-0.2429	-0.7337	32	5	5	1	1	1.4721	2019	1	1.4721
+50	"biology department, its, institut teknologi sepuluh nopember, surabaya, indonesia"	-0.7811	0.497	12	4	4	1	0	0	2019	0	0
+51	"biology education department, universitas pendidikan indonesia, jl dr. setiabudi no. 229, bandung, indonesia"	0.1949	-0.8942	25	4	4	1	0	0	2019	0	0
+53	"biology program, faculty of educational science and mathematics, universitas pendidikan indonesia, jl dr. setiabudi no. 229, bandung, indonesia"	0.6525	-0.3951	19	4	4	1	11	16.1931	2019	11	16.1931
+54	"biomedical engineering master program, post graduate school, universitas airlangga, surabaya, 60115, indonesia"	-0.4003	0.689	24	6	6	1	7	10.3047	2019	7	10.3047
+55	"biomedical engineering study program, department of physics, faculty of sciences and technology, universitas airlangga, surabaya, 60115, indonesia"	-0.4002	0.689	24	6	6	1	7	10.3047	2019	7	10.3047
+57	"botany and microbiology department, collage of science, king saud university, p. o. 2455, riyadh, 11451, saudi arabia"	-0.0841	-0.6847	13	4	4	1	5	7.3605	2019	5	7.3605
+58	"botany and microbiology department, college of sciences, king saud university, p.o. box 22452, riyadh, 11495, saudi arabia"	0.6527	-0.3949	19	7	7	2	21	30.9141	2019	10.5	15.457
+59	"botany and microbiology department, king saud university, riyadh, 11451, saudi arabia"	0.1947	-0.8944	25	4	6	2	6	8.8326	2019	3	4.4163
+60	"bppt, lab. hydrodynamics, upt-bpph surabaya, surabaya, indonesia"	0.2226	0.9102	66	3	3	1	1	1.4721	2019	1	1.4721
+63	"bureau for construction technology implementation, directorate general for construction development, ministry of public works and housing republic of indonesia, jakarta, indonesia"	-0.6449	0.5439	44	4	4	1	1	1.4721	2019	1	1.4721
+67	"center for catalysis and reaction engineering, institut teknologi bandung, jalan ganesha, no.10, bandung, 40132, indonesia"	-0.4921	0.2904	33	5	5	1	0	0	2019	0	0
+68	"center for earth science studies, faculty of mathematics and natural sciences, universitas negeri surabaya, kampus unesa ketintang, surabaya, 60231, indonesia"	0.3691	0.621	162	2	4	2	3	4.4163	2019	1.5	2.2081
+69	"center for information and communication technology agency, assessment and application of technology (ptik-bppt), jakarta, 10340, indonesia"	0.2787	0.2911	67	3	3	1	1	1.4721	2019	1	1.4721
+70	"center for maritime biosciences studies–institute for sciences and community service, jenderal soedirman university, kampus karangwangkal, jl. dr. suparno, purwokerto, 53123, indonesia"	-0.6082	0.1556	45	4	4	1	2	2.9442	2019	2	2.9442
+72	"center for medical physics and cancer research ctech labs edwar technology, tangerang, 15325, indonesia"	-0.6745	0.0378	46	4	4	1	0	0	2019	0	0
+73	"center for sustainable nanomaterials, ibnu sina institute for scientific and industrial research, universiti teknologi malaysia, johor bahru, johor, malaysia"	0.6259	0.6836	34	5	5	1	5	7.3605	2019	5	7.3605
+76	"center of advanced materials for renewable energy (camry), universitas negeri malang, jl. semarang 5, malang, 65145, indonesia"	0.4042	-0.8493	15	3	3	1	0	0	2019	0	0
+81	"center of excellence for automotive control and system, institut teknologi sepuluh nopember, surabaya, indonesia"	-0.7118	-0.173	7	2	3	3	0	0	2019	0	0
+82	"center of excellence for mechatronics and industrial automation research center (pui-pt mia-rc), institut teknologi sepuluh nopember, indonesia"	0.2239	-0.67	5	3	3	1	1	1.4721	2019	1	1.4721
+83	"center of excellence for mechatronics industrial automation (pui-pt mia-rc), indonesia"	0.2242	-0.6715	5	3	3	1	1	1.4721	2019	1	1.4721
+84	"center of excellence geopolymer and green technology (cegeogtech), school of materials engineering, universiti malaysia perlis (unimap), kangar, perlis, 01000, malaysia"	0.7321	-0.5139	38	4	4	1	2	2.9442	2019	2	2.9442
+88	"center of excellence in automotive control and system, institut teknologi sepuluh nopember (its), its campus, keputih, sukolilo, surabaya, 60111, indonesia"	0.7203	0.6139	68	3	4	2	0	0	2019	0	0
+92	"center of excellence in automotive control and system, institut teknologi sepuluh nopember, kampus keputih-sukolilo, jl. arif rahman hakim, surabaya, 60111, indonesia"	0.2227	-0.6736	5	2	4	2	1	1.4721	2019	0.5	0.736
+93	"center of excellence in automotive control and system, institut teknologi sepuluh nopember, surabaya, 60111, indonesia"	0.5511	-0.7187	4	8	9	5	1	1.4721	2019	0.2	0.2944
+97	"center of materials science and optoelectronics engineering, university of chinese academy of sciences, beijing, 100049, china"	0.8924	0.2063	47	4	4	1	3	4.4163	2019	3	4.4163
+100	"center of research excellence in nanotechnology and chemical engineering department, king fahd university of petroleum and minerals (kfupm), dhahran, 31261, saudi arabia"	-0.6274	0.4279	83	3	3	1	0	0	2019	0	0
+101	"central laboratory of minerals and advanced materials, faculty of mathematics and natural sciences, state university of malang, malang, east java, indonesia"	0.6261	0.6836	34	5	5	1	5	7.3605	2019	5	7.3605
+103	"centre for advanced material and energy sciences, universiti brunei darussalam, tungku link road, darussalam, be1410, brunei darussalam"	-0.0019	-0.449	28	3	3	1	1	1.4721	2019	1	1.4721
+106	"centre for envirnmental sustainability and water security (ipasa), research institute for sustainable environment (rise), universiti teknologi malaysia, skudai, johor 81310, malaysia"	0.8304	-0.0861	69	3	3	1	20	29.442	2019	20	29.442
+107	"centre for environmental sustainability and water security (ipasa), research institute for sustainable environment (rise), universiti teknologi malaysia (utm), johor bahru, johor 81310, malaysia"	-0.0851	-0.685	13	4	4	1	7	10.3047	2019	7	10.3047
+114	"centre of advanced material and energy sciences, university brunei darussalam, jalan tungku linkbe 1410, brunei darussalam"	-0.1887	0.1278	70	3	3	1	0	0	2019	0	0
+116	"centre of hydrogen energy, institute of future energy, universiti teknologi malaysia, utm, johor bahru, johor, 81310, malaysia"	-0.9357	0.0372	48	4	4	1	6	8.8326	2019	6	8.8326
+118	"centre of lipid engineering and applied research (clear), ibnu sina institute for scientific and industrial research, universiti teknologi malaysia, johor bahru, malaysia"	-0.3272	-0.5475	9	2	3	2	5	7.3605	2019	2.5	3.6802
+119	"centre of region development and community empowerment, institut teknologi sepuluh nopember surabaya60111, indonesia"	-0.6569	0.296	55	4	4	1	0	0	2019	0	0
+122	"chemical engineering department, chulalongkorn university, thailand"	-0.2456	-0.9128	49	4	4	1	0	0	2019	0	0
+127	"chemical engineering department, gifu university, japan"	-0.2458	-0.9127	49	4	4	1	0	0	2019	0	0
+128	"chemical engineering department, institut teknologi sepuluh nopember (its), jl. raya its, keputih, sukolilo, surabaya, 60111, indonesia"	0.7974	-0.2646	118	2	4	2	0	0	2019	0	0
+130	"chemical engineering department, institut teknologi sepuluh nopember (its), surabaya, indonesia"	-0.2456	-0.9128	49	4	4	1	0	0	2019	0	0
+134	"chemical engineering department, institut teknologi sepuluh nopember, surabaya, indonesia"	0.9138	-0.2293	71	3	3	1	0	0	2019	0	0
+137	"chemical engineering department, national taiwan university of science and technology (ntust), taiwan"	-0.2456	-0.9128	49	4	4	1	0	0	2019	0	0
+139	"chemical engineering department, universitas islam indonesia, yogyakarta, 55584, indonesia"	0.9138	-0.2293	71	3	3	2	0	0	2019	0	0
+140	"chemical engineering department, universitas negeri semarang, semarang, 50229, indonesia"	0.9138	-0.2293	71	3	3	1	0	0	2019	0	0
+141	"chemical engineering department, universitas sebelas maret, surakarta, 57126, indonesia"	0.9138	-0.2293	71	3	3	1	0	0	2019	0	0
+147	"chemical reaction engineering laboratory, department of chemical engineering, faculty of industrial technology, sepuluh nopember institute of technology, surabaya, 60111, indonesia"	-0.9112	-0.0181	119	2	3	5	1	1.4721	2019	0.2	0.2944
+154	"chemistry department, institut teknologi sepuluh nopember, kampus its sukolilo, surabaya, east java, 60111, indonesia"	-0.4921	0.2904	33	5	5	1	0	0	2019	0	0
+156	"chung research center for photosynthetic pigments, universitas ma chung, villa puncak tidar n-01, malang, east java, 65151, indonesia"	0.8132	0.142	82	3	3	1	2	2.9442	2019	2	2.9442
+161	"civil engineering department of universitas mataram (unram), indonesia"	-0.2732	0.3298	72	3	3	1	0	0	2019	0	0
+166	"civil engineering department, institut teknologi sepuluh nopember (its), surabaya, indonesia"	-0.2733	0.3297	72	3	3	2	1	1.4721	2019	0.5	0.736
+172	"civil engineering department, institut teknologi sepuluh nopember, surabaya, indonesia"	-0.781	0.4972	12	5	5	2	0	0	2019	0	0
+173	"civil engineering department, petra christian university, jalan siwalankerto 121-131, surabaya, 60236, indonesia"	-0.3297	-0.8823	50	4	4	1	8	11.7768	2019	8	11.7768
+184	"civil engineering, institut teknologi sepuluh nopember (its), surabaya, indonesia"	0.9161	-0.163	100	3	3	1	0	0	2019	0	0
+185	"civil engineering, institut teknologi sepuluh nopember, indonesia"	-0.5416	-0.6788	73	3	3	1	0	0	2019	0	0
+190	"cochrane taiwan, taipei medical university, taipei, 11031, taiwan"	-0.1835	0.8167	14	8	8	1	0	0	2019	0	0
+191	"college of medicine, national taiwan university, taipei, 10051, taiwan"	-0.1835	0.8165	14	8	8	1	0	0	2019	0	0
+192	"college of medicine, taipei medical university, taipei, 11031, taiwan"	-0.1834	0.8165	14	8	8	1	0	0	2019	0	0
+194	"computational chemistry and physics laboratory, universiti sains malaysia11800, malaysia"	0.5425	-0.7292	4	8	8	1	0	0	2019	0	0
+200	"dengue fever eradication, malang regency public health office, malang, indonesia"	-0.7843	-0.3609	1	3	3	1	0	0	2019	0	0
+201	"dentistry dept, airlangga university, surabaya, indonesia"	-0.5326	-0.5826	108	3	3	1	1	1.4721	2019	1	1.4721
+202	"dep. of computer system, institut teknologi adhi tama surabaya, jl arif rachman hakim 100, surabaya, 60111, indonesia"	0.9298	-0.1049	74	3	3	1	0	0	2019	0	0
+203	"dep. of marine engineering, politeknik perkapalan negeri surabaya, kampus its-sukolilo, jl jalan teknik kimia, surabaya, 60117, indonesia"	0.9298	-0.1049	74	3	3	1	0	0	2019	0	0
+204	"dep. of the information system, fac. of science and technology, airlangga university, jl. mulyorejo, surabaya, 60115, indonesia"	0.9298	-0.1049	74	3	3	1	0	0	2019	0	0
+215	"departement of applied physics, graduate school of engineering, tohoku university, sendai, 980-8579, japan"	0.5496	-0.7211	4	3	3	1	1	1.4721	2019	1	1.4721
+221	"departement of civil engineering, institut teknologi sepuluh nopember, surabaya, 60117, indonesia"	0.0191	-0.9348	51	4	8	2	0	0	2019	0	0
+222	"departement of civil engineering, narotama university, surabaya, 60117, indonesia"	0.0191	-0.9347	51	4	8	2	0	0	2019	0	0
+223	"departement of civil engineering, state university of surabaya, surabaya, indonesia"	0.0192	-0.9347	51	4	8	2	0	0	2019	0	0
+224	"departement of civil engineering, universitas narotama, surabaya, 60117, indonesia"	0.8691	0.3506	75	3	3	1	1	1.4721	2019	1	1.4721
+245	"departement of environmental engineering, institut teknologi sepuluh nopember, surabaya, 60117, indonesia"	0.8691	0.3506	75	3	3	1	1	1.4721	2019	1	1.4721
+261	"departement of mechanical engineering, derby university, derby, united kingdom"	0.8691	0.3506	75	3	3	1	1	1.4721	2019	1	1.4721
+288	"department of agro-ecotechnology, agriculture faculty of jambi university, jalan jambi-muara bulian km 15, jambi, indonesia"	-0.5114	0.4399	104	3	3	1	2	2.9442	2019	2	2.9442
+291	"department of applied chemistry, shibaura institute of technology, 3-7-5 toyosu, koto-ku, tokyo, 135-8548, japan"	0.3053	0.8821	23	6	6	1	4	5.8884	2019	4	5.8884
+292	"department of applied mechanics and design, faculty of mechanical engineering, universiti teknologi malaysia, johor bahru, 81310, malaysia"	-0.4003	0.689	24	6	6	1	7	10.3047	2019	7	10.3047
+294	"department of applied physics, graduate school of engineering, tohoku university, 6-6-05 aoba, aramaki, aoba-ku, sendai, 980-8579, japan"	0.7203	0.6139	68	3	3	1	0	0	2019	0	0
+295	"department of applied physics, tohoku university, 6-6-05 aoba, aramaki, aoba-ku, sendai, 980-8579, japan"	-0.2181	-0.0165	76	3	3	1	0	0	2019	0	0
+297	"department of aquacultures, faculty of marine and fisheries, universitas syiah kuala, banda aceh, 23111, indonesia"	0.5602	0.3303	56	4	4	1	0	0	2019	0	0
+307	"department of basic science, the university of tokyo, komaba, tokyo, meguro-ku, 153-8902, japan"	0.5474	-0.7273	4	5	5	1	0	0	2019	0	0
+308	"department of battery technology, institute for energy technology (ife), kjeller, norway"	-0.5208	-0.7806	31	5	5	1	5	7.3605	2019	5	7.3605
+315	"department of biology, faculty of sains and technology, universitas airlangga, campus c, mulyorejo, surabaya, east java 60115, indonesia"	-0.0456	0.7561	77	3	3	1	0	0	2019	0	0
+318	"department of biology, faculty of science and technology, universitas airlangga, kampus c, jl. mulyorejo, surabaya, east java 60115, indonesia"	0.6766	0.5356	78	3	3	1	0	0	2019	0	0
+320	"department of biology, faculty of science and technology, universitas islam negeri sunan kalijaga, jl. adi sucipto, sleman, yogyakarta, 55281, indonesia"	0.6767	0.5356	78	3	3	1	0	0	2019	0	0
+326	"department of biology, faculty of science, institut teknologi sepuluh nopember, jl. its, surabaya, east java 60111, indonesia"	0.6767	0.5356	78	3	3	1	0	0	2019	0	0
+330	"department of biology, faculty of sciences and technology, universitas airlangga, surabaya, indonesia"	-0.1452	-0.4244	60	2	2	4	4	5.8884	2019	1	1.4721
+332	"department of biology, faculty of sciences, institut teknologi sepuluh nopember, jl. arif rahman hakim, sukolilo, surabaya, east java 60111, indonesia"	-0.0456	0.756	77	3	3	1	0	0	2019	0	0
+342	"department of biology, universitas negeri surabaya, surabaya, indonesia"	-0.3212	0.7951	79	3	3	1	0	0	2019	0	0
+343	"department of biology, universitas pendidikan indonesia, jalan setiabudi 229, bandung, 40154, indonesia"	0.5684	0.7405	40	4	4	1	5	7.3605	2019	5	7.3605
+344	"department of biomechanical engineering, university of twente, enschede, netherlands"	-0.7752	-0.3805	1	4	4	1	0	0	2019	0	0
+346	"department of biomedical engineering, institut teknologi sepuluh nopember, surabaya, indonesia"	-0.7752	-0.3804	1	4	4	1	0	0	2019	0	0
+347	"department of biotechnology and veterinary, vocational school, gadjah mada university, sekip unit 1 catur tunggal, depok slemand.i. yogyakarta 55281, indonesia"	-0.3361	-0.789	80	3	3	1	5	7.3605	2019	5	7.3605
+348	"department of botany and microbiology, college of sciences, king saud university, riyadh, saudi arabia"	0.626	0.6836	34	5	5	1	5	7.3605	2019	5	7.3605
+352	"department of business management, institut teknologi sepuluh nopember (its), indonesia"	0.3907	-0.7518	111	3	3	2	23	33.8583	2019	11.5	16.9291
+353	"department of business management, institut teknologi sepuluh nopember (its), surabaya, indonesia"	-0.075	-0.9305	26	4	4	3	0	0	2019	0	0
+356	"department of business management, institut teknologi sepuluh nopember, surabaya, indonesia"	-0.0749	-0.9307	26	3	3	1	0	0	2019	0	0
+358	"department of business management, texas health and science universitytx, united states"	-0.075	-0.9305	26	6	7	2	0	0	2019	0	0
+363	"department of chemical and biological engineering, korea university, anam-dong, seongbuk-gu, seoul, south korea"	-0.0456	0.7561	77	3	3	1	0	0	2019	0	0
+365	"department of chemical and process engineering, faculty of engineering and built environment, universiti kebangsaan malaysia, ukm bangi, selangor, 43600, malaysia"	-0.9326	-0.1022	11	3	3	1	4	5.8884	2019	4	5.8884
+366	"department of chemical and process engineering, faculty of engineering and built environment, universiti kebangsaan malaysia, ukm bangiselangor 43600, malaysia"	-0.9318	-0.1032	11	4	4	1	14	20.6094	2019	14	20.6094
+367	"department of chemical education, faculty of education and teachers training, university of nusa cendana, kupang, nusa tenggara timur, 85001, indonesia"	0.5752	0.1791	35	5	5	1	1	1.4721	2019	1	1.4721
+371	"department of chemical engineering, diponegoro university, semarang, 50275, indonesia"	-0.0135	0.9345	27	6	6	1	0	0	2019	0	0
+372	"department of chemical engineering, faculty of chemical engineering, universiti teknologi malaysia, utm, johor bahru, johor, 81310, malaysia"	-0.9357	0.0372	48	4	4	1	6	8.8326	2019	6	8.8326
+380	"department of chemical engineering, faculty of industrial technology, institut teknologi sepuluh nopember, kampus its sukolilo, surabaya, 60111, indonesia"	-0.4412	-0.3172	81	2	2	4	14	20.6094	2019	3.5	5.1523
+384	"department of chemical engineering, faculty of industrial technology, institut teknologi sepuluh nopember, surabaya, 60111, indonesia"	0.5751	0.1792	35	5	6	11	10	14.721	2019	0.9091	1.3383
+385	"department of chemical engineering, faculty of industrial technology, institut teknologi sepuluh nopember, surabaya, indonesia"	0.8822	0.2839	36	5	5	2	13	19.1373	2019	6.5	9.5686
+390	"department of chemical engineering, faculty of industrial technology, sepuluh nopember institute of technology, kampus its sukolilo, surabaya, 60111, indonesia"	-0.336	-0.789	80	3	3	4	17	25.0257	2019	4.25	6.2564
+391	"department of chemical engineering, gadjah mada university, yogyakarta, 55281, indonesia"	-0.0134	0.9346	27	6	6	1	0	0	2019	0	0
+394	"department of chemical engineering, graduate school of engineering, hiroshima university, 1-4-1 kagamiyama, higashihiroshima, 739-8527, japan"	-0.336	-0.789	80	3	3	1	5	7.3605	2019	5	7.3605
+399	"department of chemical engineering, institut teknologi bandung, west java, bandung, 40132, indonesia"	0.6051	-0.5414	37	5	5	1	0	0	2019	0	0
+400	"department of chemical engineering, institut teknologi kalimantan, indonesia"	0.2296	-0.6558	5	3	3	1	2	2.9442	2019	2	2.9442
+404	"department of chemical engineering, institut teknologi sepuluh nopember (its), surabaya, 60111, indonesia"	0.6051	-0.5414	37	5	5	3	1	1.4721	2019	0.3333	0.4907
+405	"department of chemical engineering, institut teknologi sepuluh nopember surabaya, sukolilo, surabaya, 60111, indonesia"	-0.2282	-0.8482	117	3	4	2	0	0	2019	0	0
+409	"department of chemical engineering, institut teknologi sepuluh nopember, kampus its sukolilo, surabaya, 60111, indonesia"	0.0189	-0.8005	116	2	2	9	4	5.8884	2019	0.4444	0.6543
+414	"department of chemical engineering, institut teknologi sepuluh nopember, surabaya, 60111, indonesia"	-0.3236	0.121	120	2	2	18	11	16.1931	2019	0.6111	0.8996
+416	"department of chemical engineering, institut teknologi sepuluh nopember, surabaya, indonesia"	-0.3275	-0.5473	9	3	4	5	8	11.7768	2019	1.6	2.3554
+419	"department of chemical engineering, institute teknologi sepuluh november, surabaya, 60111, indonesia"	-0.0134	0.9345	27	6	6	1	0	0	2019	0	0
+420	"department of chemical engineering, malikussaleh university, aceh, lhokseumawe, 24351, indonesia"	0.6053	-0.5414	37	5	5	1	0	0	2019	0	0
+421	"department of chemical engineering, muhammadiyah of university surakarta, surakarta, 57162, indonesia"	-0.0135	0.9345	27	6	6	1	0	0	2019	0	0
+443	"department of chemistry, college of sciences, university of sharjah27272, united arab emirates"	0.8822	0.2837	36	5	5	1	12	17.6652	2019	12	17.6652
+455	"department of chemistry, faculty of natural science, institut teknologi sepuluh nopember, jl. raya keputih, surabaya, 60111, indonesia"	-0.0021	-0.4494	28	3	3	1	0	0	2019	0	0
+458	"department of chemistry, faculty of sains and technology, universitas airlangga, campus c mulyorejo, surabaya, east java 60115, indonesia"	-0.0456	0.7561	77	3	3	1	0	0	2019	0	0
+460	"department of chemistry, faculty of science and technology, airlangga university, mulyorejo, surabaya, 60115, indonesia"	0.5752	0.179	35	5	6	2	4	5.8884	2019	2	2.9442
+461	"department of chemistry, faculty of science and technology, universitas airlangga (unair), kampus c unair, mulyorejo, surabaya, 60115, indonesia"	-0.1888	0.1279	70	3	3	1	0	0	2019	0	0
+463	"department of chemistry, faculty of science and technology, universitas airlangga, kampus c unair, jl. mulyorejo, surabaya, 60115, indonesia"	-0.002	-0.4492	28	6	6	2	1	1.4721	2019	0.5	0.736
+464	"department of chemistry, faculty of science and technology, universitas ma chung, villa puncak tidar n-01, malang, east java, 65151, indonesia"	0.8132	0.142	82	3	3	1	2	2.9442	2019	2	2.9442
+466	"department of chemistry, faculty of science, institut teknologi sepuluh nopember (its), kampus its sukolilo, surabaya, 60111, indonesia"	-0.1888	0.1278	70	3	3	7	8	11.7768	2019	1.1429	1.6824
+472	"department of chemistry, faculty of science, institut teknologi sepuluh nopember, kampus its sukolilo60111, indonesia"	0.3056	0.8822	23	6	6	1	4	5.8884	2019	4	5.8884
+474	"department of chemistry, faculty of science, institut teknologi sepuluh nopember, keputih, surabaya, 60111, indonesia"	-0.0018	-0.4489	28	3	3	1	1	1.4721	2019	1	1.4721
+475	"department of chemistry, faculty of science, institut teknologi sepuluh nopember, sukolilo, surabaya 60111, indonesia"	0.0609	0.5476	43	4	4	1	1	1.4721	2019	1	1.4721
+477	"department of chemistry, faculty of science, institut teknologi sepuluh nopember, surabaya, 60111, indonesia"	0.2878	-0.8369	194	1	2	4	0	0	2019	0	0
+479	"department of chemistry, faculty of science, institut teknologi sepuluh nopember, surabaya, indonesia"	-0.044	0.4599	165	1	1	2	0	0	2019	0	0
+480	"department of chemistry, faculty of science, institut teknologi sepuluh nopember, surabaya, keputih, sukolilo, 60111, indonesia"	-0.6273	0.428	83	3	3	1	0	0	2019	0	0
+482	"department of chemistry, faculty of science, universiti teknologi malaysia, 81310 utm johor bahru, johor, malaysia"	0.8131	0.1421	82	3	3	1	2	2.9442	2019	2	2.9442
+483	"department of chemistry, faculty of science, universiti teknologi malaysia, utm, johor bahru, johor, 81310, malaysia"	-0.9357	0.0372	48	4	4	1	6	8.8326	2019	6	8.8326
+484	"department of chemistry, faculty of sciences and technology, universitas airlangga, surabaya, 60115, indonesia"	-0.4005	0.689	24	6	6	1	7	10.3047	2019	7	10.3047
+495	"department of chemistry, institut teknologi sepuluh nopember, arief rahman hakim st., keputih, sukolilo, surabaya, indonesia"	-0.4022	0.5329	84	3	3	1	1	1.4721	2019	1	1.4721
+496	"department of chemistry, institut teknologi sepuluh nopember, indonesia"	0.2293	-0.6565	5	4	4	3	3	4.4163	2019	1	1.4721
+498	"department of chemistry, institut teknologi sepuluh nopember, kampus its sukolilo, surabaya, east java, 60111, indonesia"	0.8131	0.1421	82	3	3	1	2	2.9442	2019	2	2.9442
+501	"department of chemistry, institut teknologi sepuluh nopember, surabaya, indonesia"	-0.3542	-0.0557	63	4	4	8	0	0	2019	0	0
+502	"department of chemistry, sepuluh nopember institute of technology, surabaya, indonesia"	-0.6082	0.1556	45	4	4	1	2	2.9442	2019	2	2.9442
+506	"department of chemistry, universitas timor, department of chemistry, universitas timor, jl. eltari, kefamenanu, 85613, indonesia"	0.5752	0.179	35	5	5	1	1	1.4721	2019	1	1.4721
+521	"department of civil engineering, faculty of civil, environmental, and geo-engineering, institut teknologi sepuluh nopember surabaya, kampus its sukolilo, surabaya, 60111, indonesia"	0.4046	-0.8495	15	3	3	1	0	0	2019	0	0
+524	"department of civil engineering, faculty of engineering, universiti malaysia sarawak, kota samarahan, sarawak 94300, malaysia"	-0.0851	-0.685	13	4	4	1	7	10.3047	2019	7	10.3047
+543	"department of civil engineering, institut teknologi sepuluh nopember, surabaya, indonesia"	-0.8778	0.3585	166	1	1	5	6	8.8326	2019	1.2	1.7665
+553	"department of civil infrastructure engineering, institut teknologi sepuluh nopember, indonesia"	0.7323	-0.5141	38	5	5	2	2	2.9442	2019	1	1.4721
+555	"department of civil infrastructure engineering, institut teknologi sepuluh nopember, surabaya, indonesia"	-0.8779	0.3586	166	1	1	2	1	1.4721	2019	0.5	0.736
+556	"department of civil, environmental and geomatics engineering, university of rwanda, p.o. box 3900, kigali, rwanda"	-0.9277	0.157	85	3	3	1	1	1.4721	2019	1	1.4721
+557	"department of civil, geo and environmental engineering, technische universitat münchen (tum), chai. of land management, arcisstraße 21, münchen, 80333, germany"	-0.9279	0.1572	85	3	3	1	1	1.4721	2019	1	1.4721
+560	"department of computer engineering, institut teknologi sepuluh nopember kampus its, sukolilo, surabaya, jawa timur 60111, indonesia"	-0.4768	-0.4531	86	3	3	1	0	0	2019	0	0
+561	"department of computer engineering, institut teknologi sepuluh nopember, indonesia"	0.787	0.4502	8	3	3	2	4	5.8884	2019	2	2.9442
+562	"department of computer engineering, institut teknologi sepuluh nopember, kampus its, sukolilo, surabaya, jawa timur 60111, indonesia"	-0.2043	0.6467	52	4	4	1	0	0	2019	0	0
+564	"department of computer engineering, institut teknologi sepuluh nopember, surabaya, indonesia"	-0.7751	-0.3792	1	9	11	4	4	5.8884	2019	1	1.4721
+566	"department of computer science and information engineering, national taiwan university of science and technology, taipei, 10607, taiwan"	-0.1834	0.8163	14	8	8	1	0	0	2019	0	0
+568	"department of computer science, universitas katolik widya mandira kupang, indonesia"	-0.7764	-0.3753	1	3	3	1	0	0	2019	0	0
+572	"department of computer science, universitas sumatera utara, indonesia"	0.7863	0.4481	8	3	3	1	1	1.4721	2019	1	1.4721
+577	"department of condensed matter physics, graduate school of science, hokkaido university, sapporo, 060-0810, japan"	0.5424	-0.7294	4	8	8	1	0	0	2019	0	0
+578	"department of dentomaxillofacial radiology, faculty of dental medicine, universitas airlangga, indonesia"	-0.5985	-0.7304	87	3	4	2	2	2.9442	2019	1	1.4721
+582	"department of economic development, sam ratulangi university, manado, north sulawesi, 95115, indonesia"	0.6052	-0.5414	37	5	5	1	0	0	2019	0	0
+583	"department of economic sciences, gdansk university of technology, gdansk, poland"	0.6818	-0.639	53	4	4	1	1	1.4721	2019	1	1.4721
+588	"department of electrical and information engineering, osaka city university, 3-3-138, sugimoto, sumiyoshi-ku, osaka 558-8585, japan"	-0.4768	-0.4531	86	3	3	1	0	0	2019	0	0
+590	"department of electrical engineering, california polytechnic state university, san luis obispo, ca, united states"	-0.2133	0.9282	88	3	3	1	0	0	2019	0	0
+591	"department of electrical engineering, center of excellence for automotive control and system, institut teknologi sepuluh nopember, surabaya, indonesia"	-0.1004	0.9392	126	2	4	3	0	0	2019	0	0
+592	"department of electrical engineering, department of computer engineering, institut teknologi sepuluh nopember, surabaya, indonesia"	-0.7829	-0.3638	1	6	8	4	0	0	2019	0	0
+593	"department of electrical engineering, department of informatics, institut teknologi sepuluh nopember, surabaya, indonesia"	-0.781	-0.3672	1	3	3	1	0	0	2019	0	0
+599	"department of electrical engineering, faculty of electrical technology, institut teknologi sepuluh nopember, jalan raya its, keputih, sukolilo, surabaya, 60111, indonesia"	0.0412	0.4377	197	0	0	3	4	5.8884	2019	1.3333	1.9628
+600	"department of electrical engineering, faculty of electrical technology, institut teknologi sepuluh nopember, surabaya, 60111, indonesia"	-0.3045	-0.276	18	1	1	5	2	2.9442	2019	0.4	0.5888
+601	"department of electrical engineering, faculty of electrical technology, institut teknologi sepuluh nopember, surabaya, indonesia"	-0.7732	-0.3814	1	2	3	5	4	5.8884	2019	0.8	1.1777
+603	"department of electrical engineering, faculty of engineering, universitas negeri surabaya, surabaya, indonesia"	-0.7732	-0.3817	1	2	3	3	4	5.8884	2019	1.3333	1.9628
+605	"department of electrical engineering, faculty of engineering, universitas sumatera utara, indonesia"	0.7861	0.448	8	3	3	1	1	1.4721	2019	1	1.4721
+606	"department of electrical engineering, faculty of engineering, university of malaya, kuala lumpur, 50603, malaysia"	0.7363	-0.5893	54	4	4	1	0	0	2019	0	0
+614	"department of electrical engineering, institut teknologi sepuluh nopember kampus its, sukolilo, surabaya, jawa timur 60111, indonesia"	-0.4767	-0.4529	86	3	3	1	0	0	2019	0	0
+616	"department of electrical engineering, institut teknologi sepuluh nopember, arief rahman hakim st., keputih, sukolilo, surabaya, indonesia"	-0.4022	0.5329	84	3	3	1	1	1.4721	2019	1	1.4721
+618	"department of electrical engineering, institut teknologi sepuluh nopember, indonesia"	0.7865	0.4497	8	10	10	6	4	5.8884	2019	0.6667	0.9814
+619	"department of electrical engineering, institut teknologi sepuluh nopember, kampus institut teknologi sepuluh nopember, sukolilo, surabaya, 6011, indonesia"	0.787	0.4502	8	3	3	1	3	4.4163	2019	3	4.4163
+620	"department of electrical engineering, institut teknologi sepuluh nopember, kampus its, sukolilo, surabaya, jawa timur 60111, indonesia"	-0.2043	0.6467	52	4	4	1	0	0	2019	0	0
+624	"department of electrical engineering, institut teknologi sepuluh nopember, surabaya, 60111, indonesia"	0.3988	0.726	121	2	2	5	11	16.1931	2019	2.2	3.2386
+626	"department of electrical engineering, institut teknologi sepuluh nopember, surabaya, indonesia"	-0.775	-0.3869	1	26	31	28	9	13.2489	2019	0.3214	0.4732
+632	"department of electrical engineering, institute of technology sepuluh nopember (its), surabaya, indonesia"	-0.2132	0.9281	88	3	3	1	0	0	2019	0	0
+634	"department of electrical engineering, kyushu university, japan"	0.3207	-0.0954	2	4	6	2	1	1.4721	2019	0.5	0.736
+635	"department of electrical engineering, muhammadiyah university of gresik, sumatera 101 gkb st., kebomas gresik, indonesia"	-0.4022	0.5329	84	3	3	1	1	1.4721	2019	1	1.4721
+638	"department of electrical engineering, politeknik elektronika negeri surabaya, indonesia"	-0.7739	-0.3811	1	4	4	2	0	0	2019	0	0
+639	"department of electrical engineering, politeknik negeri malang (polinema), malang, indonesia"	-0.2133	0.9281	88	3	3	1	0	0	2019	0	0
+640	"department of electrical engineering, tadulako university, indonesia"	0.787	0.4501	8	3	3	1	3	4.4163	2019	3	4.4163
+651	"department of electrical engineering, universitas negeri surabaya, surabaya, indonesia"	-0.7541	-0.4323	6	5	5	1	0	0	2019	0	0
+656	"department of energy engineering, school of chemical and energy engineering, universiti teknologi malaysia, skudai, johor darul ta'zim 81310 utm, malaysia"	0.061	0.5476	43	4	4	1	1	1.4721	2019	1	1.4721
+657	"department of engineering and applied sciences, sophia university, 7-1 kioi-cho, chiyoda-ku, tokyo, 102-8554, japan"	-0.2181	-0.0165	76	3	3	1	0	0	2019	0	0
+675	"department of engineering physics, institut teknologi sepuluh nopember, indonesia"	0.2296	-0.6558	5	3	3	1	2	2.9442	2019	2	2.9442
+678	"department of engineering physics, institut teknologi sepuluh nopember, surabaya, 60111, indonesia"	0.6447	0.08	123	2	2	4	0	0	2019	0	0
+681	"department of engineering physics, institut teknologi sepuluh nopember, surabaya, indonesia"	-0.3284	-0.5466	9	3	3	6	3	4.4163	2019	0.5	0.736
+688	"department of environmental and materials engineering, nagoya institute of technology, gakiso-cho, showa-ku, nagoya, 466-8555, japan"	0.3053	0.8821	23	6	6	1	4	5.8884	2019	4	5.8884
+690	"department of environmental engineering, curtin university, miri sarawak, 98009, malaysia"	0.1948	-0.8943	25	6	10	3	6	8.8326	2019	2	2.9442
+691	"department of environmental engineering, faculty of civil engineering and planning, institut teknologi sepuluh nopember, surabaya, 60111, indonesia"	0.653	-0.3947	19	3	3	1	10	14.721	2019	10	14.721
+693	"department of environmental engineering, faculty of civil engineering, universiti teknologi malaysia utm, skudai, johor, 81310, malaysia"	0.5683	0.7405	40	4	4	1	5	7.3605	2019	5	7.3605
+694	"department of environmental engineering, faculty of civil environmental and geo engineering, institut teknologi sepuluh nopember, surabaya, 60111, indonesia"	0.1949	-0.8943	25	6	10	3	6	8.8326	2019	2	2.9442
+699	"department of environmental engineering, faculty of civil, environmental and geo engineering, institut teknologi sepuluh nopember, kampus its sukolilo, surabaya, 60111, indonesia"	-0.9323	-0.1027	11	8	10	5	41	60.3561	2019	8.2	12.0712
+701	"department of environmental engineering, faculty of civil, environmental and geo engineering, institut teknologi sepuluh nopember, surabaya, 60111, indonesia"	0.5683	0.7405	40	5	5	3	6	8.8326	2019	2	2.9442
+703	"department of environmental engineering, faculty of civil, environmental and geo engineering, institut teknologi sepuluh nopember, surabaya, indonesia"	0.6523	-0.3951	19	4	4	3	12	17.6652	2019	4	5.8884
+707	"department of environmental engineering, faculty of civil, environmental and geo-engineering, institut teknologi sepuluh nopember, surabaya, 60111, indonesia"	-0.0841	-0.6849	13	4	4	1	5	7.3605	2019	5	7.3605
+722	"department of environmental engineering, faculty of engineering and science, curtin university, malaysia, cdt 250, miri sarawak, 98009, malaysia"	0.653	-0.3947	19	3	3	1	10	14.721	2019	10	14.721
+723	"department of environmental engineering, faculty of engineering and science, curtin university, malaysia, cdt 250, miri, sarawak 98009, malaysia"	0.6525	-0.3951	19	4	4	1	11	16.1931	2019	11	16.1931
+724	"department of environmental engineering, faculty of engineering and science, curtin university, miri, sarawak 98009, malaysia"	-0.0849	-0.6849	13	8	8	2	12	17.6652	2019	6	8.8326
+725	"department of environmental engineering, faculty of engineering and science, curtin university, miri, sarawak, cdt 250, malaysia"	0.5684	0.7406	40	4	4	1	5	7.3605	2019	5	7.3605
+726	"department of environmental engineering, faculty of engineering and science, curtin university, miri, sarawak, malaysia"	0.626	0.6836	34	5	5	1	5	7.3605	2019	5	7.3605
+727	"department of environmental engineering, faculty of engineering, diponegoro university, semarang, indonesia"	-0.6448	0.5439	44	4	4	1	1	1.4721	2019	1	1.4721
+728	"department of environmental engineering, faculty of science and technology, state islamic university of ar-raniry, banda aceh, 23111, indonesia"	0.545	0.5399	10	6	10	2	8	11.7768	2019	4	5.8884
+730	"department of environmental engineering, institut teknologi sepuluh nopember (its), indonesia"	-0.8019	0.0557	89	3	3	1	1	1.4721	2019	1	1.4721
+732	"department of environmental engineering, institut teknologi sepuluh nopember (its), surabaya, indonesia"	-0.6336	0.6856	21	3	3	4	2	2.9442	2019	0.5	0.736
+736	"department of environmental engineering, institut teknologi sepuluh nopember, surabaya, 60111, indonesia"	0.8659	-0.3598	17	3	3	2	1	1.4721	2019	0.5	0.736
+737	"department of environmental engineering, institut teknologi sepuluh nopember, surabaya, indonesia"	-0.6338	0.6861	21	2	2	3	0	0	2019	0	0
+738	"department of environmental health, universitas indonesia, jakarta, 16424, indonesia"	0.8658	-0.3598	17	3	3	1	0	0	2019	0	0
+739	"department of environmental management, faculty of social sciences and humanities, rajarata university of sri lanka, mihintale, 50300, sri lanka"	-0.784	0.2762	106	3	3	1	12	17.6652	2019	12	17.6652
+741	"department of geography and urban planning, centre for geographic information systems and remote sensing, university of rwanda, p.o. box 3900, kigali, rwanda"	-0.9277	0.157	85	3	3	1	1	1.4721	2019	1	1.4721
+746	"department of geomatics engineering, institut teknologi sepuluh nopember (its), kampus its, surabaya, 60111, indonesia"	-0.9279	0.1572	85	3	3	1	1	1.4721	2019	1	1.4721
+747	"department of geomatics engineering, institut teknologi sepuluh nopember, indonesia"	-0.8305	0.2036	184	1	2	2	8	11.7768	2019	4	5.8884
+757	"department of geomatics engineering, institut teknologi sepuluh nopember, surabaya, indonesia"	-0.8074	-0.3908	41	2	2	3	0	0	2019	0	0
+763	"department of geophysical engineering, faculty of civil, environmental and geo engineering, institut teknologi sepuluh nopember, jl. raya its, surabaya, 60111, indonesia"	0.545	0.5402	10	5	5	1	1	1.4721	2019	1	1.4721
+764	"department of geophysical engineering, faculty of civil, environmental and geo engineering, institut teknologi sepuluh nopember, surabaya, 60111, indonesia"	0.545	0.5399	10	5	5	1	7	10.3047	2019	7	10.3047
+767	"department of geophysical engineering, institut teknologi sepuluh nopember, surabaya, 60111, indonesia"	0.546	0.5385	10	3	3	2	5	7.3605	2019	2.5	3.6802
+768	"department of geophysics engineering, faculty of civil, environmental, and geo-engineering, institut teknologi sepuluh nopember surabaya, kampus its sukolilo, surabaya, 60111, indonesia"	0.4045	-0.8494	15	3	3	1	0	0	2019	0	0
+769	"department of geophysics, faculty of mathematics and natural sciences, universitas padjadjaran, sumedang, 45363, indonesia"	0.546	0.5385	10	3	3	1	4	5.8884	2019	4	5.8884
+775	"department of industrial chemical engineering, faculty of vocational studies, institut teknologi sepuluh nopember, kampus its sukolilo, surabaya, 60111, indonesia"	-0.4412	-0.3174	81	3	3	4	8	11.7768	2019	2	2.9442
+776	"department of industrial chemical engineering, institut teknologi sepuluh nopember surabaya, sukolilo, surabaya, 60111, indonesia"	-0.2283	-0.8482	117	3	4	2	0	0	2019	0	0
+777	"department of industrial chemical engineering, vocational faculty, institute technology of sepuluh nopember, surabaya, 60111, indonesia"	-0.9113	-0.018	119	2	3	3	1	1.4721	2019	0.3333	0.4907
+784	"department of industrial engineering, faculty of engineering, universitas dian nuswantoro, semarang, 50241, indonesia"	-0.0135	0.9346	27	6	6	1	0	0	2019	0	0
+786	"department of industrial engineering, faculty of industrial technology, institut teknologi sepuluh nopember surabaya60111, indonesia"	-0.6569	0.296	55	4	4	2	0	0	2019	0	0
+789	"department of industrial engineering, institut teknologi bandung (itb), bandung, indonesia"	-0.075	-0.9304	26	4	4	1	0	0	2019	0	0
+794	"department of industrial engineering, institut teknologi sepuluh nopember, indonesia"	0.7865	0.451	8	4	4	2	2	2.9442	2019	1	1.4721
+800	"department of industrial engineering, institut teknologi sepuluh nopember, surabaya, 60111, indonesia"	-0.0372	0.8487	198	0	0	8	7	10.3047	2019	0.875	1.2881
+802	"department of industrial engineering, institut teknologi sepuluh nopember, surabaya, indonesia"	-0.7754	-0.3875	1	1	1	10	6	8.8326	2019	0.6	0.8833
+806	"department of industrial engineering, mercu buana university, jakarta, indonesia"	-0.0749	-0.9307	26	6	7	2	0	0	2019	0	0
+810	"department of industrial engineering, sepuluh nopember institute of technology, surabaya, indonesia"	0.2831	0.7773	144	2	2	5	15	22.0815	2019	3	4.4163
+811	"department of industrial engineering, telkom university, bandung, indonesia"	-0.0749	-0.9307	26	3	3	1	0	0	2019	0	0
+812	"department of industrial engineering, universal university, batam, indonesia"	-0.075	-0.9304	26	4	4	1	0	0	2019	0	0
+827	"department of industrial management, national taiwan university of science and technology, taipei, 10607, taiwan"	-0.1833	0.8164	14	8	8	1	0	0	2019	0	0
+830	"department of industrial product design, faculty of architecture, designs, and planning, institut teknologi sepuluh nopember surabaya60111, indonesia"	-0.6569	0.296	55	4	4	1	0	0	2019	0	0
+833	"department of informatics and computer engineering, politeknik elektronika negeri surabaya, indonesia"	-0.5985	-0.7304	87	3	3	1	0	0	2019	0	0
+839	"department of informatics engineering, universitas muhammadiyah ponorogo, ponorogo, 63471, indonesia"	0.7854	0.4452	8	3	3	1	1	1.4721	2019	1	1.4721
+850	"department of informatics, faculty of information and communication technology, institut teknologi sepuluh nopember, indonesia"	-0.5985	-0.7304	87	3	3	2	0	0	2019	0	0
+853	"department of informatics, faculty of information technology and communication, institut teknologi sepuluh nopember, surabaya, indonesia"	0.4013	0.5431	167	1	2	5	7	10.3047	2019	1.4	2.0609
+859	"department of informatics, institut teknologi sepuluh nopember, indonesia"	0.3506	0.3341	199	0	0	7	12	17.6652	2019	1.7143	2.5236
+867	"department of informatics, institut teknologi sepuluh nopember, kampus its, sukolilo, surabaya, jawa timur 60111, indonesia"	-0.2043	0.6467	52	4	4	1	0	0	2019	0	0
+876	"department of informatics, institut teknologi sepuluh nopember, surabaya, indonesia"	-0.7789	-0.3661	1	9	16	48	40	58.884	2019	0.8333	1.2267
+885	"department of informatics, széchenyi istván university, egyetem tér 1, gyõr, 9026, hungary"	-0.2043	0.6467	52	4	4	1	0	0	2019	0	0
+889	"department of informatics, universitas negeri surabaya, jl. lidah wetan, surabaya, 60213, indonesia"	-0.4768	-0.4531	86	3	3	1	0	0	2019	0	0
+896	"department of information engineering, graduate school of engineering, hiroshima university, japan"	-0.5986	-0.7304	87	3	4	2	2	2.9442	2019	1	1.4721
+899	"department of information system, madura islamic university, pamekasan, indonesia"	-0.776	-0.3909	1	3	3	1	0	0	2019	0	0
+903	"department of information system, university of nahdlatul ulama surabaya, surabaya, indonesia"	0.6819	-0.639	53	4	4	1	1	1.4721	2019	1	1.4721
+916	"department of information systems, institut teknologi sepuluh nopember, surabaya, indonesia"	-0.7845	-0.3604	1	4	4	14	11	16.1931	2019	0.7857	1.1566
+921	"department of information systems, universitas mercu buana, jakarta, indonesia"	-0.7791	-0.3639	1	2	3	2	1	1.4721	2019	0.5	0.736
+928	"department of information technology management, faculty of magister of technology management, institut teknologi sepuluh nopember, surabaya, indonesia"	0.4012	0.5431	167	1	2	2	0	0	2019	0	0
+930	"department of information technology management, institut teknologi sepuluh nopember, surabaya, indonesia"	-0.779	-0.3649	1	1	6	6	6	8.8326	2019	1	1.4721
+932	"department of information technology, universitas trunojoyo madura, bangkalan, indonesia"	-0.776	-0.3909	1	3	3	1	0	0	2019	0	0
+946	"department of management, university of nahdlatul ulama surabaya, surabaya, indonesia"	0.6818	-0.639	53	4	4	1	1	1.4721	2019	1	1.4721
+947	department of marine engineering its	-0.3347	0.8813	90	3	3	1	0	0	2019	0	0
+959	"department of marine engineering, institut teknologi sepuluh nopember, kampus its sukolilo, surabaya, 60111, indonesia"	0.2709	-0.9001	91	3	3	1	1	1.4721	2019	1	1.4721
+962	"department of marine engineering, institut teknologi sepuluh nopember, surabaya, indonesia"	0.6678	0.6388	124	2	3	5	3	4.4163	2019	0.6	0.8833
+966	"department of marine sciences, faculty of marine and fisheries, universitas syiah kuala, banda aceh, 23111, indonesia"	0.5602	0.3304	56	4	4	1	0	0	2019	0	0
+969	"department of materials and metallurgical engineering, faculty of industrial technology, institut teknologi sepuluh nopember surabaya, jl. teknik industri kampus its sukolilo, surabaya, 60111, indonesia"	0.4044	-0.8494	15	5	6	3	0	0	2019	0	0
+977	"department of materials and metallurgical engineering, institut teknologi sepuluh nopember, surabaya, 60111, indonesia"	-0.3301	-0.5456	9	5	5	2	0	0	2019	0	0
+985	"department of materials and metallurgy, sepuluh nopember institute of technology, surabaya, 60111, indonesia"	0.736	0.0687	95	3	3	1	0	0	2019	0	0
+994	"department of materials process engineering, nagoya university, furo-cho, chikusa-ku, nagoya, 464-8603, japan"	0.0318	-0.6468	200	0	0	3	4	5.8884	2019	1.3333	1.9628
+997	"department of materials science and engineering, ntnu, trondheim, norway"	-0.5209	-0.7806	31	5	5	1	5	7.3605	2019	5	7.3605
+1001	"department of mathematical sciences, faculty of science, universiti teknologi malaysia, skudai, johor, 81310, malaysia"	-0.7397	0.395	92	3	3	1	0	0	2019	0	0
+1003	"department of mathematical sciences, universiti teknologi malaysia, johor bahru, malaysia"	-0.7378	0.1681	93	3	4	2	1	1.4721	2019	0.5	0.736
+1005	"department of mathematical, physical and computer sciences university of parma, italy"	0.2242	-0.6624	5	8	8	1	1	1.4721	2019	1	1.4721
+1008	"department of mathematics education, stkip pgri sumenep, sumenep, 69451, indonesia"	-0.2283	-0.8482	117	3	3	1	0	0	2019	0	0
+1009	"department of mathematics, airlangga university, jalan mulyorejo kampus c-unair, surabaya, 60115, indonesia"	0.4959	-0.5401	94	3	3	1	0	0	2019	0	0
+1012	"department of mathematics, computer science, and physics university of udine, italy"	0.2243	-0.6625	5	8	8	1	1	1.4721	2019	1	1.4721
+1013	"department of mathematics, faculty of mathematics and natural science, universitas syiah kuala, banda aceh, 23111, indonesia"	0.5602	0.3303	56	4	4	1	0	0	2019	0	0
+1022	"department of mathematics, faculty of mathematics, computation and data science, institut teknologi sepuluh nopember, surabaya, 60111, indonesia"	-0.1834	0.8161	14	8	8	1	0	0	2019	0	0
+1027	"department of mathematics, faculty of mathematics, computing and data science, institut teknologi sepuluh nopember, surabaya, 60111, indonesia"	0.5602	0.3303	56	4	4	1	0	0	2019	0	0
+1031	"department of mathematics, faculty of science, universiti putra malaysia upm, serdang, selangor, 43400, malaysia"	-0.7397	0.395	92	3	3	1	0	0	2019	0	0
+1032	"department of mathematics, faculty of sciences and technology, airlangga university, indonesia"	0.1657	0.277	125	2	2	1	2	2.9442	2019	2	2.9442
+1033	"department of mathematics, fmksd its, indonesia"	0.2242	-0.6714	5	3	3	1	1	1.4721	2019	1	1.4721
+1037	"department of mathematics, institut teknologi sepuluh nopember, indonesia"	0.2249	-0.6644	5	12	12	5	2	2.9442	2019	0.4	0.5888
+1038	"department of mathematics, institut teknologi sepuluh nopember, its campus, keputih, sukolilo, surabaya, 60111, indonesia"	0.6314	0.405	168	1	1	1	0	0	2019	0	0
+1039	"department of mathematics, institut teknologi sepuluh nopember, jl. raya its, keputih, sukolilo, surabaya, indonesia"	-0.0838	-0.8408	127	2	2	1	0	0	2019	0	0
+1044	"department of mathematics, institut teknologi sepuluh nopember, surabaya, indonesia"	-0.812	-0.3913	41	5	5	12	12	17.6652	2019	1	1.4721
+1054	"department of mathematics, universitas gadjah mada, yogyakarta, indonesia"	-0.7378	0.1681	93	3	3	1	1	1.4721	2019	1	1.4721
+1056	"department of mathematics, university of jember, indonesia"	0.4959	-0.5401	94	3	3	1	0	0	2019	0	0
+1057	"department of mathematics, university of padjadjaran, indonesia"	-0.4302	-0.8376	29	3	3	1	0	0	2019	0	0
+1058	"department of mathematis, institut teknologi sepuluh nopember, sukolilo, surabaya, east java 60111, indonesia"	0.4461	0.2451	177	1	1	1	0	0	2019	0	0
+1062	"department of mechanical engineering, center of excellence for automotive control and system, institut teknologi sepuluh nopember, surabaya, indonesia"	-0.1005	0.9392	126	2	4	3	0	0	2019	0	0
+1063	"department of mechanical engineering, faculty of engineering, institut teknologi sepuluh nopember, surabaya, keputih, sukolilo, 60111, indonesia"	-0.6274	0.4279	83	3	3	1	0	0	2019	0	0
+1065	"department of mechanical engineering, faculty of engineering, universitas tidar, magelang, 56116, indonesia"	-0.6273	0.428	83	3	3	1	0	0	2019	0	0
+1074	"department of mechanical engineering, faculty of industrial technology, institut teknologi sepuluh nopember, kampus its keputih sukolilo, surabaya, 60111, indonesia"	0.8617	0.0857	201	0	0	1	2	2.9442	2019	2	2.9442
+1086	"department of mechanical engineering, institut teknologi sepuluh nopember (its), surabaya, indonesia"	-0.6336	0.6855	21	2	2	7	0	0	2019	0	0
+1089	"department of mechanical engineering, institut teknologi sepuluh nopember, indonesia"	0.223	-0.6727	5	6	10	9	2	2.9442	2019	0.2222	0.3271
+1090	"department of mechanical engineering, institut teknologi sepuluh nopember, jl. raya its, keputih, sukolilo, surabaya, indonesia"	-0.0838	-0.8408	127	2	2	1	0	0	2019	0	0
+1091	"department of mechanical engineering, institut teknologi sepuluh nopember, kampus its sukolilo, surabaya, 60111, indonesia"	-0.2981	0.4509	202	0	0	2	5	7.3605	2019	2.5	3.6802
+1093	"department of mechanical engineering, institut teknologi sepuluh nopember, surabaya, indonesia"	0.1008	0.4223	203	0	0	3	0	0	2019	0	0
+1094	"department of mechanical engineering, institut teknologi sepuluh, nopember surabaya, 60111, indonesia"	0.6984	-0.2297	204	0	0	1	2	2.9442	2019	2	2.9442
+1100	"department of mechanical engineering, its, surabaya, indonesia"	-0.5208	-0.7805	31	5	5	1	5	7.3605	2019	5	7.3605
+1102	"department of mechanical engineering, medan state polytechnic, medan, indonesia"	-0.9297	0.0955	128	2	2	1	0	0	2019	0	0
+1104	"department of mechanical engineering, petra christian university, surabaya, indonesia"	-0.9297	0.0955	128	2	2	1	0	0	2019	0	0
+1107	"department of mechanical engineering, sepuluh nopember institute of technology (its), surabaya, indonesia"	0.4884	0.7887	30	6	6	1	9	13.2489	2019	9	13.2489
+1108	"department of mechanical engineering, sepuluh nopember institute of technology, surabaya, indonesia"	-0.0124	-0.8714	205	0	0	3	6	8.8326	2019	2	2.9442
+1109	"department of mechanical engineering, sepuluh nopember institute technology, surabaya, indonesia"	-0.9296	0.0956	128	2	2	1	0	0	2019	0	0
+1110	"department of mechanical engineering, singaperbangsa karawang university, indonesia"	0.2229	-0.673	5	1	3	3	0	0	2019	0	0
+1111	"department of mechanical engineering, singaperbangsa karawang university, jawa barat, indonesia"	-0.3542	-0.0555	63	2	2	1	0	0	2019	0	0
+1112	"department of mechanical engineering, state university of surabaya, indonesia"	0.2228	0.9102	66	3	3	1	1	1.4721	2019	1	1.4721
+1113	"department of mechanical engineering, universitas billfath, lamongan, indonesia"	-0.33	-0.5454	9	3	3	1	0	0	2019	0	0
+1114	"department of mechanical engineering, universitas muhammadiyah ponorogo, jl. budi utomo no. 10, ponorogo, 63471, indonesia"	0.0188	-0.8006	116	1	2	2	4	5.8884	2019	2	2.9442
+1115	"department of mechanical engineering, universitas muhammadiyah ponorogo, ponorogo, 63471, indonesia"	0.7854	0.4452	8	3	3	1	1	1.4721	2019	1	1.4721
+1117	"department of mechanical engineering, universitas muhammadiyah sidoarjo, sidoarjo, indonesia"	0.2226	0.9102	66	3	3	1	1	1.4721	2019	1	1.4721
+1120	"department of mechanical engineering, university of islam majapahit, mojokerto, 61364, indonesia"	0.736	0.0688	95	3	3	1	0	0	2019	0	0
+1122	"department of mechanical engineering, vocational faculty, its, indonesia"	0.2242	-0.6715	5	3	3	1	1	1.4721	2019	1	1.4721
+1124	"department of medical microbiology and parasitology, universiti putra malaysia, serdang, 43400, malaysia"	0.195	-0.8942	25	4	4	1	0	0	2019	0	0
+1127	"department of naval architechture, center of excellence for automotive control and system, institut teknologi sepuluh nopember, surabaya, indonesia"	-0.1005	0.9392	126	2	2	1	0	0	2019	0	0
+1128	"department of naval architecture and shipbuilding engineering, faculty of marine technology, institut teknologi sepuluh nopember (its), surabaya, indonesia"	-0.0778	0.6394	96	3	3	1	0	0	2019	0	0
+1130	"department of naval architecture engineering, institut teknologi sepuluh nopember, indonesia"	-0.4258	-0.1551	130	2	2	1	0	0	2019	0	0
+1131	"department of naval architecture, faculty of marine technology, institut teknologi sepuluh nopember (its), kampus its sukolilo, surabaya, 60111, indonesia"	-0.0807	-0.0544	129	2	2	1	0	0	2019	0	0
+1133	"department of naval architecture, institut teknologi sepuluh nopember, indonesia"	-0.9058	0.2369	39	5	5	1	0	0	2019	0	0
+1135	"department of naval architecture, institut teknologi sepuluh nopember, surabaya, indonesia"	-0.3293	-0.5459	9	5	5	2	1	1.4721	2019	0.5	0.736
+1137	"department of naval architecture, ocean and marine engineering, university of strathclyde (uos), glasgow, united kingdom"	-0.0777	0.6393	96	3	3	1	0	0	2019	0	0
+1138	"department of naval engineering, institut teknologi sepuluh nopember, surabaya, indonesia"	-0.3288	-0.5463	9	2	2	1	1	1.4721	2019	1	1.4721
+1139	"department of neurology, shin kongwu ho-su memorial hospital, taipei, 11101, taiwan"	-0.1834	0.8164	14	8	8	1	0	0	2019	0	0
+1140	"department of occupational safety and health, university of nahdlatul ulama surabaya, surabaya, indonesia"	0.6818	-0.639	53	4	4	1	1	1.4721	2019	1	1.4721
+1142	"department of ocean engineering, faculty of marine technology, institut teknologi sepuluh nopember (its), kampus its sukolilo, surabaya, 60111, indonesia"	-0.0808	-0.0545	129	2	2	1	0	0	2019	0	0
+1143	"department of ocean engineering, faculty of marine technology, institut teknologi sepuluh nopember, keputih, sukolilo, surabaya, 60111, indonesia"	0.019	-0.5776	206	0	0	3	3	4.4163	2019	1	1.4721
+1144	"department of ocean engineering, faculty of marine technology, institut teknologi sepuluh nopember, surabaya, indonesia"	-0.0778	0.6394	96	3	3	1	0	0	2019	0	0
+1150	"department of ocean engineering, institut teknologi sepuluh nopember, indonesia"	-0.4257	-0.155	130	2	2	1	0	0	2019	0	0
+1155	"department of pharmaceutical chemistry, faculty of pharmacy, airlangga university, surabaya, indonesia"	0.0397	-0.7238	207	0	0	1	0	0	2019	0	0
+1156	"department of pharmacy, university of dharma andalas, padang, indonesia"	0.3086	-0.072	2	7	7	1	9	13.2489	2019	9	13.2489
+1159	"department of physics education, faculty of education and teacher training, state islamic university of ar-raniry, banda aceh, 23111, indonesia"	0.5448	0.5401	10	6	10	2	8	11.7768	2019	4	5.8884
+1160	"department of physics engineering, institut teknologi sepuluh nopember surabaya, surabaya, 60111, indonesia"	0.1458	-0.9411	169	1	1	1	0	0	2019	0	0
+1162	"department of physics engineering, sepuluh nopember institute of technology, kampus its, jl. raya its, keputih, sukolilo, surabaya, 60111, indonesia"	-0.8527	0.1282	131	2	2	1	0	0	2019	0	0
+1163	"department of physics sciences, institute technology of sepuluh nopember (its), surabaya, indonesia"	0.2226	0.9102	66	3	3	1	1	1.4721	2019	1	1.4721
+1166	"department of physics, faculty of mathematics and natural science, universitas palangka raya, palangka raya, indonesia"	0.7068	-0.0573	57	3	3	1	3	4.4163	2019	3	4.4163
+1167	"department of physics, faculty of mathematics and natural sciences, institut teknologi sepuluh nopember (its), its campus, sukolilo, surabaya, 60111, indonesia"	-0.2182	-0.0166	76	3	3	1	0	0	2019	0	0
+1168	"department of physics, faculty of mathematics and natural sciences, udayana university, jimbaran - badung, bali, indonesia"	0.4401	0.3224	170	1	2	2	0	0	2019	0	0
+1169	"department of physics, faculty of mathematics and natural sciences, universitas indonesia, depok, 16424, indonesia"	0.5424	-0.7292	4	8	8	1	0	0	2019	0	0
+1170	"department of physics, faculty of mathematics and natural sciences, universitas lambung mangkurat, banjarmasin, 70124, indonesia"	0.545	0.5398	10	6	10	2	8	11.7768	2019	4	5.8884
+1171	"department of physics, faculty of mathematics and natural sciences, universitas negeri gorontalo, gorontalo, 96128, indonesia"	0.5448	0.5404	10	7	11	3	9	13.2489	2019	3	4.4163
+1172	"department of physics, faculty of mathematics and natural sciences, universitas negeri makassar (unm), jl. a. pangeran pettarani, makassar, 90222, indonesia"	-0.163	-0.9329	132	2	3	2	1	1.4721	2019	0.5	0.736
+1173	"department of physics, faculty of mathematics and natural sciences, universitas negeri makassar (unm), makassar, indonesia"	0.7069	-0.0573	57	3	3	1	3	4.4163	2019	3	4.4163
+1174	"department of physics, faculty of mathematics and natural sciences, universitas negeri malang, jl. semarang 5, malang, 65145, indonesia"	0.4043	-0.8493	15	5	6	2	0	0	2019	0	0
+1175	"department of physics, faculty of mathematics and natural sciences, universitas negeri malang, malang, 65145, indonesia"	0.5474	-0.7273	4	5	5	1	0	0	2019	0	0
+1176	"department of physics, faculty of mathematics and sciences, institut teknologi sepuluh, nopember (its), kampus its, jl. arif rahman hakim, sukolilo, surabaya, 60111, indonesia"	-0.287	0.6852	171	1	1	1	1	1.4721	2019	1	1.4721
+1177	"department of physics, faculty of mathematics and sciences, universitas negeri surabaya (unesa), jl. ketintang, surabaya, 60231, indonesia"	-0.2871	0.685	171	1	1	1	1	1.4721	2019	1	1.4721
+1178	"department of physics, faculty of mathematics and sciences, universitas negeri surabaya, jl. ketintang, surabaya, indonesia"	0.7069	-0.0572	57	1	1	1	0	0	2019	0	0
+1181	"department of physics, faculty of science and engineering, university of nusa cendana, kupang, east nusa tenggara, 85001, indonesia"	0.5753	0.179	35	5	5	1	1	1.4721	2019	1	1.4721
+1182	"department of physics, faculty of science and technology, airlangga university, surabaya, 60115, indonesia"	0.786	0.4472	8	5	5	2	3	4.4163	2019	1.5	2.2081
+1184	"department of physics, faculty of science, institut teknologi sepuluh nopember (its), surabaya, 60111, indonesia"	0.5511	-0.7185	4	1	1	1	0	0	2019	0	0
+1186	"department of physics, faculty of science, institut teknologi sepuluh nopember, surabaya, 60111, indonesia"	0.5463	-0.726	4	16	16	9	4	5.8884	2019	0.4444	0.6543
+1187	"department of physics, faculty of science, institut teknologi sepuluh nopember, surabaya, east java, indonesia"	0.626	0.6836	34	5	5	1	5	7.3605	2019	5	7.3605
+1191	"department of physics, faculty of science, universitas cokroaminoto palopo, palopo, 91921, indonesia"	0.5425	-0.7292	4	8	8	1	0	0	2019	0	0
+1192	"department of physics, faculty of sciences, institut teknologi sepuluh nopember (its), jl. arief rahman hakim, surabaya, 60111, indonesia"	-0.1629	-0.9328	132	2	3	3	1	1.4721	2019	0.3333	0.4907
+1195	"department of physics, faculty of sciences, institut teknologi sepuluh nopember (its), surabaya, indonesia"	0.7069	-0.0573	57	4	4	2	3	4.4163	2019	1.5	2.2081
+1197	"department of physics, faculty of sciences, institut teknologi sepuluh nopember, sukolilo campus, surabaya, 60111, indonesia"	-0.0478	0.0521	146	2	2	1	0	0	2019	0	0
+1200	"department of physics, faculty science and technology, universitas airlangga, surabaya, 60115, indonesia"	-0.4003	0.689	24	6	6	1	7	10.3047	2019	7	10.3047
+1203	"department of physics, halmahera university, north maluku, tobelo, 97762, indonesia"	0.6052	-0.5414	37	5	5	1	0	0	2019	0	0
+1206	"department of physics, institut teknologi sepuluh nopember surabaya victor purnomo"	0.4009	0.8627	172	1	1	1	2	2.9442	2019	2	2.9442
+1208	"department of physics, institut teknologi sepuluh nopember, jl. a. r. hakim, surabaya, 60111, indonesia"	0.4033	-0.8486	15	3	3	1	1	1.4721	2019	1	1.4721
+1209	"department of physics, institut teknologi sepuluh nopember, jl. raya its, surabaya, 60111, indonesia"	-0.3886	0.4201	133	2	2	1	0	0	2019	0	0
+1211	"department of physics, institut teknologi sepuluh nopember, kampus its sukolilo, surabaya, 60111, indonesia"	0.0188	-0.8006	116	2	3	5	8	11.7768	2019	1.6	2.3554
+1213	"department of physics, institut teknologi sepuluh nopember, surabaya, 60111, indonesia"	0.7856	0.4457	8	5	5	2	3	4.4163	2019	1.5	2.2081
+1214	"department of physics, institut teknologi sepuluh nopember, surabaya, indonesia"	-0.3212	0.7951	79	3	3	2	0	0	2019	0	0
+1216	"department of physics, sam ratulangi university, manado, north sulawesi, 95115, indonesia"	0.6051	-0.5414	37	5	5	1	0	0	2019	0	0
+1217	"department of physics, sepuluh nopember institute of technology, surabaya, indonesia"	0.6818	-0.639	53	4	4	1	1	1.4721	2019	1	1.4721
+1218	"department of physics, syiah kuala university, darussalam, banda aceh 23111, indonesia"	0.5517	-0.718	4	2	2	1	0	0	2019	0	0
+1221	"department of physics, universitas indonesia, depok, west java 16424, indonesia"	-0.5264	0.5819	97	3	3	1	0	0	2019	0	0
+1222	"department of physics, universitas negeri jakarta, jl. rawa mangun muka, jakarta, 13220, indonesia"	0.4034	-0.8487	15	3	3	1	1	1.4721	2019	1	1.4721
+1225	"department of physics, universitas negeri malang, jl. semarang 5, malang, 65145, indonesia"	0.4034	-0.8487	15	3	3	1	1	1.4721	2019	1	1.4721
+1226	"department of physics, universitas negeri surabaya, surabaya, indonesia"	-0.3212	0.7951	79	3	3	1	0	0	2019	0	0
+1227	"department of physics, universitas sebelas maret, surakarta, indonesia"	0.2296	-0.6558	5	3	3	1	2	2.9442	2019	2	2.9442
+1228	"department of physics, university of oslo, blindern, oslo, norway"	-0.521	-0.7807	31	5	5	1	5	7.3605	2019	5	7.3605
+1229	"department of physics, university technology malaysia, johor bahru, malaysia"	-0.3212	0.7951	79	3	3	1	0	0	2019	0	0
+1230	"department of physics, zhenjiang key laboratory for advanced sensing materials and devices, faculty of science, jiangsu university, zhenjiang, 212013, china"	0.8923	0.2065	47	4	4	1	3	4.4163	2019	3	4.4163
+1231	"department of public health, school of medicine, college of medicine, taipei medical university, taipei, 11031, taiwan"	-0.1834	0.8165	14	8	8	1	0	0	2019	0	0
+1232	"department of radiology, faculty of medicine, universitas airlangga, surabaya, 60115, indonesia"	-0.6324	-0.6358	98	3	6	3	2	2.9442	2019	0.6667	0.9814
+1233	"department of rehabilitation medicine, university medical center groningen, university of groningen, groningen, netherlands"	-0.7752	-0.3804	1	4	4	1	0	0	2019	0	0
+1235	"department of science education, universitas pendidikan indonesia, jl. dr. setiabudi no. 229, bandung, 40154, indonesia"	-0.3886	0.4201	133	2	2	1	0	0	2019	0	0
+1236	"department of science, institut teknologi sumatera, jl. terusan ryacudu, way hui, jati agung, lampung selatan, indonesia"	-0.0839	-0.8408	127	2	2	1	0	0	2019	0	0
+1237	"department of sea transportation, faculty of marine technology, institut teknologi sepuluh nopember, surabaya, indonesia"	-0.0777	0.6393	96	3	3	1	0	0	2019	0	0
+1238	"department of software engineering, institut teknologi telkom surabaya, surabaya, indonesia"	-0.7762	-0.391	1	3	3	1	0	0	2019	0	0
+1239	"department of statisctics, faculty of mathematics cumputation and science data, institut teknologi sepuluh nopember surabaya60111, indonesia"	-0.6569	0.296	55	4	4	1	0	0	2019	0	0
+1243	"department of statistic, institut teknologi sepuluh nopember, surabaya, indonesia"	-0.6338	0.6861	21	2	2	2	3	4.4163	2019	1.5	2.2081
+1245	"department of statistics and center for earth, disaster and climate change-institut teknologi sepuluh nopember (its), indonesia"	-0.8019	0.0557	89	3	3	1	1	1.4721	2019	1	1.4721
+1246	"department of statistics faculty of mathematics, computation, and science data institut teknologi sepuluh nopember, bps-statistics indonesia, surabaya, indonesia"	0.8471	-0.1811	173	1	1	1	1	1.4721	2019	1	1.4721
+1249	"department of statistics, faculty of math and science, sepuluh nopember institute of technology, indonesia"	0.1657	0.2771	125	2	2	1	2	2.9442	2019	2	2.9442
+1250	"department of statistics, faculty of mathematics and natural sciences, institut teknologi sepuluh nopember, surabaya, 60111, indonesia"	-0.7396	0.3949	92	3	3	1	0	0	2019	0	0
+1251	"department of statistics, faculty of mathematics and natural sciences, universitas padjadjaran, bandung, 45363, indonesia"	-0.6324	-0.6358	98	2	2	1	0	0	2019	0	0
+1254	"department of statistics, faculty of mathematics and natural sciences, universitas padjajaran, bandung, 45363, indonesia"	-0.6322	-0.636	98	2	4	2	2	2.9442	2019	1	1.4721
+1257	"department of statistics, faculty of mathematics computing and data science, institut teknologi sepuluh nopember, kampus sukolilo, surabaya, 60111, indonesia"	0.7964	-0.5261	208	0	0	3	0	0	2019	0	0
+1260	"department of statistics, faculty of mathematics, computation and data science, institut teknologi sepuluh nopember, surabaya, 60111, indonesia"	-0.0851	-0.6851	13	4	4	3	11	16.1931	2019	3.6667	5.3977
+1268	"department of statistics, faculty of mathematics, computation, and data science, institut teknologi sepuluh nopember, sukolilo, surabaya, indonesia"	0.7373	0.5672	209	0	0	2	0	0	2019	0	0
+1276	"department of statistics, faculty of mathematics, computing, and data science, institut teknologi sepuluh nopember, surabaya, 60111, indonesia"	-0.6321	-0.6359	98	3	6	4	2	2.9442	2019	0.5	0.736
+1281	"department of statistics, institut teknologi sepuluh nopember (its), indonesia"	-0.8019	0.0557	89	3	3	2	5	7.3605	2019	2.5	3.6802
+1282	"department of statistics, institut teknologi sepuluh nopember (its), kampus its sukolilo surabaya60111, indonesia"	0.7008	-0.2849	210	0	0	1	0	0	2019	0	0
+1283	"department of statistics, institut teknologi sepuluh nopember (its), surabaya, 60111, indonesia"	0.8703	0.398	211	0	0	1	0	0	2019	0	0
+1285	"department of statistics, institut teknologi sepuluh nopember, indonesia"	-0.4302	-0.8378	29	6	6	3	4	5.8884	2019	1.3333	1.9628
+1287	"department of statistics, institut teknologi sepuluh nopember, jl. raya its sukolilo, surabaya, 6011, indonesia"	0.7682	-0.4027	212	0	0	2	0	0	2019	0	0
+1289	"department of statistics, institut teknologi sepuluh nopember, kampus its sukolilo, surabaya, 60111, indonesia"	0.2709	-0.9001	91	3	3	3	1	1.4721	2019	0.3333	0.4907
+1291	"department of statistics, institut teknologi sepuluh nopember, surabaya, 60111, indonesia"	0.4253	-0.6058	174	1	2	7	13	19.1373	2019	1.8571	2.7339
+1293	"department of statistics, institut teknologi sepuluh nopember, surabaya, indonesia"	-0.7377	0.1682	93	3	4	11	5	7.3605	2019	0.4545	0.6691
+1295	"department of statistics, sepuluh nopember institute of technology, indonesia"	0.4959	-0.5401	94	3	3	1	0	0	2019	0	0
+1296	"department of statistics, university of brawijaya, indonesia"	-0.4302	-0.8377	29	3	3	1	0	0	2019	0	0
+1298	"department of technology management, institut teknologi sepuluh nopember, indonesia"	-0.4257	-0.155	130	2	2	1	0	0	2019	0	0
+1300	"department of technopreneurship, universiti teknikal malaysia melaka, melaka, malaysia"	0.4254	-0.6057	174	1	2	2	10	14.721	2019	5	7.3605
+1301	"department of telecommunications and media informatics, budapest university of technology and economics, magyar tudósok krt. 2, budapest, 1117, hungary"	-0.2043	0.6466	52	4	4	1	0	0	2019	0	0
+1302	"department of tiongkok traditional medicine, health science faculty, institut ilmu kesehatan bhakti wiyata kediri, kediri, indonesia"	-0.0441	0.4597	165	1	1	1	0	0	2019	0	0
+1304	"department of urban and regional planning, faculty of architecture designs, and planning, institut teknologi sepuluh nopember surabaya60111, indonesia"	-0.6569	0.2959	55	4	4	1	0	0	2019	0	0
+1305	"department of urban and regional planning, indonesia"	-0.4705	0.1128	99	2	3	3	0	0	2019	0	0
+1307	"department of urban and regional planning, institut teknologi sepuluh nopember, indonesia"	0.7865	0.4511	8	4	4	1	0	0	2019	0	0
+1308	"department of urban and regional planning, institut teknologi sepuluh nopember, surabaya, indonesia"	-0.6337	0.6861	21	5	5	6	5	7.3605	2019	0.8333	1.2267
+1312	"department of water and environmental engineering, faculty of engineering, universiti teknologi malaysia, johor bahru, 81310, malaysia"	0.6524	-0.3951	19	4	4	1	11	16.1931	2019	11	16.1931
+1313	"department of water and environmental engineering, faculty of engineering, universiti teknologi malaysia, johor bahru, johor 81310, malaysia"	-0.0842	-0.6847	13	4	4	1	5	7.3605	2019	5	7.3605
+1314	"department of water and environmental engineering, faculty of engineering, universiti teknologi malaysia, johor bahru, johor, malaysia"	0.626	0.6835	34	5	5	1	5	7.3605	2019	5	7.3605
+1315	"department of water and environmental engineering, faculty of engineering, universiti teknologi malaysia, utm johor bahru, johor, 81310, malaysia"	0.653	-0.3947	19	3	3	1	10	14.721	2019	10	14.721
+1316	"department of water and environmental engineering, school of civil engineering, faculty of engineering, universiti teknologi malaysia (utm), johor bahru, johor 81310, malaysia"	-0.0851	-0.685	13	4	4	1	7	10.3047	2019	7	10.3047
+1317	"department of water and environmental engineering, universiti teknologi malaysia, johor, 81310, malaysia"	0.1948	-0.8943	25	5	7	2	4	5.8884	2019	2	2.9442
+1318	"department of water and environmental engineering, universiti teknologi malaysia, skudai, johor, 81310, malaysia"	0.1947	-0.8944	25	3	3	1	2	2.9442	2019	2	2.9442
+1327	"depertment of environmental engineering, mulawarman university, indonesia"	0.371	0.2605	213	0	0	1	0	0	2019	0	0
+1329	"dept. marine transportation engineering, institut teknologi sepuluh nopember, surabaya, 60111, indonesia"	-0.1363	-0.1505	134	2	2	1	0	0	2019	0	0
+1332	"dept. naval architecture & shipbuilding engg, institut teknologi sepuluh nopember, surabaya, 60111, indonesia"	-0.1362	-0.1505	134	2	2	1	0	0	2019	0	0
+1333	"dept. ocean engineering, institut teknologi sepuluh nopember, surabaya, 60111, indonesia"	-0.1362	-0.1505	134	2	2	1	0	0	2019	0	0
+1334	"dept. of air navigation engineering, politeknik penerbangan surabaya, surabaya, indonesia"	-0.7513	-0.4388	6	2	2	1	0	0	2019	0	0
+1335	"dept. of biomedical engineeering, its surabaya, surabaya, indonesia"	0.7846	0.5457	214	0	0	1	0	0	2019	0	0
+1336	"dept. of civil engineering, institut teknologi sepuluh nopember, surabaya, indonesia"	-0.3542	-0.0558	63	2	2	1	0	0	2019	0	0
+1337	"dept. of computer engineering, institut teknologi sepuluh nopember, surabaya, indonesia"	-0.4618	0.8113	16	5	5	2	0	0	2019	0	0
+1338	"dept. of computer science, universitas katolik widya mandira, kupang, indonesia"	-0.75	-0.441	6	10	10	2	0	0	2019	0	0
+1339	"dept. of electrical engineering, dept. of computer engineering, faculty of electrical technology, institut teknologi sepuluh nopember, surabaya, indonesia"	-0.7469	-0.4476	6	5	5	1	0	0	2019	0	0
+1340	"dept. of electrical engineering, faculty of electrical technology, institut teknologi sepuluh nopember, fakultas ilmu komputer, universitas narotama, surabaya, indonesia"	-0.7469	-0.4476	6	5	5	1	0	0	2019	0	0
+1344	"dept. of electrical engineering, institut teknologi sepuluh nopember, surabaya, indonesia"	-0.4618	0.8111	16	2	2	1	0	0	2019	0	0
+1345	"dept. of electrical engineering, petra christian university, surabaya, indonesia"	-0.7469	-0.4475	6	5	5	1	0	0	2019	0	0
+1348	"dept. of electrical engineering, universitas tadulako, palu, indonesia"	-0.4618	0.811	16	2	2	1	0	0	2019	0	0
+1350	"dept. of engineering physics institut teknologi sepuluh nopember, surabaya, indonesia"	0.0793	0.1998	135	2	2	1	0	0	2019	0	0
+1351	"dept. of engineering physics, institut teknologi sepuluh nopember, indonesia"	0.1265	0.7218	136	2	2	1	0	0	2019	0	0
+1355	"dept. of information systems, institut teknologi sepuluh nopember (its), jl. arif rahman hakim, surabaya, 60111, indonesia"	0.9307	0.1573	64	3	3	1	0	0	2019	0	0
+1356	"dept. of management of technology, institut teknologi sepuluh nopember, surabaya, 60264, indonesia"	-0.275	0.8885	137	2	2	1	0	0	2019	0	0
+1357	"dept. of marine engineering, institut teknologi sepuluh nopember, indonesia"	0.1266	0.7218	136	2	2	1	0	0	2019	0	0
+1358	"dept. of mathematical sciences, universiti teknologi malaysia, skudai, johor, malaysia"	-0.4616	0.8123	16	3	3	1	2	2.9442	2019	2	2.9442
+1359	"dept. of mathematics, institut teknologi sepuluh nopember, surabaya, 60111, indonesia"	-0.2751	0.8884	137	2	2	1	0	0	2019	0	0
+1360	"dept. of mathematics, universitas gadjah mada, yogyakarta, indonesia"	-0.4616	0.8124	16	3	3	1	2	2.9442	2019	2	2.9442
+1361	"dept. of naval architecture, institut teknologi sepuluh nopember, indonesia"	0.1264	0.7218	136	2	2	1	0	0	2019	0	0
+1362	"dept. of neurology, universitas airlangga, surabaya, indonesia"	-0.4618	0.8115	16	3	3	1	0	0	2019	0	0
+1364	"dept. of psychology, universitas mulawarman, samarinda, indonesia"	-0.7469	-0.4476	6	5	5	1	0	0	2019	0	0
+1365	"dept. of statistics, institut teknologi sepuluh nopember, surabaya, indonesia"	-0.4617	0.8119	16	6	6	2	2	2.9442	2019	1	1.4721
+1367	"design and manufacture study program, politeknik perkapalan negeri surabaya, indonesia"	-0.4617	0.8116	16	3	3	1	0	0	2019	0	0
+1368	"design laboratory, mechanical eng. dept., institut teknologi sepuluh nopember surabaya, indonesia"	-0.5171	-0.0345	42	3	3	1	0	0	2019	0	0
+1369	"development initiative for indonesia (difi), indonesia"	-0.5416	-0.6788	73	3	3	1	0	0	2019	0	0
+1370	"development initiatives for indonesia (difi), indonesia"	0.916	-0.163	100	3	3	1	0	0	2019	0	0
+1372	"diponegoro university, engineering faculty, naval architecture department, central java, semarang, indonesia"	-0.8406	0.4173	101	3	3	1	0	0	2019	0	0
+1373	"diponegoro university, school of vocation, industrial technology department, central java, semarang, indonesia"	-0.8405	0.4172	101	3	3	1	0	0	2019	0	0
+1375	"disease prevention and eradication, malang regency public health office, malang, indonesia"	-0.7843	-0.3609	1	3	3	1	0	0	2019	0	0
+1376	"division of chemistry, hokkaido university, sapporo, 060-0810, japan"	0.5426	-0.7294	4	8	8	1	0	0	2019	0	0
+1378	"division of inorganic and physical chemistry, institut teknologi bandung, jl. ganesha no. 10, bandung, 40132, indonesia"	-0.4921	0.2904	33	5	5	1	0	0	2019	0	0
+1379	"division of inorganic chemistry, chemistry department, faculty of mathematics and natural sciences, universitas sebelas maret, jl. ir. sutami no.36a, kentingan, jebres, central java surakarta, 57126, indonesia"	-0.4921	0.2905	33	5	5	1	0	0	2019	0	0
+1380	"division of material science, nano center indonesia, tangerang selatan, 15417, indonesia"	0.736	0.0687	95	3	3	1	0	0	2019	0	0
+1381	"division of plastic surgery, department of surgery, wan fang hospital, taipei medical university, taipei, 11031, taiwan"	-0.1832	0.8164	14	8	8	1	0	0	2019	0	0
+1382	"dkrth surabaya, indonesia"	-0.1452	-0.4245	60	2	2	1	0	0	2019	0	0
+1383	"dlh kota probolinggo, indonesia"	-0.1453	-0.4243	60	2	2	1	0	0	2019	0	0
+1384	"doctoral candidate at statistics department, institut teknologi sepuluh nopember jl. arif rahman hakim, surabaya, 60111, indonesia"	0.205	0.4265	102	3	3	1	0	0	2019	0	0
+1385	"doctoral program at department of statistics, institut teknologi sepuluh nopember, indonesia"	-0.4302	-0.8377	29	3	3	1	0	0	2019	0	0
+1386	"dow centre for sustainable engineering innovation, the university of queenslandqld 4072, australia"	0.061	0.5475	43	4	4	1	1	1.4721	2019	1	1.4721
+1388	"e-commerce department, saudi electronic university, riyadh, saudi arabia"	0.7554	-0.3408	175	1	1	1	0	0	2019	0	0
+1390	"economics and business faculty, universitas mulawarman, samarinda, indonesia"	0.2784	0.5404	148	2	2	1	0	0	2019	0	0
+1391	"economics faculty of universitas islam malang (unisma), indonesia"	-0.2733	0.3297	72	3	3	1	0	0	2019	0	0
+1392	"economics faculty, universitas mulawarman, samarinda, indonesia"	-0.5254	0.6821	58	2	2	1	0	0	2019	0	0
+1393	"eijkman institute for molecular biology, jakarta, 10340, indonesia"	0.2786	0.2911	67	3	3	1	1	1.4721	2019	1	1.4721
+1396	"electrical engineering department, institut teknologi bandung, jl. ganesha 10/12 -bandung, west-java, indonesia"	0.0399	0.6868	138	2	2	1	0	0	2019	0	0
+1397	"electrical engineering department, institut teknologi bandung, jl. ganesha 10/12, bandung, west java, indonesia"	-0.8927	0.3121	139	2	2	1	0	0	2019	0	0
+1399	"electrical engineering department, institut teknologi sepuluh nopember (its), surabaya, indonesia"	-0.1716	0.9066	160	1	1	1	0	0	2019	0	0
+1400	"electrical engineering department, institut teknologi sepuluh nopember, surabaya, indonesia"	0.3778	0.823	109	3	3	3	0	0	2019	0	0
+1401	"electrical engineering department, institut teknologi sepuluh nopember, surabaya, kampus its keputih sukolilo, surabaya-east-java, 60111, indonesia"	0.0398	0.6869	138	2	2	1	0	0	2019	0	0
+1402	"electrical engineering department, institut teknologi sepuluh nopember, surabaya, kampus its keputih sukolilosurabaya east java 60111, indonesia"	-0.8927	0.3121	139	2	2	1	0	0	2019	0	0
+1407	"electrical engineering study program, surabaya, 60111, indonesia"	-0.3028	-0.2753	18	4	4	1	0	0	2019	0	0
+1409	"electronics engineering polytechnic institute of surabaya, department of information technology, indonesia"	0.1103	-0.835	152	2	2	1	0	0	2019	0	0
+1410	"elementary education, universitas negeri yogyakarta, yogyakarta, indonesia"	-0.4246	-0.7306	59	4	4	1	0	0	2019	0	0
+1411	"engineering physic department, institut teknologi sepuluh nopember (its), surabaya, indonesia"	-0.1222	0.2599	140	2	2	1	1	1.4721	2019	1	1.4721
+1417	"engineering physics department, faculty of industrial technology, institut teknologi sepuluh nopember (its), surabaya, 60111, indonesia"	0.7363	-0.5893	54	4	4	1	0	0	2019	0	0
+1418	"engineering physics department, faculty of industrial technology, institut teknologi sepuluh nopember, surabaya, 60111, indonesia"	-0.1322	-0.5431	141	2	2	1	0	0	2019	0	0
+1432	"ensta paristech, palaiseau, france"	0.2241	-0.6623	5	8	8	1	1	1.4721	2019	1	1.4721
+1434	"environment its surabaya, indonesia"	-0.8331	0.3417	142	2	2	1	0	0	2019	0	0
+1438	"environmental engineering department, institut teknologi adhi tama surabaya, jl. arief rahman hakim 100, surabaya, 60117, indonesia"	-0.2461	0.2138	215	0	0	1	0	0	2019	0	0
+1439	"environmental engineering department, institut teknologi bandung, bandung, indonesia"	0.8649	-0.3599	17	2	2	2	2	2.9442	2019	1	1.4721
+1440	"environmental engineering department, institut teknologi bandung, jl. ganesha, bandung, indonesia"	-0.7358	0.5908	103	3	3	1	0	0	2019	0	0
+1441	"environmental engineering department, institut teknologi nasional, bendungan sigura-gura 2, malang, indonesia"	-0.7357	0.5907	103	3	3	1	0	0	2019	0	0
+1442	"environmental engineering department, institut teknologi sepuluh nopember (its), surabaya, indonesia"	-0.1452	-0.4244	60	4	4	2	0	0	2019	0	0
+1443	"environmental engineering department, institut teknologi sepuluh nopember, keputih sukolilo, surabaya, indonesia"	-0.7358	0.5908	103	3	3	1	0	0	2019	0	0
+1444	"environmental engineering department, institut teknologi sepuluh nopember, surabaya, 60111, indonesia"	0.8653	-0.3599	17	3	3	2	1	1.4721	2019	0.5	0.736
+1445	"environmental engineering department, institut teknologi sepuluh nopember, surabaya, indonesia"	0.8646	-0.36	17	2	2	2	2	2.9442	2019	1	1.4721
+1447	"environmental engineering study program, department of biology, universitas airlangga, surabaya, indonesia"	-0.1453	-0.4243	60	2	2	1	0	0	2019	0	0
+1448	"faculty of advanced science and technology, kumamoto university, japan"	0.7322	-0.5141	38	1	1	2	1	1.4721	2019	0.5	0.736
+1449	"faculty of agriculture, sriwijaya university, palembang, indonesia"	-0.5116	0.4397	104	3	3	1	2	2.9442	2019	2	2.9442
+1450	"faculty of agriculture, university of wiraraja, sumenep, indonesia"	-0.0083	0.3589	195	1	1	1	0	0	2019	0	0
+1452	"faculty of biology, universita gadjah mada, jl.teknika selatan, sekip utara, bulaksumur, sleman, yogyakarta, 55281, indonesia"	0.6767	0.5356	78	3	3	1	0	0	2019	0	0
+1453	"faculty of built environment and surveying, universiti teknologi malaysia, skudai, johor 81310, malaysia"	0.8304	-0.0862	69	3	3	1	20	29.442	2019	20	29.442
+1454	"faculty of business and management technology, institut teknologi sepuluh nopember, surabaya, indonesia"	0.3114	0.6999	143	2	2	1	0	0	2019	0	0
+1455	"faculty of business, law and social science, universitas muhammadiyah sidoarjo, sidoarjo, 61215, indonesia"	-0.2751	0.8884	137	2	2	1	0	0	2019	0	0
+1456	"faculty of chemical and energy engineering, universiti teknologi malaysia, johor bahru, malaysia"	-0.3272	-0.5475	9	2	2	1	4	5.8884	2019	4	5.8884
+1458	"faculty of chemical and natural resources engineering, universiti malaysia pahang, lebuhraya tun razak, gambang, pahang, 26300, malaysia"	-0.9357	0.0372	48	4	4	1	6	8.8326	2019	6	8.8326
+1460	"faculty of civil and geo engineering, institut teknologi sepuluh nopember, surabaya-marine, 60111, indonesia"	-0.0809	0.8841	185	1	1	1	0	0	2019	0	0
+1462	"faculty of civil, environmental and geo-engineering, institut teknologi sepuluh nopember, kampus its sukolilo, surabaya, 60111, indonesia"	0.8304	-0.0862	69	3	3	1	20	29.442	2019	20	29.442
+1467	"faculty of cultural studies, universitas negeri jember, indonesia"	0.7864	0.4509	8	4	4	1	0	0	2019	0	0
+1468	"faculty of earth sciences and technology institut teknologi bandung, bandung, indonesia"	0.0793	0.1998	135	2	2	1	0	0	2019	0	0
+1469	"faculty of economics and business, universitas muhammadiyah sidoarjo, sidoarjo, indonesia"	0.3114	0.6998	143	2	2	1	0	0	2019	0	0
+1470	"faculty of electrical and electronics engineering, university malaysia pahang, pekan-pahang, malaysia"	0.8057	-0.1909	216	0	0	1	0	0	2019	0	0
+1471	"faculty of electrical engineering, delft university of technology, mathematics and computer science, delft, 2628 cd, netherlands"	0.3988	0.726	121	1	1	1	1	1.4721	2019	1	1.4721
+1475	"faculty of engineering and built environment, universiti kebangsaan malaysia-ukm, bangi, selangor, 43600, malaysia"	0.9298	0.0911	105	3	3	1	0	0	2019	0	0
+1476	"faculty of engineering technology, universiti malaysia perlis (unimap), kampus uniciti alam, sungai chuchuh, padang besar, perlis, 02100, malaysia"	0.3054	0.8823	23	6	6	1	4	5.8884	2019	4	5.8884
+1477	"faculty of engineering technology, universiti malaysia perlis (unimap), kangar, perlis, 01000, malaysia"	0.7321	-0.5139	38	4	4	1	2	2.9442	2019	2	2.9442
+1479	"faculty of engineering, kyushu institute of technology, kitakyushu, 804-8550, japan"	0.5427	-0.7293	4	8	8	1	0	0	2019	0	0
+1480	"faculty of engineering, kyushu university, japan"	-0.9058	0.2369	39	5	5	1	0	0	2019	0	0
+1481	"faculty of engineering, universitas negeri gorontalo, gorontalo, indonesia"	-0.3301	-0.5458	9	2	2	1	0	0	2019	0	0
+1482	"faculty of engineering, universitas singaperbangsa karawang, teluk jambe timur, karawang, 41361, indonesia"	0.5682	0.7404	40	1	1	2	1	1.4721	2019	0.5	0.736
+1483	"faculty of geography, universitas negeri surabaya, indonesia"	0.7865	0.4511	8	4	4	1	0	0	2019	0	0
+1485	"faculty of health and wellbeing, university of central lancashire, preston, united kingdom"	0.2831	0.7772	144	1	1	1	6	8.8326	2019	6	8.8326
+1486	"faculty of industrial engineering, institut teknologi sepuluh nopember, kota surabaya, jawa timur, 60111, indonesia"	0.9298	0.0913	105	3	3	1	0	0	2019	0	0
+1487	"faculty of industrial science and technology, universiti malaysia pahang, ump kuantan, pahang, 26300, malaysia"	-0.8124	-0.3914	41	1	1	1	3	4.4163	2019	3	4.4163
+1488	"faculty of industrial sciences & technology, universiti malaysia pahang, ump kuantanpahang 26300, malaysia"	-0.813	-0.3915	41	2	2	1	7	10.3047	2019	7	10.3047
+1491	"faculty of law, universitas muhammadiyah sidoarjo, sidoarjo, indonesia"	0.3113	0.7001	143	2	2	1	0	0	2019	0	0
+1492	"faculty of life and environmental sciences, university of tsukuba, 1-1-1,. tennodai, tsukuba, ibaraki, 305-8572, japan"	-0.7838	0.2762	106	3	3	1	12	17.6652	2019	12	17.6652
+1493	"faculty of manufacturing engineering, universiti teknikal malaysia melaka, hang tuah jaya, durian tunggal melaka, 76100, malaysia"	0.9298	0.0913	105	3	3	1	0	0	2019	0	0
+1496	"faculty of math and natural science, sepuluh nopember institute of technology, surabaya, indonesia"	-0.5116	0.4397	104	3	3	1	2	2.9442	2019	2	2.9442
+1497	"faculty of math and natural science, sriwijaya university, palembang, indonesia"	-0.5114	0.4399	104	3	3	1	2	2.9442	2019	2	2.9442
+1499	"faculty of mathematics and natural science, institut teknologi bandung, jl. ganesha no. 10, bandung, west java 40132, indonesia"	0.1737	0.5264	217	0	0	1	1	1.4721	2019	1	1.4721
+1500	"faculty of mathematics and natural sciences, universitas lambung mangkurat, banjarmasin, 70124, indonesia"	0.546	0.5385	10	3	3	1	4	5.8884	2019	4	5.8884
+1502	"faculty of mathematics and natural sciences, universitas lambung mangkurat, jl. ahmad yani km 36,00, kampus banjar baru, selatankalimantan 70714, indonesia"	0.5515	-0.7179	4	2	2	1	0	0	2019	0	0
+1503	"faculty of mathematics and natural sciences, university of jember, campus of tegal boto, 37 kalimantan street, jember, 68121, indonesia"	0.8292	0.0185	145	2	2	1	3	4.4163	2019	3	4.4163
+1507	"faculty of mechanical and manufacturing engineering technology, universiti teknikal malaysia melaka, hang tuah jaya, durian tunggal melaka, 76100, malaysia"	0.9298	0.0913	105	3	3	1	0	0	2019	0	0
+1508	"faculty of mechanical engineering the university malaysiapahang, malaysia"	-0.3348	0.8813	90	3	3	1	0	0	2019	0	0
+1510	"faculty of mechanical engineering, university malaysia pahang, pekan, pahang, malaysia"	0.6677	0.6388	124	2	2	1	1	1.4721	2019	1	1.4721
+1512	"faculty of medicine, widya mandala catholic university, surabaya, indonesia"	-0.7454	-0.4506	6	2	2	1	0	0	2019	0	0
+1513	"faculty of mining and petroleum engineering, institut teknologi bandung, bandung, 40132, indonesia"	0.5455	0.5391	10	9	13	3	12	17.6652	2019	4	5.8884
+1514	"faculty of mining and petroleum engineering, institute teknologi bandung, bandung, 40132, indonesia"	0.5445	0.5405	10	1	1	1	1	1.4721	2019	1	1.4721
+1515	"faculty of nursing, airlangga university, indonesia"	-0.8019	0.0557	89	3	3	1	1	1.4721	2019	1	1.4721
+1516	"faculty of nursing, universitas airlangga, surabaya, indonesia"	-0.4302	-0.8381	29	3	3	1	4	5.8884	2019	4	5.8884
+1518	"faculty of science and technology, airlangga university, indonesia"	0.4959	-0.5401	94	3	3	1	0	0	2019	0	0
+1522	"faculty of science and technology, university of pesantren tinggi darul ulum (unipdu), pp. darul ulum, jombang, 61481, indonesia"	-0.0478	0.0521	146	2	2	1	0	0	2019	0	0
+1523	"faculty of sciences and technology, airlangga university, indonesia"	0.1657	0.2771	125	2	2	1	2	2.9442	2019	2	2.9442
+1525	"faculty of technology management and technopreneurship, universiti teknikal malaysia melaka75300, malaysia"	0.4392	0.8349	176	1	1	1	1	1.4721	2019	1	1.4721
+1527	"fakultas ilmu budaya, univeristas airlangga, surabaya, indonesia"	0.343	-0.1714	20	9	9	1	0	0	2019	0	0
+1528	"fakultas ilmu komputer, universitas narotama, surabaya, indonesia"	-0.7461	-0.4492	6	7	7	2	0	0	2019	0	0
+1529	"fakultas matematika komputasi dan sains data, institut teknologi sepuluh nopember, surabaya, indonesia"	-0.7454	-0.4506	6	2	2	1	0	0	2019	0	0
+1533	"fakulti pengurusan teknologi dan perniagaan, universiti tun hussein onn malaysia (uthm), johor, malaysia"	0.0191	-0.9347	51	4	8	2	0	0	2019	0	0
+1534	"faulty of sport siene, universitas negeri makassar, jl. a. p. pettarani, tidung, rappoini, makassar, south sulawesi 90222, indonesia"	0.4461	0.2452	177	1	1	1	0	0	2019	0	0
+1535	"fim2lab-functional interfacial materials and membranes laboratory, school of chemical engineering, the university of queensland, brisbane, qld 4072, australia"	0.061	0.5474	43	4	4	1	1	1.4721	2019	1	1.4721
+1536	"fisheries and marine science faculty-jenderal soedirman university, kampus karangwangkal, jl. dr. suparno, purwokerto, 53123, indonesia"	-0.6082	0.1556	45	4	4	1	2	2.9442	2019	2	2.9442
+1537	"fluid mechanic laboratory, mechanical engineering department, fti, its, surabaya, indonesia"	0.7607	0.5668	218	0	0	2	0	0	2019	0	0
+1538	"fmipa, mulawarman university, samarinda, 75123, indonesia"	0.5512	-0.7185	4	1	1	1	0	0	2019	0	0
+1539	"fondazione bruno kessler, italy"	0.2243	-0.6625	5	8	8	1	1	1.4721	2019	1	1.4721
+1540	"fujitsu kyushu systems limited, japan"	-0.9058	0.2369	39	5	5	1	0	0	2019	0	0
+1541	"gdp laboratory, jakarta, 11410, indonesia"	0.2709	-0.9002	91	3	3	1	1	1.4721	2019	1	1.4721
+1542	"geodynamic and environmental laboratory, department of geomatics engineering, institut teknologi sepuluh nopember, surabaya, indonesia"	0.7713	0.2666	110	3	3	1	4	5.8884	2019	4	5.8884
+1543	"geological engineering department, bandung istitute of techology, bandung, indonesia"	0.1516	0.9262	61	4	4	1	0	0	2019	0	0
+1544	"geological engineering department, gadjah mada university, yogyakarta, indonesia"	0.1516	0.9261	61	4	4	1	0	0	2019	0	0
+1545	"geological engineering department, jenderal soedirman university, purbalingga, indonesia"	0.1516	0.9261	61	4	4	1	0	0	2019	0	0
+1547	"geomatic engineering, institut teknologi sepuluh nopember, indonesia"	-0.5415	-0.6788	73	3	3	1	0	0	2019	0	0
+1548	"geomatics department, institut teknologi sepuluh nopember, campus its sukolilo, surabaya, east java, 60111, indonesia"	-0.784	0.2762	106	3	3	1	12	17.6652	2019	12	17.6652
+1555	"geomatics engineering, institut teknologi sepuluh nopember (its), surabaya, indonesia"	0.916	-0.163	100	3	3	1	0	0	2019	0	0
+1564	"geophysical engineering department, institut teknologi sepuluh nopember, surabaya, indonesia"	0.1516	0.9261	61	4	4	1	0	0	2019	0	0
+1565	"gheorghe asachi technical university of lasi, faculty of materials science and engineering, 71 d. mangeron blvd., lasi, 700050, romania"	0.7321	-0.5139	38	4	4	1	2	2.9442	2019	2	2.9442
+1566	"graduate institute of applied science and technology, national taiwan university of science and technology, taipei, 10607, taiwan"	0.6446	0.0802	123	2	2	1	0	0	2019	0	0
+1568	"graduate school for international development and cooperation, hiroshima university, japan"	-0.6337	0.6863	21	2	2	1	5	7.3605	2019	5	7.3605
+1569	"graduate school of arts and science, iwate university, 3-18-8 ueda, morioka, 020-8551, japan"	-0.8527	0.1282	131	2	2	1	0	0	2019	0	0
+1570	"graduate school of arts and science, iwate university, morioka, 020-8551, japan"	-0.5264	0.5819	97	3	3	1	0	0	2019	0	0
+1572	"graduate school of engineering, hiroshima university, japan"	-0.9056	0.2367	39	5	5	1	0	0	2019	0	0
+1573	"graduate school of engineering, osaka city university, osaka, japan"	-0.7741	-0.3812	1	3	3	1	0	0	2019	0	0
+1574	"graduate school of life and environmental sciences, university of tsukuba, 1-1-1, tennodai, tsukuba, ibaraki, 305-8572, japan"	-0.7838	0.2762	106	3	3	1	12	17.6652	2019	12	17.6652
+1575	"graduate school of maritime sciences, kobe university, fukae campus, higashinada ward, kobe, hyogo, 658-0022, japan"	0.6313	0.4049	168	1	1	1	0	0	2019	0	0
+1576	"graduate school of mathematics and applied science, universitas syiah kuala, banda aceh, 23111, indonesia"	0.5602	0.3303	56	4	4	1	0	0	2019	0	0
+1581	"hanyang university, south korea"	-0.3347	0.8813	90	3	3	1	0	0	2019	0	0
+1582	"hasanuddin university, department of physics, makassar, indonesia"	-0.1249	-0.2642	147	2	2	1	0	0	2019	0	0
+1583	"heat and mass transport laboratory, department of chemical engineering, faculty of industrial technology, institut teknologi sepuluh nopember, jl. raya its, sukolilo, surabaya, east java 60111, indonesia"	0.0905	-0.9345	65	3	3	1	0	0	2019	0	0
+1584	"hiroshima university, hiroshima, japan"	-0.7109	-0.1716	7	2	2	1	0	0	2019	0	0
+1585	"honeywell indonesia, jakarta, indonesia"	-0.1222	0.2598	140	2	2	1	1	1.4721	2019	1	1.4721
+1588	"hystorsys as, p.o. box 45, kjeller, no-2027, norway"	0.4885	0.7886	30	6	6	1	9	13.2489	2019	9	13.2489
+1589	"iaeng, united kingdom"	-0.7748	-0.3874	1	1	1	1	0	0	2019	0	0
+1590	"iain syekh nurjati cirebon, indonesia"	0.3725	-0.2533	3	22	22	1	1	1.4721	2019	1	1.4721
+1591	"ibnu sina institute for fundamental science studies, universiti teknologi malaysia, skudai, johor bahru, 81310, malaysia"	-0.3151	0.5906	219	0	0	1	1	1.4721	2019	1	1.4721
+1593	"ibnu sina institute for scientific and industrial research, universiti teknologi malaysia, johor bahru, malaysia"	-0.0018	-0.4489	28	3	3	1	1	1.4721	2019	1	1.4721
+1594	"ibnu sina institute for scientific and industrial research, universiti teknologi malaysia, utm, skudai, johor 81310, malaysia"	-0.1887	0.1278	70	3	3	1	0	0	2019	0	0
+1595	"ict a and robotics research centre, institut teknologi sepuluh nopember (its), surabaya, indonesia"	-0.1805	0.517	178	1	1	1	0	0	2019	0	0
+1597	"indonesia department of informatics, universitas islam indonesia, jl. kaliurang km. 14.5, yogyakarta, 55584, indonesia"	-0.1133	0.5141	220	0	0	1	0	0	2019	0	0
+1600	"indonesian hydrodynamic laboratory, badan pengkajian dan penerapan teknologi, surabaya, 60111, indonesia"	0.2709	-0.9002	91	3	3	1	1	1.4721	2019	1	1.4721
+1601	"indonesian hydrodynamics laboratory (ihl), bppt, kompleks kampus its sukolilo, surabaya, 60111, indonesia"	-0.0808	-0.0545	129	2	2	1	0	0	2019	0	0
+1604	"industrial and management engineering department, hankuk university of foreign studies, yongin, south korea"	-0.0325	-0.3026	179	1	1	1	0	0	2019	0	0
+1605	"industrial engineering department, engineering faculty, universitas mulawarman, samarinda, indonesia"	0.2784	0.5404	148	2	2	1	0	0	2019	0	0
+1608	"industrial engineering department, faculty of industrial technology, its, indonesia"	0.4749	0.6747	159	2	2	1	0	0	2019	0	0
+1611	"industrial engineering department, industrial technology faculty, institut teknologi sepuluh november, surabaya, indonesia"	0.2783	0.5403	148	2	2	1	0	0	2019	0	0
+1612	"industrial engineering department, institut teknologi sepuluh nopember (its), surabaya, 60111, indonesia"	-0.1419	0.3811	107	2	2	1	0	0	2019	0	0
+1614	"industrial engineering department, institut teknologi sepuluh nopember, east java, surabaya, 60111, indonesia"	0.4362	0.4089	161	2	2	1	0	0	2019	0	0
+1616	"industrial engineering department, institut teknologi sepuluh nopember, keputih sukolilo, surabaya, indonesia"	-0.7357	0.5907	103	3	3	1	0	0	2019	0	0
+1617	"industrial engineering department, institut teknologi sepuluh nopember, surabaya, 60111, indonesia"	0.0446	0.8201	114	3	3	3	1	1.4721	2019	0.3333	0.4907
+1618	"industrial engineering department, institut teknologi sepuluh nopember, surabaya, indonesia"	0.389	-0.543	180	1	3	6	0	0	2019	0	0
+1620	"industrial engineering department, universitas stikubank, semarang, indonesia"	0.3892	-0.5429	180	1	3	3	0	0	2019	0	0
+1621	"industrial engineering its surabaya, indonesia"	-0.8332	0.3417	142	2	2	1	0	0	2019	0	0
+1623	"industrial engineering, institut teknologi sepuluh nopember, surabaya, indonesia"	-0.5255	0.6822	58	4	4	2	2	2.9442	2019	1	1.4721
+1624	"industrial engineering, universitas 45 surabaya, indonesia"	0.3053	-0.0772	2	5	5	1	7	10.3047	2019	7	10.3047
+1625	"industrial engineering, universitas 45 surabaya, surabaya, indonesia"	0.311	-0.0758	2	7	7	1	9	13.2489	2019	9	13.2489
+1626	"industrial engineering, universitas diponegoro, semarang, indonesia"	-0.5257	0.6823	58	2	2	1	2	2.9442	2019	2	2.9442
+1628	"industrial engineering, universitas mulawarman, samarinda, indonesia"	-0.5254	0.6821	58	2	2	1	0	0	2019	0	0
+1629	"industrial engineering, university of surabaya, surabaya, indonesia"	-0.5257	0.6823	58	2	2	1	2	2.9442	2019	2	2.9442
+1631	"industrial training and education of surabaya, ministry of industry, surabaya, indonesia"	-0.775	-0.3786	1	1	1	1	4	5.8884	2019	4	5.8884
+1632	"informatics and computer engineering dept., politeknik elektronika negeri surabaya, surabaya, indonesia"	-0.5327	-0.5826	108	3	3	1	1	1.4721	2019	1	1.4721
+1633	"informatics department, faculty of engineering, universitas negeri surabaya, kampus unesa ketintang jl. ketintang, surabaya east java, 60231, indonesia"	-0.8928	0.3121	139	2	2	1	0	0	2019	0	0
+1634	"informatics department, faculty of engineering, universitas negeri surabaya, kampus unesa ketintang jl. ketintang, surabaya-east-java, 60231, indonesia"	0.0399	0.6868	138	2	2	1	0	0	2019	0	0
+1635	"informatics department, institut teknologi sepuluh nopember (its), surabaya, 60111, indonesia"	-0.1418	0.3814	107	1	1	1	0	0	2019	0	0
+1637	"informatics department, institut teknologi sepuluh nopember, indonesia"	-0.1498	-0.8664	181	1	1	4	1	1.4721	2019	0.25	0.368
+1638	"informatics department, institut teknologi sepuluh nopember, politeknik negeri banjarmasin, surabaya, indonesia"	0.3445	0.4494	149	2	2	1	1	1.4721	2019	1	1.4721
+1640	"informatics department, institut teknologi sepuluh nopember, surabaya, 60111, indonesia"	0.2787	0.2911	67	3	3	2	4	5.8884	2019	2	2.9442
+1641	"informatics department, institut teknologi sepuluh nopember, surabaya, indonesia"	0.3445	0.4492	149	2	2	9	4	5.8884	2019	0.4444	0.6543
+1642	"informatics department, institut teknologi sepuluh nopember60111, indonesia"	0.1971	0.7515	182	1	1	1	0	0	2019	0	0
+1643	"informatics department, petra christian university, jalan siwalankerto 121-131, surabaya, 60236, indonesia"	0.0744	0.9202	62	4	4	2	1	1.4721	2019	0.5	0.736
+1644	"informatics department, petra christian university, surabaya, 60236, indonesia"	-0.7848	-0.3599	1	1	1	1	0	0	2019	0	0
+1645	"informatics department, universitas sebelas maret, surakarta, 57126, indonesia"	0.2786	0.2911	67	3	3	1	1	1.4721	2019	1	1.4721
+1647	"informatics engineering department, dian nuswantoro university, semarang, indonesia"	0.3778	0.823	109	3	3	1	0	0	2019	0	0
+1648	"informatics engineering department, faculty of computer science, dian nuswantoro university, indonesia"	0.3778	0.823	109	3	3	1	0	0	2019	0	0
+1649	"informatics engineering dept, institut teknologi sepuluh nopember surabaya, surabaya, indonesia"	-0.5327	-0.5826	108	3	3	1	1	1.4721	2019	1	1.4721
+1650	"informatics engineering dept., institut teknologi sepuluh nopember surabaya, surabaya, indonesia"	-0.5327	-0.5826	108	3	3	1	1	1.4721	2019	1	1.4721
+1656	"information system department, faculty of information and communication technology, institut teknologi sepuluh nopember, surabaya, 60111, indonesia"	-0.295	0.542	221	0	0	1	0	0	2019	0	0
+1657	"information system department, institut teknologi sepuluh nopember, indonesia"	-0.1499	-0.8665	181	1	1	1	0	0	2019	0	0
+1658	"information system department, institut teknologi sepuluh nopember60111, indonesia"	0.197	0.7515	182	1	1	1	0	0	2019	0	0
+1659	"information system department, universitas sembilanbelas november kolaka, indonesia"	0.7482	-0.1649	150	2	2	1	0	0	2019	0	0
+1660	"information system department, university of nahdlatul ulama surabaya (unusa), indonesia"	0.224	-0.6709	5	6	6	2	2	2.9442	2019	1	1.4721
+1664	"information systems department, institut teknologi sepuluh nopember (its), surabaya, 60111, indonesia"	-0.1418	0.3812	107	3	3	2	0	0	2019	0	0
+1666	"information systems department, institut teknologi sepuluh nopember, kampus its sukolilo, jalan raya its, surabaya, 6011, indonesia"	0.7556	-0.3408	175	1	1	1	0	0	2019	0	0
+1669	"information systems department, narotama university, surabaya, 60111, indonesia"	-0.1419	0.381	107	2	2	1	0	0	2019	0	0
+1671	"information systems, institut teknologi sepuluh nopember, kampus its, jalan raya its-sukolilo-surabaya, 60111, indonesia"	0.0743	0.9203	62	2	2	1	1	1.4721	2019	1	1.4721
+1672	"information systems, stmik stikom bali, bali, indonesia"	0.3446	0.4494	149	2	2	1	1	1.4721	2019	1	1.4721
+1675	"information technology, tama institute of technology surabaya, adhi, indonesia"	0.3714	-0.252	3	22	22	1	1	1.4721	2019	1	1.4721
+1678	"institut de physique du globe de strasbourg—ipgs/cnrs umr 7516, university of strasbourg, strasbourg, france"	0.7713	0.2666	110	3	3	1	4	5.8884	2019	4	5.8884
+1679	"institut hindu dharma negeri denpasar, indonesia"	0.3431	-0.1717	20	9	9	1	0	0	2019	0	0
+1682	"institut teknologi bandung, bandun, indonesia"	0.3908	-0.7518	111	3	3	1	15	22.0815	2019	15	22.0815
+1683	"institut teknologi bandung, department of industrial engineering, bandung, indonesia"	-0.72	-0.1892	7	2	2	1	0	0	2019	0	0
+1684	"institut teknologi kalimantan, department of electrical engineering, balikpapan, indonesia"	-0.1542	-0.804	222	0	0	1	1	1.4721	2019	1	1.4721
+1696	"institut teknologi sepuluh nopember (its), surabaya, indonesia"	0.2195	0.8349	183	1	1	4	3	4.4163	2019	0.75	1.1041
+1697	"institut teknologi sepuluh nopember (its), surabaya, indonesia, surabaya, indonesia"	-0.3347	0.8813	90	3	3	1	0	0	2019	0	0
+1700	"institut teknologi sepuluh nopember surabaya, indonesia"	0.3208	-0.0955	2	3	3	1	1	1.4721	2019	1	1.4721
+1702	"institut teknologi sepuluh nopember, biomedical engineering department, surabaya, indonesia"	0.1115	-0.4502	196	1	2	2	0	0	2019	0	0
+1706	"institut teknologi sepuluh nopember, computer engineering dept, surabaya, indonesia"	-0.3527	0.254	151	2	2	2	0	0	2019	0	0
+1714	"institut teknologi sepuluh nopember, department of computer engineering, indonesia"	0.1103	-0.835	152	2	2	1	0	0	2019	0	0
+1715	"institut teknologi sepuluh nopember, department of computer engineering, surabaya, indonesia"	-0.7202	-0.1893	7	11	14	11	0	0	2019	0	0
+1717	"institut teknologi sepuluh nopember, department of electrical engineering, department of computer engineering, surabaya, indonesia"	-0.7149	-0.1784	7	1	2	3	1	1.4721	2019	0.3333	0.4907
+1721	"institut teknologi sepuluh nopember, department of electrical engineering, indonesia"	0.1103	-0.8348	152	2	2	1	0	0	2019	0	0
+1723	"institut teknologi sepuluh nopember, department of electrical engineering, surabaya, indonesia"	-0.715	-0.1788	7	4	9	31	1	1.4721	2019	0.0323	0.0475
+1727	"institut teknologi sepuluh nopember, department of industrial engineering, surabaya, indonesia"	0.0612	-0.8762	223	0	0	4	0	0	2019	0	0
+1730	"institut teknologi sepuluh nopember, department of informatics, surabaya, indonesia"	-0.3822	0.8451	153	2	2	5	0	0	2019	0	0
+1731	"institut teknologi sepuluh nopember, department of information system, surabaya, indonesia"	-0.3823	0.8452	153	2	2	2	0	0	2019	0	0
+1736	"institut teknologi sepuluh nopember, department of mathematics, surabaya, indonesia"	-0.6885	0.6261	154	2	2	5	0	0	2019	0	0
+1741	"institut teknologi sepuluh nopember, dept. of computer engineering, surabaya, indonesia"	-0.7519	-0.438	6	1	3	3	0	0	2019	0	0
+1744	"institut teknologi sepuluh nopember, dept. of electrical engineering, surabaya, indonesia"	-0.752	-0.4374	6	10	12	10	0	0	2019	0	0
+1749	"institut teknologi sepuluh nopember, electrical engineering department, computer engineering department, surabaya, indonesia"	-0.711	-0.1715	7	2	2	1	0	0	2019	0	0
+1750	"institut teknologi sepuluh nopember, electrical engineering department, surabaya, indonesia"	-0.7113	-0.172	7	3	4	11	0	0	2019	0	0
+1751	"institut teknologi sepuluh nopember, electrical engineering dept, surabaya, indonesia"	-0.3527	0.254	151	2	2	1	0	0	2019	0	0
+1755	"institut teknologi sepuluh nopember, indonesia"	-0.4705	0.1128	99	2	2	9	13	19.1373	2019	1.4444	2.1264
+1757	"institut teknologi sepuluh nopember, informatics dept, surabaya, indonesia"	-0.3527	0.2541	151	2	2	1	0	0	2019	0	0
+1769	"institut teknologi sepuluh nopember, kampus its, indonesia"	0.9318	-0.0128	22	7	7	2	0	0	2019	0	0
+1770	"institut teknologi sepuluh nopember, kampus its, jalan raya itssukolilo-surabaya60111, indonesia"	0.0744	0.9201	62	2	2	1	0	0	2019	0	0
+1774	"institut teknologi sepuluh nopember, manajemen teknologi informasi, surabaya, indonesia"	0.8102	-0.4465	115	3	3	1	0	0	2019	0	0
+1778	"institut teknologi sepuluh nopember, surabaya, 60111, indonesia"	-0.4706	0.1128	99	1	2	10	1	1.4721	2019	0.1	0.1472
+1780	"institut teknologi sepuluh nopember, surabaya, indonesia"	0.3162	-0.0964	2	39	51	26	41	60.3561	2019	1.5769	2.3214
+1787	"institute for energy technology, p.o. box 40, kjeller, no-2027, norway"	0.4886	0.7885	30	6	6	1	9	13.2489	2019	9	13.2489
+1789	"institute for marine research and observation (bpol)–ministry of marine affairs and fisheries of the republic of indonesia, jl. baru perancak, negara jembran-bali, 82251, indonesia"	-0.6083	0.1556	45	4	4	1	2	2.9442	2019	2	2.9442
+1790	"institute for pharmacy, university of tübingen, tübingen, germany"	-0.2429	-0.7337	32	5	5	1	1	1.4721	2019	1	1.4721
+1791	"institute of geography, vietnam academy of science and technology, viet nam"	-0.8304	0.2035	184	1	2	2	8	11.7768	2019	4	5.8884
+1792	"institute of graduate studies, university of malaya, kuala lumpur, 50603, malaysia"	0.7364	-0.5893	54	4	4	1	0	0	2019	0	0
+1793	"institute of materials and environmental chemistry, research centre for natural sciences, hungarian academy of sciences, h-1519 budapest, p.o. box 286, hungary"	-0.3297	-0.8824	50	4	4	1	8	11.7768	2019	8	11.7768
+1794	"institute of medical microbiology, university hospital of münster, münster, germany"	-0.2429	-0.7338	32	5	5	1	1	1.4721	2019	1	1.4721
+1796	"institute of molecular medicine and biotechnology, faculty of medicine, universiti teknologi mara sungai buloh campus, cawangan selangor, jalan hospital, sungai buloh selangor, 47000, malaysia"	0.3053	0.8822	23	6	6	1	4	5.8884	2019	4	5.8884
+1797	"institute of nano electronic engineering (inee), universiti malaysia perlis (unimap), kangar, perlis, 01000, malaysia"	0.7321	-0.5139	38	4	4	1	2	2.9442	2019	2	2.9442
+1798	"institute of physics and imn macronano ® (zik), ilmenau university of technology, ilmenau, 98693, germany"	0.8923	0.2065	47	4	4	1	3	4.4163	2019	3	4.4163
+1799	"institute of problems of chemical physics ras, chernogolovka, 142432, russian federation"	0.4886	0.7885	30	6	6	1	9	13.2489	2019	9	13.2489
+1801	"institute of social science, the university of tokyo, japan"	-0.6337	0.6863	21	2	2	1	5	7.3605	2019	5	7.3605
+1802	"institute of solid state physics ras, chernogolovla, 142432, russian federation"	0.4885	0.7887	30	6	6	1	9	13.2489	2019	9	13.2489
+1806	"institute of technology sepuluh november, department of multimedia and network engineering, surabaya, indonesia"	-0.5654	0.7608	112	3	4	2	1	1.4721	2019	0.5	0.736
+1807	"institute of tropical disease, universitas airlangga, kampus c unair, jl. mulyorejo, surabaya, 60115, indonesia"	-0.0022	-0.4496	28	3	3	1	0	0	2019	0	0
+1808	"institute of visual informatics, universiti kebangsaan malaysiaselangor, malaysia"	-0.7791	-0.3638	1	2	2	1	1	1.4721	2019	1	1.4721
+1812	"institute teknologi bandung, department of industrial engineering, bandung, indonesia"	0.6848	0.3117	155	2	2	1	0	0	2019	0	0
+1817	"institute teknologi sepuluh nopember, department of industrial engineering, surabaya, indonesia"	0.6848	0.3115	155	2	2	1	0	0	2019	0	0
+1820	"instrumentation engineering, faculty of vocation, institut teknologi sepuluh nopember, surabaya, 60111, indonesia"	-0.1322	-0.5431	141	2	2	1	0	0	2019	0	0
+1821	"inti international university, nilai, 71800, malaysia"	0.7363	-0.5893	54	4	4	1	0	0	2019	0	0
+1823	"ist austria, klosterneuburg, austria"	0.2242	-0.6624	5	8	8	1	1	1.4721	2019	1	1.4721
+1824	"its halal center, institut teknologi sepuluh nopember, arief rahman hakim st., keputih, sukolilo, surabaya, indonesia"	-0.4022	0.5329	84	3	3	1	1	1.4721	2019	1	1.4721
+1825	"its halal center, institute of research and community service, institut teknologi sepuluh nopember, surabaya, 60111, indonesia"	-0.7738	-0.3888	1	2	2	1	0	0	2019	0	0
+1826	"its, center of automotive control system iptek, surabaya, indonesia"	-0.517	-0.0342	42	2	2	1	0	0	2019	0	0
+1827	"its, department of mechanical engineering, surabaya, indonesia"	-0.5169	-0.0341	42	2	2	1	0	0	2019	0	0
+1833	"key laboratory of semiconductor materials science, beijing key laboratory of low dimensional semiconductor materials and devices, institute of semiconductors, chinese academy of sciences, beijing, 100083, china"	0.8924	0.2063	47	4	4	1	3	4.4163	2019	3	4.4163
+1834	"king mongkut's university of technology, department of computer science, thonburi, bangkok, thailand"	-0.7208	-0.1888	7	2	2	1	0	0	2019	0	0
+1835	"king mongkut's university of technology, school of information technology, thonburi, bangkok, thailand"	-0.7208	-0.1888	7	2	2	1	0	0	2019	0	0
+1836	"ks-gjt kelompok study geology jawa tengah, indonesia"	0.1516	0.9261	61	4	4	1	0	0	2019	0	0
+1839	"kumamoto university, department of computer science and electrical engineering, kumamoto, japan"	-0.7207	-0.1892	7	2	2	1	0	0	2019	0	0
+1844	"laboratoire de chimie analytique appliquée, matériaux et environnement (lc2ame), faculté des sciences, b.p. 717, oujda, 60000, morocco"	0.5752	0.179	35	5	5	1	1	1.4721	2019	1	1.4721
+1845	"laboratoire de physique et mécanique des matériaux, cnrs fre 3236, université de lorraine, ile du saulcy, metz cedex1, 57045, france"	-0.0809	0.8842	185	1	1	1	0	0	2019	0	0
+1847	"laboratoire image, ville, environnement—live cnrs umr 7362, department of geography, university of strasbourg, strasbourg, france"	0.7714	0.2664	110	3	3	1	4	5.8884	2019	4	5.8884
+1848	"laboratory of analytical chemistry, materials and environment (lc2ame), faculty of sciences, university of mohammed premier, b.p. 717, oujda, 60000, morocco"	0.8822	0.2839	36	5	5	1	12	17.6652	2019	12	17.6652
+1850	"laboratory of environmental remediation, department of environmental engineering, faculty of civil, environmental and geoengineering, sepuluh nopember institute of technology, surabaya, indonesia"	-0.6448	0.5438	44	4	4	1	1	1.4721	2019	1	1.4721
+1853	"laboratory of instrumentation and analytical sciences, chemistry department, institut teknologi sepuluh nopember, surabaya, indonesia"	-0.7738	-0.3888	1	2	2	1	0	0	2019	0	0
+1854	"laboratory of instrumentation and analytical sciences, department of chemistry, faculty of sciences, institut teknologi sepuluh nopember, surabaya, 60111, indonesia"	0.2041	0.6282	113	3	3	1	3	4.4163	2019	3	4.4163
+1855	"laboratory of marine operation and maintenance, department of marine engineering, institut teknologi sepuluh nopember, surabaya, indonesia"	0.6677	0.6388	124	2	3	2	1	1.4721	2019	0.5	0.736
+1856	"laboratory of material chemistry and energy, department of chemistry, faculty of mathematics and natural sciences, institut teknologi sepuluh nopember, surabaya, 60111, indonesia"	-0.9357	0.0372	48	4	4	1	6	8.8326	2019	6	8.8326
+1857	"laboratory of materials chemistry and energy, department of chemistry, faculty of mathematics and natural sciences, institute teknologi sepuluh nopember, surabaya, 60111, indonesia"	-0.0135	0.9346	27	6	6	1	0	0	2019	0	0
+1858	"laboratory of metrology industry, department of mechanical engineering, faculty of engineering, brawijaya university, malang, 65145, indonesia"	0.2041	0.6282	113	3	3	1	3	4.4163	2019	3	4.4163
+1859	"laboratory of natural products and synthetic chemistry, department of chemistry, faculty of sciences, institut teknologi sepuluh nopember, surabaya, indonesia"	0.8106	-0.4939	186	1	1	1	0	0	2019	0	0
+1861	"laboratory of plastics and rubber technology, department of physical chemistry and materials science, budapest university of technology and economics, h-1521 budapest91, hungary"	-0.3297	-0.8824	50	4	4	1	8	11.7768	2019	8	11.7768
+1862	"laboratory of valorization and technology of saharian resources (vtrs), faculty of technology, hamma lakhdar university39000, algeria"	0.8822	0.2838	36	5	5	1	12	17.6652	2019	12	17.6652
+1864	"laboratory of zoology, department of biology, faculty of mathematic and natural sciences, universitas pattimura, ambon, indonesia"	0.8106	-0.4938	186	1	1	1	0	0	2019	0	0
+1865	"lcompn-urac25, faculty of sciences, university mohamed 1st university, laboratory of organic chemistry macromolecular and natural products, bp 524, oujda, 60000, morocco"	0.8822	0.2837	36	5	5	1	12	17.6652	2019	12	17.6652
+1866	"lecrurer of engineering physics department, institut teknologi sepuluh nopember, surabaya, indonesia"	-0.6836	-0.6544	156	2	2	1	0	0	2019	0	0
+1867	"lix, ecole polytechnique, palaiseau, france"	0.2241	-0.6624	5	8	8	1	1	1.4721	2019	1	1.4721
+1870	"magister of physics engineering, institute of technology sepuluh nopember, surabaya, 60111, indonesia"	-0.4002	0.6891	24	6	6	1	7	10.3047	2019	7	10.3047
+1872	"magistry of civil engineering, universitas mataram (unram), indonesia"	-0.2732	0.3298	72	3	3	1	0	0	2019	0	0
+1873	"maintenance engineering, maintenance and utilities department, pt vale indonesia tbk's, soroako, indonesia"	-0.6836	-0.6544	156	2	2	1	0	0	2019	0	0
+1874	"malaysia-japan international institute of technology, universiti teknologi malaysia, kuala lumpur, 54100, malaysia"	0.7855	0.4452	8	3	3	1	1	1.4721	2019	1	1.4721
+1875	"malaysian pineapple industry board, malaysia"	0.9318	-0.0129	22	5	5	1	0	0	2019	0	0
+1876	"management business, narotama university, surabaya, 60117, indonesia"	0.0194	-0.9349	51	4	8	2	0	0	2019	0	0
+1877	"management of technology department, faculty of business and management of technology, sepuluh nopember institute of technology60264, indonesia"	0.4391	0.8348	176	1	1	1	1	1.4721	2019	1	1.4721
+1878	"marcs institute, western sydney university, sydney, australia"	0.3139	-0.099	2	3	3	1	1	1.4721	2019	1	1.4721
+1879	"marine biodiversity and conservation research group, ecology laboratory, department of biology, faculty of science, institut teknologi sepuluh nopember, jl. arief rahman hakim, surabaya, east java 60111, indonesia"	0.8851	-0.2764	157	2	2	2	3	4.4163	2019	1.5	2.2081
+1881	"marine electrical engineering study program, surabaya, 60111, indonesia"	-0.3037	-0.2756	18	5	19	5	0	0	2019	0	0
+1884	"marine engineering department, politeknik perkapalan negeri surabaya, jl. teknik kimia kampus its keputih-sukolilo, surabaya, 60111, indonesia"	-0.2649	-0.1403	187	1	1	1	5	7.3605	2019	5	7.3605
+1885	"marine engineering, its, indonesia"	0.2195	0.8348	183	1	1	1	3	4.4163	2019	3	4.4163
+1887	"marine science and fisheries faculty-raja ali haji maritime university, jl. politeknik senggarang-tanjungpinangriau islands province 29100, indonesia"	-0.6082	0.1557	45	4	4	1	2	2.9442	2019	2	2.9442
+1892	"material chemistry and energy laboratory, institut teknologi sepuluh nopember, surabaya, indonesia"	0.7317	-0.2623	224	0	0	1	1	1.4721	2019	1	1.4721
+1895	"material physics laboratory, department of physics, faculty of mathematics and natural science, universitas negeri makassar, jalan daeng tata raya, makassar, 90223, indonesia"	0.7206	0.614	68	3	3	1	0	0	2019	0	0
+1897	"materials and metallurgical engineering department, faculty of industrial technology, institut teknologi sepuluh nopember, surabaya, 60111, indonesia"	-0.3314	-0.544	9	4	4	1	0	0	2019	0	0
+1899	"materials and metallurgical engineering department, sepuluh nopember institute of technology, jalan raya its keputih sukolilo, surabaya, 60111, indonesia"	-0.3297	-0.8824	50	4	4	1	8	11.7768	2019	8	11.7768
+1900	"materials and metallurgical engineering department, sepuluh nopember institute of technology, surabaya, 60111, indonesia"	0.1438	0.8389	158	2	2	2	0	0	2019	0	0
+1902	"materials department of postgraduate program, sepuluh nopember institute of technology, surabaya, east java 60111, indonesia"	-0.5264	0.5819	97	3	3	1	0	0	2019	0	0
+1909	"mathematics department, faculty of science and technology, airlangga university, campus c unair, mulyorejo street, surabaya, 60115, indonesia"	0.8292	0.0185	145	2	2	1	3	4.4163	2019	3	4.4163
+1913	"mathematics department, institut teknologi sepuluh nopember surabaya, indonesia"	0.7482	-0.1649	150	2	2	1	0	0	2019	0	0
+1917	"mathematics education program study, faculty of teacher training and education, muhammadiyah university of surabaya, jl. sutorejo no. 59, surabaya, 60113, indonesia"	0.205	0.4265	102	3	3	1	0	0	2019	0	0
+1919	"mechanical and energy laboratory, faculty of sciences, mohammed premier university, oujda, morocco"	0.8822	0.2838	36	5	5	1	12	17.6652	2019	12	17.6652
+1922	"mechanical engineering departement, institut teknologi sepuluh nopember surabaya, indonesia"	0.1138	0.3718	225	0	0	2	1	1.4721	2019	0.5	0.736
+1925	"mechanical engineering department, faculty of engineering, state university of malang, malang, 65145, indonesia"	0.2042	0.6284	113	3	3	1	3	4.4163	2019	3	4.4163
+1926	"mechanical engineering department, faculty of industrial and technology, institut teknologi sepuluh november, surabaya, indonesia"	-0.3542	-0.0555	63	2	2	1	0	0	2019	0	0
+1929	"mechanical engineering department, faculty of industrial technology, its, indonesia"	0.4748	0.6748	159	2	2	1	0	0	2019	0	0
+1930	"mechanical engineering department, faculty of science and technology, universitas nahdlatul ulama sunan giri, bojonegoro, 62111, indonesia"	-0.0477	0.0521	146	2	2	1	0	0	2019	0	0
+1932	"mechanical engineering department, institut teknologi sepuluh nopember (its), jl. raya its, keputih, sukolilo, surabaya, 60111, indonesia"	0.7972	-0.2646	118	2	4	2	0	0	2019	0	0
+1933	"mechanical engineering department, institut teknologi sepuluh nopember (its), surabaya, 60111, indonesia"	-0.0282	0.2309	226	0	0	3	1	1.4721	2019	0.3333	0.4907
+1934	"mechanical engineering department, institut teknologi sepuluh nopember (its), surabaya, indonesia"	-0.1716	0.9066	160	2	2	2	0	0	2019	0	0
+1935	"mechanical engineering department, institut teknologi sepuluh nopember surabaya (its), surabaya, 60111, indonesia"	-0.4778	-0.6533	188	1	1	1	0	0	2019	0	0
+1937	"mechanical engineering department, institut teknologi sepuluh nopember, east java, surabaya, 60111, indonesia"	0.4362	0.4089	161	2	2	2	0	0	2019	0	0
+1938	"mechanical engineering department, institut teknologi sepuluh nopember, east java, surabaya, indonesia"	0.7079	0.1932	164	2	2	1	0	0	2019	0	0
+1939	"mechanical engineering department, institut teknologi sepuluh nopember, kampus its keputih-sukolilo, surabaya, 60111, indonesia"	-0.265	-0.1403	187	1	1	1	5	7.3605	2019	5	7.3605
+1940	"mechanical engineering department, institut teknologi sepuluh nopember, surabaya, 60111, indonesia"	0.0447	0.82	114	3	3	3	8	11.7768	2019	2.6667	3.9256
+1942	"mechanical engineering department, institut teknologi sepuluh november (its), surabaya, 60111, indonesia"	0.0459	0.2956	189	1	1	1	4	5.8884	2019	4	5.8884
+1944	"mechanical engineering department, petra christian university, jalan siwalankerto 121-131, surabaya, 60236, indonesia"	-0.3297	-0.8824	50	4	4	1	8	11.7768	2019	8	11.7768
+1945	"mechanical engineering department, petra christian university, surabaya, 60236, indonesia"	0.1438	0.8388	158	2	2	1	0	0	2019	0	0
+1946	"mechanical engineering department, politeknik aceh selatan, indonesia"	-0.4778	-0.6534	188	1	1	1	0	0	2019	0	0
+1948	"mechanical engineering department, south polytechnic aceh (poltas), aceh, 23751, indonesia"	0.0459	0.2957	189	1	1	1	4	5.8884	2019	4	5.8884
+1950	"mechanical engineering department, universitas 17 agustus 1945, surabaya, indonesia"	-0.1716	0.9066	160	1	1	1	0	0	2019	0	0
+1951	"mechanical engineering department, universitas muhammadiyah sidoarjo, jl. raya gelam no.250, sidoarjo, 61271, indonesia"	0.7973	-0.2646	118	2	4	2	0	0	2019	0	0
+1953	"mechanical engineering department, university of sumatera utara (usu), indonesia"	-0.2457	-0.9127	49	4	4	1	0	0	2019	0	0
+1956	"mechanical industry engineering department, faculty of vocational, its, indonesia"	0.4748	0.6748	159	2	2	1	0	0	2019	0	0
+1958	"mechatronics and industrial automation, pui--pt mia-rc), institut teknologi sepuluh nopember (its), surabaya, indonesia"	-0.1804	0.517	178	1	1	1	0	0	2019	0	0
+1959	"media, game, and mobile technologies research group, master of computer science brawijaya university, malang, indonesia"	-0.7751	-0.3874	1	1	1	1	0	0	2019	0	0
+1961	"meson science laboratory, nishina center for accelerator-based science, institute of physical and chemical research (riken), 2-1 hirosawa, wako, 351-0198, japan"	-0.2182	-0.0165	76	3	3	1	0	0	2019	0	0
+1962	"meson science laboratory, riken nishina center, 2-1 hirosawa, wako, saitama 351-0198, japan"	0.5424	-0.729	4	8	8	1	0	0	2019	0	0
+1963	"meson science laboratory, riken nishina center, wako, 351-0198, japan"	0.5495	-0.7211	4	3	3	1	1	1.4721	2019	1	1.4721
+1964	"microbial bioactive compounds, interfaculty institute of microbiology and infection medicine tübingen (imit), university of tübingen, tübingen, germany"	-0.243	-0.7338	32	5	5	1	1	1.4721	2019	1	1.4721
+1965	"microbial genetics, interfaculty institute of microbiology and infection medicine tübingen (imit), university of tübingen, tübingen, germany"	-0.2429	-0.7337	32	5	5	1	1	1.4721	2019	1	1.4721
+1966	"microbiology and biotechnology laboratory, department of biology, faculty of science, institut teknologi sepuluh nopember, jl. raya its, sukolilo, surabaya, east java 60111, indonesia"	0.0905	-0.9345	65	3	3	1	0	0	2019	0	0
+1967	"microbiology division, generasi biologi indonesia (genbinesia) foundation, gresik, indonesia"	-0.2431	-0.7336	32	5	5	1	1	1.4721	2019	1	1.4721
+1969	"muhammadiyah university of surabaya, indonesia"	0.2831	0.7773	144	1	1	2	1	1.4721	2019	0.5	0.736
+1970	"national health research inst., no. 35, keyan rd, zhunan, miaoli county, 35053, taiwan"	0.0896	-0.5215	227	0	0	1	0	0	2019	0	0
+1972	"national institute of oceanography and fisheries, al-kanater fish research station, cairo, egypt"	-0.0842	-0.685	13	4	4	1	5	7.3605	2019	5	7.3605
+1973	"national institute of technology niihama college, 7-1, niihama-shi, yagumocho, ehime prefecture 792-8580, japan"	-0.4412	-0.3173	81	2	2	1	3	4.4163	2019	3	4.4163
+1974	"national institute of technology niihama college, yagumocho, 7-1, niihama-shi, ehime prefecture, 792-8580, japan"	-0.4412	-0.3174	81	1	1	1	3	4.4163	2019	3	4.4163
+1975	"national institute of technology, wakayama, japan"	-0.781	0.4969	12	4	4	1	0	0	2019	0	0
+1976	"natural products and synthesis chemistry research laboratory, department of chemistry, faculty of science, institut teknologi sepuluh nopember, kampus its sukolilo, surabaya, 60111, indonesia"	-0.6376	-0.6937	190	1	1	1	3	4.4163	2019	3	4.4163
+1977	"natural products research section, research division, national cancer institute, bangkok, 10400, thailand"	-0.6377	-0.6939	190	1	1	1	3	4.4163	2019	3	4.4163
+1979	"norwegian university of science and technology, trondheim, norway"	0.4886	0.7887	30	6	6	1	9	13.2489	2019	9	13.2489
+1982	"pdm research group, university of sultan moulay slimane, av. mghila, beni-mellal, 592, morocco"	-0.4921	0.2904	33	5	5	1	0	0	2019	0	0
+1983	"perceptia devices australia pty. ltd., sydney, australia"	0.3139	-0.099	2	3	3	1	1	1.4721	2019	1	1.4721
+1984	"pertamina refinery unit iv, cilacap, indonesia"	-0.1222	0.2598	140	2	2	1	1	1.4721	2019	1	1.4721
+1986	"petroleum engineering, faculty of petroleum geoscience and petroleum engineering, universiti teknologi petronas, malaysia"	0.1458	-0.9412	169	1	1	1	0	0	2019	0	0
+1987	"pgsd studies program, cibiru regional campus, indonesian education university, indonesia"	0.343	-0.1715	20	9	9	1	0	0	2019	0	0
+1988	"pharmacy faculty, airlangga university, surabaya, indonesia"	-0.4923	0.1767	228	0	0	1	0	0	2019	0	0
+1992	"photonics engineering laboratory, department of engineering physics, faculty of industrial technology, institut teknologi sepuluh nopember, surabaya, 60111, indonesia"	0.4401	0.3223	170	1	2	5	0	0	2019	0	0
+1997	"photonics research centre, university of malaya, kuala lumpur, 50603, malaysia"	0.7363	-0.5893	54	4	4	1	0	0	2019	0	0
+1998	"photonics research centre, university of malaya, kuala, lumpur, 50603, malaysia"	0.7859	0.4464	8	2	2	1	2	2.9442	2019	2	2.9442
+2005	"physics department, faculty of mathematics and natural sciences, universitas negeri surabaya, kampus unesa ketintang, surabaya, 60231, indonesia"	0.3693	0.6211	162	2	4	2	3	4.4163	2019	1.5	2.2081
+2007	"physics department, faculty of science, institute of technology sepuluh nopember, surabaya, 6200, indonesia"	0.8924	0.2064	47	4	4	1	3	4.4163	2019	3	4.4163
+2010	"physics department, institut teknologi sepuluh nopember, indonesia"	-0.8312	-0.016	163	2	2	1	0	0	2019	0	0
+2014	"physics department, institut teknologi sepuluh nopember, kampus its sukolilo, surabaya, east java 60111, indonesia"	-0.6745	0.0378	46	4	4	1	0	0	2019	0	0
+2018	"physics department, postgraduate program, institut teknologi sepuluh nopember, kampus its keputih, sukolilo, surabaya, 60111, indonesia"	0.3693	0.6211	162	2	4	2	3	4.4163	2019	1.5	2.2081
+2020	"physics department, universitas bangka belitung, indonesia"	-0.8314	-0.0159	163	2	2	1	0	0	2019	0	0
+2021	"physics department, universitas lambung mangkurat, indonesia"	-0.8313	-0.016	163	2	2	1	0	0	2019	0	0
+2023	"physics department, university of indonesia, depok, 16424, indonesia"	-0.6745	0.0378	46	4	4	1	0	0	2019	0	0
+2024	"physics department, university of tadulako, palu, central sulawesi 94118, indonesia"	-0.6745	0.0378	46	4	4	1	0	0	2019	0	0
+2027	"physics education, universitas negeri yogyakarta, yogyakarta, indonesia"	-0.4246	-0.7306	59	4	4	1	0	0	2019	0	0
+2028	"physics engineering its surabaya, indonesia"	-0.833	0.3419	142	2	2	1	0	0	2019	0	0
+2029	"physics, institut teknologi sepuluh nopember, surabaya, indonesia"	-0.4246	-0.7306	59	4	4	1	0	0	2019	0	0
+2030	"physics, national sun yat-sen university, kaohsiung, taiwan"	-0.4246	-0.7306	59	4	4	1	0	0	2019	0	0
+2033	"politeknik app jakarta indonesia, indonesia"	0.3721	-0.2535	3	22	22	1	1	1.4721	2019	1	1.4721
+2034	"politeknik app jakarta, jakarta, indonesia"	0.3084	-0.0721	2	7	7	1	9	13.2489	2019	9	13.2489
+2036	"politeknik elektronika negeri surabaya, department of creative multimedia, surabaya, indonesia"	-0.5653	0.7609	112	2	2	1	0	0	2019	0	0
+2037	"politeknik elektronika negeri surabaya, department of electrical engineering, surabaya, indonesia"	-0.5653	0.7609	112	2	2	1	1	1.4721	2019	1	1.4721
+2041	"politeknik elektronika negeri surabaya, jl. raya its, kampus pens sukolilo, surabaya, 60111, indonesia"	-0.0589	0.1444	191	1	1	1	0	0	2019	0	0
+2044	"politeknik negeri banyuwangi, department of informatics engineering, banyuwangi, indonesia"	-0.7147	-0.1784	7	1	2	2	0	0	2019	0	0
+2045	"politeknik negeri jember, engineering dept., jember, indonesia"	0.8102	-0.4465	115	3	3	1	0	0	2019	0	0
+2046	"politeknik negeri jember, information technology, jember, indonesia"	0.81	-0.4464	115	3	3	1	0	0	2019	0	0
+2048	"politeknik negeri semarang indonesia, indonesia"	0.3711	-0.252	3	22	22	1	1	1.4721	2019	1	1.4721
+2050	"politeknik perkapalan negeri surabaya, automation engineering, surabaya, indonesia"	0.8102	-0.4465	115	3	3	1	0	0	2019	0	0
+2052	"politeknik perkapalan negeri surabaya, kampus its sukolilo, jalan teknik kimia, surabaya, 60111, indonesia"	-0.9323	-0.1029	11	2	3	2	17	25.0257	2019	8.5	12.5128
+2053	"politeknik perkapalan negeri surabaya, surabaya, indonesia"	0.8691	0.3506	75	3	3	1	1	1.4721	2019	1	1.4721
+2054	"politeknik piksi ganesha, indonesia"	0.3721	-0.2531	3	22	22	1	1	1.4721	2019	1	1.4721
+2055	"politeknik statistika stis, bps, jakarta, indonesia"	-0.4302	-0.838	29	3	3	1	4	5.8884	2019	4	5.8884
+2056	"politeknik statistika stis, jakarta, indonesia"	0.8472	-0.1812	173	1	1	2	1	1.4721	2019	0.5	0.736
+2057	"polytechnic manufacture of astra, jakarta, indonesia"	-0.2132	0.9281	88	3	3	1	0	0	2019	0	0
+2059	"post-doctoral researcher, department of chemical and process engineering, faculty of engineering and built environment, universiti kebangsaan malaysia, ukm bangiselangor 43600, malaysia"	-0.9318	-0.1032	11	4	4	1	14	20.6094	2019	14	20.6094
+2060	"power system laboratory, kumamoto university, japan"	0.3208	-0.0954	2	4	6	2	1	1.4721	2019	0.5	0.736
+2062	"prfn batan, puspiptek serpong region building 71, south tangerang, indonesia"	-0.0497	-0.1884	192	1	1	1	0	0	2019	0	0
+2068	"professor of marine engineering, department of marine engineering, institut teknologi sepuluh nopember, surabaya, 60111, indonesia"	0.3987	0.726	121	1	1	1	2	2.9442	2019	2	2.9442
+2069	"program of electrical engineering, bontang high school of technology (stitek), bontang-east borneo, indonesia"	-0.0495	-0.1884	192	1	1	1	0	0	2019	0	0
+2070	"program studi hukum, universitas muhammadiyah sidoarjo, indonesia"	0.3198	-0.8866	193	1	1	1	0	0	2019	0	0
+2071	"program studi teknik elektro, universitas muhammadiyah sidoarjo, indonesia"	0.3198	-0.8865	193	1	1	1	0	0	2019	0	0
+2074	"pt. esta indonesia, semarang, indonesia"	-0.6448	0.5439	44	4	4	1	1	1.4721	2019	1	1.4721
+2075	"pt. hutama marga waskita, east jakarta, 13840, indonesia"	-0.2577	0.5129	229	0	0	1	1	1.4721	2019	1	1.4721
+2076	"pt. indo tambangraya megah (itm) banpu power jakarta, indonesia"	0.0793	0.1996	135	2	2	1	0	0	2019	0	0
+2077	"pt. indonesia power, jakarta, indonesia"	-0.6336	0.6855	21	2	2	1	0	0	2019	0	0
+2078	"pt. jaya konstruksi manggala pratama, tbk, jakarta, indonesia"	-0.6448	0.5439	44	4	4	1	1	1.4721	2019	1	1.4721
+2080	"pt. pembangkitan jawa bali, indonesia"	-0.4705	0.1127	99	1	1	1	1	1.4721	2019	1	1.4721
+2083	"pusat penelitian dan pengembangan tanaman pangan, jl. merdeka no. 147, bogor, 16111, indonesia"	0.9308	0.1572	64	3	3	1	0	0	2019	0	0
+2086	"pusat sosial ekonomi dan kebijakan pertanian, jl. tentara pelajar no. 3b, bogor, 16111, indonesia"	0.9307	0.1573	64	3	3	1	0	0	2019	0	0
+2087	"r&d headquarters, dks co. ltd., 5 ogawara-cho, kisshoin, minami-ku, kyoto, 601-8391, japan"	-0.3361	-0.789	80	3	3	1	5	7.3605	2019	5	7.3605
+2089	"research and development bureau, ministry of marine affairs and fisheries republic of indonesia, jakarta utara, jakarta 14430, indonesia"	0.8851	-0.2764	157	2	2	1	3	4.4163	2019	3	4.4163
+2091	"research center for biotechnology, indonesian institute of sciences, jl. raya bogor km 46, cibinong, bogor, west java 16911, indonesia"	0.0905	-0.9345	65	3	3	1	0	0	2019	0	0
+2092	"research center for chemistry, indonesian institute of sciences, kawasan puspiptek serpong, tangerang selatan, banten, 15314, indonesia"	0.5684	0.7406	40	4	4	1	5	7.3605	2019	5	7.3605
+2094	"research center for electrical power and mechatronics, indonesian institute of sciences, lipi, indonesia"	-0.517	-0.0343	42	5	5	2	0	0	2019	0	0
+2095	"research center for electronics and telecommunications, indonesian institute of sciences, bandung, indonesia"	-0.1248	-0.2639	147	2	2	1	0	0	2019	0	0
+2096	"research center for metallurgy and materials, indonesian institute of sciences (lipi), kawasan puspiptek gd. 470, tangerang selatan, banten 15314, indonesia"	-0.8526	0.1283	131	2	2	1	0	0	2019	0	0
+2097	"research center for metallurgy and materials, indonesian institute of sciences, south tangerang, banten 15314, indonesia"	-0.5265	0.5819	97	3	3	1	0	0	2019	0	0
+2098	"research center for nanosciences and nanotechnology, institut teknologi bandung, jl. ganesha no. 10, bandung, 40132, indonesia"	-0.4922	0.2904	33	5	5	1	0	0	2019	0	0
+2099	"research center for physics, indonesian institute of science (lipi), tangerang selatan, 15314, indonesia"	0.736	0.0687	95	3	3	1	0	0	2019	0	0
+2100	"research center for physics, indonesian institute of science, south tangerang, 15314, indonesia"	-0.6745	0.0378	46	4	4	1	0	0	2019	0	0
+2102	"research center for physics, indonesian institute of sciences, south tangerang, 69561-3865, indonesia"	-0.1323	-0.5431	141	2	2	1	0	0	2019	0	0
+2103	"research center of physics, indonesian institute of science, serpong, indonesia"	-0.5544	0.5113	230	0	0	3	2	2.9442	2019	0.6667	0.9814
+2108	"research unit of mineral technology, indonesian institute of sciences, lampung, 35361, indonesia"	-0.9113	-0.018	119	2	2	1	0	0	2019	0	0
+2111	"school for engineering of matter transport, and energy, arizona state university, tempe, az 85287-6106, united states"	0.1438	0.8388	158	2	2	1	0	0	2019	0	0
+2113	"school of applied science, telkom university, bandung, indonesia"	-0.7791	-0.3649	1	1	1	1	8	11.7768	2019	8	11.7768
+2117	"school of bioprocess engineering, universiti malaysia perlis, jejawi, arau, perlis, 02600, malaysia"	-0.3314	-0.544	9	4	4	1	0	0	2019	0	0
+2118	"school of chemical and biomolecular engineering, university of sydneynsw 2006, australia"	-0.3235	0.1212	120	2	2	1	0	0	2019	0	0
+2119	"school of chemical and energy engineering, faculty of engineering, universiti teknologi malaysia utm, johor bahru, 81310, malaysia"	-0.0525	0.5538	231	0	0	1	1	1.4721	2019	1	1.4721
+2120	"school of chemical and energy engineering, faculty of engineering, universiti teknologi malaysia, johor bahru, 81310, malaysia"	0.2879	-0.837	194	1	2	2	0	0	2019	0	0
+2121	"school of civil and environmental engineering, the university of new south wales, sydney, nsw 2052, australia"	0.69	-0.1648	232	0	0	1	3	4.4163	2019	3	4.4163
+2122	"school of civil engineering, faculty of engineering, universiti teknologi malaysia, skudai, johor 81310, malaysia"	0.8304	-0.0861	69	3	3	1	20	29.442	2019	20	29.442
+2124	"school of environmental and natural resource sciences, faculty of science and technology, universiti kebangsaan malaysia, bangi, selangor, 43600, malaysia"	-0.7396	0.3949	92	3	3	1	0	0	2019	0	0
+2125	"school of environmental engineering, universiti malaysia perlis, jejawi, arau, perlis, 02600, malaysia"	-0.3314	-0.5439	9	4	4	1	0	0	2019	0	0
+2126	"school of foundation and inter disciplinary studies, drb-hicom university of automotive malaysia, peramu jaya industrial area, pekan, pahang 26607, malaysia"	-0.813	-0.3915	41	2	2	1	7	10.3047	2019	7	10.3047
+2127	"school of foundation and inter disciplinary studies, drb-hicom university of automotive malaysia, peramu jaya industrial area, pekan, pahang, 26607, malaysia"	-0.8124	-0.3914	41	1	1	1	0	0	2019	0	0
+2128	"school of industrial engineering and engineering management, mapua university, 658 muralla st., intramuros, manila 1002, philippines"	0.9111	0.0548	233	0	0	1	13	19.1373	2019	13	19.1373
+2130	"school of industrial engineering and engineering management, mapua university, philippines"	0.3908	-0.7518	111	3	3	1	15	22.0815	2019	15	22.0815
+2131	"school of materials and mineral resources engineering, universiti sains malaysia, nibong tebal, penang, 14300, malaysia"	-0.3308	-0.5447	9	7	7	2	0	0	2019	0	0
+2132	"school of materials and mineral resources engineering, universiti sains malaysia, seri ampangan, nibong tebal, pulau pinang, malaysia"	-0.3301	-0.5458	9	2	2	1	0	0	2019	0	0
+2133	"school of materials engineering, universiti malaysia perlis, jejawi, arau, perlis, 02600, malaysia"	-0.3314	-0.544	9	4	4	1	0	0	2019	0	0
+2135	"school of postgraduate studies, diponegoro university, semarang, 50275, indonesia"	-0.0134	0.9345	27	6	6	1	0	0	2019	0	0
+2136	"school of transportation, wuhan university of technology, china"	-0.9056	0.2368	39	5	5	1	0	0	2019	0	0
+2138	"sekolah tinggi ilmu keperawatan ppni jawa barat, bandung, indonesia"	-0.4302	-0.8381	29	3	3	1	4	5.8884	2019	4	5.8884
+2143	"sekolah tinggi teknologi nuklir, national nuclear energy agency of indonesia, yogyakarta, 55281, indonesia"	0.5474	-0.7273	4	5	5	1	0	0	2019	0	0
+2144	"sepuluh nopember institute of techhnology, surabaya, 60111, indonesia"	-0.3035	-0.2754	18	6	26	7	0	0	2019	0	0
+2146	"sepuluh nopember institute of technology, center of automotive control system iptek, surabaya, indonesia"	-0.517	-0.0344	42	3	3	1	0	0	2019	0	0
+2152	"sepuluh nopember institute of technology, department of mechanical engineering, surabaya, indonesia"	-0.517	-0.0344	42	3	3	1	0	0	2019	0	0
+2158	"sepuluh nopember institute of technology, marine technology faculty, marine engineering department, east java, surabaya, indonesia"	-0.8405	0.4171	101	3	3	1	0	0	2019	0	0
+2159	"sepuluh nopember institute of technology, national ship design and engineering center, east java, surabaya, indonesia"	-0.8405	0.4173	101	3	3	1	0	0	2019	0	0
+2161	"sepuluh nopember institute of technology, surabaya, indonesia"	-0.7808	0.4982	12	4	4	4	2	2.9442	2019	0.5	0.736
+2162	"sepuluh november institute of technology, department of electrical engineering, surabaya, indonesia"	-0.1248	-0.2639	147	2	2	1	0	0	2019	0	0
+2164	"shibaura institute of technology, department of mathematical sciences, saitama, japan"	-0.6883	0.6262	154	2	2	1	0	0	2019	0	0
+2165	"shipbuilding institute of polytechnic surabaya, indonesia"	-0.3542	-0.0558	63	2	2	1	0	0	2019	0	0
+2167	"shipbuilding institute of polytechnic surabaya, surabaya, 60111, indonesia"	-0.3042	-0.2759	18	5	9	4	0	0	2019	0	0
+2168	"shipbuilding institute polytechnic of surabaya, surabaya, 60111, indonesia"	-0.3031	-0.2752	18	5	18	5	0	0	2019	0	0
+2171	"slolop marine conservation community, bungatan, situbondoeast java 68358, indonesia"	0.8851	-0.2766	157	2	2	1	3	4.4163	2019	3	4.4163
+2172	"sma taruna bakti, jl. l.lre. marthadinata no. 52, bandung, indonesia"	-0.3887	0.4203	133	2	2	1	0	0	2019	0	0
+2173	"small-medium sized enterprise of soy milk, rungkut surabaya, 60293, indonesia"	0.019	-0.8004	116	1	1	1	0	0	2019	0	0
+2175	"sndaru candra sukmana, department of engineering management, universitas internasional, semen, indonesia"	0.401	0.8626	172	1	1	1	2	2.9442	2019	2	2.9442
+2176	"sociology department, faculty of arts, indonesia"	0.3097	-0.0974	122	3	3	1	0	0	2019	0	0
+2177	"solusi indonesia, surabaya, indonesia"	-0.0325	-0.3025	179	1	1	1	0	0	2019	0	0
+2179	"sports innovation and technology centre (sitc), institute of human centred and engineering (ihce), universiti teknologi malaysia, johor bahru, 81310, malaysia"	-0.4003	0.689	24	6	6	1	7	10.3047	2019	7	10.3047
+2180	"state key laboratory of novel software techniques, nanjing university, nanjing, jiangsu, china"	0.2241	-0.6627	5	8	8	1	1	1.4721	2019	1	1.4721
+2181	"statistic department, institut teknologi sepuluh nopember, surabaya, 60111, indonesia"	0.0447	0.82	114	3	3	1	0	0	2019	0	0
+2183	"statistics department, faculty of mathematics and natural sciences, padjadjaran university, jl. raya bandung-sumedang km. 21, jatinangor, 45363, indonesia"	0.205	0.4265	102	3	3	1	0	0	2019	0	0
+2185	"statistics department, institut teknologi sepuluh nopember jl. arif rahman hakim, surabaya, 60111, indonesia"	0.2049	0.4264	102	3	3	1	0	0	2019	0	0
+2186	"statistics department, institut teknologi sepuluh nopember surabaya, indonesia"	0.7482	-0.165	150	2	2	1	0	0	2019	0	0
+2187	"statistics department, institut teknologi sepuluh nopember, east java, surabaya, indonesia"	0.7079	0.1931	164	2	2	1	0	0	2019	0	0
+2189	"statistics department, sepuluh nopember institute of technology, campus of sukolilo, surabaya, 60111, indonesia"	0.8292	0.0186	145	2	2	1	3	4.4163	2019	3	4.4163
+2190	"stem cell research and development center, universitasairlangga, kampus c unair, jl. mulyorejo, surabaya, 60115, indonesia"	-0.0022	-0.4495	28	3	3	1	0	0	2019	0	0
+2191	"stikes banyuwangi, indonesia"	0.3433	-0.1715	20	9	9	1	0	0	2019	0	0
+2192	"stikom tunas bangsa pematangsiantar, medan, indonesia"	0.3081	-0.0752	2	16	23	4	34	50.0514	2019	8.5	12.5128
+2193	"stikom tunas bangsa, pematangsiantar, sumatera utara, indonesia"	0.3148	-0.0817	2	6	7	2	3	4.4163	2019	1.5	2.2081
+2194	"stkip pgri lamongan, indonesia"	0.3711	-0.2528	3	22	22	1	1	1.4721	2019	1	1.4721
+2195	"stkip pgri tulungagung, indonesia"	0.3581	-0.2134	3	31	31	2	1	1.4721	2019	0.5	0.736
+2196	"stmik asia malang, jl. soekarno hatta - rembuksari 1a, malang, 61234, indonesia"	0.0744	0.9202	62	2	2	1	0	0	2019	0	0
+2197	"stmik asia malang, jl. soekarno hatta, rembuksari 1a malang, 61234, indonesia"	0.0743	0.9203	62	2	2	1	1	1.4721	2019	1	1.4721
+2199	"stmik ikmi cirebon, jawa barat, indonesia"	0.3089	-0.0729	2	8	11	2	18	26.4978	2019	9	13.2489
+2200	"stmik kaputama binjai, sumatera utara, indonesia"	0.3153	-0.0825	2	4	4	1	3	4.4163	2019	3	4.4163
+2201	"stmik stikom indonesia, bali, denpasar, indonesia"	0.3118	-0.0771	2	8	10	2	9	13.2489	2019	4.5	6.6244
+2203	"student of engineering physics department, institut teknologi sepuluh nopember, surabaya, indonesia"	-0.6834	-0.6545	156	2	2	1	0	0	2019	0	0
+2206	"study program of environmental engineering, department of biology, faculty of science and technology, universitas airlangga, kampus c unair, jalan mulyorejo, surabaya, 60115, indonesia"	-0.9321	-0.1032	11	8	10	6	47	69.1887	2019	7.8333	11.5314
+2207	"study program of environmental engineering, department of biology, faculty of science and technology, universitas airlangga, kampus c unair, jalan, mulyorejo, surabaya, 60115, indonesia"	-0.9326	-0.1022	11	3	3	1	4	5.8884	2019	4	5.8884
+2208	"study program of environmental engineering, department of biology, universitas airlangga, indonesia"	0.8644	-0.36	17	1	1	1	1	1.4721	2019	1	1.4721
+2209	"study program of environmental engineering, department of biology, universitas airlangga, surabaya, 60115, indonesia"	0.8656	-0.3598	17	5	5	2	0	0	2019	0	0
+2210	"study program of medical laboratory technology, university of nahdlatul ulama surabaya, surabaya, indonesia"	-0.0084	0.3588	195	1	1	1	0	0	2019	0	0
+2211	"study program of statistics, universitas sebelas maret, surakarta, indonesia"	-0.4616	0.8123	16	3	3	1	2	2.9442	2019	2	2.9442
+2212	"study program of waste treatment engineering, department of marine engineering, politeknik perkapalan negeri surabaya, jalan teknik kimia, kampus its keputih, sukolilo, surabaya, 60111, indonesia"	-0.9322	-0.1036	11	1	2	3	17	25.0257	2019	5.6667	8.3419
+2213	"study program of waste treatment engineering, department of marine engineering, politeknik perkapalan negeri surabaya, jalan teknik kimia, kampus its sukolilo, surabaya, 60111, indonesia"	-0.9325	-0.1022	11	4	4	2	8	11.7768	2019	4	5.8884
+2214	"study program of waste treatment engineering, department of marine engineering, politeknik perkapalan negeri surabaya, jalan teknik kimia, kampus its sukolilo, surabaya, 60117, indonesia"	-0.9322	-0.1036	11	1	1	1	1	1.4721	2019	1	1.4721
+2215	"study program of waste treatment engineering, politeknik perkapalan negeri surabaya, jalan teknik kimia, kampus its sukolilo, surabaya, 60111, indonesia"	-0.9318	-0.1031	11	4	4	1	14	20.6094	2019	14	20.6094
+2216	"sumatera institute of technology, bandar lampung, indonesia"	-0.7806	0.4984	12	3	3	1	1	1.4721	2019	1	1.4721
+2217	"surabaya pharmacy academy, surabaya, 60232, indonesia"	0.6447	0.0801	123	2	2	1	0	0	2019	0	0
+2221	"synchrotron light research institute (pubilc organization), sirindhornwitchothai building 111 university avenue, muang, nakhon ratchasima 30000, thailand"	0.0193	0.1465	234	0	0	1	0	0	2019	0	0
+2222	"synchrotron light research institute (public organisation), nakhon ratchasima, thailand"	0.7068	-0.0573	57	3	3	1	3	4.4163	2019	3	4.4163
+2224	"synchrotron light research institute (slri), muang district, 111 university avenue, nakhon ratchasima, 30000, thailand"	-0.1629	-0.9329	132	2	2	1	1	1.4721	2019	1	1.4721
+2225	"synchrotron light research institute, muang, nakhon ratchasima, 30000, thailand"	0.4037	-0.8489	15	6	6	2	1	1.4721	2019	0.5	0.736
+2228	"technical implementation unit of social sciences and humanities, institut teknologi sepuluh nopember surabaya, sukolilo, surabaya, 60111, indonesia"	-0.2283	-0.8482	117	3	3	1	0	0	2019	0	0
+2230	"technology management department, institut teknologi sepuluh nopember, east java, surabaya, 60111, indonesia"	0.4363	0.409	161	2	2	1	0	0	2019	0	0
+2231	"technology management department, institut teknologi sepuluh nopember, east java, surabaya, indonesia"	0.7079	0.1932	164	2	2	1	0	0	2019	0	0
+2232	"technology management department, institut teknologi sepuluh nopember, surabaya, 60111, indonesia"	0.0447	0.82	114	3	3	1	0	0	2019	0	0
+2236	"theoretical physics research group, dep. of physics, fac. of science and technology, airlangga university, jl. mulyorejo, surabaya, 60115, indonesia"	0.9298	-0.1049	74	3	3	1	0	0	2019	0	0
+2240	"tohoku university, graduate school of biomedical engineering, sendai, japan"	0.1116	-0.4503	196	1	2	2	0	0	2019	0	0
+2241	"tokyo metropolitan university, asahigaoka 6-6, hino, tokyo, 191-0065, japan"	-0.0589	0.1442	191	1	1	1	0	0	2019	0	0
+2242	"toyota physical and chemical research institute, yokomichi 41-1, nagakute, aichi, 480-1192, japan"	0.5475	-0.7274	4	5	5	1	0	0	2019	0	0
+2243	"transportation and infrastructure materials research, aecom 12 regan way, nottingham, ng9 6rz, united kingdom"	-0.238	0.449	235	0	0	1	0	0	2019	0	0
+2245	"univ. bordeaux, cnrs, bordeaux inp, icmcb, umr 5026, pessac f, 33600, france"	-0.5208	-0.7805	31	5	5	1	5	7.3605	2019	5	7.3605
+2246	"universidade do porto, portugal"	0.3095	-0.0973	122	3	3	1	0	0	2019	0	0
+2247	"universitas 45 surabaya, indonesia"	0.3721	-0.2525	3	22	22	1	1	1.4721	2019	1	1.4721
+2248	"universitas 45 surabaya, surabaya, indonesia"	0.3106	-0.0755	2	8	11	2	18	26.4978	2019	9	13.2489
+2249	"universitas airlangga, department of dermatology and venereology, surabaya, indonesia"	-0.7196	-0.1881	7	3	3	1	0	0	2019	0	0
+2250	"universitas airlangga, department of mathematics, surabaya, indonesia"	-0.6884	0.6262	154	2	2	1	0	0	2019	0	0
+2254	"universitas darussalam gontor, jawa timur, indonesia"	0.3119	-0.0772	2	8	10	2	9	13.2489	2019	4.5	6.6244
+2255	"universitas dayanu ikhsanudin indonesia, indonesia"	0.3717	-0.2527	3	22	22	1	1	1.4721	2019	1	1.4721
+2257	"universitas diponegoro, semarang, indonesia"	-0.781	0.4969	12	4	4	1	0	0	2019	0	0
+2258	"universitas dr. soetomo, department of informatics, surabaya, indonesia"	-0.7208	-0.1892	7	2	2	1	0	0	2019	0	0
+2259	"universitas efarina, sumatera utara, indonesia"	0.3155	-0.0824	2	4	4	1	3	4.4163	2019	3	4.4163
+2261	"universitas gadjah mada, department of industrial engineering, yogyakarta, indonesia"	-0.7201	-0.1892	7	2	2	1	0	0	2019	0	0
+2262	"universitas gadjah mada, department of mechanical and industrial engineering, yogyakarta, indonesia"	0.6848	0.3117	155	2	2	1	0	0	2019	0	0
+2263	"universitas gadjah mada, yogyakarta, indonesia"	0.3208	-0.0954	2	3	3	1	0	0	2019	0	0
+2264	"universitas halu oleo, kendari, indonesia"	0.3054	-0.0773	2	5	5	1	7	10.3047	2019	7	10.3047
+2265	"universitas hamzanwadi, indonesia"	0.3722	-0.252	3	22	22	1	1	1.4721	2019	1	1.4721
+2266	"universitas hasanuddin makassar, indonesia"	0.3723	-0.2516	3	22	22	1	1	1.4721	2019	1	1.4721
+2267	"universitas hasanuddin, department of informatics, makassar, indonesia"	-0.7197	-0.1881	7	3	3	1	0	0	2019	0	0
+2268	"universitas hkbp nommensen, medan, indonesia"	0.3054	-0.0773	2	5	5	1	7	10.3047	2019	7	10.3047
+2269	"universitas indonesia, department of computer engineering, jakarta, indonesia"	-0.7198	-0.1881	7	3	3	1	0	0	2019	0	0
+2274	"universitas islam madura, department of information system, pamekasan, indonesia"	-0.3822	0.8451	153	2	2	1	0	0	2019	0	0
+2276	"universitas islam negeri maulana malik ibrahim malang, malang, indonesia"	0.3111	-0.0758	2	7	7	1	9	13.2489	2019	9	13.2489
+2277	"universitas katolik widya mandira, dept. of computer science, kupang, indonesia"	-0.7541	-0.4324	6	5	5	1	0	0	2019	0	0
+2278	"universitas kristen maranatha, indonesia"	0.3728	-0.2522	3	22	22	1	1	1.4721	2019	1	1.4721
+2279	"universitas lambung mangkurat indonesia, indonesia"	0.3731	-0.2524	3	22	22	1	1	1.4721	2019	1	1.4721
+2280	"universitas lancang kuning, indonesia"	0.3731	-0.252	3	22	22	1	1	1.4721	2019	1	1.4721
+2282	"universitas malikussaleh, indonesia"	0.3729	-0.2532	3	22	22	1	1	1.4721	2019	1	1.4721
+2283	"universitas malikussaleh, lhokseumawe, aceh, indonesia"	0.3429	-0.1716	20	9	9	1	0	0	2019	0	0
+2286	"universitas muhammadiyah sorong, indonesia"	0.3715	-0.2532	3	22	22	1	1	1.4721	2019	1	1.4721
+2289	"universitas musamus, dept. of electrical engineering, merauke, indonesia"	-0.7513	-0.4388	6	2	2	1	0	0	2019	0	0
+2290	"universitas nadlatul ulama, sidoarjo, indonesia"	0.3153	-0.0825	2	4	4	1	3	4.4163	2019	3	4.4163
+2291	"universitas nahdlatul ulama surabaya, engineering department, surabaya, indonesia"	-0.5653	0.7609	112	3	4	2	1	1.4721	2019	0.5	0.736
+2292	"universitas narotama, surabaya, indonesia"	-0.781	0.4979	12	2	2	2	0	0	2019	0	0
+2293	"universitas negeri jakarta, indonesia"	0.3711	-0.2525	3	22	22	1	1	1.4721	2019	1	1.4721
+2295	"universitas negeri malang, indonesia"	0.3714	-0.2517	3	22	22	2	1	1.4721	2019	0.5	0.736
+2296	"universitas negeri semarang indonesia, indonesia"	0.373	-0.2528	3	22	22	1	1	1.4721	2019	1	1.4721
+2297	"universitas negeri semarang, indonesia"	0.9319	-0.0126	22	2	2	1	0	0	2019	0	0
+2298	"universitas negeri yogyakarta, indonesia"	0.343	-0.1715	20	9	9	1	0	0	2019	0	0
+2299	"universitas negeri yogyakarta, yogyakarta, indonesia"	-0.4246	-0.7306	59	4	4	1	0	0	2019	0	0
+2302	"universitas pasir pengaraian, riau, indonesia"	0.3097	-0.0739	2	12	18	3	27	39.7467	2019	9	13.2489
+2303	"universitas pembangunan nasional veteran, jawa timur, indonesia"	0.3726	-0.2527	3	22	22	1	1	1.4721	2019	1	1.4721
+2305	"universitas pendidikan ganesha, indonesia"	0.3727	-0.2517	3	22	22	1	1	1.4721	2019	1	1.4721
+2306	"universitas pertamina, jakarta, indonesia"	0.3907	-0.7518	111	3	3	1	15	22.0815	2019	15	22.0815
+2309	"universitas sebelas maret, surakarta, indonesia"	0.343	-0.1715	20	9	9	1	0	0	2019	0	0
+2310	"universitas sumatera utara, medan, indonesia"	0.3054	-0.0772	2	5	5	1	7	10.3047	2019	7	10.3047
+2311	"universitas wijaya kusuma surabaya indonesia, indonesia"	0.3719	-0.2515	3	22	22	1	1	1.4721	2019	1	1.4721
+2312	"universitas wijaya kusuma, surabaya, indonesia"	0.3429	-0.1716	20	9	9	1	0	0	2019	0	0
+2313	"universiti kebangsaan malaysia, malaysia"	0.9318	-0.0131	22	5	5	1	0	0	2019	0	0
+2314	"universiti pahang malaysia, malaysia"	0.9319	-0.0129	22	5	5	1	0	0	2019	0	0
+2315	"universiti teknikal malaysia melaka, faculty of technology management and technopreneurship, malaysia"	0.9319	-0.0126	22	2	2	1	0	0	2019	0	0
+2316	"universiti teknikal malaysia melaka, malaysia"	0.9316	-0.013	22	5	5	1	0	0	2019	0	0
+2318	"universiti teknologi malaysia, johor bahru, malaysia"	-0.7806	0.4984	12	3	3	1	1	1.4721	2019	1	1.4721
+2319	"universiti teknologi mara, malaysia"	0.9317	-0.0131	22	5	5	1	0	0	2019	0	0
+2320	"university of brawijaya, faculty of computer science, malang, indonesia"	-0.7517	-0.4391	6	2	2	1	0	0	2019	0	0
+2321	"university of gadjah mada, dept. of electrical eng. and it., yogyakarta, indonesia"	-0.7517	-0.4391	6	2	2	1	0	0	2019	0	0
+2324	"university of new south wales, sydney, australia"	0.3139	-0.099	2	3	3	1	1	1.4721	2019	1	1.4721
+2325	"university of oxford, oxford, united kingdom"	0.224	-0.6626	5	8	8	1	1	1.4721	2019	1	1.4721
+2326	"university of pasir pengaraian, riau, indonesia"	0.3085	-0.0721	2	7	7	1	9	13.2489	2019	9	13.2489
+2327	"university of science and technology beijing100083, china"	0.4886	0.7885	30	6	6	1	9	13.2489	2019	9	13.2489
+2330	"unviersitas sebelas maret, surakarta, indonesia"	-0.7378	0.1682	93	3	3	1	1	1.4721	2019	1	1.4721
+2331	"upn veteranyogyakarta, indonesia"	0.3718	-0.2534	3	22	22	1	1	1.4721	2019	1	1.4721
+2332	"urban and regional planning department, faculty of architecture, design and planning, indonesia"	0.3097	-0.0974	122	3	3	1	0	0	2019	0	0
+2334	"urban and regional planning department, institut teknologi sepuluh nopember (its), surabay, indonesia"	0.916	-0.163	100	3	3	1	0	0	2019	0	0
+2335	"urban and regional planning department, institut teknologi sepuluh nopember, indonesia"	-0.5415	-0.6788	73	3	3	6	0	0	2019	0	0
+2338	"usm-riken international center for ageing science, school of distance education, universiti sains malaysiapulau pinang 11800, malaysia"	0.5424	-0.7295	4	8	8	1	0	0	2019	0	0
+2339	"visual communication visual department, dian nuswantoro university, semarang, indonesia"	0.3778	0.823	109	3	3	1	0	0	2019	0	0
+2340	"wasm: mining, energy and chemical engineering, curtin university, perth, wa 6845, australia"	-0.3236	0.1211	120	2	2	1	0	0	2019	0	0
+2341	"wastewater integrated services unit (upt), local government of gresik regency, indonesia"	0.8659	-0.3598	17	3	3	1	0	0	2019	0	0
+2342	"water supply company (pdam) malang city, malang, indonesia"	0.8654	-0.3599	17	2	2	1	0	0	2019	0	0
+2345	"world premier institute (wpi)-advanced institute for materials research, tohoku university, sendai, 980-8577, japan"	0.2042	0.6283	113	3	3	1	3	4.4163	2019	3	4.4163
+2346	"wuhan institute of shipbuilding technology, china"	-0.9058	0.2369	39	5	5	1	0	0	2019	0	0
+2347	"yokohama national university, yokohama, japan"	-0.781	0.4969	12	4	4	1	0	0	2019	0	0
+2348	"école et observatoire des sciences de la terre—eost/cnrs ums 830, university of strasbourg, strasbourg, france"	0.7713	0.2666	110	3	3	1	4	5.8884	2019	4	5.8884
