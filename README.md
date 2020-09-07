@@ -57,7 +57,14 @@ Saya membuat repositori ini adalah untuk:
 - `Root folder`: berisi `readme.md` dan `license.md`. Saat ini, anda sedang membaca dokumen `readme`. Sempatkan untuk membacanya sampai selesai untuk mendapatkan gambarkan isi repositori data ini.
 - `REKAPITULASI`: berisi file `pptx` dan `xls` yang merekapitulasi berbagai data dan visualisasi.
 - `DATASETS`: berisi file data dalam format `csv`, hasil pengunduhan metadata dari scopus.
-- `NETWORK-MAP-VOSVIEWER`: berisi file pptx dan xls yang merekapitulasi berbagai data dan visualisasi.
+- `NETWORK-MAP-VOSVIEWER`: berisi file pptx dan xls yang merekapitulasi berbagai data dan visualisasi. Folder ini terdiri dari:
+		- `CITATIONS-AFFIL`: hubungan sitasi berdasarkan afiliasi/organisasi penulis
+		- `CITATIONS-SOURCE`: hubungan sitasi berdasarakan nama jurnal 
+		- `CITATIONS-COUNTRY`: hubungan sitasi berdasarakan negara penulis
+		- `CITATIONS-DOC`: : hubungan sitasi berdasarakan nama penulis
+		- `COAUTHORSHIP-COUNTRY`: kepenulisan bersama (co-authorship) berdasarkan negara
+		- `COAUTHORSHIP-AFFIL`: kepenulisan bersama (co-authorship) berdasarkan afiliasi/organisasi penulis
+		- `COAUTHORSHIP-NAME`: kepenulisan bersama (co-authorship) berdasarkan nama penulis
 
 
 ## Petunjuk penggunaan data
