@@ -82,4 +82,5 @@ Saya membuat repositori ini adalah untuk:
 				- file `net` misal `VOS-NET-ITB-title-abstract.txt` dan 
 				- file `map` misal `VOS-MAP-ITB-title-abstract.txt` untuk data ITB. 
 				- Untuk data perguruan tinggi lain, anda dapat membuka file sejenis dengan memperhatikan nama perguruan tinggi yang tertera pada nama filenya,
-		* setelah visualisasi terbuka, anda dapat melakukan _hover_, _zoom in_, dan _zoom out_.
+				- pastikan kedua file `map` dan `net` berada pada folder yang sama.
+		* setelah visualisasi terlihat, anda dapat melakukan _hover_, _zoom in_, dan _zoom out_ dan perubahan pengaturan visualisasi.
