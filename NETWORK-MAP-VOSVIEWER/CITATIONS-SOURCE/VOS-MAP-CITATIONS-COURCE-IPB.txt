@@ -1,0 +1,377 @@
+﻿id	label	x	y	cluster	weight<Links>	weight<Total link strength>	weight<Documents>	weight<Citations>	weight<Norm. citations>	score<Avg. pub. year>	score<Avg. citations>	score<Avg. norm. citations>
+1	"2018 4th international symposium on geoinformatics, isyg 2018"	-0.5765	0.4219	21	0	0	1	0	0	2019	0	0
+2	"2018 international conference on advanced computer science and information systems, icacsis 2018"	0.1614	0.7728	22	0	0	3	4	5.0134	2019	1.3333	1.6711
+3	"2019 7th international conference on cyber and it service management, citsm 2019"	-0.5241	0.1726	23	0	0	1	0	0	2019	0	0
+4	"2019 international conference on advanced computer science and information systems, icacsis 2019"	0.7201	0.3154	24	0	0	3	0	0	2019	0	0
+5	"2019 international conference on information and communications technology, icoiact 2019"	0.3114	0.2784	25	0	0	1	0	0	2019	0	0
+6	aacl bioflux	-0.8001	-0.3616	26	0	0	27	12	15.0403	2019	0.4444	0.557
+7	acm international conference proceeding series	-0.7809	-0.5252	27	0	0	1	0	0	2019	0	0
+8	acta horticulturae	0.8397	0.2525	28	0	0	3	0	0	2019	0	0
+9	acta tropica	0.3419	-0.3564	29	0	0	1	0	0	2019	0	0
+10	acta universitatis agriculturae et silviculturae mendelianae brunensis	0.4073	0.4667	30	0	0	1	1	1.2534	2019	1	1.2534
+11	advances in animal and veterinary sciences	0.6137	-0.061	6	1	1	7	4	5.0134	2019	0.5714	0.7162
+12	advances in parasitology	0.483	0.8075	31	0	0	2	0	0	2019	0	0
+13	agricultural and forest entomology	0.5844	0.5557	32	0	0	1	3	3.7601	2019	3	3.7601
+14	agricultural and forest meteorology	0.8101	0.3166	33	0	0	1	5	6.2668	2019	5	6.2668
+15	agricultural and rural development in indonesia	-0.7625	-0.4299	34	0	0	1	0	0	2019	0	0
+16	agricultural systems	-0.1344	0.4363	35	0	0	1	4	5.0134	2019	4	5.0134
+17	"agriculture, ecosystems and environment"	-0.7786	-0.1208	3	2	2	2	8	10.0269	2019	4	5.0134
+18	agrivita	0.8649	0.0855	7	2	3	9	3	3.7601	2019	0.3333	0.4178
+19	agroforestry systems	-0.2038	-0.6497	36	0	0	1	0	0	2019	0	0
+20	aip conference proceedings	0.7156	-0.2454	37	0	0	24	13	16.2936	2019	0.5417	0.6789
+21	allergy: european journal of allergy and clinical immunology	0.1629	0.8596	38	0	0	1	10	12.5336	2019	10	12.5336
+22	ambio	-0.6187	0.2325	39	0	0	1	3	3.7601	2019	3	3.7601
+23	american journal of biochemistry and biotechnology	0.7556	-0.4406	40	0	0	1	2	2.5067	2019	2	2.5067
+24	analytica chimica acta: x	0.4375	-0.8194	4	1	1	1	3	3.7601	2019	3	3.7601
+25	animal biotechnology	0.3119	0.8162	41	0	0	1	3	3.7601	2019	3	3.7601
+26	animals	0.2629	-0.9031	42	0	0	1	1	1.2534	2019	1	1.2534
+27	annals of forest science	-0.2549	0.6339	43	0	0	1	2	2.5067	2019	2	2.5067
+28	annals of tropical medicine and public health	0.8294	-0.4424	44	0	0	1	0	0	2019	0	0
+29	applied animal science	0.7531	0.5584	45	0	0	1	4	5.0134	2019	4	5.0134
+30	applied sciences (switzerland)	-0.5744	0.65	46	0	0	1	1	1.2534	2019	1	1.2534
+31	aquaculture	-0.0199	0.9468	47	0	0	3	12	15.0403	2019	4	5.0134
+32	aquaculture and fisheries	0.546	0.2009	48	0	0	1	6	7.5201	2019	6	7.5201
+33	aquaculture international	-0.4772	0.0693	49	0	0	1	4	5.0134	2019	4	5.0134
+34	aquaculture research	-0.5169	0.7013	50	0	0	2	3	3.7601	2019	1.5	1.88
+35	arpn journal of engineering and applied sciences	0.3071	0.3987	51	0	0	2	2	2.5067	2019	1	1.2534
+36	arthropod-plant interactions	-0.6171	-0.0866	52	0	0	1	4	5.0134	2019	4	5.0134
+37	asia pacific journal of clinical nutrition	-0.665	-0.5433	53	0	0	1	0	0	2019	0	0
+38	asia-pacific journal of molecular biology and biotechnology	0.7193	-0.5152	54	0	0	1	0	0	2019	0	0
+39	asian economic journal	0.0407	0.9391	55	0	0	1	0	0	2019	0	0
+40	asian fisheries science	-0.6368	-0.1776	56	0	0	1	0	0	2019	0	0
+41	asian journal of agriculture and biology	0.7561	0.234	57	0	0	1	0	0	2019	0	0
+42	asian journal of chemistry	-0.7751	0.5209	8	1	1	1	1	1.2534	2019	1	1.2534
+43	asian journal of plant sciences	-0.8756	-0.0405	58	0	0	2	3	3.7601	2019	1.5	1.88
+44	asian pacific journal of cancer prevention	-0.3036	-0.041	17	1	1	1	1	1.2534	2019	1	1.2534
+45	asian pacific journal of tropical biomedicine	0.2505	-0.1352	59	0	0	2	2	2.5067	2019	1	1.2534
+46	asian-australasian journal of animal sciences	-0.6001	0.7215	60	0	0	2	8	10.0269	2019	4	5.0134
+47	asm science journal	-0.3823	0.8035	61	0	0	1	0	0	2019	0	0
+48	atmospheric chemistry and physics	-0.7035	-0.6216	9	1	1	1	5	6.2668	2019	5	6.2668
+49	australian mammalogy	0.0265	0.5909	62	0	0	1	1	1.2534	2019	1	1.2534
+50	biochemical and cellular archives	-0.295	0.7997	63	0	0	1	0	0	2019	0	0
+51	biodiversitas	0.8832	0.0634	2	7	11	86	54	67.6813	2019	0.6279	0.787
+52	biofuels	-0.5004	0.2853	64	0	0	1	0	0	2019	0	0
+53	biogeosciences	0.2991	-0.251	65	0	0	1	1	1.2534	2019	1	1.2534
+54	biological conservation	0.5605	0.1015	66	0	0	1	6	7.5201	2019	6	7.5201
+55	biomass conversion and biorefinery	-0.2812	-0.8181	67	0	0	1	1	1.2534	2019	1	1.2534
+56	bioresources	-0.2467	-0.9039	10	1	1	6	13	16.2936	2019	2.1667	2.7156
+57	biosensors	-0.4233	-0.6258	68	0	0	1	3	3.7601	2019	3	3.7601
+58	biosystems engineering	-0.673	0.6539	69	0	0	1	6	7.5201	2019	6	7.5201
+59	biotechnologia	0.6142	-0.2907	70	0	0	1	0	0	2019	0	0
+60	biotropia	-0.8585	-0.3851	71	0	0	8	1	1.2534	2019	0.125	0.1567
+61	bird conservation international	0.2085	0.4745	72	0	0	1	0	0	2019	0	0
+62	breeding science	0.8629	0.0877	7	1	1	1	1	1.2534	2019	1	1.2534
+63	buffalo bulletin	-0.29	0.2074	73	0	0	1	0	0	2019	0	0
+64	bulgarian journal of agricultural science	0.7824	0.3892	74	0	0	1	1	1.2534	2019	1	1.2534
+65	cahiers agricultures	0.888	-0.0894	1	1	1	1	1	1.2534	2019	1	1.2534
+66	cakrawala pendidikan	-0.1503	0.316	75	0	0	1	1	1.2534	2019	1	1.2534
+67	cancer reports	0.1509	0.6703	76	0	0	1	0	0	2019	0	0
+68	carpathian journal of food science and technology	-0.3775	0.3241	77	0	0	1	0	0	2019	0	0
+69	cement and concrete composites	-0.8697	0.1715	78	0	0	1	6	7.5201	2019	6	7.5201
+70	challenges of the global economy: some indonesian issues	0.4895	-0.6271	79	0	0	1	0	0	2019	0	0
+71	chinese journal of physics	-0.5188	0.7819	80	0	0	1	0	0	2019	0	0
+72	clinical and experimental reproductive medicine	-0.5216	0.5797	81	0	0	1	0	0	2019	0	0
+73	"clinical lymphoma, myeloma and leukemia"	0.0784	-0.7928	82	0	0	1	0	0	2019	0	0
+74	coatings	0.4526	-0.5313	83	0	0	1	4	5.0134	2019	4	5.0134
+75	cogent engineering	-0.1128	0.862	84	0	0	1	0	0	2019	0	0
+76	coleopterists bulletin	0.477	0.0212	85	0	0	1	0	0	2019	0	0
+77	comparative medicine	0.3139	-0.8863	86	0	0	1	0	0	2019	0	0
+78	computers and electronics in agriculture	-0.3122	-0.6306	87	0	0	1	5	6.2668	2019	5	6.2668
+79	"contemporary issues on business, development and islamic economics in indonesia"	-0.0043	-0.3835	88	0	0	2	0	0	2019	0	0
+80	continental shelf research	-0.9153	0.2178	89	0	0	1	1	1.2534	2019	1	1.2534
+81	croatian journal of forest engineering	0.3637	-0.8675	90	0	0	1	3	3.7601	2019	3	3.7601
+82	current nutrition and food science	-0.8366	0.099	91	0	0	1	1	1.2534	2019	1	1.2534
+83	current research in nutrition and food science	-0.7522	0.2885	11	1	1	3	2	2.5067	2019	0.6667	0.8356
+84	cytogenetic and genome research	0.6366	-0.6914	92	0	0	1	0	0	2019	0	0
+85	dalton transactions	0.896	0.2851	93	0	0	2	1	1.2534	2019	0.5	0.6267
+86	data in brief	0.0801	0.3151	94	0	0	5	6	7.5201	2019	1.2	1.504
+87	decision science letters	-0.1996	-0.8298	95	0	0	2	15	18.8004	2019	7.5	9.4002
+88	deep-sea research part ii: topical studies in oceanography	0.8838	0.0681	2	1	1	2	3	3.7601	2019	1.5	1.88
+89	diversity	-0.8691	0.3656	96	0	0	1	2	2.5067	2019	2	2.5067
+90	e3s web of conferences	0.356	-0.742	97	0	0	1	0	0	2019	0	0
+91	ecohydrology	-0.9016	-0.2754	98	0	0	1	2	2.5067	2019	2	2.5067
+92	ecological applications	-0.595	-0.2532	99	0	0	1	6	7.5201	2019	6	7.5201
+93	ecological indicators	0.8149	0.4704	100	0	0	1	8	10.0269	2019	8	10.0269
+94	ecology and evolution	-0.0188	0.8756	19	1	1	3	5	6.2668	2019	1.6667	2.0889
+95	"ecology, environment and conservation"	0.0221	-0.8752	101	0	0	1	0	0	2019	0	0
+96	economics and sociology	0.2091	-0.6384	102	0	0	1	0	0	2019	0	0
+97	ecosystem services	0.6157	0.4674	103	0	0	1	2	2.5067	2019	2	2.5067
+98	emerging infectious diseases	0.6452	-0.4275	12	1	1	1	4	5.0134	2019	4	5.0134
+99	emirates journal of food and agriculture	-0.6036	0.3268	104	0	0	1	0	0	2019	0	0
+100	energy strategy reviews	0.4353	-0.7092	105	0	0	1	1	1.2534	2019	1	1.2534
+101	engineering structures	-0.3601	-0.867	106	0	0	1	2	2.5067	2019	2	2.5067
+102	environment and development economics	0.2004	0.231	107	0	0	1	1	1.2534	2019	1	1.2534
+103	environment and natural resources journal	0.8799	-0.1493	5	2	2	2	5	6.2668	2019	2.5	3.1334
+104	environmental management	-0.086	-0.6889	108	0	0	1	0	0	2019	0	0
+105	european journal of wood and wood products	-0.3701	0.4445	109	0	0	1	1	1.2534	2019	1	1.2534
+106	evolutionary psychology	-0.8449	-0.2917	110	0	0	1	4	5.0134	2019	4	5.0134
+107	extractive industries and society	0.1229	0.5538	111	0	0	1	1	1.2534	2019	1	1.2534
+108	f1000research	-0.4853	-0.7021	112	0	0	1	8	10.0269	2019	8	10.0269
+109	ferroelectrics	-0.2459	0.8539	113	0	0	2	3	3.7601	2019	1.5	1.88
+110	fisheries science	0.1972	0.9192	114	0	0	1	3	3.7601	2019	3	3.7601
+111	fitoterapia	-0.4623	-0.2151	115	0	0	1	4	5.0134	2019	4	5.0134
+112	flavour and fragrance journal	0.5285	0.7774	116	0	0	1	5	6.2668	2019	5	6.2668
+113	food chemistry	-0.0231	-0.5974	117	0	0	1	8	10.0269	2019	8	10.0269
+114	food research	0.243	0.7263	118	0	0	2	0	0	2019	0	0
+115	food reviews international	-0.7398	0.5802	119	0	0	1	6	7.5201	2019	6	7.5201
+116	food science and biotechnology	0.3369	-0.0129	15	1	1	1	11	13.7869	2019	11	13.7869
+117	food technology and biotechnology	0.9075	0.2402	120	0	0	1	5	6.2668	2019	5	6.2668
+118	forest and society	-0.3148	-0.2073	13	1	1	3	7	8.7735	2019	2.3333	2.9245
+119	forest ecology and management	-0.7448	-0.2651	14	1	1	1	18	22.5604	2019	18	22.5604
+120	forest products journal	-0.1364	-0.8752	121	0	0	3	2	2.5067	2019	0.6667	0.8356
+121	forests	-0.7034	-0.6215	9	1	1	4	2	2.5067	2019	0.5	0.6267
+122	frontiers in ecology and evolution	-0.778	-0.1205	3	1	1	1	0	0	2019	0	0
+123	frontiers in ecology and the environment	-0.506	-0.1316	122	0	0	1	1	1.2534	2019	1	1.2534
+124	frontiers in environmental science	-0.0123	-0.9401	123	0	0	1	9	11.2802	2019	9	11.2802
+125	frontiers in immunology	-0.1782	-0.7432	124	0	0	1	2	2.5067	2019	2	2.5067
+126	frontiers in marine science	0.0483	-0.5016	125	0	0	2	3	3.7601	2019	1.5	1.88
+127	frontiers in plant science	-0.2431	0.0942	126	0	0	1	7	8.7735	2019	7	8.7735
+128	frontiers in sustainable food systems	0.0841	0.8739	127	0	0	1	0	0	2019	0	0
+129	frontiers in veterinary science	0.5576	-0.7593	128	0	0	1	10	12.5336	2019	10	12.5336
+130	functional plant biology	0.2262	0.6018	129	0	0	1	0	0	2019	0	0
+131	gene reports	-0.8087	-0.48	130	0	0	1	1	1.2534	2019	1	1.2534
+132	genes and diseases	-0.903	0.2713	131	0	0	1	0	0	2019	0	0
+133	geoderma	0.1746	-0.7918	132	0	0	1	4	5.0134	2019	4	5.0134
+134	"geography, environment, sustainability"	0.2523	-0.744	133	0	0	1	0	0	2019	0	0
+135	geoscience letters	-0.8796	0.0371	134	0	0	1	1	1.2534	2019	1	1.2534
+136	global change biology	-0.7449	-0.265	14	1	1	1	8	10.0269	2019	8	10.0269
+137	global climate change and environmental policy: agriculture perspectives	-0.4999	-0.3164	135	0	0	1	0	0	2019	0	0
+138	global ecology and biogeography	0.3407	0.8765	136	0	0	1	1	1.2534	2019	1	1.2534
+139	global ecology and conservation	0.253	-0.441	137	0	0	1	2	2.5067	2019	2	2.5067
+140	global environmental change	-0.9263	0.1109	138	0	0	1	19	23.8138	2019	19	23.8138
+141	hayati journal of biosciences	0.8891	0.0624	2	1	1	11	5	6.2668	2019	0.4545	0.5697
+142	heliyon	-0.3567	-0.7944	139	0	0	4	6	7.5201	2019	1.5	1.88
+143	holzforschung	-0.2208	0.7401	140	0	0	2	2	2.5067	2019	1	1.2534
+144	horticulture journal	0.3185	0.6403	141	0	0	1	1	1.2534	2019	1	1.2534
+145	i-perception	0.5968	-0.7245	142	0	0	1	1	1.2534	2019	1	1.2534
+146	ieee access	-0.0317	0.3635	143	0	0	1	0	0	2019	0	0
+147	"ieee region 10 humanitarian technology conference, r10-htc"	-0.9384	-0.0977	144	0	0	1	0	0	2019	0	0
+148	iium engineering journal	-0.6526	-0.6703	145	0	0	1	1	1.2534	2019	1	1.2534
+149	in vitro cellular and developmental biology - animal	-0.1202	-0.9344	146	0	0	1	4	5.0134	2019	4	5.0134
+150	indian journal of pharmaceutical sciences	0.8776	0.0625	2	1	1	1	4	5.0134	2019	4	5.0134
+151	indian journal of public health research and development	0.5721	0.7469	147	0	0	7	0	0	2019	0	0
+152	indian veterinary journal	0.5122	-0.7854	148	0	0	1	0	0	2019	0	0
+153	indonesian journal of biotechnology	0.211	-0.9193	149	0	0	2	1	1.2534	2019	0.5	0.6267
+154	indonesian journal of chemistry	0.1614	-0.215	150	0	0	5	2	2.5067	2019	0.4	0.5013
+155	indonesian journal of electrical engineering and computer science	-0.5182	-0.6071	151	0	0	2	1	1.2534	2019	0.5	0.6267
+156	indonesian journal of pharmacy	-0.4321	0.8366	152	0	0	2	0	0	2019	0	0
+157	indonesian journal of science and technology	-0.4721	-0.5223	153	0	0	2	7	8.7735	2019	3.5	4.3868
+158	information (switzerland)	-0.7058	0.6172	154	0	0	3	3	3.7601	2019	1	1.2534
+159	inmateh - agricultural engineering	0.0714	0.7934	155	0	0	1	0	0	2019	0	0
+160	integrated ferroelectrics	-0.6842	0.3771	156	0	0	2	0	0	2019	0	0
+161	integrative cancer therapies	-0.4365	-0.7617	157	0	0	1	0	0	2019	0	0
+162	"international archives of the photogrammetry, remote sensing and spatial information sciences - isprs archives"	0.6504	0.678	158	0	0	2	2	2.5067	2019	1	1.2534
+163	international food research journal	0.786	0.5193	159	0	0	6	0	0	2019	0	0
+164	international forestry review	-0.0344	0.1161	160	0	0	1	1	1.2534	2019	1	1.2534
+165	international journal for parasitology: drugs and drug resistance	0.691	0.5183	161	0	0	1	5	6.2668	2019	5	6.2668
+166	international journal of advanced computer science and applications	-0.3113	-0.4329	162	0	0	1	1	1.2534	2019	1	1.2534
+167	international journal of agriculture and biology	0.9027	0.0887	20	1	1	2	1	1.2534	2019	0.5	0.6267
+168	international journal of applied pharmaceutics	-0.4063	-0.8457	163	0	0	2	0	0	2019	0	0
+169	international journal of biomaterials	-0.498	-0.797	164	0	0	2	1	1.2534	2019	0.5	0.6267
+170	international journal of business and society	0.617	0.3565	165	0	0	1	0	0	2019	0	0
+171	international journal of conservation science	-0.2503	-0.5415	166	0	0	1	1	1.2534	2019	1	1.2534
+172	international journal of electronic marketing and retailing	-0.9404	0.0084	167	0	0	1	0	0	2019	0	0
+173	international journal of energy economics and policy	0.326	-0.8154	168	0	0	1	0	0	2019	0	0
+174	international journal of environmental research and public health	-0.0662	-0.9388	169	0	0	1	1	1.2534	2019	1	1.2534
+175	international journal of food properties	0.3368	-0.0129	15	1	1	1	0	0	2019	0	0
+176	international journal of geomate	-0.7612	0.428	170	0	0	1	0	0	2019	0	0
+177	international journal of global environmental issues	0.5239	0.4195	171	0	0	1	0	0	2019	0	0
+178	"international journal of innovation, creativity and change"	-0.7858	0.1744	172	0	0	1	0	0	2019	0	0
+179	international journal of innovative technology and exploring engineering	-0.3483	0.706	16	1	1	6	3	3.7601	2019	0.5	0.6267
+180	international journal of life cycle assessment	0.5707	-0.658	173	0	0	1	3	3.7601	2019	3	3.7601
+181	international journal of microbiology	0.1969	0.3523	174	0	0	1	0	0	2019	0	0
+182	international journal of molecular sciences	-0.0257	0.7706	175	0	0	1	2	2.5067	2019	2	2.5067
+183	international journal of nanoelectronics and materials	-0.3301	0.8738	176	0	0	1	0	0	2019	0	0
+184	international journal of pharmaceutical research	-0.3035	-0.0411	17	1	1	1	0	0	2019	0	0
+185	international journal of recent technology and engineering	0.8513	-0.3023	177	0	0	6	3	3.7601	2019	0.5	0.6267
+186	international journal of remote sensing	0.5236	0.3069	178	0	0	1	0	0	2019	0	0
+187	international journal of renewable energy research	-0.1602	0.1925	179	0	0	1	1	1.2534	2019	1	1.2534
+188	international journal of research in pharmaceutical sciences	-0.7752	0.5209	8	1	1	1	2	2.5067	2019	2	2.5067
+189	international journal of scientific and technology research	0.8779	-0.0963	1	1	1	6	2	2.5067	2019	0.3333	0.4178
+190	international journal of supply chain management	-0.1311	0.9306	180	0	0	1	3	3.7601	2019	3	3.7601
+191	"international journal on advanced science, engineering and information technology"	0.8539	-0.3956	181	0	0	7	3	3.7601	2019	0.4286	0.5372
+192	international wood products journal	-0.3141	-0.8832	182	0	0	2	3	3.7601	2019	1.5	1.88
+193	invertebrate reproduction and development	0.7245	0.5998	183	0	0	1	0	0	2019	0	0
+194	iop conference series: earth and environmental science	0.8805	-0.0901	1	8	11	490	93	116.5622	2019	0.1898	0.2379
+195	iop conference series: materials science and engineering	0.6114	0.7131	184	0	0	57	12	15.0403	2019	0.2105	0.2639
+196	"islamic finance, risk-sharing and macroeconomic stability"	-0.0424	0.2396	185	0	0	1	0	0	2019	0	0
+197	italian sociological review	0.3915	-0.615	186	0	0	1	0	0	2019	0	0
+198	jamba: journal of disaster risk studies	0.7088	-0.6117	187	0	0	1	1	1.2534	2019	1	1.2534
+199	journal for the education of gifted young scientists	0.7772	-0.5331	188	0	0	1	3	3.7601	2019	3	3.7601
+200	journal of advanced research in dynamical and control systems	0.4449	-0.3986	189	0	0	1	1	1.2534	2019	1	1.2534
+201	journal of advanced veterinary and animal research	0.6146	-0.0617	6	1	1	4	1	1.2534	2019	0.25	0.3133
+202	journal of agribusiness in developing and emerging economies	-0.3107	0.5437	190	0	0	1	2	2.5067	2019	2	2.5067
+203	journal of agricultural extension	-0.6118	-0.3465	191	0	0	2	1	1.2534	2019	0.5	0.6267
+204	journal of animal ecology	0.2916	0.8919	192	0	0	1	6	7.5201	2019	6	7.5201
+205	journal of animal physiology and animal nutrition	0.0235	-0.6976	193	0	0	1	9	11.2802	2019	9	11.2802
+206	journal of apicultural science	0.4649	0.7453	194	0	0	1	0	0	2019	0	0
+207	journal of applied biology and biotechnology	0.6576	0.5889	195	0	0	3	0	0	2019	0	0
+208	journal of applied biotechnology reports	-0.9398	0.0636	196	0	0	1	0	0	2019	0	0
+209	journal of applied botany and food quality	0.7113	-0.3402	197	0	0	1	0	0	2019	0	0
+210	journal of applied ecology	-0.779	-0.121	3	1	1	1	2	2.5067	2019	2	2.5067
+211	journal of applied pharmaceutical science	-0.2858	0.899	198	0	0	7	4	5.0134	2019	0.5714	0.7162
+212	journal of applied probability and statistics	-0.6835	0.4629	199	0	0	1	0	0	2019	0	0
+213	journal of applied statistics	0.7421	-0.5769	200	0	0	1	1	1.2534	2019	1	1.2534
+214	journal of asia-pacific entomology	-0.2571	0.4309	201	0	0	1	1	1.2534	2019	1	1.2534
+215	journal of basic and clinical physiology and pharmacology	0.094	-0.6071	202	0	0	1	0	0	2019	0	0
+216	journal of bioenergetics and biomembranes	-0.4729	0.3902	203	0	0	1	2	2.5067	2019	2	2.5067
+217	journal of bioscience and bioengineering	-0.752	0.2885	11	1	1	1	4	5.0134	2019	4	5.0134
+218	journal of biotech research	-0.6903	0.1735	204	0	0	2	1	1.2534	2019	0.5	0.6267
+219	journal of coastal conservation	-0.1126	-0.0875	18	1	1	1	1	1.2534	2019	1	1.2534
+220	journal of critical reviews	-0.4297	-0.4262	205	0	0	1	0	0	2019	0	0
+221	journal of degraded and mining lands management	-0.5389	-0.4246	206	0	0	2	0	0	2019	0	0
+222	journal of developmental and physical disabilities	-0.1325	-0.5759	207	0	0	1	1	1.2534	2019	1	1.2534
+223	journal of ecological engineering	-0.8433	0.4186	208	0	0	3	0	0	2019	0	0
+224	journal of engineering and technological sciences	0.0952	0.0783	209	0	0	1	0	0	2019	0	0
+225	journal of environmental biology	0.0566	0.697	210	0	0	1	1	1.2534	2019	1	1.2534
+226	journal of food processing and preservation	-0.014	-0.7883	211	0	0	1	1	1.2534	2019	1	1.2534
+227	journal of general plant pathology	0.1756	-0.5271	212	0	0	1	1	1.2534	2019	1	1.2534
+228	journal of genetic engineering and biotechnology	0.3094	-0.6643	213	0	0	1	0	0	2019	0	0
+229	journal of ict research and applications	-0.9156	-0.2205	214	0	0	1	0	0	2019	0	0
+230	journal of immunoassay and immunochemistry	-0.1556	0.6585	215	0	0	1	1	1.2534	2019	1	1.2534
+231	journal of indian society of periodontology	-0.2642	0.3193	216	0	0	1	0	0	2019	0	0
+232	journal of international dental and medical research	0.6529	0.0889	217	0	0	1	0	0	2019	0	0
+233	journal of islamic marketing	-0.0557	-0.8762	218	0	0	1	1	1.2534	2019	1	1.2534
+234	journal of liquid chromatography and related technologies	0.4238	0.2412	219	0	0	1	0	0	2019	0	0
+235	journal of materials research and technology	-0.939	-0.0445	220	0	0	1	1	1.2534	2019	1	1.2534
+236	"journal of medical devices, transactions of the asme"	0.1346	-0.7065	221	0	0	1	0	0	2019	0	0
+237	journal of microbiology and biotechnology	-0.0513	0.6716	222	0	0	1	1	1.2534	2019	1	1.2534
+238	journal of modern applied statistical methods	-0.4511	0.7469	223	0	0	1	0	0	2019	0	0
+239	journal of nutrition and metabolism	-0.6808	-0.0039	224	0	0	1	0	0	2019	0	0
+240	journal of physics: conference series	0.8596	0.3776	225	0	0	52	5	6.2668	2019	0.0962	0.1205
+241	journal of plant protection research	0.8834	0.0582	2	1	2	1	5	6.2668	2019	5	6.2668
+242	journal of renewable materials	0.6882	0.6428	226	0	0	1	0	0	2019	0	0
+243	journal of solid state electrochemistry	0.437	-0.8197	4	2	2	1	7	8.7735	2019	7	8.7735
+244	journal of stem cells and regenerative medicine	-0.2455	-0.3388	227	0	0	1	0	0	2019	0	0
+245	journal of sustainability science and management	0.8753	-0.0856	1	1	1	4	2	2.5067	2019	0.5	0.6267
+246	journal of the indonesian tropical animal agriculture	-0.3483	0.7061	16	1	1	10	5	6.2668	2019	0.5	0.6267
+247	journal of the international society for southeast asian agricultural sciences	-0.4518	0.6465	228	0	0	6	1	1.2534	2019	0.1667	0.2089
+248	journal of the korean wood science and technology	-0.8099	0.3659	229	0	0	11	20	25.0671	2019	1.8182	2.2788
+249	journal of the optical society of america b: optical physics	-0.9293	0.1612	230	0	0	1	0	0	2019	0	0
+250	journal of the textile institute	-0.7292	0.0823	231	0	0	1	1	1	2020	1	1
+251	journal of veterinary medical science	0.5336	-0.3407	232	0	0	1	0	0	2019	0	0
+252	journal of veterinary medicine series c: anatomia histologia embryologia	0.5292	-0.2101	233	0	0	1	1	1.2534	2019	1	1.2534
+253	journal of wildlife diseases	0.4068	0.5799	234	0	0	1	0	0	2019	0	0
+254	jurnal manajemen hutan tropika	-0.3146	-0.2074	13	1	1	10	0	0	2019	0	0
+255	jurnal teknologi	0.6941	0.4098	235	0	0	1	1	1.2534	2019	1	1.2534
+256	kesmas	0.0804	0.1961	236	0	0	1	0	0	2019	0	0
+257	kew bulletin	0.1452	0.9282	237	0	0	1	0	0	2019	0	0
+258	korean journal of materials research	-0.9279	-0.1679	238	0	0	1	0	0	2019	0	0
+259	kuwait journal of science	-0.638	0.6883	239	0	0	1	0	0	2019	0	0
+260	land use policy	-0.3656	-0.5329	240	0	0	1	2	2.5067	2019	2	2.5067
+261	langmuir	0.4365	-0.82	4	1	1	1	8	10.0269	2019	8	10.0269
+262	leather and footwear journal	0.5573	-0.5568	241	0	0	1	0	0	2019	0	0
+263	lecture notes in computer science (including subseries lecture notes in artificial intelligence and lecture notes in bioinformatics)	-0.3708	0.0942	242	0	0	1	0	0	2019	0	0
+264	maderas: ciencia y tecnologia	-0.1864	-0.4538	243	0	0	1	0	0	2019	0	0
+265	malaysian journal of biochemistry and molecular biology	0.2541	-0.8382	244	0	0	1	0	0	2019	0	0
+266	malaysian journal of microbiology	0.1867	-0.0094	245	0	0	1	0	0	2019	0	0
+267	malaysian journal of science	0.8853	-0.0953	1	1	1	1	1	1.2534	2019	1	1.2534
+268	mammalian biology	0.1244	-0.4151	246	0	0	2	5	6.2668	2019	2.5	3.1334
+269	marine drugs	0.3811	-0.171	247	0	0	2	7	8.7735	2019	3.5	4.3868
+270	marine policy	-0.1272	-0.3508	248	0	0	1	7	8.7735	2019	7	8.7735
+271	maritime studies	-0.8575	-0.2136	249	0	0	1	2	2.5067	2019	2	2.5067
+272	materials physics and mechanics	-0.1745	-0.2185	250	0	0	1	1	1.2534	2019	1	1.2534
+273	materials research express	-0.4417	-0.0514	251	0	0	1	1	1.2534	2019	1	1.2534
+274	materials science forum	-0.628	0.5948	252	0	0	3	1	1.2534	2019	0.3333	0.4178
+275	measurement: journal of the international measurement confederation	0.1009	-0.8746	253	0	0	1	1	1.2534	2019	1	1.2534
+276	medicinal chemistry research	0.8978	-0.29	254	0	0	1	0	0	2019	0	0
+277	metabolomics	0.8034	-0.4876	255	0	0	1	0	0	2019	0	0
+278	methodsx	-0.476	0.4942	256	0	0	1	1	1.2534	2019	1	1.2534
+279	microbiology and immunology	0.0413	-0.9393	257	0	0	1	4	5.0134	2019	4	5.0134
+280	microorganisms	0.645	-0.4276	12	1	1	1	0	0	2019	0	0
+281	mitigation and adaptation strategies for global change	0.3644	-0.4794	258	0	0	6	25	31.3339	2019	4.1667	5.2223
+282	modelling and simulation in engineering	0.42	0.3587	259	0	0	1	2	2.5067	2019	2	2.5067
+283	molecular biology reports	0.6842	0.1744	260	0	0	1	0	0	2019	0	0
+284	molekul	-0.8457	0.2512	261	0	0	1	0	0	2019	0	0
+285	mycoscience	0.4651	-0.1091	262	0	0	1	0	0	2019	0	0
+286	nano-structures and nano-objects	0.2195	0.1125	263	0	0	1	10	12.5336	2019	10	12.5336
+287	natura croatica	-0.1792	0.8287	264	0	0	1	0	0	2019	0	0
+288	natural resource modeling	0.5912	0.6445	265	0	0	1	0	0	2019	0	0
+289	nature climate change	0.1784	-0.872	266	0	0	1	18	22.5604	2019	18	22.5604
+290	nature communications	0.2375	0.8289	267	0	0	3	63	78.9615	2019	21	26.3205
+291	nature environment and pollution technology	-0.4524	-0.8249	268	0	0	3	1	1.2534	2019	0.3333	0.4178
+292	nature sustainability	0.6466	-0.5413	269	0	0	2	17	21.3071	2019	8.5	10.6535
+293	new phytologist	0.8793	0.3316	270	0	0	1	14	17.547	2019	14	17.547
+294	njas - wageningen journal of life sciences	-0.5617	-0.6784	271	0	0	1	1	1.2534	2019	1	1.2534
+295	nordic pulp and paper research journal	-0.1782	0.9177	272	0	0	1	0	0	2019	0	0
+296	nutrients	-0.4103	0.2073	273	0	0	1	0	0	2019	0	0
+297	nutrition and food science	-0.7231	-0.4933	274	0	0	1	0	0	2019	0	0
+298	ocean science journal	-0.1126	-0.0874	18	1	1	1	4	5.0134	2019	4	5.0134
+299	ohio journal of science	0.4369	0.834	275	0	0	1	0	0	2019	0	0
+300	online journal of biological sciences	-0.611	-0.6102	276	0	0	1	2	2.5067	2019	2	2.5067
+301	opcion	-0.8345	-0.4329	277	0	0	2	1	1.2534	2019	0.5	0.6267
+302	organogenesis	-0.3788	0.8631	278	0	0	1	2	2.5067	2019	2	2.5067
+303	paddy and water environment	0.2444	0.9047	279	0	0	2	0	0	2019	0	0
+304	pakistan journal of biological sciences	-0.3736	-0.7071	280	0	0	2	5	6.2668	2019	2.5	3.1334
+305	pakistan journal of botany	0.1507	-0.9302	281	0	0	1	0	0	2019	0	0
+306	pakistan journal of life and social sciences	-0.0712	-0.4793	282	0	0	1	0	0	2019	0	0
+307	pakistan journal of medical and health sciences	0.387	0.8555	283	0	0	1	0	0	2019	0	0
+308	pakistan journal of scientific and industrial research series b: biological sciences	0.0947	-0.9369	284	0	0	1	0	0	2019	0	0
+309	pertanika journal of science and technology	-0.8964	-0.1273	285	0	0	1	0	0	2019	0	0
+310	pertanika journal of social sciences and humanities	-0.5907	0.5113	286	0	0	2	0	0	2019	0	0
+311	pertanika journal of tropical agricultural science	-0.7013	-0.37	287	0	0	3	0	0	2019	0	0
+312	pharmacognosy journal	0.8729	-0.0917	1	1	2	1	3	3.7601	2019	3	3.7601
+313	photonics	0.795	-0.3744	288	0	0	1	1	1.2534	2019	1	1.2534
+314	physical review c	0.6783	-0.6555	289	0	0	1	0	0	2019	0	0
+315	physics of the earth and planetary interiors	-0.1355	0.0563	290	0	0	1	2	2.5067	2019	2	2.5067
+316	phytotaxa	-0.8781	0.317	291	0	0	1	0	0	2019	0	0
+317	plant archives	0.88	-0.142	5	2	2	3	6	7.5201	2019	2	2.5067
+318	plant breeding and biotechnology	0.0225	-0.1702	292	0	0	1	0	0	2019	0	0
+319	plant signaling and behavior	-0.817	0.4637	293	0	0	1	0	0	2019	0	0
+320	plants	-0.0186	0.8756	19	1	1	1	1	1.2534	2019	1	1.2534
+321	plos one	0.0934	0.9366	294	0	0	2	3	3.7601	2019	1.5	1.88
+322	polish journal of natural sciences	0.8799	-0.1513	5	1	1	1	1	1.2534	2019	1	1.2534
+323	polymers	0.7862	-0.2923	295	0	0	1	0	0	2019	0	0
+324	poultry science journal	-0.2278	0.9142	296	0	0	1	0	0	2019	0	0
+325	preventive nutrition and food science	0.3098	0.5229	297	0	0	2	1	1.2534	2019	0.5	0.6267
+326	procedia computer science	-0.4759	0.8097	298	0	0	1	0	0	2019	0	0
+327	"proceedings - 2018 1st international conference on bioinformatics, biotechnology, and biomedical engineering, biomic 2018"	0.4383	-0.2731	299	0	0	3	1	1.2534	2019	0.3333	0.4178
+328	"proceedings - 2019 2nd international conference of computer and informatics engineering: artificial intelligence roles in industrial revolution 4.0, ic2ie 2019"	-0.7915	0.013	300	0	0	1	0	0	2019	0	0
+329	"proceedings - 2019 international seminar on application for technology of information and communication: industry 4.0: retrospect, prospect, and challenges, isemantic 2019"	0.4187	0.6791	301	0	0	3	5	6.2668	2019	1.6667	2.0889
+330	"proceedings of 2018 international conference on electrical engineering and computer science, icecos 2018"	-0.5777	-0.7428	302	0	0	1	3	3.7601	2019	3	3.7601
+331	"proceedings of 2019 4th international conference on informatics and computing, icic 2019"	-0.177	-0.9233	303	0	0	1	0	0	2019	0	0
+332	"proceedings of 2019 4th international conference on sustainable information engineering and technology, siet 2019"	-0.8813	-0.3353	304	0	0	1	0	0	2019	0	0
+333	proceedings of spie - the international society for optical engineering	0.8829	-0.0845	1	1	2	36	0	0	2019	0	0
+334	proceedings of the international conference on industrial engineering and operations management	0.8391	0.4246	305	0	0	2	0	0	2019	0	0
+335	"progress in rubber, plastics and recycling technology"	-0.2468	-0.9038	10	1	1	1	1	1.2534	2019	1	1.2534
+336	rasayan journal of chemistry	-0.6198	-0.7076	306	0	0	4	2	2.5067	2019	0.5	0.6267
+337	recycle based organic agriculture in a city	0.5286	0.6987	307	0	0	1	0	0	2019	0	0
+338	religions	0.4377	0.1261	308	0	0	1	0	0	2019	0	0
+339	remote sensing	-0.0805	0.9372	309	0	0	3	13	16.2936	2019	4.3333	5.4312
+340	renewable and sustainable energy reviews	0.094	0.4362	310	0	0	1	31	38.8541	2019	31	38.8541
+341	research in agricultural engineering	0.6346	-0.6142	311	0	0	2	1	1.2534	2019	0.5	0.6267
+342	sabrao journal of breeding and genetics	0.9009	0.0864	20	2	3	10	5	6.2668	2019	0.5	0.6267
+343	science	0.512	-0.7161	312	0	0	1	2	2.5067	2019	2	2.5067
+344	science editing	-0.5346	-0.7659	313	0	0	1	1	1.2534	2019	1	1.2534
+345	scientia pharmaceutica	-0.0916	0.5611	314	0	0	1	0	0	2019	0	0
+346	scientific reports	0.0733	-0.2953	315	0	0	1	9	11.2802	2019	9	11.2802
+347	"scientific study and research: chemistry and chemical engineering, biotechnology, food industry"	0.0144	-0.0107	316	0	0	1	0	0	2019	0	0
+348	scientific world journal	0.2912	-0.557	317	0	0	1	6	7.5201	2019	6	7.5201
+349	security journal	-0.4005	0.5708	318	0	0	1	0	0	2019	0	0
+350	sensors and materials	-0.5586	-0.0019	319	0	0	1	0	0	2019	0	0
+351	soil and tillage research	0.8762	-0.3486	320	0	0	1	5	6.2668	2019	5	6.2668
+352	south african journal of animal sciences	-0.5613	0.754	321	0	0	1	2	2.5067	2019	2	2.5067
+353	spectrochimica acta - part a: molecular and biomolecular spectroscopy	-0.5762	-0.5217	322	0	0	1	3	3.7601	2019	3	3.7601
+354	squalen bulletin of marine and fisheries postharvest and biotechnology	0.4996	0.5188	323	0	0	3	1	1.2534	2019	0.3333	0.4178
+355	stem cell investigation	0.5006	0.6205	324	0	0	1	2	2.5067	2019	2	2.5067
+356	sustainability (switzerland)	0.1113	-0.0962	325	0	0	4	9	11.2802	2019	2.25	2.8201
+357	taiwania	-0.3845	-0.3291	326	0	0	1	0	0	2019	0	0
+358	telkomnika (telecommunication computing electronics and control)	-0.0117	0.48	327	0	0	2	1	1.2534	2019	0.5	0.6267
+359	test engineering and management	-0.6441	-0.4483	328	0	0	1	0	0	2019	0	0
+360	the governance and management of universities in asia: global influences and local responses	0.5304	-0.4618	329	0	0	1	2	2.5067	2019	2	2.5067
+361	tourism management perspectives	-0.2767	-0.7315	330	0	0	1	10	12.5336	2019	10	12.5336
+362	tree physiology	0.3953	0.786	331	0	0	1	0	0	2019	0	0
+363	tropical animal science journal	0.6142	-0.0613	6	2	2	16	5	6.2668	2019	0.3125	0.3917
+364	tropical life sciences research	0.6392	0.254	332	0	0	4	1	1.2534	2019	0.25	0.3133
+365	turkish journal of fisheries and aquatic sciences	0.3343	0.7337	333	0	0	1	1	1.2534	2019	1	1.2534
+366	turkish online journal of distance education	0.6481	-0.1945	334	0	0	1	0	0	2019	0	0
+367	vegetation history and archaeobotany	-0.1979	0.5357	335	0	0	1	0	0	2019	0	0
+368	veterinary world	0.2078	-0.3307	336	0	0	12	9	11.2802	2019	0.75	0.94
+369	waste and biomass valorization	-0.1189	0.7613	337	0	0	3	11	13.7869	2019	3.6667	4.5956
+370	weed biology and management	0.3264	0.1517	338	0	0	1	1	1.2534	2019	1	1.2534
+371	wetlands	-0.0566	-0.2569	339	0	0	1	2	2.5067	2019	2	2.5067
+372	wood and fiber science	-0.7472	-0.5649	340	0	0	1	0	0	2019	0	0
+373	wood research	0.7507	0.4674	341	0	0	1	0	0	2019	0	0
+374	wood science and technology	-0.6844	0.5396	342	0	0	1	1	1.2534	2019	1	1.2534
+375	zookeys	-0.1011	-0.7945	343	0	0	2	1	1.2534	2019	0.5	0.6267
+376	zootaxa	-0.6116	0.0971	344	0	0	1	2	2.5067	2019	2	2.5067

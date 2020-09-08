@@ -1,0 +1,324 @@
+﻿id	label	x	y	cluster	weight<Links>	weight<Total link strength>	weight<Documents>	weight<Citations>	weight<Norm. citations>	score<Avg. pub. year>	score<Avg. citations>	score<Avg. norm. citations>
+1	"13th european conference on antennas and propagation, eucap 2019"	-0.5636	0.7503	19	0	0	1	0	0	2019	0	0
+2	"1st 2018 indonesian association for pattern recognition international conference, inapr 2018 - proceedings"	0.0798	-0.1458	20	0	0	1	1	1.473	2019	1	1.473
+3	"2018 2nd international conference on informatics and computational sciences, icicos 2018"	0.0645	0.1426	21	0	0	2	3	4.419	2019	1.5	2.2095
+4	"2018 asian conference on energy, power and transportation electrification, acept 2018"	-0.4955	-0.8041	22	0	0	1	0	0	2019	0	0
+5	"2018 ieee 3rd international conference on communication and information systems, iccis 2018"	-0.318	-0.5659	23	0	0	1	1	1.473	2019	1	1.473
+6	"2018 international electronics symposium on engineering technology and applications, ies-eta 2018 - proceedings"	0.3814	0.3484	24	0	0	3	2	2.946	2019	0.6667	0.982
+7	"2019 11th international conference on information technology and electrical engineering, icitee 2019"	0.4333	0.7454	25	0	0	1	0	0	2019	0	0
+8	"2019 1st international conference on cybernetics and intelligent system, icoris 2019"	-0.0858	-0.9258	11	1	1	4	0	0	2019	0	0
+9	"2019 2nd international seminar on research of information technology and intelligent systems, isriti 2019"	0.5151	-0.6907	26	0	0	4	0	0	2019	0	0
+10	"2019 asia-pacific signal and information processing association annual summit and conference, apsipa asc 2019"	-0.0265	-0.8528	27	0	0	1	2	2.946	2019	2	2.946
+11	"2019 ieee 10th international conference on awareness science and technology, icast 2019 - proceedings"	-0.8496	-0.1634	28	0	0	2	0	0	2019	0	0
+12	"2019 ieee 11th international workshop on computational intelligence and applications, iwcia 2019 - proceedings"	-0.2011	-0.7484	29	0	0	2	0	0	2019	0	0
+13	"2019 ieee 6th international conference on industrial engineering and applications, iciea 2019"	-0.7318	-0.2833	30	0	0	1	0	0	2019	0	0
+14	"2019 ieee 7th international conference on serious games and applications for health, segah 2019"	-0.3785	-0.7886	31	0	0	3	0	0	2019	0	0
+15	"2019 ieee international conference on computational intelligence and virtual environments for measurement systems and applications, civemsa 2019 - proceedings"	0.4378	0.2119	32	0	0	3	0	0	2019	0	0
+16	"2019 international biomedical instrumentation and technology conference, ibitec 2019"	-0.9387	-0.0828	33	0	0	3	0	0	2019	0	0
+17	"2019 international conference on advanced computer science and information systems, icacsis 2019"	-0.5772	0.3801	34	0	0	1	0	0	2019	0	0
+18	"2019 international conference on computer engineering, network, and intelligent multimedia, cenim 2019 - proceeding"	0.0315	0.2819	35	0	0	27	1	1.473	2019	0.037	0.0546
+19	"2019 international conference on computer, control, informatics and its applications: emerging trends in big data and artificial intelligence, ic3ina 2019"	0.7732	-0.5346	36	0	0	1	0	0	2019	0	0
+20	"2019 international conference on engineering, science, and industrial applications, icesi 2019"	-0.0847	-0.7809	37	0	0	1	1	1.473	2019	1	1.473
+21	"2019 international conference on information and communications technology, icoiact 2019"	0.8138	-0.2199	9	2	3	17	1	1.473	2019	0.0588	0.0866
+22	"2019 international conference on technologies and policies in electric power and energy, tpepe 2019"	-0.1249	0.67	38	0	0	6	0	0	2019	0	0
+23	acm international conference proceeding series	0.4298	-0.8354	39	0	0	3	0	0	2019	0	0
+24	advances in intelligent systems and computing	0.5903	-0.499	40	0	0	1	0	0	2019	0	0
+25	aims energy	-0.3865	-0.3373	41	0	0	1	0	0	2019	0	0
+26	aip conference proceedings	0.8401	0.1337	6	8	16	204	30	44.1895	2019	0.1471	0.2166
+27	analog integrated circuits and signal processing	-0.511	0.6945	42	0	0	1	1	1.473	2019	1	1.473
+28	applied ergonomics	-0.3285	-0.8742	43	0	0	1	1	1.473	2019	1	1.473
+29	applied mathematics and information sciences	-0.7288	-0.5178	14	1	1	1	3	4.419	2019	3	4.419
+30	applied sciences	-0.6383	0.5796	44	0	0	1	0	0	2019	0	0
+31	applied sciences (switzerland)	-0.7679	-0.0908	45	0	0	1	0	0	2019	0	0
+32	arabian journal for science and engineering	-0.4646	-0.7522	46	0	0	1	0	0	2019	0	0
+33	arpn journal of engineering and applied sciences	-0.0379	0.7143	47	0	0	5	4	5.8919	2019	0.8	1.1784
+34	asean journal of chemical engineering	-0.5681	0.1292	48	0	0	1	0	0	2019	0	0
+35	asian journal of agriculture and biology	-0.5262	-0.1267	49	0	0	1	0	0	2019	0	0
+36	asian journal of chemistry	-0.1071	0.93	50	0	0	4	1	1.473	2019	0.25	0.3682
+37	asian journal of civil engineering	0.8453	-0.0454	2	1	1	1	1	1.473	2019	1	1.473
+38	asm science journal	-0.1617	-0.9248	51	0	0	1	0	0	2019	0	0
+39	atom indonesia	-0.434	-0.4935	52	0	0	1	0	0	2019	0	0
+40	australasian journal of disaster and trauma studies	0.073	0.5247	53	0	0	1	0	0	2019	0	0
+41	bio-medical materials and engineering	0.8412	0.1313	6	1	1	1	1	1.473	2019	1	1.473
+42	biochemical and cellular archives	0.3561	0.7823	54	0	0	1	0	0	2019	0	0
+43	biodiversitas	0.0142	0.7907	55	0	0	15	3	4.419	2019	0.2	0.2946
+44	biomedical photonics	-0.607	0.7152	56	0	0	1	1	1.473	2019	1	1.473
+45	bioprocess and biosystems engineering	0.8065	-0.4888	57	0	0	2	16	23.5678	2019	8	11.7839
+46	bioresource technology	-0.5617	0.2588	58	0	0	1	3	4.419	2019	3	4.419
+47	bioresources	-0.7462	-0.4928	1	1	1	2	0	0	2019	0	0
+48	biosystems engineering	-0.4392	0.7451	59	0	0	1	6	8.8379	2019	6	8.8379
+49	buildings	-0.8067	0.0919	60	0	0	1	0	0	2019	0	0
+50	"bulletin of chemical reaction engineering &amp;amp; catalysis"	-0.7403	-0.5057	1	1	1	3	2	2.946	2019	0.6667	0.982
+51	bulletin of electrical engineering and informatics	0.6008	-0.3894	61	0	0	1	0	0	2019	0	0
+52	bulletin of materials science	-0.1702	0.5607	62	0	0	1	2	2.946	2019	2	2.946
+53	business process management journal	0.4832	-0.1191	63	0	0	1	2	2.946	2019	2	2.946
+54	cellular microbiology	-0.9353	-0.0241	64	0	0	1	1	1.473	2019	1	1.473
+55	cellulose	0.4473	0.4454	65	0	0	1	5	7.3649	2019	5	7.3649
+56	cencon 2019 - 2019 ieee conference on energy conversion	-0.2613	0.4821	66	0	0	1	0	0	2019	0	0
+57	ceramics - silikaty	0.5662	0.7495	67	0	0	2	1	1.473	2019	0.5	0.7365
+58	ceramics international	-0.2149	0.374	68	0	0	2	7	10.3109	2019	3.5	5.1554
+59	cfd letters	0.8362	-0.1011	2	1	1	1	7	10.3109	2019	7	10.3109
+60	chemical engineering research and design	0.266	0.8985	69	0	0	1	1	1.473	2019	1	1.473
+61	chemical engineering science	-0.5889	-0.6385	70	0	0	1	6	8.8379	2019	6	8.8379
+62	chemical engineering transactions	-0.6351	-0.1918	71	0	0	2	1	1.473	2019	0.5	0.7365
+63	chiang mai journal of science	-0.3627	0.8672	72	0	0	2	2	2.946	2019	1	1.473
+64	cogent business and management	-0.6181	-0.7059	73	0	0	1	0	0	2019	0	0
+65	cogent engineering	0.1049	0.9319	74	0	0	2	1	1.473	2019	0.5	0.7365
+66	cognitive processing	-0.3114	-0.1428	75	0	0	1	4	5.8919	2019	4	5.8919
+67	communications in computer and information science	-0.9403	0.0309	76	0	0	10	11	16.2028	2019	1.1	1.6203
+68	communications in statistics: simulation and computation	-0.1057	0.3215	77	0	0	1	1	1.473	2019	1	1.473
+69	composites part b: engineering	-0.2239	0.9095	12	1	1	1	2	2.946	2019	2	2.946
+70	computers	0.5726	-0.7438	78	0	0	1	0	0	2019	0	0
+71	computers and electronics in agriculture	0.8128	-0.2208	9	1	1	1	8	11.7839	2019	8	11.7839
+72	data in brief	-0.0033	0.9193	7	2	2	4	3	4.419	2019	0.75	1.1047
+73	displays	-0.3327	0.1586	3	1	1	1	13	19.1488	2019	13	19.1488
+74	e3s web of conferences	0.8643	-0.029	4	3	4	11	3	4.419	2019	0.2727	0.4017
+75	"ecology, environment and conservation"	-0.7386	0.2715	79	0	0	8	3	4.419	2019	0.375	0.5524
+76	egyptian informatics journal	0.2781	0.5914	80	0	0	2	2	2.946	2019	1	1.473
+77	electronics (switzerland)	0.5264	-0.7761	81	0	0	1	1	1.473	2019	1	1.473
+78	energies	0.6977	0.5235	82	0	0	1	0	0	2019	0	0
+79	energy and fuels	0.2892	0.7038	83	0	0	1	0	0	2019	0	0
+80	energy reports	-0.4187	0.8412	84	0	0	2	11	16.2028	2019	5.5	8.1014
+81	engineering analysis with boundary elements	0.1673	-0.3951	85	0	0	1	5	7.3649	2019	5	7.3649
+82	"engineering computations (swansea, wales)"	0.843	0.1358	6	1	2	1	4	5.8919	2019	4	5.8919
+83	engineering failure analysis	0.5517	0.1913	86	0	0	1	0	0	2019	0	0
+84	engineering journal	-0.2786	-0.8992	87	0	0	1	0	0	2019	0	0
+85	engineering structures	-0.0831	-0.4382	88	0	0	1	3	4.419	2019	3	4.419
+86	entropy	-0.1735	-0.202	89	0	0	1	1	1.473	2019	1	1.473
+87	environment and planning b: urban analytics and city science	0.5081	-0.217	90	0	0	1	1	1.473	2019	1	1.473
+88	environmental science and pollution research	-0.4972	0.5857	91	0	0	1	3	4.419	2019	3	4.419
+89	environmental technology and innovation	0.8813	-0.0161	4	2	6	3	19	27.9867	2019	6.3333	9.3289
+90	epic series in computing	0.4265	-0.6442	92	0	0	1	1	1.473	2019	1	1.473
+91	eurasip journal on image and video processing	0.0534	0.6456	93	0	0	1	3	4.419	2019	3	4.419
+92	euromediterranean biomedical journal	0.32	0.8823	94	0	0	1	0	0	2019	0	0
+93	european polymer journal	0.8646	-0.0282	4	1	1	1	8	11.7839	2019	8	11.7839
+94	evidence-based complementary and alternative medicine	0.4797	-0.8077	95	0	0	1	0	0	2019	0	0
+95	expert systems with applications	0.739	-0.5819	96	0	0	1	0	0	2019	0	0
+96	"fib 2018 - proceedings for the 2018 fib congress: better, smarter, stronger"	0.3288	-0.6946	97	0	0	1	0	0	2019	0	0
+97	geographia technica	-0.2805	-0.2757	98	0	0	3	6	8.8379	2019	2	2.946
+98	hayati journal of biosciences	-0.8653	-0.3648	99	0	0	4	2	2.946	2019	0.5	0.7365
+99	heliyon	-0.0045	0.9193	7	2	2	5	4	5.8919	2019	0.8	1.1784
+100	humanities and social sciences reviews	0.3466	-0.1164	100	0	0	4	1	1.473	2019	0.25	0.3682
+101	iaeng international journal of computer science	-0.0858	-0.9258	11	1	1	6	2	2.946	2019	0.3333	0.491
+102	icevt 2019 - proceeding: 6th international conference on electric vehicular technology 2019	-0.1031	-0.3109	101	0	0	2	1	1.473	2019	0.5	0.7365
+103	icic express letters	0.8299	-0.2464	5	1	1	2	5	7.3649	2019	2.5	3.6825
+104	"icic express letters, part b: applications"	0.687	0.383	13	1	1	2	1	1.473	2019	0.5	0.7365
+105	"icicos 2019 - 3rd international conference on informatics and computational sciences: accelerating informatics and computational research for smarter society in the era of industry 4.0, proceedings"	0.687	0.383	13	1	1	6	0	0	2019	0	0
+106	"icsecc 2019 - international conference on sustainable engineering and creative computing: new idea, new innovation, proceedings"	0.5187	0.7818	102	0	0	1	0	0	2019	0	0
+107	ieee access	-0.4166	-0.2145	103	0	0	2	2	2.946	2019	1	1.473
+108	ieee international conference on industrial engineering and engineering management	-0.3324	0.1601	3	4	6	13	14	20.6218	2019	1.0769	1.5863
+109	"ieee region 10 annual international conference, proceedings/tencon"	-0.6482	-0.0826	104	0	0	1	1	1.473	2019	1	1.473
+110	ieee wireless communications letters	-0.2206	-0.0711	105	0	0	1	4	5.8919	2019	4	5.8919
+111	"ies 2019 - international electronics symposium: the role of techno-intelligence in creating an open energy system towards energy democracy, proceedings"	0.1572	0.9233	106	0	0	3	0	0	2019	0	0
+112	indian journal of public health research and development	-0.743	-0.1854	107	0	0	1	0	0	2019	0	0
+113	indonesian journal of chemistry	-0.7405	-0.5034	1	1	1	6	7	10.3109	2019	1.1667	1.7185
+114	indonesian journal of electrical engineering and computer science	0.8286	-0.161	2	4	5	10	20	29.4597	2019	2	2.946
+115	indonesian journal of geography	-0.6506	0.4535	108	0	0	1	0	0	2019	0	0
+116	industrial and engineering chemistry research	0.5561	0.4007	109	0	0	1	6	8.8379	2019	6	8.8379
+117	industrial engineering and management systems	-0.1017	-0.5646	110	0	0	1	0	0	2019	0	0
+118	"international archives of the photogrammetry, remote sensing and spatial information sciences - isprs archives"	-0.5167	0.7821	111	0	0	2	0	0	2019	0	0
+119	international biodeterioration and biodegradation	-0.2149	-0.63	112	0	0	1	10	14.7298	2019	10	14.7298
+120	"international conference on electrical engineering, computer science and informatics (eecsi)"	0.5064	0.7014	113	0	0	1	0	0	2019	0	0
+121	"international electronics symposium on knowledge creation and intelligent computing, ies-kcic 2018 - proceedings"	-0.1537	0.9166	114	0	0	1	2	2.946	2019	2	2.946
+122	international energy journal	0.8714	0.3529	115	0	0	1	1	1.473	2019	1	1.473
+123	international journal of advances in intelligent informatics	0.8282	-0.2471	5	1	1	4	3	4.419	2019	0.75	1.1047
+124	international journal of applied science and engineering	0.5874	-0.6455	116	0	0	1	0	0	2019	0	0
+125	international journal of artificial intelligence	-0.557	-0.747	16	1	1	1	1	1.473	2019	1	1.473
+126	"international journal of circuits, systems and signal processing"	0.7571	0.4578	117	0	0	1	1	1.473	2019	1	1.473
+127	international journal of civil engineering and technology	0.8462	-0.0456	2	4	4	7	10	14.7298	2019	1.4286	2.1043
+128	international journal of computing	-0.3525	0.406	118	0	0	1	1	1.473	2019	1	1.473
+129	international journal of construction management	-0.7379	-0.5016	1	1	1	1	5	7.3649	2019	5	7.3649
+130	international journal of disaster resilience in the built environment	-0.8294	-0.2431	119	0	0	1	0	0	2019	0	0
+131	international journal of drug delivery technology	0.1038	0.7466	120	0	0	1	0	0	2019	0	0
+132	international journal of electrical and computer engineering	0.8283	-0.1621	2	1	1	3	4	5.8919	2019	1.3333	1.964
+133	international journal of emerging technologies in learning	-0.331	0.1604	3	1	1	3	23	33.8787	2019	7.6667	11.2929
+134	international journal of energy economics and policy	0.16	-0.9256	121	0	0	1	2	2.946	2019	2	2.946
+135	international journal of engineering and advanced technology	0.2126	0.9155	122	0	0	1	1	1.473	2019	1	1.473
+136	international journal of engineering research and technology	0.5685	0.6402	123	0	0	1	0	0	2019	0	0
+137	"international journal of engineering, transactions a: basics"	0.6888	0.6381	124	0	0	2	2	2.946	2019	1	1.473
+138	international journal of environmental research and public health	-0.9036	-0.2565	125	0	0	1	0	0	2019	0	0
+139	international journal of environmental science and technology	0.4435	-0.7401	126	0	0	1	4	5.8919	2019	4	5.8919
+140	international journal of geoinformatics	-0.2322	0.6725	127	0	0	1	0	0	2019	0	0
+141	international journal of geomate	-0.7372	-0.5056	1	1	1	8	5	7.3649	2019	0.625	0.9206
+142	international journal of hydrogen energy	0.3809	0.6626	128	0	0	1	1	1.473	2019	1	1.473
+143	international journal of industrial chemistry	-0.7676	0.5456	129	0	0	1	0	0	2019	0	0
+144	"international journal of innovation, creativity and change"	-0.4243	-0.5981	130	0	0	2	0	0	2019	0	0
+145	"international journal of innovative computing, information and control"	-0.2174	-0.9149	131	0	0	5	12	17.6758	2019	2.4	3.5352
+146	international journal of innovative technology and exploring engineering	-0.3258	-0.4415	132	0	0	2	2	2.946	2019	1	1.473
+147	international journal of integrated engineering	0.1091	0.8488	133	0	0	3	1	1.473	2019	0.3333	0.491
+148	international journal of intelligent engineering and systems	0.8268	-0.2404	5	5	11	23	31	45.6625	2019	1.3478	1.9853
+149	international journal of machine learning and computing	0.4678	0.6103	134	0	0	1	0	0	2019	0	0
+150	international journal of mechanical and mechatronics engineering	-0.9061	0.1925	10	2	2	2	6	8.8379	2019	3	4.419
+151	international journal of mechanical and production engineering research and development	-0.6548	-0.6698	135	0	0	1	0	0	2019	0	0
+152	international journal of mechanical engineering and technology	0.8556	0.1602	8	3	3	6	3	4.419	2019	0.5	0.7365
+153	international journal of microstructure and materials properties	0.0163	-0.5327	136	0	0	1	0	0	2019	0	0
+154	international journal of naval architecture and ocean engineering	0.541	-0.3136	137	0	0	1	2	2.946	2019	2	2.946
+155	international journal of precision engineering and manufacturing	0.8335	0.1376	6	2	3	1	8	11.7839	2019	8	11.7839
+156	international journal of procurement management	-0.7275	0.5943	138	0	0	1	0	0	2019	0	0
+157	international journal of recent technology and engineering	0.3826	0.5392	139	0	0	1	0	0	2019	0	0
+158	international journal of remote sensing	-0.7454	0.4349	140	0	0	1	4	5.8919	2019	4	5.8919
+159	international journal of renewable energy research	-0.9061	0.1928	10	1	1	1	2	2.946	2019	2	2.946
+160	international journal of river basin management	-0.393	0.5279	141	0	0	1	4	5.8919	2019	4	5.8919
+161	international journal of scientific and technology research	0.3012	0.4549	142	0	0	2	0	0	2019	0	0
+162	international journal of supply chain management	-0.1505	-0.8465	143	0	0	1	0	0	2019	0	0
+163	international journal of technology	-0.7452	-0.4941	1	2	3	16	24	35.3516	2019	1.5	2.2095
+164	"international journal on advanced science, engineering and information technology"	0.8404	-0.0771	2	2	2	12	5	7.3649	2019	0.4167	0.6137
+165	international journal on communications antenna and propagation	0.026	-0.7601	144	0	0	3	1	1.473	2019	0.3333	0.491
+166	international journal on electrical engineering and informatics	0.3686	0.1138	145	0	0	1	0	0	2019	0	0
+167	international journal on engineering applications	0.2211	0.1336	146	0	0	2	0	0	2019	0	0
+168	international review of automatic control	0.3711	0.8612	147	0	0	1	0	0	2019	0	0
+169	international review of electrical engineering	0.8567	0.1619	8	1	1	3	2	2.946	2019	0.6667	0.982
+170	international review of mechanical engineering	0.8495	0.1496	8	2	7	8	13	19.1488	2019	1.625	2.3936
+171	international review on modelling and simulations	0.6142	0.4898	148	0	0	3	4	5.8919	2019	1.3333	1.964
+172	investigacion operacional	0.5085	0.095	149	0	0	1	3	4.419	2019	3	4.419
+173	ionics	0.7018	-0.625	150	0	0	2	2	2.946	2019	1	1.473
+174	iop conference series: earth and environmental science	-0.1292	0.8141	18	1	1	96	17	25.0407	2019	0.1771	0.2608
+175	iop conference series: materials science and engineering	-0.7383	-0.5038	1	7	8	209	62	91.3251	2019	0.2967	0.437
+176	"isprs annals of the photogrammetry, remote sensing and spatial information sciences"	-0.3338	0.7118	151	0	0	1	0	0	2019	0	0
+177	isprs journal of photogrammetry and remote sensing	-0.0106	-0.9389	152	0	0	1	8	11.7839	2019	8	11.7839
+178	jcsse 2019 - 16th international joint conference on computer science and software engineering: knowledge evolution towards singularity of man-machine intelligence	-0.0416	0.5687	153	0	0	4	1	1.473	2019	0.25	0.3682
+179	journal of advanced manufacturing technology	-0.0613	0.0917	154	0	0	2	0	0	2019	0	0
+180	journal of advanced research in dynamical and control systems	0.2943	-0.8068	155	0	0	2	0	0	2019	0	0
+181	journal of advanced research in fluid mechanics and thermal sciences	-0.846	-0.0052	156	0	0	1	3	4.419	2019	3	4.419
+182	journal of alloys and compounds	-0.8732	0.3429	157	0	0	2	14	20.6218	2019	7	10.3109
+183	journal of applied engineering science	-0.786	0.3616	158	0	0	2	1	1.473	2019	0.5	0.7365
+184	journal of applied polymer science	-0.2239	0.9095	12	1	1	2	7	10.3109	2019	3.5	5.1554
+185	journal of big data	0.1026	-0.9332	159	0	0	1	1	1.473	2019	1	1.473
+186	journal of chemical and engineering data	0.045	-0.9377	160	0	0	1	1	1.473	2019	1	1.473
+187	journal of chemical technology and metallurgy	-0.7359	-0.5028	1	1	1	9	17	25.0407	2019	1.8889	2.7823
+188	journal of communications	0.2007	0.7435	161	0	0	4	1	1.473	2019	0.25	0.3682
+189	journal of ecological engineering	0.8743	-0.0213	4	3	5	14	37	54.5004	2019	2.6429	3.8929
+190	journal of engineering and applied sciences	-0.8518	0.3958	162	0	0	1	0	0	2019	0	0
+191	journal of engineering research (kuwait)	0.011	-0.267	163	0	0	1	0	0	2019	0	0
+192	journal of engineering science and technology	0.6489	0.677	164	0	0	6	6	8.8379	2019	1	1.473
+193	journal of environmental chemical engineering	-0.8872	-0.3119	165	0	0	2	1	1.473	2019	0.5	0.7365
+194	journal of environmental management	0.8822	-0.0154	4	2	5	2	18	26.5137	2019	9	13.2569
+195	journal of health and pollution	-0.3062	-0.6867	166	0	0	1	0	0	2019	0	0
+196	journal of industrial and management optimization	0.1318	0.0263	167	0	0	1	5	7.3649	2019	5	7.3649
+197	journal of industrial engineering and management	-0.3365	0.1643	3	1	1	1	5	7.3649	2019	5	7.3649
+198	journal of islamic marketing	-0.3358	0.1636	3	2	3	2	13	19.1488	2019	6.5	9.5744
+199	journal of king saud university - computer and information sciences	0.8178	-0.254	5	1	2	4	17	25.0407	2019	4.25	6.2602
+200	journal of low temperature physics	0.6623	-0.6668	168	0	0	1	0	0	2019	0	0
+201	journal of mechanical engineering and sciences	0.1983	-0.1008	169	0	0	2	1	1.473	2019	0.5	0.7365
+202	journal of mechanical engineering research and developments	-0.906	0.1922	10	1	1	2	2	2.946	2019	1	1.473
+203	journal of mechanical science and technology	-0.4735	0.3447	170	0	0	1	0	0	2019	0	0
+204	journal of microbiology and biotechnology	-0.2129	-0.3795	171	0	0	1	2	2.946	2019	2	2.946
+205	journal of modelling in management	0.525	0.5303	172	0	0	1	0	0	2019	0	0
+206	journal of natural products	-0.209	-0.5041	173	0	0	1	3	4.419	2019	3	4.419
+207	journal of petroleum exploration and production technology	-0.2346	-0.8449	174	0	0	1	2	2.946	2019	2	2.946
+208	journal of physical science	0.1899	0.5055	175	0	0	1	1	1.473	2019	1	1.473
+209	journal of physics condensed matter	0.2276	-0.726	176	0	0	1	2	2.946	2019	2	2.946
+210	journal of physics: conference series	0.8365	-0.1006	2	3	3	150	81	119.3118	2019	0.54	0.7954
+211	journal of renewable materials	-0.4724	0.455	177	0	0	2	0	0	2019	0	0
+212	journal of revenue and pricing management	-0.8255	0.4461	178	0	0	2	1	1.473	2019	0.5	0.7365
+213	journal of semiconductors	0.2153	-0.9134	179	0	0	1	3	4.419	2019	3	4.419
+214	journal of settlements and spatial planning	-0.8857	0.0715	180	0	0	1	0	0	2019	0	0
+215	journal of social studies education research	0.4277	-0.3424	181	0	0	1	0	0	2019	0	0
+216	journal of software: evolution and process	-0.6498	0.677	182	0	0	1	1	1.473	2019	1	1.473
+217	journal of superconductivity and novel magnetism	0.7003	-0.5192	183	0	0	2	0	0	2019	0	0
+218	journal of supercritical fluids	0.192	0.8429	184	0	0	1	4	5.8919	2019	4	5.8919
+219	"journal of sustainable development of energy, water and environment systems"	-0.7958	0.4952	185	0	0	1	1	1.473	2019	1	1.473
+220	journal of the chinese chemical society	0.3085	0.2354	186	0	0	1	5	7.3649	2019	5	7.3649
+221	journal of theoretical and applied information technology	-0.7294	-0.5169	14	2	2	4	4	5.8919	2019	1	1.473
+222	jurnal teknologi	0.8293	-0.4426	187	0	0	3	1	1.473	2019	0.3333	0.491
+223	key engineering materials	-0.0818	0.2058	188	0	0	1	0	0	2019	0	0
+224	kona powder and particle journal	-0.6548	0.2121	189	0	0	1	6	8.8379	2019	6	8.8379
+225	korean chemical engineering research	-0.8164	-0.3205	190	0	0	1	1	1.473	2019	1	1.473
+226	lasers in medical science	0.8281	0.4453	191	0	0	1	7	10.3109	2019	7	10.3109
+227	lecture notes in computer science (including subseries lecture notes in artificial intelligence and lecture notes in bioinformatics)	0.0559	-0.8615	192	0	0	2	0	0	2019	0	0
+228	lecture notes in networks and systems	0.2874	-0.3413	193	0	0	2	2	2.946	2019	1	1.473
+229	lowland technology international	0.2769	0.8164	194	0	0	1	0	0	2019	0	0
+230	malaysian journal of analytical sciences	-0.8282	0.2788	195	0	0	1	0	0	2019	0	0
+231	malaysian journal of science	-0.6184	0.0266	196	0	0	7	0	0	2019	0	0
+232	marine pollution bulletin	-0.0627	-0.1418	197	0	0	1	10	14.7298	2019	10	14.7298
+233	materials	0.7632	0.5502	198	0	0	1	3	4.419	2019	3	4.419
+234	materials physics and mechanics	0.5086	-0.0135	199	0	0	1	0	0	2019	0	0
+235	materials research express	-0.3636	0.7945	200	0	0	2	3	4.419	2019	1.5	2.2095
+236	materials science and engineering c	0.6189	-0.7091	201	0	0	1	5	7.3649	2019	5	7.3649
+237	materials science forum	-0.5676	0.5127	202	0	0	63	12	17.6758	2019	0.1905	0.2806
+238	materials today: proceedings	-0.632	-0.3003	203	0	0	2	1	1.473	2019	0.5	0.7365
+239	materials transactions	-0.469	0.8135	204	0	0	1	3	4.419	2019	3	4.419
+240	mechanism and machine theory	0.8209	0.1679	17	2	2	1	5	7.3649	2019	5	7.3649
+241	methodsx	-0.0049	0.9193	7	1	1	1	4	5.8919	2019	4	5.8919
+242	moroccan journal of chemistry	-0.5271	-0.5539	205	0	0	1	3	4.419	2019	3	4.419
+243	multidiscipline modeling in materials and structures	0.8333	0.1371	6	2	3	1	2	2.946	2019	2	2.946
+244	nature environment and pollution technology	0.7999	0.5014	206	0	0	1	0	0	2019	0	0
+245	nonlinear dynamics and systems theory	0.2456	0.3476	207	0	0	3	0	0	2019	0	0
+246	ocean engineering	0.4017	-0.0039	208	0	0	1	2	2.946	2019	2	2.946
+247	open bioinformatics journal	-0.7052	0.5226	209	0	0	1	0	0	2019	0	0
+248	open chemistry	-0.3064	0.594	210	0	0	3	4	5.8919	2019	1.3333	1.964
+249	open civil engineering journal	-0.306	0.8896	211	0	0	1	0	0	2019	0	0
+250	operations and supply chain management	0.1572	0.2464	212	0	0	1	0	0	2019	0	0
+251	optics communications	0.3234	-0.8809	213	0	0	1	2	2.946	2019	2	2.946
+252	pakistan journal of statistics and operation research	0.2558	-0.2183	214	0	0	1	1	1.473	2019	1	1.473
+253	pattern recognition letters	-0.4037	-0.6935	215	0	0	1	2	2.946	2019	2	2.946
+254	pertanika journal of social sciences and humanities	0.2163	-0.8327	216	0	0	1	0	0	2019	0	0
+255	physical chemistry chemical physics	-0.002	-0.6566	217	0	0	1	2	2.946	2019	2	2.946
+256	physical review b	-0.7379	0.0052	218	0	0	1	0	0	2019	0	0
+257	physics of metals and metallography	-0.5131	-0.0069	219	0	0	1	0	0	2019	0	0
+258	pollution research	-0.5184	-0.3966	15	1	1	12	2	2.946	2019	0.1667	0.2455
+259	polymer	-0.4157	0.6475	220	0	0	1	1	1.473	2019	1	1.473
+260	problems and perspectives in management	0.7252	0.5959	221	0	0	1	0	0	2019	0	0
+261	procedia computer science	-0.557	-0.7469	16	1	1	51	8	11.7839	2019	0.1569	0.2311
+262	"proceeding - 2018 international symposium on advanced intelligent informatics: revolutionize intelligent informatics spectrum for humanity, sain 2018"	0.1282	-0.7539	222	0	0	7	5	7.3649	2019	0.7143	1.0521
+263	"proceeding - 2019 international conference of artificial intelligence and information technology, icaiit 2019"	-0.4069	-0.0741	223	0	0	14	4	5.8919	2019	0.2857	0.4209
+264	"proceeding - 2019 international symposium on electronics and smart devices, isesd 2019"	0.7579	-0.4523	224	0	0	7	0	0	2019	0	0
+265	"proceedings - 2018 1st international conference on bioinformatics, biotechnology, and biomedical engineering, biomic 2018"	0.3607	-0.4425	225	0	0	3	0	0	2019	0	0
+266	"proceedings - 2019 1st international conference on artificial intelligence and data sciences, aidas 2019"	-0.9375	0.0991	226	0	0	1	0	0	2019	0	0
+267	"proceedings - 2019 2nd international conference of computer and informatics engineering: artificial intelligence roles in industrial revolution 4.0, ic2ie 2019"	-0.9175	-0.2013	227	0	0	3	0	0	2019	0	0
+268	"proceedings - 2019 2nd international conference on bioinformatics, biotechnology and biomedical engineering - bioinformatics and biomedical engineering, biomic 2019"	0.2699	-0.8985	228	0	0	2	0	0	2019	0	0
+269	"proceedings - 2019 ieee international conference on industry 4.0, artificial intelligence, and communications technology, iaict 2019"	0.3292	-0.5832	229	0	0	1	1	1.473	2019	1	1.473
+270	"proceedings - 2019 international conference on computer science, information technology, and electrical engineering, icomitee 2019"	0.609	0.2842	230	0	0	10	1	1.473	2019	0.1	0.1473
+271	"proceedings - 2019 international conference on radar, antenna, microwave, electronics, and telecommunications, icramet 2019"	0.2708	0.0091	231	0	0	1	0	0	2019	0	0
+272	"proceedings - 2019 international seminar on application for technology of information and communication: industry 4.0: retrospect, prospect, and challenges, isemantic 2019"	0.8198	-0.2461	5	3	11	17	2	2.946	2019	0.1176	0.1733
+273	"proceedings - 2019 international seminar on intelligent technology and its application, isitia 2019"	-0.2824	0.831	232	0	0	59	3	4.419	2019	0.0508	0.0749
+274	proceedings - electronic components and technology conference	-0.6892	0.637	233	0	0	1	0	0	2019	0	0
+275	"proceedings of 2018 international conference on electrical engineering and computer science, icecos 2018"	0.4992	0.3103	234	0	0	3	7	10.3109	2019	2.3333	3.437
+276	"proceedings of 2019 4th international conference on informatics and computing, icic 2019"	0.1364	-0.8525	235	0	0	2	0	0	2019	0	0
+277	"proceedings of 2019 5th international conference on new media studies, conmedia 2019"	0.1412	-0.2719	236	0	0	1	0	0	2019	0	0
+278	"proceedings of 2019 international conference on information and communication technology and systems, icts 2019"	0.832	-0.134	2	2	3	36	7	10.3109	2019	0.1944	0.2864
+279	proceedings of icaiti 2019 - 2nd international conference on applied information technology and innovation: exploring the future technology of applied information technology and innovation	0.4996	-0.4382	237	0	0	3	0	0	2019	0	0
+280	proceedings of spie - the international society for optical engineering	0.677	-0.437	238	0	0	24	4	5.8919	2019	0.1667	0.2455
+281	"proceedings of the 2018 international conference on asian language processing, ialp 2018"	0.5237	-0.5783	239	0	0	1	0	0	2019	0	0
+282	"proceedings of the 2019 6th international conference on instrumentation, control, and automation, ica 2019"	-0.296	-0.7884	240	0	0	1	0	0	2019	0	0
+283	"proceedings of the 2019 ieee 12th international symposium on diagnostics for electrical machines, power electronics and drives, sdemped 2019"	-0.382	-0.8599	241	0	0	2	0	0	2019	0	0
+284	"proceedings of the 2019 ieee international conference on signal and image processing applications, icsipa 2019"	0.128	0.3899	242	0	0	1	0	0	2019	0	0
+285	"proceedings of the 2nd international conference on high voltage engineering and power systems: towards sustainable and reliable power delivery, ichveps 2019"	0.7933	0.3703	243	0	0	2	0	0	2019	0	0
+286	proceedings of the asme design engineering technical conference	0.8203	0.1691	17	1	1	1	0	0	2019	0	0
+287	proceedings of the international conference on electrical engineering and informatics	-0.8962	0.2872	244	0	0	4	0	0	2019	0	0
+288	proceedings of the international conference on industrial engineering and operations management	-0.5094	-0.6562	245	0	0	13	2	2.946	2019	0.1538	0.2266
+289	proceedings of the pakistan academy of sciences: part b	0.3889	-0.2326	246	0	0	1	0	0	2019	0	0
+290	proceedings: cyberneticscom 2019 - 2019 ieee international conference on cybernetics and computational intelligence: towards a smart and human-centered cyber world	-0.5259	-0.2524	247	0	0	1	0	0	2019	0	0
+291	production and manufacturing research	0.6077	0.7133	248	0	0	2	2	2.946	2019	1	1.473
+292	progress in electromagnetics research b	0.4335	-0.5305	249	0	0	1	3	4.419	2019	3	4.419
+293	progress in electromagnetics research c	0.0397	-0.3991	250	0	0	1	0	0	2019	0	0
+294	rasayan journal of chemistry	0.4712	0.8122	251	0	0	3	6	8.8379	2019	2	2.946
+295	reactive and functional polymers	-0.6985	0.112	252	0	0	1	1	1.473	2019	1	1.473
+296	regional studies in marine science	0.0162	-0.0255	253	0	0	1	4	5.8919	2019	4	5.8919
+297	results in physics	0.1689	0.6316	254	0	0	1	1	1.473	2019	1	1.473
+298	revista de chimie	0.6416	-0.5798	255	0	0	1	2	2.946	2019	2	2.946
+299	rsc advances	-0.9285	-0.1434	256	0	0	1	4	5.8919	2019	4	5.8919
+300	sains malaysiana	0.4212	0.8374	257	0	0	1	0	0	2019	0	0
+301	science of the total environment	-0.0029	0.9193	7	1	1	1	7	10.3109	2019	7	10.3109
+302	scientific world journal	-0.7854	0.1826	258	0	0	1	4	5.8919	2019	4	5.8919
+303	sensors (switzerland)	-0.4374	-0.8319	259	0	0	1	2	2.946	2019	2	2.946
+304	separation science and technology (philadelphia)	0.8525	0.3971	260	0	0	2	5	7.3649	2019	2.5	3.6825
+305	solar energy	0.3764	-0.8607	261	0	0	1	1	1.473	2019	1	1.473
+306	solid state sciences	0.6314	0.5874	262	0	0	1	7	10.3109	2019	7	10.3109
+307	supply chain forum	-0.3311	0.1588	3	1	2	1	3	4.419	2019	3	4.419
+308	surface and interface analysis	0.2518	-0.4893	263	0	0	1	4	5.8919	2019	4	5.8919
+309	sustainability (switzerland)	0.0045	0.4157	264	0	0	3	19	27.9867	2019	6.3333	9.3289
+310	sustainable energy technologies and assessments	-0.6752	0.3441	265	0	0	1	2	2.946	2019	2	2.946
+311	systems science and control engineering	-0.1292	0.8141	18	1	1	1	2	2.946	2019	2	2.946
+312	telkomnika (telecommunication computing electronics and control)	0.8182	-0.2158	9	4	6	12	22	32.4057	2019	1.8333	2.7005
+313	test engineering and management	0.2202	-0.6177	266	0	0	2	0	0	2019	0	0
+314	the journal of ocean technology	0.1314	-0.5212	267	0	0	1	0	0	2019	0	0
+315	theoretical chemistry accounts	-0.1094	0.4564	268	0	0	1	2	2.946	2019	2	2.946
+316	theoretical issues in ergonomics science	-0.2314	0.7715	269	0	0	1	2	2.946	2019	2	2.946
+317	turkish journal of chemistry	-0.1111	-0.6836	270	0	0	1	0	0	2019	0	0
+318	waste management	0.3722	-0.7832	271	0	0	2	25	36.8246	2019	12.5	18.4123
+319	water science and technology	-0.5185	-0.3966	15	1	1	1	3	4.419	2019	3	4.419
+320	"water, air, and soil pollution"	-0.5791	0.6402	272	0	0	1	7	10.3109	2019	7	10.3109
+321	wmu journal of maritime affairs	-0.8707	-0.0829	273	0	0	1	0	0	2019	0	0
+322	world review of intermodal transportation research	0.1097	-0.6452	274	0	0	1	0	0	2019	0	0
+323	world transactions on engineering and technology education	-0.1259	-0.0082	275	0	0	1	1	1.473	2019	1	1.473
